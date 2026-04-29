@@ -49,12 +49,14 @@
 
 本项目采用双许可证：
 
-- 文本内容：Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）
-- 代码、脚本、模板、构建工具：MIT License
+- 文本内容：[Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）](./LICENSE-CONTENT.md)
+- 代码、脚本、模板、构建工具：[MIT License](./LICENSE-CODE.md)
 
 文本内容包括译文、注释、术语表、导读、校订说明等。
 
 任何人可以在非商业目的下自由复制、传播、修改、整理和再发布本项目文本内容。
+
+完整许可证声明见 [LICENSE.md](./LICENSE.md)。
 
 ## 版权声明
 
