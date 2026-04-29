@@ -10,9 +10,9 @@
 
 ## 目录
 
-- `S8-le-transfert`：研讨班 VIII，*Le transfert*
-- `S17 L'envers de la psychanalyse`：研讨班 XVII，*L'envers de la psychanalyse*
-- `S19b Le savoir du psychanalyste`：研讨班 XIXb，*Le savoir du psychanalyste*
+- `S8-le-transfert`：研讨班 VIII，*Le transfert*（更新中）
+- `S17 L'envers de la psychanalyse`：研讨班 XVII，*L'envers de la psychanalyse*（待校订）
+- `S19b Le savoir du psychanalyste`：研讨班 XIXb，*Le savoir du psychanalyste*（待校订）
 
 ## 文本来源
 
