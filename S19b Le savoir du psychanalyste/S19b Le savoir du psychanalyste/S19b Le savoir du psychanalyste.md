@@ -56,8 +56,6 @@ Depuis quelques temps dans la médecine, l'ignorance n'est plus assez *docte* po
 
 Mais enfin, pour pointer quelque chose qui est de cette expérience avec laquelle je tiens beaucoup à nouer le fil après ces - mon Dieu ! - ces quelques 45 ans de fréquentation de ces murailles...
 
-> c'est pas pour m'en vanter, mais depuis que j'ai livré quelques uns de mes *Écrits* à *la poubellication*, tout le monde sait mon âge, c'est un des inconvénients
-
 ...à ce moment, je dois dire que le degré d'*ignorance passionnée* qui régnait à la salle de garde de Ste Anne, je dois dire que c'est irrévocable.
 
 C'est vrai que c'étaient des gens qui avaient la vocation, et à ce moment-là avoir la vocation des asiles c'était quelque chose d'assez particulier. Dans cette même salle de garde arrivèrent en même temps quatre personnes dont je ne trouve pas à dédaigner de réévoquer les noms, puisque je suis l'un d'entre eux. L'autre que je me plairai à faire resurgir ce soir c'était Henri Ey.
@@ -530,8 +528,6 @@ et après tout peut-être doit-on à mon *enseignement* que ça ne s'étale plus
 
 Ça n'a aucun rapport avec cette équivalence à un seul sens - je viens d'y insister - du *symptôme* à une *valeur de vérité*. Ça fait entrer en jeu ce que j'appellerai...
 
-> ce que j'appellerai comme ça parce qu'on est entre soi et que j'ai dit que c'était un *entretien* ce que j'appellerai sans plus de forme, sans me soucier que les termes que je vais pousser
-
 en avant en soient déjà usités à la pointe la plus avancée de la philosophie
 
 ...ça fait entrer en jeu *l'être d'un étant*.
@@ -699,8 +695,6 @@ Quoi qu'il en soit, la constitution de par le fait que l'*étant*, dont nous par
 qui est tout à fait, dans l'occasion, à distinguer du rapport sexuel ...qui s'appelle *la jouissance*, la jouissance qu'on appelle *sexuelle,* et qui seule détermine chez l'*étant* dont je parle ce qu'il s'agit d'obtenir, à savoir l'accouplement.
 
 La psychanalyse nous confronte à ceci : que tout dépend de ce point pivot qui s'appelle *la jouissance sexuelle* et qui se trouve...
-
-> c'est seulement les propos que nous recueillons dans l'expérience psychanalytique qui nous permettent de l'affirmer
 
 ...qui se trouve ne pouvoir s'articuler dans un accouplement un peu suivi, voire même fugace, qu'à exiger de rencontrer ceci, qui n'a dimension que de la langue et qui s'appelle *la castration*.
 
@@ -1192,8 +1186,6 @@ parmi toutes sortes d'autres choses sensées
 ...une sorte d'exergue du genre ritournelle, que vous trouverez dans... vous n'avez qu'à regarder au niveau de la partie IV, pour autant que je me souvienne, un truc que j'avais trouvé dans un almanach, ça s'appelait : *Paris en l'an 2000*.
 
 C'est pas sans talent ! C'est pas sans talent encore qu'on ait jamais plus entendu parler du nom du type, dont je cite le nom - je suis honnête - et qui raconte cette chose qui n'a... enfin qui vient là dans cette histoire de « *Fonction et champ*... » comme des cheveux sur la soupe, ça commence comme ça :
-
-> « *Entre l'homme et la femme, il y a l'amour, Entre l'homme et l'amour,*...
 
 Vous l'avez jamais remarqué, hein, ce truc-là, dans son machin !
 
@@ -1821,8 +1813,6 @@ La vie sexuelle de la Chine ancienne va peut-être refleurir, elle aura un certa
 
 Il y a quelque part, dans la 2 nde *édition* d'un volume, de ce volume là que j'ai laissé dans un temps sortir, qui s'appelle *Écrits* il y a un petit ajout qui s'appelle « *La métaphore du sujet »*. J'ai joué longtemps sur la formule dont se régalait mon cher ami Perelman : « *un océan de fausse science* »…
 
-> On n'est jamais bien sûr, et je vous conseille de partir de là, de ce que j'ai derrière la tête quand je m'amuse justement !
-
 ...« *un océan de fausse science* », c'est peut-être *le savoir de l'analyste*, pourquoi pas ?
 
 Pourquoi pas, si justement c'est seulement de sa perspective que se décante ceci : que la science n'a pas de sens, mais *qu'aucun sens de discours, à ne se soutenir que d'un autre, n'est que sens partiel*. Si *la vérité* ne peut jamais que se *mi-dire*, c'est là le noyau, c'est là l'essentiel du *savoir de l'analyste.*
@@ -1996,8 +1986,6 @@ reconnaissez dans *ce conditionnel* quelque chose à quoi fait écho mon *Discou
 Le « *chacun* » que j'ai employé d'abord, a tout de même cet effet de vous rappeler qu'après tout, si j'ose dire, le rapport effectif n'est pas sans évoquer l'horizon du « *un à un* », de l'« *à chacun sa chacune* ». Ceci : *correspondance biunivoque*, fait écho à ce que nous savons qui est essentiel à présentifier *le nombre*.
 
 Remarquons ceci, c'est que nous ne pouvons dès l'abord éliminer l'existence de ces 2 dimensions et que l'on peut même dire que le *modèle animal* est justement ce qui suggère le fantasme « *animique* ». Si nous n'avions pas ce *modèle animal*...
-
-> même si le choix est de *rencontre*, l'accouplement bi-univoque est ce qui nous en apparaît, à savoir qu'il y a que deux animaux qui copulent ensemble
 
 ...eh bien, nous n'aurions pas cette dimension essentielle qui est très précisément que *la rencontre est unique*.
 
