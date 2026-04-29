@@ -1,8 +1,8 @@
-# Lacan Open Translation Project
+# Lacan-Chinese-Translation-Project
 
 **拉康开放翻译计划**
 
-仓库名：`lacan-open-translation`
+仓库名：`Lacan-Chinese-Translation-Project`
 
 拉康开放翻译计划是一个面向中文使用者的开放翻译项目，旨在整理、翻译、校订和维护雅克・拉康研讨班及相关文本的中文材料。
 
