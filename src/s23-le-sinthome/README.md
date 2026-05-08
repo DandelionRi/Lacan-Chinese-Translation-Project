@@ -1,7 +1,5 @@
 # S23：Le sinthome
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 18 Novembre 1975](Leçon-01.md)

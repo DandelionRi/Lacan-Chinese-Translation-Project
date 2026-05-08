@@ -1,7 +1,5 @@
 # S11：Les quatre concepts fondamentaux de la psychanalyse
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 15 janvier 1964](Leçon-01.md)

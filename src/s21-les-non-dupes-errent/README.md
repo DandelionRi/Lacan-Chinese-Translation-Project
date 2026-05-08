@@ -1,7 +1,5 @@
 # S21：Les non-dupes errent
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 13 Novembre 1973](Leçon-01.md)

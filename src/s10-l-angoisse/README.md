@@ -1,7 +1,5 @@
 # S10：L'angoisse
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | l4 Novembre l962](Leçon-01.md)

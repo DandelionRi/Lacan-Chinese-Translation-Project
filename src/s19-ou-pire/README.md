@@ -1,7 +1,5 @@
 # S19：... ou pire
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 08 Décembre 1971 Séminaire : Panthéon-Sorbonne](Leçon-01.md)

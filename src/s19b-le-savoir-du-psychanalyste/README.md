@@ -1,7 +1,5 @@
 # S19B
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 - [术语表](glossary.md)
 
 ## 课时目录

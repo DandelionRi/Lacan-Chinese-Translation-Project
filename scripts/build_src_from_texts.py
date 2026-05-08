@@ -510,8 +510,6 @@ def build_seminar(slug: str) -> BuildStats:
 def render_seminar_readme(slug: str, seminar_dir: Path) -> str:
     title = seminar_title(slug, seminar_dir)
     lines = [f"# {title}", ""]
-    lines.append("本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。")
-    lines.append("")
 
     if (seminar_dir / "glossary.md").exists() or (SRC_DIR / slug / "glossary.md").exists():
         lines.append("- [术语表](glossary.md)")

@@ -1,7 +1,5 @@
 # S2：Le moi dans la théorie et dans la technique psychanalytique
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 17 Novembre 1954](Leçon-01.md)

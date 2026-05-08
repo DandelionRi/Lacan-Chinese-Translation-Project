@@ -1,7 +1,5 @@
 # S5：Les formations de l'inconscient
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 06 Novembre 1957](Leçon-01.md)

@@ -1,7 +1,5 @@
 # S27：Dissolution
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 13 novembre 1979](Leçon-01.md)

@@ -1,7 +1,5 @@
 # S22：R.S.I.
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 19 Novembre 1974](Leçon-01.md)

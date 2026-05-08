@@ -1,7 +1,5 @@
 # S18：D'un discours qui ne serait pas du semblant
 
-本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
-
 ## 课时目录
 
 - [Leçon 01 | 13 Janvier 1971](Leçon-01.md)
