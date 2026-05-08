@@ -1,6 +1,6 @@
 # Leçon 01 | 16 Novembre 1960
 
-<!-- source-translation: src/s8-le-transfert/lesson-01.md -->
+<!-- source-translation: src/s8-le-transfert/Leçon-01.md -->
 <!-- seminar: s8 -->
 <!-- lesson: 01 -->
 <!-- id: s8-01-0001 -->

@@ -9,14 +9,14 @@
 ## 目录结构
 
 - `texts/`：翻译协作源文件目录，保留原文、译文、术语表和原文关联图片，是长期维护的内容层。
-- `texts/<seminar>/original/lesson-xx.md`：每一期研讨班按课时拆分的原文 Markdown；段落使用稳定 ID 标记，作为共同翻译基准。
-- `texts/<seminar>/translation/lesson-xx.md`：对应课时的译文 Markdown；段落 ID 应与原文保持对应，方便校对、讨论和 PR 审阅。
+- `texts/<seminar>/original/Leçon-xx.md`：每一期研讨班按课时拆分的原文 Markdown；段落使用稳定 ID 标记，作为共同翻译基准。
+- `texts/<seminar>/translation/Leçon-xx.md`：对应课时的译文 Markdown；段落 ID 应与原文保持对应，方便校对、讨论和 PR 审阅。
 - `texts/<seminar>/original/assets/`：该期研讨班原文引用的图片资源。
 - `texts/<seminar>/glossary.md`：该期研讨班的独立术语表。
 - `src/`：mdBook 源目录，也就是发布展示层；原则上由 `texts/` 中的原文和译文合成，放置最终可读正文、目录、术语表入口和发布所需图片。
 - `src/SUMMARY.md`：维护 mdBook 目录。
 - `src/glossary.md`：维护全站术语表入口。
-- `src/<seminar>/lesson-xx.md`：mdBook 展示页，一个 Markdown 文件对应一节；可由同编号的原文和译文按段落 ID 合成。
+- `src/<seminar>/Leçon-xx.md`：mdBook 展示页，一个 Markdown 文件对应一节；可由同编号的原文和译文按段落 ID 合成。
 - `src/<seminar>/assets/`：发布页面引用的图片资源。
 - `src/<seminar>/glossary.md`：发布页面中的该研讨班术语表。
 - `book.toml`：维护 mdBook 配置。
@@ -30,11 +30,11 @@
 
 - 原文放在 `texts/<seminar>/original/`。
 - 译文放在 `texts/<seminar>/translation/`。
-- 原文和译文都按课时拆分为 `lesson-xx.md`。
+- 原文和译文都按课时拆分为 `Leçon-xx.md`。
 - 段落使用稳定 ID 对齐，例如同一段原文和译文都保留 `s8-01-0001` 这样的 ID。
 - 每期研讨班的术语表维护在 `texts/<seminar>/glossary.md`。
 
-`src/` 只作为 mdBook 的发布入口。构建发布页面时，应把同一课的原文和译文按段落 ID 合成为 `src/<seminar>/lesson-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
+`src/` 只作为 mdBook 的发布入口。构建发布页面时，应把同一课的原文和译文按段落 ID 合成为 `src/<seminar>/Leçon-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
 
 因此，日常翻译 PR 应优先修改 `texts/`；`src/` 中的双语展示页可以由构建脚本重新生成，避免把协作源文件和发布格式混在一起。
 
@@ -88,14 +88,14 @@ python3 scripts/build_src_from_texts.py
 
 脚本读取以下文件：
 
-- `texts/<seminar>/original/lesson-xx.md`：必需。每个 `<!-- id: ... -->` 标记开始一个原文段落，直到下一个 ID 标记为止。
-- `texts/<seminar>/translation/lesson-xx.md`：可选。文件不存在时，该课原文仍会生成，译文位置显示 `[无对应译文]`。
+- `texts/<seminar>/original/Leçon-xx.md`：必需。每个 `<!-- id: ... -->` 标记开始一个原文段落，直到下一个 ID 标记为止。
+- `texts/<seminar>/translation/Leçon-xx.md`：可选。文件不存在时，该课原文仍会生成，译文位置显示 `[无对应译文]`。
 - `texts/<seminar>/original/assets/`：可选。原文图片会复制到 `src/<seminar>/assets/`。
 - `texts/<seminar>/translation/assets/`：可选。译文额外图片也会复制到 `src/<seminar>/assets/`。
 - `texts/<seminar>/glossary.md`：可选。存在时会复制为 `src/<seminar>/glossary.md`。
 - `texts/<seminar>/original/README.md`：可选。存在时脚本会优先用其中的标题生成 `src/<seminar>/README.md`。
 
-`<seminar>` 必须使用目录 slug，例如 `s8-le-transfert`、`s20-encore`。`lesson-xx.md` 的编号用于排序，建议保持两位数字，例如 `lesson-01.md`。
+`<seminar>` 必须使用目录 slug，例如 `s8-le-transfert`、`s20-encore`。`Leçon-xx.md` 的编号用于排序，建议保持两位数字，例如 `Leçon-01.md`。
 
 ### 原文格式
 
@@ -180,7 +180,7 @@ python3 scripts/build_src_from_texts.py
 脚本会写入或更新：
 
 - `src/<seminar>/README.md`：该期研讨班目录页。
-- `src/<seminar>/lesson-xx.md`：合成后的双语对照页面。
+- `src/<seminar>/Leçon-xx.md`：合成后的双语对照页面。
 - `src/<seminar>/assets/`：从原文和译文 assets 复制的图片资源。
 - `src/<seminar>/glossary.md`：从 `texts/<seminar>/glossary.md` 复制的术语表。
 - `src/SUMMARY.md`：mdBook 总目录，除非使用 `--skip-summary`。
@@ -199,18 +199,6 @@ python3 scripts/build_src_from_texts.py
 - 修改 `texts/` 后，提交前建议运行 `python3 scripts/build_src_from_texts.py && ./bin/mdbook build`。
 - 只想降低 PR 噪音时，可以用 `--seminar` 限定本次修改涉及的研讨班。
 - 如果修改了研讨班目录结构、课次文件、标题或术语表，通常不要使用 `--skip-summary`，让脚本同步更新 `src/SUMMARY.md`。
-
-## 原文整理规则
-
-原文整理采用“Word 内容优先，PDF 分段优先”的规则：
-
-- 正文文字以 Staferla 的 Word/DOCX 文件为共同翻译原文，不按 PDF 重新 OCR 或重录。
-- 图片、图注和图片在正文中的相对位置以 Word/DOCX 导出的 Markdown 为准。
-- Word/DOCX 中已经以图片形式存在的公式、图形和符号继续保留为图片引用；不要为了重写 LaTeX 而替换图片内容。
-- 段落边界以对应 PDF 的视觉分段为主要依据；Word 导出时因软换行造成的碎段应合并回同一段。
-- 每个段落保留一个稳定 ID，例如 `<!-- id: s8-01-0001 -->`；合并碎段的中间状态可以保留首段 ID 并出现跳号。
-- 一轮批量合并全部完成后，再按每个 `lesson-xx.md` 从 `0001` 开始统一重排 ID，使同一课内部编号连续。
-- 修复局部问题时只修改受影响课次，避免无关文件重新生成造成 PR 噪音。
 
 ## mdBook 公式规则
 
@@ -264,7 +252,7 @@ python3 scripts/build_src_from_texts.py
 - 为中文读者提供可读、可校订、可持续维护的拉康相关文本译稿。
 - 保留必要的译注、术语讨论、导读、校订说明和修订痕迹。
 - 使用适合 GitHub 浏览、引用、勘误和再整理的文件结构。
-- 鼓励非商业目的下的复制、传播、修订、注释和再发布。
+- 鼓励复制、传播、修订、注释和再发布。
 
 ## 参与方式
 
@@ -281,19 +269,13 @@ python3 scripts/build_src_from_texts.py
 
 ## 许可证
 
-本项目采用双许可证：
+本项目采用 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可证，您可以在这里找到完整说明：
 
-- 文本内容：[Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）](./LICENSE-CONTENT.md)
-- 代码、脚本、模板、构建工具：[MIT License](./LICENSE-CODE.md)
-
-文本内容包括译文、注释、术语表、导读、校订说明等。
-
-任何人可以在非商业目的下自由复制、传播、修改、整理和再发布本项目文本内容。
-
-完整许可证声明见 [LICENSE.md](./LICENSE.md)。
+- [署名 4.0 协议国际版 CC BY 4.0 Deed](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)
+- [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ## 版权声明
 
-本项目只处理已经处于公共领域的原始文本。
+本项目只针对已经处于公共领域的原始文本进行翻译工作。
 
-不得将本项目文本内容用于商业出版、付费电子书、收费课程材料、商业数据库、商业知识产品或其他以商业利益为主要目的的使用。
+开源证书声明仅针对项目内翻译文本以及相关构建脚本，不涉及原始文本。

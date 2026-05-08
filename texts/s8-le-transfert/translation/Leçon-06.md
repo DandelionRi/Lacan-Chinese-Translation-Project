@@ -1,6 +1,6 @@
 # Leçon 06 | 21 Décembre 1960
 
-<!-- source-translation: src/s8-le-transfert/lesson-06.md -->
+<!-- source-translation: src/s8-le-transfert/Leçon-06.md -->
 <!-- seminar: s8 -->
 <!-- lesson: 06 -->
 <!-- id: s8-06-0001 -->

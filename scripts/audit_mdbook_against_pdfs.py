@@ -66,7 +66,7 @@ SEMINARS = [
 ]
 
 TITLE_RE = re.compile(r"^#\s+(.+?)\s*$", re.MULTILINE)
-LESSON_RE = re.compile(r"lesson-(\d+)\.md$")
+LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-(\d+)\.md$", re.IGNORECASE)
 PARA_RE = re.compile(
     r'<div class="original-paragraph" data-paragraph-id="([^"]+)">\s*(.*?)\s*</div>',
     re.DOTALL,
@@ -354,8 +354,17 @@ def text_page(first_text: str, normalized_pages: list[str]) -> tuple[int | None,
 
 
 def lesson_number(path: Path) -> int:
-    match = LESSON_RE.search(path.name)
+    match = LESSON_FILE_RE.match(path.name)
     return int(match.group(1)) if match else 0
+
+
+def lesson_files(directory: Path) -> list[Path]:
+    if not directory.exists():
+        return []
+    return sorted(
+        (path for path in directory.glob("*.md") if LESSON_FILE_RE.match(path.name)),
+        key=lesson_number,
+    )
 
 
 def extract_title_and_date(src: str, fallback: Path) -> tuple[str, str]:
@@ -460,7 +469,7 @@ def audit_lesson(
 def audit_seminar(code: str, slug: str, pdf_name: str) -> dict[str, Any]:
     src_dir = SRC_DIR / slug
     pdf = PDF_DIR / pdf_name
-    lessons = sorted(src_dir.glob("lesson-*.md"), key=lesson_number)
+    lessons = lesson_files(src_dir)
     pages = pdf_pages_text(pdf) if pdf.exists() else []
     normalized_pages = [normalize_text(page) for page in pages]
     pdf_phrase_sets = build_phrase_sets(normalized_pages)

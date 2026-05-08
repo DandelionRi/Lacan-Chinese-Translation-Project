@@ -3,11 +3,11 @@
 
 The texts directory is the editable source of truth:
 
-  texts/<seminar>/original/lesson-xx.md
-  texts/<seminar>/translation/lesson-xx.md
+  texts/<seminar>/original/Leçon-xx.md
+  texts/<seminar>/translation/Leçon-xx.md
 
 This script combines the original French paragraphs and the Chinese
-translation blocks into src/<seminar>/lesson-xx.md. Translation blocks may
+translation blocks into src/<seminar>/Leçon-xx.md. Translation blocks may
 declare either a single id:
 
   <!-- id: s8-01-0001 -->
@@ -40,7 +40,8 @@ SRC_DIR = ROOT / "src"
 ID_RE = re.compile(r"<!--\s*id:\s*([^>\s]+)\s*-->")
 IDS_RE = re.compile(r"<!--\s*ids:\s*([^>]+?)\s*-->")
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
-LESSON_RE = re.compile(r"lesson-(\d+)\.md$")
+LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-(\d+)\.md$", re.IGNORECASE)
+CANONICAL_LESSON_PREFIX = "Leçon"
 NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
 INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
 
@@ -383,11 +384,50 @@ def render_parallel_block(paragraph_ids: list[str], original_blocks: list[Paragr
     return out
 
 
-def lesson_sort_key(path: Path) -> tuple[int, str]:
-    match = LESSON_RE.match(path.name)
+def lesson_number(path: Path) -> int | None:
+    match = LESSON_FILE_RE.match(path.name)
     if match:
-        return int(match.group(1)), path.name
-    return 9999, path.name
+        return int(match.group(1))
+    return None
+
+
+def lesson_filename(number: int) -> str:
+    return f"{CANONICAL_LESSON_PREFIX}-{number:02d}.md"
+
+
+def lesson_sort_key(path: Path) -> tuple[int, str]:
+    number = lesson_number(path)
+    return number if number is not None else 9999, path.name
+
+
+def lesson_markdown_files(directory: Path) -> list[Path]:
+    if not directory.exists():
+        return []
+    return sorted(
+        (path for path in directory.glob("*.md") if lesson_number(path) is not None),
+        key=lesson_sort_key,
+    )
+
+
+def matching_lesson_file(directory: Path, number: int | None, preferred_name: str) -> Path:
+    candidates = [directory / preferred_name]
+    if number is not None:
+        candidates.extend(
+            [
+                directory / lesson_filename(number),
+                directory / f"lesson-{number:02d}.md",
+                directory / f"Lecon-{number:02d}.md",
+            ]
+        )
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    return candidates[0]
+
+
+def remove_generated_lesson_files(output_dir: Path) -> None:
+    for path in lesson_markdown_files(output_dir):
+        path.unlink()
 
 
 def seminar_title(slug: str, seminar_dir: Path) -> str:
@@ -405,7 +445,7 @@ def seminar_title(slug: str, seminar_dir: Path) -> str:
                 return seminar_label(slug)
             return clean_title
 
-    lessons = sorted((seminar_dir / "original").glob("lesson-*.md"), key=lesson_sort_key)
+    lessons = lesson_markdown_files(seminar_dir / "original")
     if lessons:
         title = parse_lesson(lessons[0]).title
         if "|" in title:
@@ -440,15 +480,18 @@ def build_seminar(slug: str) -> BuildStats:
         raise FileNotFoundError(f"Missing original directory: {original_dir}")
 
     output_dir.mkdir(parents=True, exist_ok=True)
+    remove_generated_lesson_files(output_dir)
     write_text(output_dir / "README.md", render_seminar_readme(slug, seminar_dir))
 
-    for lesson_path in sorted(original_dir.glob("lesson-*.md"), key=lesson_sort_key):
-        translation_path = translation_dir / lesson_path.name
+    for lesson_path in lesson_markdown_files(original_dir):
+        number = lesson_number(lesson_path)
+        output_name = lesson_filename(number) if number is not None else lesson_path.name
+        translation_path = matching_lesson_file(translation_dir, number, lesson_path.name)
         rendered, lesson_stats = render_lesson(
             lesson_path,
             translation_path if translation_path.exists() else None,
         )
-        write_text(output_dir / lesson_path.name, rendered)
+        write_text(output_dir / output_name, rendered)
         stats.lessons += lesson_stats.lessons
         stats.aligned_blocks += lesson_stats.aligned_blocks
         stats.untranslated_blocks += lesson_stats.untranslated_blocks
@@ -471,13 +514,15 @@ def render_seminar_readme(slug: str, seminar_dir: Path) -> str:
     lines.append("")
 
     original_dir = seminar_dir / "original"
-    lessons = sorted(original_dir.glob("lesson-*.md"), key=lesson_sort_key)
+    lessons = lesson_markdown_files(original_dir)
     if lessons:
         lines.append("## 课次")
         lines.append("")
         for lesson in lessons:
+            number = lesson_number(lesson)
+            output_name = lesson_filename(number) if number is not None else lesson.name
             lesson_title = parse_lesson(lesson).title.lstrip("#").strip()
-            lines.append(f"- [{lesson_title}]({lesson.name})")
+            lines.append(f"- [{lesson_title}]({output_name})")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
@@ -531,7 +576,7 @@ def write_summary() -> None:
         title = first_markdown_heading(read_text(readme)) or f"# {slug}"
         lines.append(f"- [{title.lstrip('#').strip()}]({slug}/README.md)")
 
-        for lesson in sorted((SRC_DIR / slug).glob("lesson-*.md"), key=lesson_sort_key):
+        for lesson in lesson_markdown_files(SRC_DIR / slug):
             lesson_title = first_markdown_heading(read_text(lesson))
             label = lesson_title.lstrip("#").strip() if lesson_title else lesson.stem
             lines.append(f"  - [{label}]({slug}/{lesson.name})")

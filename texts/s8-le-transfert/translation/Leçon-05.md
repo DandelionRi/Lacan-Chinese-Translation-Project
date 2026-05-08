@@ -1,6 +1,6 @@
 # Leçon 05 | 14 Décembre 1960
 
-<!-- source-translation: src/s8-le-transfert/lesson-05.md -->
+<!-- source-translation: src/s8-le-transfert/Leçon-05.md -->
 <!-- seminar: s8 -->
 <!-- lesson: 05 -->
 <!-- id: s8-05-0001 -->

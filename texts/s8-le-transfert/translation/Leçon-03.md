@@ -1,6 +1,6 @@
 # Leçon 03 | 30 Novembre 1960
 
-<!-- source-translation: src/s8-le-transfert/lesson-03.md -->
+<!-- source-translation: src/s8-le-transfert/Leçon-03.md -->
 <!-- seminar: s8 -->
 <!-- lesson: 03 -->
 <!-- id: s8-03-0001 -->

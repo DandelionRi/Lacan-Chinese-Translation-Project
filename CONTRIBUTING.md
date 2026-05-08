@@ -5,14 +5,14 @@
 ## 文件结构
 
 - `texts/`：翻译协作源文件目录，长期维护原文、译文、术语表和原文关联图片。
-- `texts/<seminar>/original/lesson-xx.md`：按课时拆分的原文 Markdown，段落使用稳定 ID。
-- `texts/<seminar>/translation/lesson-xx.md`：对应课时的译文 Markdown，段落 ID 应与原文保持对应。
+- `texts/<seminar>/original/Leçon-xx.md`：按课时拆分的原文 Markdown，段落使用稳定 ID。
+- `texts/<seminar>/translation/Leçon-xx.md`：对应课时的译文 Markdown，段落 ID 应与原文保持对应。
 - `texts/<seminar>/original/assets/`：原文引用的图片资源。
 - `texts/<seminar>/glossary.md`：该期研讨班的独立术语表。
 - `src/`：mdBook 发布展示层，原则上由 `texts/` 中的原文和译文合成。
 - `src/SUMMARY.md`：维护站点目录。新增、删除或移动课次文件时同步更新。
 - `src/glossary.md`：维护全站术语表入口。
-- `src/<seminar>/lesson-xx.md`：mdBook 展示页，一个 Markdown 文件对应一节。
+- `src/<seminar>/Leçon-xx.md`：mdBook 展示页，一个 Markdown 文件对应一节。
 - `src/<seminar>/assets/`：发布页面引用的图片资源。
 - `src/<seminar>/glossary.md`：维护该研讨班的独立术语表。
 - `book.toml`：维护 mdBook 配置。

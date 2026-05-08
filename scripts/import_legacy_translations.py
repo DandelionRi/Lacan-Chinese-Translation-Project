@@ -23,6 +23,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 ID_RE = re.compile(r"<!--\s*id:\s*([^>\s]+)\s*-->")
 LESSON_RE = re.compile(r"(?:Leçon|Lecon)\s+(\d+)", re.IGNORECASE)
+LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-(\d+)\.md$", re.IGNORECASE)
+CANONICAL_LESSON_PREFIX = "Leçon"
 IMG_MD_RE = re.compile(r"!\[[^\]]*\]\([^)]+\)(?:\{[^}]*\})?")
 IMG_HTML_RE = re.compile(r"<img\b[^>]*>", re.IGNORECASE)
 
@@ -279,10 +281,26 @@ def parse_original(path: Path) -> list[SourceBlock]:
 
 
 def lesson_number(path: Path) -> int | None:
+    match = LESSON_FILE_RE.match(path.name)
+    if match:
+        return int(match.group(1))
     match = LESSON_RE.search(path.name)
     if match:
         return int(match.group(1))
     return None
+
+
+def lesson_filename(number: int) -> str:
+    return f"{CANONICAL_LESSON_PREFIX}-{number:02d}.md"
+
+
+def lesson_markdown_files(directory: Path) -> list[Path]:
+    if not directory.exists():
+        return []
+    return sorted(
+        (path for path in directory.glob("*.md") if lesson_number(path) is not None),
+        key=lambda path: (lesson_number(path) or 9999, path.name),
+    )
 
 
 def legacy_lessons(path: Path) -> dict[int, Path]:
@@ -527,13 +545,15 @@ def render_alignment(alignment: Alignment) -> str:
 def render_translation_file(original_path: Path, alignments: list[Alignment], seminar: str) -> str:
     original = original_path.read_text(encoding="utf-8")
     title = next((line for line in original.splitlines() if line.startswith("#")), f"# {original_path.stem}")
-    lesson = original_path.stem.rsplit("-", 1)[-1]
+    lesson = lesson_number(original_path)
+    if lesson is None:
+        raise ValueError(f"Cannot determine lesson number from {original_path}")
     chunks = [
         title,
         "",
         "<!-- source-translation: src.bk -->",
         f"<!-- seminar: {seminar} -->",
-        f"<!-- lesson: {lesson} -->",
+        f"<!-- lesson: {lesson:02d} -->",
         "",
     ]
     chunks.extend(render_alignment(alignment) for alignment in alignments)
@@ -549,8 +569,10 @@ def import_seminar(config: dict) -> None:
     legacy_by_lesson = legacy_lessons(config["legacy"])
 
     print(f"== {slug}", flush=True)
-    for original_path in sorted(original_dir.glob("lesson-*.md")):
-        lesson = int(original_path.stem.rsplit("-", 1)[-1])
+    for original_path in lesson_markdown_files(original_dir):
+        lesson = lesson_number(original_path)
+        if lesson is None:
+            continue
         legacy_path = legacy_by_lesson.get(lesson)
         if legacy_path is None:
             print(f"{original_path.name}: missing legacy translation", flush=True)
@@ -566,13 +588,13 @@ def import_seminar(config: dict) -> None:
             config.get("target_len_factors", {}).get(lesson, config["target_len_factor"]),
         )
         output = render_translation_file(original_path, alignments, seminar)
-        output_path = translation_dir / original_path.name
+        output_path = translation_dir / lesson_filename(lesson)
         output_path.write_text(output, encoding="utf-8")
 
         covered_ids = sum(len(alignment.sources) for alignment in alignments)
         text_sources = sum(1 for source in sources if source.text and not source.image_only)
         print(
-            f"{original_path.name}: legacy={legacy_path.name} "
+            f"{output_path.name}: legacy={legacy_path.name} "
             f"targets={len(targets)} aligned={len(alignments)} "
             f"source_ids={covered_ids}/{text_sources}",
             flush=True,

@@ -1,6 +1,6 @@
 # Leçon 04 | 07 Décembre 1960  
   
-<!-- source-translation: src/s8-le-transfert/lesson-04.md -->  
+<!-- source-translation: src/s8-le-transfert/Leçon-04.md -->
 <!-- seminar: s8 -->  
 <!-- lesson: 04 -->  
 <!-- id: s8-04-0001 -->  

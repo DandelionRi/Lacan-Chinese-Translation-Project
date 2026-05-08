@@ -9,13 +9,18 @@ from pathlib import Path
 ID_RE = re.compile(r"<!-- id: ([^ ]+) -->")
 SEMINAR_RE = re.compile(r"^<!-- seminar: ([^ ]+) -->$", re.M)
 LESSON_RE = re.compile(r"^<!-- lesson: ([0-9]{2}) -->$", re.M)
+LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-\d+\.md$", re.IGNORECASE)
+
+
+def is_lesson_file(path: Path) -> bool:
+    return path.is_file() and LESSON_FILE_RE.match(path.name) is not None
 
 
 def collect_files(paths: list[Path]) -> list[Path]:
     files: list[Path] = []
     for path in paths:
         if path.is_dir():
-            files.extend(sorted(path.rglob("lesson-*.md")))
+            files.extend(sorted(item for item in path.rglob("*.md") if is_lesson_file(item)))
         else:
             files.append(path)
     return sorted(set(files))
@@ -55,7 +60,7 @@ def renumber_file(path: Path, dry_run: bool) -> tuple[int, int]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Renumber paragraph IDs within lesson Markdown files.")
+    parser = argparse.ArgumentParser(description="Renumber paragraph IDs within Leçon Markdown files.")
     parser.add_argument("paths", nargs="+", type=Path)
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()

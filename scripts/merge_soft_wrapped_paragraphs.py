@@ -7,6 +7,7 @@ from pathlib import Path
 
 
 ID_RE = re.compile(r"^<!-- id: ([^ ]+) -->$")
+LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-\d+\.md$", re.IGNORECASE)
 IMAGE_RE = re.compile(r"^\s*(?:<img\b|!\[[^\]]*\]\()")
 LIST_RE = re.compile(r"^\s*(?:[-*+]\s+|\d+[.)]\s+)")
 FOOTNOTE_RE = re.compile(r"^\[\^[^\]]+\]:")
@@ -18,6 +19,10 @@ WEAK_END_RE = re.compile(
     re.I,
 )
 STRONG_END_RE = re.compile(r"[.!?。！？][\"'»”’)\]]*$")
+
+
+def is_lesson_file(path: Path) -> bool:
+    return path.is_file() and LESSON_FILE_RE.match(path.name) is not None
 
 
 class Block:
@@ -207,7 +212,7 @@ def main() -> None:
     files: list[Path] = []
     for path in args.paths:
         if path.is_dir():
-            files.extend(sorted(path.glob("lesson-*.md")))
+            files.extend(sorted(item for item in path.glob("*.md") if is_lesson_file(item)))
         else:
             files.append(path)
 
