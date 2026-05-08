@@ -1,0 +1,28 @@
+[book]
+title = "拉康开放翻译计划"
+authors = ["Lacan Chinese Translation Project contributors"]
+description = "面向中文读者的拉康研讨班开放翻译、校订与术语维护项目。"
+language = "zh-CN"
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project"
+edit-url-template = "https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project/edit/raw/{path}"
+mathjax-support = true
+no-section-label = true
+additional-css = ["theme/lacan-toggle.css"]
+additional-js = ["theme/lacan-toggle.js"]
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.print]
+enable = true
+
+[output.html.search]
+enable = true
