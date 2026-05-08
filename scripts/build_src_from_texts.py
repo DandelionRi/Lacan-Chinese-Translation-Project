@@ -513,10 +513,14 @@ def render_seminar_readme(slug: str, seminar_dir: Path) -> str:
     lines.append("本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。")
     lines.append("")
 
+    if (seminar_dir / "glossary.md").exists() or (SRC_DIR / slug / "glossary.md").exists():
+        lines.append("- [术语表](glossary.md)")
+        lines.append("")
+
     original_dir = seminar_dir / "original"
     lessons = lesson_markdown_files(original_dir)
     if lessons:
-        lines.append("## 课次")
+        lines.append("## 课时目录")
         lines.append("")
         for lesson in lessons:
             number = lesson_number(lesson)
@@ -571,23 +575,23 @@ def write_summary() -> None:
         write_text(index, "# 拉康开放翻译计划\n")
         lines.append("- [首页](index.md)")
 
+    glossary = SRC_DIR / "glossary.md"
+    if glossary.exists():
+        lines.append("- [全局术语表](glossary.md)")
+
     for slug in discover_src_seminars():
         readme = SRC_DIR / slug / "README.md"
         title = first_markdown_heading(read_text(readme)) or f"# {slug}"
         lines.append(f"- [{title.lstrip('#').strip()}]({slug}/README.md)")
 
-        for lesson in lesson_markdown_files(SRC_DIR / slug):
-            lesson_title = first_markdown_heading(read_text(lesson))
-            label = lesson_title.lstrip("#").strip() if lesson_title else lesson.stem
-            lines.append(f"  - [{label}]({slug}/{lesson.name})")
-
         glossary = SRC_DIR / slug / "glossary.md"
         if glossary.exists():
             lines.append(f"  - [术语表]({slug}/glossary.md)")
 
-    glossary = SRC_DIR / "glossary.md"
-    if glossary.exists():
-        lines.append("- [全局术语表](glossary.md)")
+        for lesson in lesson_markdown_files(SRC_DIR / slug):
+            lesson_title = first_markdown_heading(read_text(lesson))
+            label = lesson_title.lstrip("#").strip() if lesson_title else lesson.stem
+            lines.append(f"  - [{label}]({slug}/{lesson.name})")
 
     write_text(SRC_DIR / "SUMMARY.md", "\n".join(lines).rstrip() + "\n")
 

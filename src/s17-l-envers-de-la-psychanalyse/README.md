@@ -2,7 +2,9 @@
 
 本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
 
-## 课次
+- [术语表](glossary.md)
+
+## 课时目录
 
 - [Leçon 01 | 26 Novembre 1969 Université Paris I, Panthéon-Sorbonne](Leçon-01.md)
 - [Leçon 02 | 17 Décembre 1969](Leçon-02.md)

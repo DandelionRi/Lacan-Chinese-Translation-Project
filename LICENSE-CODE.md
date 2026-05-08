@@ -1,22 +1,14 @@
-# MIT License
+# 构建脚本许可证
 
-Copyright (c) 2026 Lacan-Chinese-Translation-Project contributors
+本项目内与内容整理、转换、构建、检查和发布相关的脚本、模板和自动化配置采用 Creative Commons Attribution 4.0 International（CC BY 4.0）许可证。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+完整说明以 Creative Commons 官方文本为准：
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- [署名 4.0 协议国际版 CC BY 4.0 Deed](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)
+- [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 适用范围
+
+本许可证声明仅适用于本项目内的相关构建脚本，不涉及原始文本。
 

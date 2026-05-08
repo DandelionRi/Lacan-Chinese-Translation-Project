@@ -1,30 +1,24 @@
 # License
 
-本项目采用双许可证。
+本项目采用 Creative Commons Attribution 4.0 International（CC BY 4.0）许可证。
 
-## 文本内容
+完整说明以 Creative Commons 官方文本为准：
 
-本项目中的文本内容采用 Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）许可。
+- [署名 4.0 协议国际版 CC BY 4.0 Deed](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)
+- [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-文本内容包括译文、注释、术语表、导读、校订说明、读书笔记以及其他编辑性文字材料。
+## 适用范围
 
-在遵守 CC BY-NC 4.0 条款的前提下，任何人可以在非商业目的下复制、传播、修改、整理和再发布本项目文本内容。
+本许可证声明仅适用于本项目内的翻译文本以及相关构建脚本。
 
-完整说明见：
+翻译文本包括译文、译注、术语表、导读、校订说明、读书笔记以及其他编辑性文字材料。
 
-- [LICENSE-CONTENT.md](./LICENSE-CONTENT.md)
-- <https://creativecommons.org/licenses/by-nc/4.0/>
-- <https://creativecommons.org/licenses/by-nc/4.0/legalcode>
+相关构建脚本包括用于整理、转换、构建、检查和发布本项目内容的脚本、模板和自动化配置。
 
-## 代码与工具
+## 原始文本
 
-本项目中的代码、脚本、模板、构建工具和自动化工具采用 MIT License。
+本项目只针对已经处于公共领域的原始文本进行翻译工作。
 
-完整说明见：
-
-- [LICENSE-CODE.md](./LICENSE-CODE.md)
-
-## 商业使用限制
-
-不得将本项目文本内容用于商业出版、付费电子书、收费课程材料、商业数据库、商业知识产品或其他以商业利益为主要目的的使用。
+本许可证声明不涉及原始文本，也不改变原始文本自身的版权状态。
 

@@ -1,31 +1,20 @@
-# 文本内容许可证
+# 翻译文本许可证
 
-本项目中的文本内容采用 Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）许可。
+本项目内的翻译文本采用 Creative Commons Attribution 4.0 International（CC BY 4.0）许可证。
 
-文本内容包括但不限于：
+完整说明以 Creative Commons 官方文本为准：
 
-- 译文
-- 注释
-- 术语表
-- 导读
-- 校订说明
-- 读书笔记
-- 其他编辑性文字材料
+- [署名 4.0 协议国际版 CC BY 4.0 Deed](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)
+- [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+- [Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-## 允许的使用
+## 适用内容
 
-在非商业目的下，任何人可以自由复制、传播、修改、整理和再发布本项目文本内容。
+本许可证适用于项目内的译文、译注、术语表、导读、校订说明、读书笔记以及其他编辑性文字材料。
 
-使用、改写或再发布时，应当注明来源，并保留合理的署名信息和许可证说明。
+## 原始文本
 
-## 禁止的使用
+本项目只针对已经处于公共领域的原始文本进行翻译工作。
 
-不得将本项目文本内容用于商业出版、付费电子书、收费课程材料、商业数据库、商业知识产品或其他以商业利益为主要目的的使用。
-
-## 许可证全文
-
-CC BY-NC 4.0 的完整条款以 Creative Commons 官方文本为准：
-
-- <https://creativecommons.org/licenses/by-nc/4.0/>
-- <https://creativecommons.org/licenses/by-nc/4.0/legalcode>
+本许可证声明不涉及原始文本，也不改变原始文本自身的版权状态。
 

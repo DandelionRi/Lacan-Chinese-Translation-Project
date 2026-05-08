@@ -2,7 +2,7 @@
 
 本目录由 `scripts/build_src_from_texts.py` 从 `texts` 生成。
 
-## 课次
+## 课时目录
 
 - [Leçon 01 | 21 Novembre 1956](Leçon-01.md)
 - [Leçon 02 | 28 Novembre 1956](Leçon-02.md)
