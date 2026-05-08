@@ -10,7 +10,7 @@ Je commencerai mon petit discours hebdomadaire en vous engueulant, mais somme to
 
 <!-- id: s3-24-0002 -->
 
-Ce n’est tout de même pas une raison pour vous tenir cois, ne serait*-*ce que pour montrer que vous avez une idée de la question. Vous pourriez dans ces cas là montrer quelque embarras, vous n’y gagnez rien à ne pas montrer que les choses ne vous sont pas encore entièrement claires. Vous me direz ce que vous gagnez, c’est que c’est en groupe que vous passez pour « *bouchés* », et que somme toute, sous cette forme, c’est beaucoup plus supportable. Tout de même, à propos de « *bouchés* », on ne peut pas ne pas être frappé que certains philosophes, qui sont précisément ceux du moment auquel je me rapporte de temps à autre discrètement, rencontrent un extrait de ce que *l’homme,* entre tous les « *étants* », *est un « étant » ouvert*.
+Ce n’est tout de même pas une raison pour vous tenir cois, ne serait-ce que pour montrer que vous avez une idée de la question. Vous pourriez dans ces cas là montrer quelque embarras, vous n’y gagnez rien à ne pas montrer que les choses ne vous sont pas encore entièrement claires. Vous me direz ce que vous gagnez, c’est que c’est en groupe que vous passez pour « *bouchés* », et que somme toute, sous cette forme, c’est beaucoup plus supportable. Tout de même, à propos de « *bouchés* », on ne peut pas ne pas être frappé que certains philosophes, qui sont précisément ceux du moment auquel je me rapporte de temps à autre discrètement, rencontrent un extrait de ce que *l’homme,* entre tous les « *étants* », *est un « étant » ouvert*.
 
 <!-- id: s3-24-0003 -->
 
@@ -148,7 +148,7 @@ Je sais bien que ceci peut vous paraître tout à fait hasardé, mais je vous as
 
 <!-- id: s3-24-0036 -->
 
-et le signe de la bouche 如\[rú\][^35]. Mais on peut s’amuser beaucoup avec ces caractères chinois : le « *tu* » est quelqu’un auquel on s’adresse en lui donnant un ordre, c’est-à-dire *« comme il convient de parler aux femmes ! »* On peut aussi dire mille autres choses, donc ne nous attardons pas*.*
+et le signe de la bouche 如\[rú\][^35]. Mais on peut s’amuser beaucoup avec ces caractères chinois : le « *tu* » est quelqu’un auquel on s’adresse en lui donnant un ordre, c’est-à-dire *« comme il convient de parler aux femmes ! »* On peut aussi dire mille autres choses, donc ne nous attardons pas.
 
 <!-- id: s3-24-0037 -->
 
@@ -648,6 +648,7 @@ Imprudence, babil, et sotte vanité,
                Et vaine curiosité,  
                Ont ensemble étroit parentage.  
                Ce sont enfants tous d’un lignage .
+
 ## Notes
 
 [^35]: Cf. le commentaire de [Guy Sizaret](http://www.lacanchine.com/L_Seminaire_Sizaret56.html) sur [Lacanchine](http://www.lacanchine.com/L_References_50.html).

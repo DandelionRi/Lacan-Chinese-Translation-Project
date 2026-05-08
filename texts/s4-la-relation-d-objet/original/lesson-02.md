@@ -20,7 +20,7 @@ que s’il avait vécu de nos jours il aurait ajouté : « ...*et les divagatio
 <!-- id: s4-02-0003 -->
 
 Car en effet il est extrêmement frappant de voir à quelles difficultés extraordinaires les esprits des différents analystes
-sont soumis, après les énoncés eux-mêmes si abrupts, si étonnants de FREUD. Mais FREUD, *toujours tout seul* \[*sic*\]*,* a apporté
+sont soumis, après les énoncés eux-mêmes si abrupts, si étonnants de FREUD. Mais FREUD, *toujours tout seul* \[*sic*\], a apporté
 sur ce sujet - car c’est probablement à cela que se limitera la portée de ce que je vous dirai aujourd’hui : c’est qu’assurément
 s’il y a *quelque chose* qui doit au maximum contredire l’idée de cet objet…
 que nous avons désigné tout à l’heure comme un objet harmonique,
@@ -396,7 +396,7 @@ qui interviennent dans le développement du champ du désir humain sont strictem
 
 <!-- id: s4-02-0067 -->
 
-La deuxième chose est un fait strictement d’expérience* *: c’est que même chez le plus petit enfant, nous voyons apparaître
+La deuxième chose est un fait strictement d’expérience: c’est que même chez le plus petit enfant, nous voyons apparaître
 ces objets qu’il appelle « *transitionnels* » dont nous ne pouvons dire de quel côté ils se situent dans cette dialectique, cette dialectique réduite, cette dialectique incarnée de *l’hallucination* et de *l’objet réel*, c’est à savoir ce qu’il appelle *les objets transitionnels*.
 Nommément pour les illustrer : tous ces objets du jeu de l’enfant, les jouets à proprement parler - l’enfant n’a pas besoin
 qu’on lui en donne pour qu’il en fasse avec tout ce qui lui tombe sous la main - ce sont *les objets transitionnels* à propos desquels

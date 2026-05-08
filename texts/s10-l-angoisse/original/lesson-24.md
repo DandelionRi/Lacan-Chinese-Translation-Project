@@ -8,7 +8,7 @@
 
 Pour essayer d’avancer aujourd’hui dans notre propos,
 je vais reprendre les choses concernant la constitution du désir chez l’obsessionnel et son rapport à l’angoisse.
-Et pour ce faire, je vais revenir à une sorte de tableau, de matrice, de tableau à double entrée*,*
+Et pour ce faire, je vais revenir à une sorte de tableau, de matrice, de tableau à double entrée,
 que je vous ai donné lors des toutes premières leçons du séminaire de cette année sous la forme reproduite ici,
 encadrée par le trait blanc et inscrite en rose.
 
@@ -52,7 +52,7 @@ comme l’émotion étymologiquement l’indique, et s’y réfère
 ...*l’émoi* c’est à cher­cher pour le comprendre, bien ailleurs, et *l’étymologie* ...
 c’était l’indica­tion que je vous en avais donnée
 ...*l’étymologie*...
-dans un « *esmaier* »*,* le « *maier* » se réfé­rant à une racine germanique, au « *mögen, magan* » racine germanique tout à fait pri­mitive
+dans un « *esmaier* », le « *maier* » se réfé­rant à une racine germanique, au « *mögen, magan* » racine germanique tout à fait pri­mitive
 ...donne l’indication de *quelque chose* qui pose « *hors de* » - hors de quoi ? - le principe du pouvoir.
 
 <!-- id: s10-24-0009 -->
@@ -195,8 +195,7 @@ celui où pour la première fois passe le reflet de *quelque chose* en rapport a
 <!-- id: s10-24-0032 -->
 
 Mais aussi bien pour nous...
-comme pour tous les autres *objets(a)*
-*...*avons-nous d’autres contrôles manifestes de cet accent que je mets de la possibilité *du* *remplacement* de l’objet naturel.
+comme pour tous les autres *objets(a)...*avons-nous d’autres contrôles manifestes de cet accent que je mets de la possibilité *du* *remplacement* de l’objet naturel.
 Nous avons, dans *la possibilité du remplacement de l’objet naturel* par un objet mécanique, si je puis m’ex­primer ainsi, ce que je désigne ici, c’est le remplacement possible d’abord de cet objet par - mon Dieu - tout autre objet qui peut se rencontrer :
 
 <!-- id: s10-24-0033 -->
@@ -296,8 +295,7 @@ qu’il n’ait été depuis longtemps évoqué par la fabulation visionnaire.
 
 Et ici, je n’ai qu’à vous renvoyer une fois de plus à la fonction « *unheimlich »* des *yeux* qu’entend manipuler,
 faire passer un vivant à son automate, le personnage...
-*incarné par* Hoffmann et mis au centre par Freud de son article sur l’*Unheimlich*
-*...*de Copélius, de celui qui creuse les orbites, qui va chercher jusqu’en leur racine ce qui est *l’ob­jet* quelque part, *capital, essentiel*,
+*incarné par* Hoffmann et mis au centre par Freud de son article sur l’*Unheimlich...*de Copélius, de celui qui creuse les orbites, qui va chercher jusqu’en leur racine ce qui est *l’ob­jet* quelque part, *capital, essentiel*,
 à se présenter comme l’au-delà le plus angoissant du désir qui le constitue : *l’œil* lui-même.
 
 <!-- id: s10-24-0049 -->
@@ -311,8 +309,7 @@ pour savoir quel rapport singulier il peut avoir avec le surgissement dans telle
 
 Simplement, ajoutons-y à proprement parler ce qui, au moment où elle émerge,
 dans une aire de culture où elle surgit pour la première fois, la possibilité aussi de *l’image*...
-je dis : *de l’image spéculaire, de l’image du corps*
-*...*à l’état détaché, à l’état *cessible*, *sous forme de photographies* ou de dessins même,
+je dis : *de l’image spéculaire, de l’image du corps...*à l’état détaché, à l’état *cessible*, *sous forme de photographies* ou de dessins même,
 et du heurt, de la répugnance que ceci provoque dans la *sensibilité* de ceux qui peuvent le voir surgir tout soudain,
 et sous cette forme à la fois *indéfiniment multipliable* et possible à répandre partout.
 
@@ -627,8 +624,7 @@ En d’autres termes, qui nous montre que *la copule est partout, mais qu’elle
 
 C’est à ce trou central...
 *qui donne sa valeur privilégiée à l’angoisse de castration,*
-*c’est-à-dire au seul niveau où l’angoisse se produise : au lieu même du manque de l’objet*
-*...*c’est à ceci qu’est dû, nommément chez *l’obses­sionnel*, l’entrée en jeu d’un *autre désir*.
+*c’est-à-dire au seul niveau où l’angoisse se produise : au lieu même du manque de l’objet...*c’est à ceci qu’est dû, nommément chez *l’obses­sionnel*, l’entrée en jeu d’un *autre désir*.
 
 <!-- id: s10-24-0105 -->
 
@@ -711,7 +707,7 @@ contrairement à n’importe quel autre petit animal
 
 <!-- id: s10-24-0119 -->
 
-Le « *ne pas pouvoir* » en faire quelque chose, aussi bien que le « *ne pas savoir* »*,* mais dans leur distinction, s’indiquent ici suffisamment.
+Le « *ne pas pouvoir* » en faire quelque chose, aussi bien que le « *ne pas savoir* », mais dans leur distinction, s’indiquent ici suffisamment.
 
 <!-- id: s10-24-0120 -->
 
@@ -877,6 +873,7 @@ C’est autour de ces structures que la prochaine fois, je donnerai sa for­mula
 >
 > à partir de ces données dans d’autres structures, l’hystérique nommément
 > ...ce qu’à partir de cet exemple nous pouvons, au dernier terme, situer de *la position et de la fonc­tion de l’angoisse*.
+
 ## Notes
 
 [^169]: E. Bergler : *Psychopathologie sexuelle*, Payot, 1969.

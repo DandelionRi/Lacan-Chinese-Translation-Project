@@ -286,7 +286,7 @@ Ce n’est pas de cela qu’il s’agit, mais d’une sorte de critique véritab
 
 <!-- id: s6-04-0070 -->
 
-Pour peu que vous vous reportiez à l’un des textes quelconques qui ont été écrits par FREUD, vous verrez qu’aux différentes étapes de sa doctrine il a *arti­culé*, *répété* chaque fois qu’il a eu à aborder ce problème, qu’il s’agisse de la *Traumdeutung* ou de ce qui est dans *L’introduction à La Science des rêves,* et ensuite de ce qu’il a repris plus tard quand il a amené *le second mode d’exposé de sa topique*, c’est-à-dire à partir des articles groupés autour de *La Psychologie du moi* \[1921\] et de l’*Au-delà du principe de plaisir* \[1920\]*.*
+Pour peu que vous vous reportiez à l’un des textes quelconques qui ont été écrits par FREUD, vous verrez qu’aux différentes étapes de sa doctrine il a *arti­culé*, *répété* chaque fois qu’il a eu à aborder ce problème, qu’il s’agisse de la *Traumdeutung* ou de ce qui est dans *L’introduction à La Science des rêves,* et ensuite de ce qu’il a repris plus tard quand il a amené *le second mode d’exposé de sa topique*, c’est-à-dire à partir des articles groupés autour de *La Psychologie du moi* \[1921\] et de l’*Au-delà du principe de plaisir* \[1920\].
 
 <!-- id: s6-04-0071 -->
 
@@ -666,7 +666,7 @@ La grammaire, je n’ai pas besoin de vous dire comment elle les maintient à di
 
 <!-- id: s6-04-0164 -->
 
-Tous ces taxièmes subtils qui vont du subjonctif ici à un « *ne* »*,* que M. LE BIDOIS appelle…
+Tous ces taxièmes subtils qui vont du subjonctif ici à un « *ne* », que M. LE BIDOIS appelle…
 
 <!-- id: s6-04-0165 -->
 
@@ -773,13 +773,13 @@ Tous les signifiants ne sont pas éga­lement lésables, refoulables, fragiles. 
 [^16]: Sigmund Freud : *La science des rêves*, trad. Ignace Meyerson, Éditions Alcan, Paris, 1926, trad. révisée par Denise Berger en 1967 aux P.U.F. sous le titre : *L’interprétation des rêves*, et nouvelle traduction, sous le même titre, en 2000 aux P.U.F..
 
 
-[^17]: Sigmund Freud : *L’interprétation des rêves*, trad. Denise Berger, PUF 1967, (Rééd. 1976), p*.*113.
+[^17]: Sigmund Freud : *L’interprétation des rêves*, trad. Denise Berger, PUF 1967, (Rééd. 1976), p.113.
 
 
-[^18]: Sigmund Freud : *L’interprétation des rêves*, op. cit., p*.*120.
+[^18]: Sigmund Freud : *L’interprétation des rêves*, op. cit., p.120.
 
 
-[^19]: Sigmund Freud : *L’interprétation des rêves*, op. cit., p*.*122.
+[^19]: Sigmund Freud : *L’interprétation des rêves*, op. cit., p.122.
 
 
 [^20]: Wladimir. Granoff : « *Ferenczi, faux problème ou vrai malentendu* », séance scientifique de la S.F.P. de Décembre 1958, in *Psychanalyse* N°6 :

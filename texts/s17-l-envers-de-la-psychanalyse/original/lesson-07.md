@@ -18,7 +18,7 @@ Ce qui est remarquable dans la formulation que je vais essayer de vous donner du
 
 <!-- id: s17-07-0004 -->
 
-Dans les 4 places où se situent les éléments articulatoires \[**S<sub>1</sub>**, **S<sub>2</sub>**, **S**, ***a***\], sur les­quels je fonde *la consistance* qui peut surgir de la mise en rapport de ces *discours*, il est clair que la place que j’ai désignée comme étant celle de *la vérité,* ne se distingue qu’à approcher ce qu’il en est du fonctionnement *de ce qui vient de l’articulation à cette place*.
+Dans les 4 places où se situent les éléments articulatoires \[**S<sub>1</sub>,S<sub>2</sub>,S**, ***a***\], sur les­quels je fonde *la consistance* qui peut surgir de la mise en rapport de ces *discours*, il est clair que la place que j’ai désignée comme étant celle de *la vérité,* ne se distingue qu’à approcher ce qu’il en est du fonctionnement *de ce qui vient de l’articulation à cette place*.
 
 <!-- id: s17-07-0005 -->
 
@@ -26,7 +26,7 @@ Ceci ne lui est pas particulier, on peut en dire autant pour toutes les autres.
 
 <!-- id: s17-07-0006 -->
 
-Exemple, puisque bien sûr cette localisation, qui consistait jusqu’ici à désigner ces places comme « *l’en haut et à droite* »*,* ou « *l’en haut et à gauche* » et ainsi de suite, ne saurait bien entendu nous satisfaire.
+Exemple, puisque bien sûr cette localisation, qui consistait jusqu’ici à désigner ces places comme « *l’en haut et à droite* », ou « *l’en haut et à gauche* » et ainsi de suite, ne saurait bien entendu nous satisfaire.
 
 <!-- id: s17-07-0007 -->
 
@@ -124,11 +124,11 @@ Car *la division du sujet* c’est bien autre chose :
 
 <!-- id: s17-07-0030 -->
 
-- si « *où il n’est pas, il pense* »*,*
+- si « *où il n’est pas, il pense* »,
 
 <!-- id: s17-07-0031 -->
 
-- si « *où il ne pense pas, il est *»*,* ...c’est bien qu’il est dans les deux endroits, et même - dirais-je - que cette formule de la *Spaltung* est impropre.
+- si « *où il ne pense pas, il est *», ...c’est bien qu’il est dans les deux endroits, et même - dirais-je - que cette formule de la *Spaltung* est impropre.
 
 <!-- id: s17-07-0032 -->
 
@@ -194,7 +194,7 @@ Et pourquoi jeter en circulation ce savoir...
 
 <!-- id: s17-07-0047 -->
 
-Il est clair que nous n’en sommes plus là, et que ceci tient au « *progrès* » même, à cette bascule que je décris « *d’un quart de tour »* qui fait venir *un savoir* \[**S<sub>2</sub>**\] en quelque sorte dénaturé, de sa localisation primitive au niveau de l’esclave \[Disc. M\]*,* d’être devenu pur *savoir du Maître*, et régi par son commandement \[Disc. U\].
+Il est clair que nous n’en sommes plus là, et que ceci tient au « *progrès* » même, à cette bascule que je décris « *d’un quart de tour »* qui fait venir *un savoir* \[**S<sub>2</sub>**\] en quelque sorte dénaturé, de sa localisation primitive au niveau de l’esclave \[Disc. M\], d’être devenu pur *savoir du Maître*, et régi par son commandement \[Disc. U\].
 
 <!-- id: s17-07-0048 -->
 
@@ -218,7 +218,7 @@ Qui un instant, peut même penser que puisse s’arrêter ce qui, du *jeu des si
 
 <!-- id: s17-07-0053 -->
 
-Il est impossible de ne pas obéir au commandement qui est là, à la place de ce qui est *la vérité* de la science : « *Continue. Marche. Continue à toujours plus savoir* »*.*
+Il est impossible de ne pas obéir au commandement qui est là, à la place de ce qui est *la vérité* de la science : « *Continue. Marche. Continue à toujours plus savoir* ».
 
 <!-- id: s17-07-0054 -->
 
@@ -254,11 +254,11 @@ Tout à l’heure, nous le voyions astreint à « *continuer à savoir* » sur
 
 <!-- id: s17-07-0062 -->
 
-Sur le plan des *sciences humaines*, nous le voyons en tant que *quelque chose* pour lequel il faudrait peut-être un mot, je ne sais pas encore si c’est celui-là le bon, mais moi, comme ça, d’approche, d’instinct, de sono­rité : « *astudé* »*.*
+Sur le plan des *sciences humaines*, nous le voyons en tant que *quelque chose* pour lequel il faudrait peut-être un mot, je ne sais pas encore si c’est celui-là le bon, mais moi, comme ça, d’approche, d’instinct, de sono­rité : « *astudé* ».
 
 <!-- id: s17-07-0063 -->
 
-Si je fais entrer ce mot là dans le vocabulaire, j’aurais plus de chance que quand je voulais qu’on change le nom de la serpillière, « *astudé* » a plus de raisons d’être. Au niveau des *sciences humaines*, l’étudiant se sent « *astudé* »*.*
+Si je fais entrer ce mot là dans le vocabulaire, j’aurais plus de chance que quand je voulais qu’on change le nom de la serpillière, « *astudé* » a plus de raisons d’être. Au niveau des *sciences humaines*, l’étudiant se sent « *astudé* ».
 
 <!-- id: s17-07-0064 -->
 
@@ -302,7 +302,7 @@ Le malaise des « *astudés* » n’est pourtant pas sans rapport avec ceci, q
 
 <!-- id: s17-07-0074 -->
 
-> comme ça, aux dernières nouvelles ...dans la zone des « *sciences humaines* »*,* semble présenter quelques difficultés.
+> comme ça, aux dernières nouvelles ...dans la zone des « *sciences humaines* », semble présenter quelques difficultés.
 
 <!-- id: s17-07-0075 -->
 
@@ -384,7 +384,7 @@ La *« pulsion épistémologique »* comme ils ont inventé de le dénommer, i
 
 <!-- id: s17-07-0094 -->
 
-Comme je l’ai fait remarquer, ce n’est pas le Maître qui aurait inventé ça tout seul, il faut que quelqu’un le lui ait imposé*.*
+Comme je l’ai fait remarquer, ce n’est pas le Maître qui aurait inventé ça tout seul, il faut que quelqu’un le lui ait imposé.
 
 <!-- id: s17-07-0095 -->
 
@@ -510,7 +510,7 @@ Alors donc ce *plus de jouir*, ce *plus de jouir* aussi nous montre qu’au nive
 
 <!-- id: s17-07-0125 -->
 
-Car ici dans la partie, l’étage au-dessous du schéma à quatre, il y a une barrière \[**◊**\].
+Car ici dans la partie, l’étage au-dessous du schéma à quatre, il y a une barrière \[◊\].
 
 <!-- id: s17-07-0126 -->
 
@@ -522,7 +522,7 @@ On en prend des lichettes de la jouissance \[*a* **◊ S** : *formule du fantas
 
 <!-- id: s17-07-0128 -->
 
-\[*Le « produit » *(*a*)*, ne peut atteindre la jouissance interdite* (**S**), *et en frôlant le bord du trou (***◊***), par la relance phallique* (*a* <sub>→</sub> **S<sub>1</sub>**) *n’en prend que « des lichettes de la jouissance »*\]
+\[*Le « produit » *(*a*)*, ne peut atteindre la jouissance interdite* (**S**), *et en frôlant le bord du trou (*◊*), par la relance phallique* (*a* <sub>→</sub> **S<sub>1</sub>**) *n’en prend que « des lichettes de la jouissance »*\]
 
 <!-- id: s17-07-0129 -->
 
@@ -856,7 +856,7 @@ Alors j’ai essayé d’expliquer que ce qu’il y avait ras­surant c’est qu
 
 <!-- id: s17-07-0211 -->
 
-> comme ça je vous dis des choses simples\[*Rires*\] ...il y avait quelque chose qui était ras­surant - j’improvise *un peu* \[*Rires*\] - un rouleau comme ça, bien dur, en pierre, qui est là en puissance au niveau du clapet, ça retient*,* ça coince* *: c’est ce qu’on appelle le *phallus*, le rouleau qui vous met à l’abri si tout d’un coup ça se referme.
+> comme ça je vous dis des choses simples\[*Rires*\] ...il y avait quelque chose qui était ras­surant - j’improvise *un peu* \[*Rires*\] - un rouleau comme ça, bien dur, en pierre, qui est là en puissance au niveau du clapet, ça retient, ça coince: c’est ce qu’on appelle le *phallus*, le rouleau qui vous met à l’abri si tout d’un coup ça se referme.
 
 <!-- id: s17-07-0212 -->
 
@@ -884,7 +884,7 @@ J’ai introduit... je n’ai jamais parlé du *complexe d’Œdipe* que sous ce
 
 <!-- id: s17-07-0218 -->
 
-*Si je dis que c’est la métaphore paternelle*, alors que quand même, tout de même*,* *c’est pas comme ça que Freud nous présente les choses* ! Surtout qu’il tient *beaucoup* à ce que ça se soit passé, cette sacrée histoire du meurtre du père de la horde, vous savez là, cette pitrerie darwinienne : le père de la horde, comme s’il y en avait jamais eu *la moindre trace du père de la horde,* on a vu *des orangs-outangs* \[*Rires*\], *mais le père de la horde humaine on n’en a jamais vu la moindre trace !*
+*Si je dis que c’est la métaphore paternelle*, alors que quand même, tout de même, *c’est pas comme ça que Freud nous présente les choses* ! Surtout qu’il tient *beaucoup* à ce que ça se soit passé, cette sacrée histoire du meurtre du père de la horde, vous savez là, cette pitrerie darwinienne : le père de la horde, comme s’il y en avait jamais eu *la moindre trace du père de la horde,* on a vu *des orangs-outangs* \[*Rires*\], *mais le père de la horde humaine on n’en a jamais vu la moindre trace !*
 
 <!-- id: s17-07-0219 -->
 
@@ -956,7 +956,7 @@ Laissons de côté pour l’instant ce *contenu manifeste* et ce *contenu latent
 
 # S’il y a quelque chose dont on peut dire que c’est *un contenu manifeste*, c’est le mythe ! 
 
-# Ça ne suffit pas à le définir, nous l’avons défini tout à l’heure autre­ment. 
+# Ça ne suffit pas à le définir, nous l’avons défini tout à l’heure autre­ment.
 
 <!-- id: s17-07-0235 -->
 
@@ -1004,7 +1004,7 @@ Le meurtre du père est jouissance de la mère, à entendre *aux sens objectif e
 
 <!-- id: s17-07-0246 -->
 
-Je pense que j’ai assez dénoncé depuis longtemps l’ambiguïté qu’il y a dans l’usage du terme « *inconscient »* 
+Je pense que j’ai assez dénoncé depuis longtemps l’ambiguïté qu’il y a dans l’usage du terme « *inconscient »*
 
 <!-- id: s17-07-0247 -->
 
@@ -1238,7 +1238,7 @@ Voilà, je vous l’écris en très belles lettres, je ne vous l’écris pas en
 
 <!-- id: s17-07-0304 -->
 
-C’est « *prostitution* »*.*
+C’est « *prostitution* ».
 
 <!-- id: s17-07-0305 -->
 
@@ -1298,7 +1298,7 @@ Ce qu’il y a de certain, c’est que ce qui est complètement élidé dans le 
 
 <!-- id: s17-07-0319 -->
 
-Jocaste, qui comme je vous l’ai dit en savait un bout, parce que les femmes ne sont pas comme ça sans avoir des petits renseignements : il y avait là un serviteur qui avait assisté à toute l’affaire, ce serait tout de même curieux que ce serviteur, qu’on retrouve à la fin, et qui est quand même rentré au palais, n’ait pas dit à Jocaste* *: «* *C’est celui qui a bousillé ton mari ».
+Jocaste, qui comme je vous l’ai dit en savait un bout, parce que les femmes ne sont pas comme ça sans avoir des petits renseignements : il y avait là un serviteur qui avait assisté à toute l’affaire, ce serait tout de même curieux que ce serviteur, qu’on retrouve à la fin, et qui est quand même rentré au palais, n’ait pas dit à Jocaste: «* *C’est celui qui a bousillé ton mari ».
 
 <!-- id: s17-07-0320 -->
 
@@ -1318,7 +1318,7 @@ Et puis si « *Œdipe »* se finit très mal*...*
 
 <!-- id: s17-07-0324 -->
 
-on verra ce que veut dire « *se* *finit très mal* »*,* et jusqu’à quel point ça s’appelle « *très mal finir »* ...c’est parce qu’il a absolument voulu savoir *la vérité*.
+on verra ce que veut dire « *se* *finit très mal* », et jusqu’à quel point ça s’appelle « *très mal finir »* ...c’est parce qu’il a absolument voulu savoir *la vérité*.
 
 <!-- id: s17-07-0325 -->
 

@@ -98,7 +98,7 @@ que toute *Critique de la raison pure,* mise au jour de notre science, pourrait 
 <!-- id: s10-08-0017 -->
 
 J’ose à peine dire « *pour l’introduire* »,
-car après tout, ce que je vais for­muler n’est là que fait de discours et à peine ancré dans cette dialectique*,*
+car après tout, ce que je vais for­muler n’est là que fait de discours et à peine ancré dans cette dialectique,
 je dirai donc, pour fixer notre visée, ce que j’entends vous faire entendre : l’*objet*, l’*objet(a),* cet *objet*...
 
 <!-- id: s10-08-0018 -->
@@ -129,7 +129,7 @@ est-elle parfaitement sen­sible dans les formulations de Freud, et nommément d
 
 <!-- id: s10-08-0024 -->
 
-Qu’il me suffise pour, si vous voulez le contrôler sur un texte, *de vous renvoyer à cette 32<sup>ème</sup>* *leçon de l’Introduction à la psychanalyse* [^57]*,* celle qui est trouvable dans ce qu’on appelle la nouvelle série des *Vorlesungen,* celle que je citais la dernière fois.
+Qu’il me suffise pour, si vous voulez le contrôler sur un texte, *de vous renvoyer à cette 32<sup>ème</sup>* *leçon de l’Introduction à la psychanalyse* [^57], celle qui est trouvable dans ce qu’on appelle la nouvelle série des *Vorlesungen,* celle que je citais la dernière fois.
 
 <!-- id: s10-08-0025 -->
 
@@ -380,7 +380,7 @@ Toute différente est, vous le savez, *la position du masochiste,* pour qui cett
 
 <!-- id: s10-08-0074 -->
 
-- ou *marchandise*, *item* dont on traite dans un contrat, en le cédant, *en le vendant parmi d’autres objets à mettre sur le marché*, bref, *son identification* à cet autre objet, que j’ai appelé l’objet commun, l’objet d’échange*,* c’est la route, c’est la voie, où il recherche justement *cet impossible*, qui est de se saisir pour ce qu’il est, en tant que, comme tous, il est un *(a)*.
+- ou *marchandise*, *item* dont on traite dans un contrat, en le cédant, *en le vendant parmi d’autres objets à mettre sur le marché*, bref, *son identification* à cet autre objet, que j’ai appelé l’objet commun, l’objet d’échange, c’est la route, c’est la voie, où il recherche justement *cet impossible*, qui est de se saisir pour ce qu’il est, en tant que, comme tous, il est un *(a)*.
 
 <!-- id: s10-08-0075 -->
 
@@ -607,8 +607,7 @@ Et je ne finirai pas ma leçon aujourd’hui sans vous dire *où* il convient qu
 <!-- id: s10-08-0119 -->
 
 Ce *petit(a)*, comme tel, à la place où il est, au niveau où il pourrait être reconnu « *si c’était possible »*...
-car bien sûr tout à l’heure, vous ai-je dit *que se reconnaître comme l’objet de son désir c’est toujours masochisme*
-*...« si c’était possible »* : *le masochiste ne le fait que sur la scène*.
+car bien sûr tout à l’heure, vous ai-je dit *que se reconnaître comme l’objet de son désir c’est toujours masochisme...« si c’était possible »* : *le masochiste ne le fait que sur la scène*.
 
 <!-- id: s10-08-0120 -->
 
@@ -673,7 +672,7 @@ Il peut, à ceux qui ont entendu mon dis­cours sur le *Banquet,*
 rappeler cette dimension, toujours éludée quand il s’agit du *transfert*, qui est *l’autre dimension,* à savoir
 que *le trans­fert n’est pas simplement ce qui reproduit une situation, une action, une atti­tude, un traumatisme ancien, ni ce qui le répète,*
 c’est qu’il y a toujours *une autre coordonnée*, celle sur laquelle j’ai mis l’accent à propos de *l’intervention analytique de Socrate*,
-à savoir nommément dans les cas que j’évoque* *: *un amour présent dans le réel*.
+à savoir nommément dans les cas que j’évoque: *un amour présent dans le réel*.
 
 <!-- id: s10-08-0132 -->
 
@@ -897,7 +896,7 @@ La confrontation de ce désir du père...
 > sur lequel tout dans sa conduite est construit
 > ...avec cette loi qui se présentifie dans le regard du père,
 > c’est ceci par quoi elle se sent définitivement *identifiée*, et du même coup rejetée, déjetée hors de la scène.
-> Seul le « *laisser tomber* »*,* le « *se laisser tomber* » peut le réaliser.
+> Seul le « *laisser tomber* », le « *se laisser tomber* » peut le réaliser.
 
 <!-- id: s10-08-0174 -->
 
@@ -955,7 +954,7 @@ qui est *la cause* de *l’hypnose*. La cause de l’hypnose ne se livre pas dan
 Autre réfé­rence : *le doute de l’obsessionnel*. Et sur quoi porte-t-il le *doute radical*
 qui fait aussi que les analyses d’obsessionnels se poursuivent pendant des temps et des temps, et très bellement ?
 C’est une véritable *« lune de miel* » une cure d’obsessionnel, toujours, entre l’analyste et l’analysé,
-pour autant que ce centre, où Freud nous désigne très bien quelle sorte de discours se tient l’obsessionnel*,* à savoir :
+pour autant que ce centre, où Freud nous désigne très bien quelle sorte de discours se tient l’obsessionnel, à savoir :
 
 <!-- id: s10-08-0185 -->
 
@@ -1005,7 +1004,7 @@ Le paradoxe est...
 
 <!-- id: s10-08-0194 -->
 
-Car avec Dora *-* j’y reviendrai - nous pouvons mieux articuler maintenant ce qui s’est passé : tout est loin, très loin
+Car avec Dora - j’y reviendrai - nous pouvons mieux articuler maintenant ce qui s’est passé : tout est loin, très loin
 d’être maladresse, et l’on peut dire que si Dora n’a pas été analysée jusqu’au bout, Freud a vu clair jusqu’au bout.
 
 <!-- id: s10-08-0195 -->
@@ -1031,6 +1030,7 @@ car vous sen­tez bien que tout ceci va à viser une référence essentielle dan
 <!-- id: s10-08-0199 -->
 
 <img src="assets/image52.jpeg" style="width:2.08815in;height:2.74863in" alt="m" />
+
 ## Notes
 
 [^53]:

@@ -182,7 +182,7 @@ C’est parce que *c’est uniquement à ce niveau que se résolvent* - vous le 
 
 <!-- id: s12-03-0045 -->
 
-Alors qu’à prendre les choses, vous le verrez : dans un certain débat, dans un certain registre, dans un certain biais, cette fonction du *nom propre* - c’est clair de la façon la plus transparente - est à proprement parler, pour ce qu’il est et pour ce que son nom indique*,* et qui n’est pas du tout : que *le nom propre* c’est un - comme dit RUSSELL - *word for particular*, un *mot pour le particulier*, assurément pas, assurément pas, vous le verrez. Mais reprenons.
+Alors qu’à prendre les choses, vous le verrez : dans un certain débat, dans un certain registre, dans un certain biais, cette fonction du *nom propre* - c’est clair de la façon la plus transparente - est à proprement parler, pour ce qu’il est et pour ce que son nom indique, et qui n’est pas du tout : que *le nom propre* c’est un - comme dit RUSSELL - *word for particular*, un *mot pour le particulier*, assurément pas, assurément pas, vous le verrez. Mais reprenons.
 
 <!-- id: s12-03-0046 -->
 
@@ -320,7 +320,7 @@ Mais il y a des choses qui ne se comportent pas du tout comme ça, qui se passen
 
 <!-- id: s12-03-0079 -->
 
-Par exemple celui-ci : faites-y une coupure comme celle-là, exactement comme celle-là, et si vous ne l’avez pas déjà fait, et si vous n’avez pas déjà réfléchi sur le tore*,* dites-moi combien ça va faire de morceaux, *par exemple*.
+Par exemple celui-ci : faites-y une coupure comme celle-là, exactement comme celle-là, et si vous ne l’avez pas déjà fait, et si vous n’avez pas déjà réfléchi sur le tore, dites-moi combien ça va faire de morceaux, *par exemple*.
 
 <!-- id: s12-03-0080 -->
 
@@ -460,7 +460,7 @@ Si vous redressez effectivement ceci, tel que je l’ai dessiné, et que vous le
 
 <!-- id: s12-03-0114 -->
 
-Ceci, je vous le répète*,* n’a strictement *aucun intérêt* ! Ce qui est intéressant, c’est que les propriétés de cette bouteille sont telles que la surface en question, la surface qui la ferme, la surface qui la compose, a exactement les mêmes propriétés qu’une *bande de Mœbius*, à savoir qu’il n’y a qu’une face, comme il est facile d’en répondre et de le constater.
+Ceci, je vous le répète, n’a strictement *aucun intérêt* ! Ce qui est intéressant, c’est que les propriétés de cette bouteille sont telles que la surface en question, la surface qui la ferme, la surface qui la compose, a exactement les mêmes propriétés qu’une *bande de Mœbius*, à savoir qu’il n’y a qu’une face, comme il est facile d’en répondre et de le constater.
 
 <!-- id: s12-03-0115 -->
 
@@ -596,7 +596,7 @@ Je vous emmène là, par une voie difficile, et qui, vues l’heure et la néces
 
 <!-- id: s12-03-0145 -->
 
-Aussi bien, puisque nous n’avons plus que dix minutes, je vais essayer de vous en donner une petite explication, amusante, dont vous verrez le rapport global avec le champ de l’expérience analytique. Il y a plus d’une façon de traduire cette *construction*. Je pourrai vous y donner la figure de GAGARINE le cosmonaute. GAGARINE le cosmonaute, apparemment est bel et bien enfermé, disons pour simplifier et aller vite - nous n’avons plus beaucoup de temps *-* comme l’image antique, dans son petit *cosmos baladeur*.
+Aussi bien, puisque nous n’avons plus que dix minutes, je vais essayer de vous en donner une petite explication, amusante, dont vous verrez le rapport global avec le champ de l’expérience analytique. Il y a plus d’une façon de traduire cette *construction*. Je pourrai vous y donner la figure de GAGARINE le cosmonaute. GAGARINE le cosmonaute, apparemment est bel et bien enfermé, disons pour simplifier et aller vite - nous n’avons plus beaucoup de temps - comme l’image antique, dans son petit *cosmos baladeur*.
 
 <!-- id: s12-03-0146 -->
 
@@ -658,7 +658,7 @@ Le *Heimlich* de FREUD - *et c’est pour cela qu’il est en même temps l’Un
 
 <!-- id: s12-03-0160 -->
 
-Mais un jour, il arrive que sans savoir pourquoi, vous franchissiez, invisible à vous-même, je ne sais quelle limite, et vous tombiez sur une place où vous n’aviez jamais été et que… Où pourtant… où vous-même la reconnaissez comme étant celle-là, de place, où il vous souvient d’avoir été depuis toujours et d’être retourné cent fois*,* vous vous en souvenez maintenant. Elle était là dans votre mémoire comme une sorte d’*îlot* à part, *quelque chose* de non repéré et qui soudain là pour vous se rassemble.
+Mais un jour, il arrive que sans savoir pourquoi, vous franchissiez, invisible à vous-même, je ne sais quelle limite, et vous tombiez sur une place où vous n’aviez jamais été et que… Où pourtant… où vous-même la reconnaissez comme étant celle-là, de place, où il vous souvient d’avoir été depuis toujours et d’être retourné cent fois, vous vous en souvenez maintenant. Elle était là dans votre mémoire comme une sorte d’*îlot* à part, *quelque chose* de non repéré et qui soudain là pour vous se rassemble.
 
 <!-- id: s12-03-0161 -->
 

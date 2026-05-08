@@ -26,7 +26,7 @@ On ne peut pas non plus faire état seulement des relations d’identification t
 <!-- id: s5-28-0004 -->
 
 de collection de per­sonnages, si vous voulez à la façon de la comédie italienne, dans lesquels viendraient
-au premier plan par exemple les termes comme « *la mère* »*,* « *le père* »*,* voire même com­plétés de quelques autres.
+au premier plan par exemple les termes comme « *la mère* », « *le père* », voire même com­plétés de quelques autres.
 
 <!-- id: s5-28-0005 -->
 
@@ -54,7 +54,7 @@ et pour simplement indiquer qu’il est extrêmement important de distinguer les
 <!-- id: s5-28-0009 -->
 
 Dire sans doute que « *la prise de conscience de l’envie du pénis est capitale dans une analyse de névrose obsessionnelle féminine »*,
-c’est dire quelque chose qui va de soi, car si on n’avait jamais rencontré le *phallus* dans une analyse*,* qu’elle soit *fémi­nine* ou pas, d’une *névrose obsessionnelle*, et même de n’importe quelle névrose, ce serait vraiment bien étrange.
+c’est dire quelque chose qui va de soi, car si on n’avait jamais rencontré le *phallus* dans une analyse, qu’elle soit *fémi­nine* ou pas, d’une *névrose obsessionnelle*, et même de n’importe quelle névrose, ce serait vraiment bien étrange.
 Il est possible qu’à force de pousser l’analyse dans un certain sens, celui qui est articulé dans *la psychanalyse* dite « *d’aujourd’hui »* [^65], à savoir la réduction des productions fantasmatiques du transfert à ce qu’on appelle
 « *cette réalité si simple* », c’est-à-dire la situation analytique, à savoir qu’il y a là deux personnes qui, bien entendu,
 n’ont rien à faire avec ces fantasmes.
@@ -239,7 +239,7 @@ C’est bien cela aussi qui nous fait dire qu’entre :
 
 <!-- id: s5-28-0046 -->
 
-- le rapport de *l’obsessionnel,* du sujet obsessionnel à *sa demande* \[S **◊** D\],
+- le rapport de *l’obsessionnel,* du sujet obsessionnel à *sa demande* \[S ◊ D\],
 
 <!-- id: s5-28-0047 -->
 
@@ -404,7 +404,7 @@ de *désir*, même sous une forme déniée, est lié à cette *culpabilité*.
 
 Et au-dessous de cela, c’est-à-dire *au* 3<sup>ème</sup> *niveau*, au niveau que nous appellerons en cette occasion - personne
 ne contestera ce repérage - celui du *surmoi*, que l’on appelle, je ne sais trop pourquoi, dans l’observation
-que nous avons suivie dans la *Revue de Psychanalyse, « surmoi fémi­nin »*. Pourquoi « *féminin* » ? Disons « *maternel* »*.*
+que nous avons suivie dans la *Revue de Psychanalyse, « surmoi fémi­nin »*. Pourquoi « *féminin* » ? Disons « *maternel* ».
 
 <!-- id: s5-28-0079 -->
 
@@ -655,7 +655,7 @@ Il est dans le *symptôme*, il vient d’ailleurs, il est interférence fantas­
 <!-- id: s5-28-0126 -->
 
 en tant qu’analystes qu’il suggère la place où il existe comme *fantasme*. Mais il me semble que c’est autre chose
-quand ce *phallus* apparaît dans une tout autre fonction, à savoir quand il se « *projette* »*,* si l’on peut dire, *en avant*
+quand ce *phallus* apparaît dans une tout autre fonction, à savoir quand il se « *projette* », si l’on peut dire, *en avant*
 de l’image de l’hostie pour le sujet.
 
 <!-- id: s5-28-0127 -->
@@ -729,14 +729,14 @@ du rapport peut-être qui, dans un temps lointain, a été par elle fait entre,
 <!-- id: s5-28-0139 -->
 
 Assurément, en tout cas, le fait que le *phallus* ici - et d’une façon répétée car il y a un 2<sup>ème</sup> *exemple* qui est donné après - apparaisse dans cette position, à savoir quelque part qui doit se situer au niveau du *signifiant de l’Autre* comme tel
-en tant qu’atteint*,* en tant que barré \[A\], en tant qu’identique à la plus profonde signification que *l’Autre* ait atteint pour le sujet, ne doit pas être négligé comme tel.
+en tant qu’atteint, en tant que barré \[A\], en tant qu’identique à la plus profonde signification que *l’Autre* ait atteint pour le sujet, ne doit pas être négligé comme tel.
 
 <!-- id: s5-28-0140 -->
 
 Et d’autre part, quand *le phallus* apparaît à un autre moment de l’analyse, à un moment de l’analyse qui lui est légèrement postérieur, parce qu’à ce moment-là déjà sont entrées en ligne de compte beaucoup d’*interprétations*
 qui l’ont fait venir sous cet angle au jour, à savoir dans ces rêves où la patiente - c’est un des rêves les plus communs, qui s’ob­serve dans je dirai la plupart des névroses - où la patiente se réalise elle-même comme être phallique,
 c’est-à-dire voit un de ses seins remplacé par un *phallus*, voire un *phallus* situé *entre* ses deux seins,
-c’est un des *fantasmes* oniriques les plus fréquents que l’on puisse rencontrer, la question, je dois dire, me paraît liée à tout à fait autre chose dans cette occasion qu’à *un désir*, comme on dit « *d’identification masculine avec possession phallique* »*.*
+c’est un des *fantasmes* oniriques les plus fréquents que l’on puisse rencontrer, la question, je dois dire, me paraît liée à tout à fait autre chose dans cette occasion qu’à *un désir*, comme on dit « *d’identification masculine avec possession phallique* ».
 
 <!-- id: s5-28-0141 -->
 
@@ -838,7 +838,7 @@ ce n’est pas un commandement moral, c’est un commandement justement fondé s
 
 <!-- id: s5-28-0159 -->
 
-> « *Tu aimeras ton prochain comme toi-même* »*.*
+> « *Tu aimeras ton prochain comme toi-même* ».
 
 <!-- id: s5-28-0160 -->
 

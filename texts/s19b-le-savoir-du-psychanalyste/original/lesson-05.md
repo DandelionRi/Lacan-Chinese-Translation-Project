@@ -34,11 +34,11 @@ Vous voudrez bien m'excuser, ça ne sera certainement pas dû à mon état anorm
 
 <!-- id: s19b-05-0008 -->
 
-Ailleurs*,* évidemment je ne ménage guère mon auditoire.
+Ailleurs, évidemment je ne ménage guère mon auditoire.
 
 <!-- id: s19b-05-0009 -->
 
-Si quelques uns qui sont là - j'en aperçois quelques uns - se souviennent de ce dont j'ai parlé la dernière fois* *: j'ai parlé en somme de cette chose que j'ai résumée dans le noeud borroméen, je veux dire une chaîne de 3, et telle qu'à détacher un des anneaux de cette chaîne, les deux autres ne peuvent plus un seul instant tenir ensemble.
+Si quelques uns qui sont là - j'en aperçois quelques uns - se souviennent de ce dont j'ai parlé la dernière fois: j'ai parlé en somme de cette chose que j'ai résumée dans le noeud borroméen, je veux dire une chaîne de 3, et telle qu'à détacher un des anneaux de cette chaîne, les deux autres ne peuvent plus un seul instant tenir ensemble.
 
 <!-- id: s19b-05-0010 -->
 
@@ -516,7 +516,7 @@ Et que ce qui ressort de ce *discours*, c'est la dimension jamais jusqu'à prés
 
 <!-- id: s19b-05-0126 -->
 
-C'est autour de l'« *ustensile* » que l'expérience analytique nous incite à voir tourner tout ce qui s'énonce du rapport sexuel. Ceci est une nouveauté, je veux dire \[*ceci*\] *répond à l'émergence d'un discours*, qui assurément n'était jamais venu encore au jour, et qui ne saurait se concevoir sans la préalable émergence du *discours* *de la science* \[*discours Hystérique*\]*,* en tant qu'il est insertion du langage sur *le réel mathématique*.
+C'est autour de l'« *ustensile* » que l'expérience analytique nous incite à voir tourner tout ce qui s'énonce du rapport sexuel. Ceci est une nouveauté, je veux dire \[*ceci*\] *répond à l'émergence d'un discours*, qui assurément n'était jamais venu encore au jour, et qui ne saurait se concevoir sans la préalable émergence du *discours* *de la science* \[*discours Hystérique*\], en tant qu'il est insertion du langage sur *le réel mathématique*.
 
 <!-- id: s19b-05-0127 -->
 
@@ -560,7 +560,7 @@ Néanmoins *cette écriture* ne s'autorise, ne prend sa forme que *d'une écritu
 
 <!-- id: s19b-05-0137 -->
 
-Ce n'est qu'à partir de l'existence de la formulation de cette topologie que nous avons pu, de toute proposition*,* imaginer que nous fassions *fonction propositionnelle*, c'est-à-dire quelque chose qui se spécifie de la place vide \[*pour tout x*\] qu'on y laisse, et en fonction de laquelle se détermine l'argument \[*x vérifie la fonction*\].
+Ce n'est qu'à partir de l'existence de la formulation de cette topologie que nous avons pu, de toute proposition, imaginer que nous fassions *fonction propositionnelle*, c'est-à-dire quelque chose qui se spécifie de la place vide \[*pour tout x*\] qu'on y laisse, et en fonction de laquelle se détermine l'argument \[*x vérifie la fonction*\].
 
 <!-- id: s19b-05-0138 -->
 
@@ -686,7 +686,7 @@ Car vous pouvez voir qu'au niveau, quel qu'il soit\...
 
 <!-- id: s19b-05-0168 -->
 
-Que dans les deux cas, à ces deux niveaux qui sont comme tels indépendants, dont il ne s'agit pas du tout de faire de l'un la négation de l'autre, mais au contraire de l'un l'obstacle à l'autre*,* par contre ce que vous voyez se répartir, c'est justement :
+Que dans les deux cas, à ces deux niveaux qui sont comme tels indépendants, dont il ne s'agit pas du tout de faire de l'un la négation de l'autre, mais au contraire de l'un l'obstacle à l'autre, par contre ce que vous voyez se répartir, c'est justement :
 
 <!-- id: s19b-05-0169 -->
 
@@ -886,7 +886,7 @@ Ceci évidemment manifestant, mais au niveau du mythe, ceci : que pour exister 
 
 <!-- id: s19b-05-0217 -->
 
-Pourquoi ce « *n'aurait pas dû* », pourquoi la théorie de l'inceste, ça rendrait nécessaire que je m'engage sur cette voie des *Noms du Père,* où précisément j'ai dit que je ne m'engagerai plus jamais* *?
+Pourquoi ce « *n'aurait pas dû* », pourquoi la théorie de l'inceste, ça rendrait nécessaire que je m'engage sur cette voie des *Noms du Père,* où précisément j'ai dit que je ne m'engagerai plus jamais?
 
 <!-- id: s19b-05-0218 -->
 
@@ -974,7 +974,7 @@ Mais, *par contre*, il est bien certain que *<u>ce qui se supporte</u>* c'est *l
 
 <!-- id: s19b-05-0239 -->
 
-Vous êtes bien là, tous par quelque côté, à *exister*, mais pour ce qui est de votre *être*, vous n'êtes pas tellement tranquilles ! Autrement vous ne viendriez pas en chercher l'assurance dans tant d'efforts psychanalytiques*.*
+Vous êtes bien là, tous par quelque côté, à *exister*, mais pour ce qui est de votre *être*, vous n'êtes pas tellement tranquilles ! Autrement vous ne viendriez pas en chercher l'assurance dans tant d'efforts psychanalytiques.
 
 <!-- id: s19b-05-0240 -->
 
@@ -1204,7 +1204,7 @@ Mais il est une chose singulière que je retrouve par voie d'enquête\...
 
 <!-- id: s19b-05-0294 -->
 
-Enfin si ça vous amuse, je vais quand même vous l'écrire* *:
+Enfin si ça vous amuse, je vais quand même vous l'écrire:
 
 <!-- id: s19b-05-0295 -->
 

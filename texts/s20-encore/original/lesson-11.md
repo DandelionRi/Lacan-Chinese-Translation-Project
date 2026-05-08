@@ -6,7 +6,7 @@
 
 <!-- id: s20-11-0001 -->
 
-*Je pense à vous* \[C.O.I*.*\], ça ne veut pas dire que *je vous pense* \[C.O.D*.*\].
+*Je pense à vous* \[C.O.I.\], ça ne veut pas dire que *je vous pense* \[C.O.D.\].
 
 <!-- id: s20-11-0002 -->
 
@@ -74,11 +74,11 @@ Je vous annonce déjà que, si surprenant que cela puisse vous paraître d’abo
 
 <!-- id: s20-11-0018 -->
 
-- \[*Dans* *le discours scientifique : l’objet (a) ne peut être atteint qu’indirectement (C.O.I.) par le savoir* (S<sub>2</sub>), *la science produit un savoir coupé de son objet* (*formalisation mathématique <sub>→</sub> «  je pense* (S<sub>2</sub>) *où je ne suis pas* (◊ *a*) »)*.*
+- \[*Dans* *le discours scientifique : l’objet (a) ne peut être atteint qu’indirectement (C.O.I.) par le savoir* (S<sub>2</sub>), *la science produit un savoir coupé de son objet* (*formalisation mathématique <sub>→</sub> «  je pense* (S<sub>2</sub>) *où je ne suis pas* (◊ *a*) »).
 
 <!-- id: s20-11-0019 -->
 
-- *Dans* *le discours analytique, l’objet (a) est au départ (C.O.D.) mais c’est le savoir* (S<sub>2</sub>) *sur* S<sub>1</sub> *qui ne peut être atteint* : *l’analyse produit un essaim de* S<sub>1</sub> *asémantiques, coupés du savoir* S<sub>2*→*</sub> *« non-sens ». <sub>→</sub> « je suis* (S<sub>1</sub>) *où je ne pense pas* (◊S<sub>2</sub>) »\]
+- *Dans* *le discours analytique, l’objet (a) est au départ (C.O.D.) mais c’est le savoir* (S<sub>2</sub>) *sur* S<sub>1</sub> *qui ne peut être atteint* : *l’analyse produit un essaim de* S<sub>1</sub> *asémantiques, coupés du savoir* S<sub>2→</sub> *« non-sens ». <sub>→</sub> « je suis* (S<sub>1</sub>) *où je ne pense pas* (◊S<sub>2</sub>) »\]
 
 <!-- id: s20-11-0020 -->
 
@@ -90,7 +90,7 @@ Je vous annonce déjà que, si surprenant que cela puisse vous paraître d’abo
 
 <!-- id: s20-11-0022 -->
 
-> tout ce que, aujourd’hui, je développerai à vous le rendre plus accessible, mais je donne ici mes formules, ...*l’inconscient* ce n’est pas que « l’être pense »..*.* comme l’implique pourtant ce qu’on en dit, ceci dans la science traditionnelle ...*l’inconscient c’est*...
+> tout ce que, aujourd’hui, je développerai à vous le rendre plus accessible, mais je donne ici mes formules, ...*l’inconscient* ce n’est pas que « l’être pense »... comme l’implique pourtant ce qu’on en dit, ceci dans la science traditionnelle ...*l’inconscient c’est*...
 
 <!-- id: s20-11-0023 -->
 
@@ -130,7 +130,7 @@ En quoi cette nouvelle science concerne-t-elle *le réel* ?
 
 <!-- id: s20-11-0032 -->
 
-> que je qualifie de « traditionnelle* »,* pour être celle qui nous vient de la pensée d’Aristote, ...cette « *faute* » ai-je dit, c’est d’impliquer que *« l’être pense »*, que la pensée soit telle que le *pensé* soit à son image \[C.O.D*.*\], c’est-à-dire que l’être pense.
+> que je qualifie de « traditionnelle* »,* pour être celle qui nous vient de la pensée d’Aristote, ...cette « *faute* » ai-je dit, c’est d’impliquer que *« l’être pense »*, que la pensée soit telle que le *pensé* soit à son image \[C.O.D.\], c’est-à-dire que l’être pense.
 
 <!-- id: s20-11-0033 -->
 
@@ -206,7 +206,7 @@ Je la qualifierai d’une façon simple, trop simple et qui risque de vous faire
 
 <!-- id: s20-11-0051 -->
 
-- *la pensée est du côté du manche*, \[*disc. M *: S<sub>1 **→**</sub> S<sub>2</sub> **<sub>→</sub>** ↓***a***\]
+- *la pensée est du côté du manche*, \[*disc. M *: S<sub>1 →</sub> S<sub>2</sub> <sub>→</sub> ↓***a***\]
 
 <!-- id: s20-11-0052 -->
 
@@ -214,7 +214,7 @@ Je la qualifierai d’une façon simple, trop simple et qui risque de vous faire
 
 <!-- id: s20-11-0053 -->
 
-Ce qui se lit* *: de ce que *le manche est la parole* \[*du maître*\]*,* lui seul explique et rend raison.
+Ce qui se lit: de ce que *le manche est la parole* \[*du maître*\], lui seul explique et rend raison.
 
 <!-- id: s20-11-0054 -->
 
@@ -226,7 +226,7 @@ Mais ce que j’en relève, c’est que ce *« dimanche »* a été lu et appr
 
 <!-- id: s20-11-0056 -->
 
-> \[*la « dialectique du maître et de l’esclave »* \[S<sub>1 **→**</sub> S<sub>2</sub>\] *doit aboutir (par « Aufhebung » successives)*
+> \[*la « dialectique du maître et de l’esclave »* \[S<sub>1 →</sub> S<sub>2</sub>\] *doit aboutir (par « Aufhebung » successives)*
 >
 > *au « dimanche de la vie » du « savoir absolu », dans une lecture kojévienne, et à « la fin de l’Histoire », etc.*\]
 
@@ -272,7 +272,7 @@ Le baroque c’est au départ l’historiole...
 
 <!-- id: s20-11-0067 -->
 
-> ne vous frappez pas : c’est lui-même qui s’est désigné comme *« le Fils de l’Homme » !* *...*ce que racontent quatre textes dits « *évangéliques »* \[εὐαγγέλιον, de [εὖ](https://fr.wiktionary.org/wiki/%CE%B5%E1%BD%96) : *bon*, et [ἄγγελος](https://fr.wiktionary.org/wiki/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82), *anggelos : messager*\] d’être pas tellement « *bonne nouvelle* » que « *annonceurs bons* » pour leur sorte de nouvelle \[: §\], ça peut aussi s’entendre comme ça, et ça me paraît plus approprié.
+> ne vous frappez pas : c’est lui-même qui s’est désigné comme *« le Fils de l’Homme » !...*ce que racontent quatre textes dits « *évangéliques »* \[εὐαγγέλιον, de [εὖ](https://fr.wiktionary.org/wiki/%CE%B5%E1%BD%96) : *bon*, et [ἄγγελος](https://fr.wiktionary.org/wiki/%E1%BC%84%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82), *anggelos : messager*\] d’être pas tellement « *bonne nouvelle* » que « *annonceurs bons* » pour leur sorte de nouvelle \[: §\], ça peut aussi s’entendre comme ça, et ça me paraît plus approprié.
 
 <!-- id: s20-11-0068 -->
 
@@ -308,7 +308,7 @@ Dans ce genre les Évangiles, on ne peut pas mieux dire, on ne peut mieux dire d
 
 <!-- id: s20-11-0076 -->
 
-- c’est-à-dire mieux repousser la réalité dans *le fantasme* (**S ◊ *a***)*.* \[*disc. M *: S<sub>1 **→**</sub> S<sub>2</sub> **<sub>→</sub>** ↓***a* ◊ S**\]
+- c’est-à-dire mieux repousser la réalité dans *le fantasme* (**S ◊ *a***). \[*disc. M *: S<sub>1 →</sub> S<sub>2</sub> <sub>→</sub> ↓***a* ◊ S**\]
 
 <!-- id: s20-11-0077 -->
 
@@ -336,7 +336,7 @@ Ouais ! Le christianisme a rejeté tout ça à *l’abjection* considérée comm
 
 <!-- id: s20-11-0083 -->
 
-Qu’il soit « la vraie religion »*,* comme il prétend, n’est pas une prétention excessive, et ce d’autant plus qu’à examiner *le vrai* de près, c’est ce qu’on peut en *dire* de *pire*.
+Qu’il soit « la vraie religion », comme il prétend, n’est pas une prétention excessive, et ce d’autant plus qu’à examiner *le vrai* de près, c’est ce qu’on peut en *dire* de *pire*.
 
 <!-- id: s20-11-0084 -->
 
@@ -410,7 +410,7 @@ Freud, heureusement, nous a donné une interprétation nécessaire*...*
 
 <!-- id: s20-11-0101 -->
 
-> *qui <u>ne cesse</u> pas de s’écrire* comme je définis *le <u>nécess</u>aire* *...*une interprétation nécessaire du meurtre du fils comme fondateur de la religion de la grâce.
+> *qui <u>ne cesse</u> pas de s’écrire* comme je définis *le <u>nécess</u>aire...*une interprétation nécessaire du meurtre du fils comme fondateur de la religion de la grâce.
 
 <!-- id: s20-11-0102 -->
 
@@ -470,7 +470,7 @@ En fait c’est bien ce qui épate la science classique : comment ça peut-il m
 
 <!-- id: s20-11-0116 -->
 
-- et d’autre part, c’est un fait que ça *pleurniche* - et pourquoi diable ? - dès que corporellement*,* imaginairement
+- et d’autre part, c’est un fait que ça *pleurniche* - et pourquoi diable ? - dès que corporellement, imaginairement
 
 <!-- id: s20-11-0117 -->
 
@@ -506,7 +506,7 @@ En d’autres termes, l’important c’est que tout ça colle assez pour que le
 
 <!-- id: s20-11-0125 -->
 
-Qui ne voit que *l’âme,* ce n’est rien d’autre que son identité supposée à lui-même \[*au corps*\]*,* avec tout ce qu’on pense pour l’expliquer.
+Qui ne voit que *l’âme,* ce n’est rien d’autre que son identité supposée à lui-même \[*au corps*\], avec tout ce qu’on pense pour l’expliquer.
 
 <!-- id: s20-11-0126 -->
 
@@ -604,11 +604,11 @@ Mais tout ceci nous entraînerait - ouais... - nous entraînerait vers ceci, nou
 
 <!-- id: s20-11-0147 -->
 
-\[*la parole peut véhiculer une énergie de jouissance (a) inter-dite entre* S<sub>1 *→* </sub>S<sub>2</sub>  *<sub>→</sub> jouissance phallique, ou celle des lapsus, rêves…*, *non codifiée par la structure linguistique *\]
+\[*la parole peut véhiculer une énergie de jouissance (a) inter-dite entre* S<sub>1 → </sub>S<sub>2</sub>  *<sub>→</sub> jouissance phallique, ou celle des lapsus, rêves…*, *non codifiée par la structure linguistique *\]
 
 <!-- id: s20-11-0148 -->
 
-Pour faire sortir de là, non pas des quantités mais *des chiffres*, qui tels qu’ils soient choisis, enfin d’une façon \- remarquez ! - complètement arbitraire, on s’arrange à ce qu’il reste toujours quelque part *une constante,* car c’est là le fondement de l’énergétique, et ben c’est pas commode. \[*cf. [les constantes de la physique](http://www.astrosurf.com/luxorion/constante-physique.htm)* (G, c, h, e, k,...)\] \[*du discours du maître (pensée globale de l’être) au discours de la science (formalisation mathématico-logique) quelque chose se perd, car même la structure mathématico-logique* *relève du langage qui ne peut « saisir » que la partie formalisable de l’objet (littoral littéral), mais l’objet lui-même y reste inerte. C’est ce qui donne lieu à l’écriture d’une lettre* *« au lieu » de l’objet (cf. les constantes en physique) et au dépassement du discours scientifique par le discours analytique. Le discours analytique prend cette lettre (a)* *comme point de départ dans un dispositif* (*a* <sub>→</sub> S : «* dites tout ce qui vous passe par la tête même si ça n’a aucun sens *») *qui aboutit à la production de* S<sub>1</sub> « *en essaims* »*.*\]
+Pour faire sortir de là, non pas des quantités mais *des chiffres*, qui tels qu’ils soient choisis, enfin d’une façon \- remarquez ! - complètement arbitraire, on s’arrange à ce qu’il reste toujours quelque part *une constante,* car c’est là le fondement de l’énergétique, et ben c’est pas commode. \[*cf. [les constantes de la physique](http://www.astrosurf.com/luxorion/constante-physique.htm)* (G, c, h, e, k,...)\] \[*du discours du maître (pensée globale de l’être) au discours de la science (formalisation mathématico-logique) quelque chose se perd, car même la structure mathématico-logique* *relève du langage qui ne peut « saisir » que la partie formalisable de l’objet (littoral littéral), mais l’objet lui-même y reste inerte. C’est ce qui donne lieu à l’écriture d’une lettre* *« au lieu » de l’objet (cf. les constantes en physique) et au dépassement du discours scientifique par le discours analytique. Le discours analytique prend cette lettre (a)* *comme point de départ dans un dispositif* (*a* <sub>→</sub> S : «* dites tout ce qui vous passe par la tête même si ça n’a aucun sens *») *qui aboutit à la production de* S<sub>1</sub> « *en essaims* ».\]
 
 <!-- id: s20-11-0149 -->
 
@@ -620,7 +620,7 @@ Quel rapport peut-il bien y avoir entre
 
 <!-- id: s20-11-0151 -->
 
-- l’articulation qui constitue le langage*,*
+- l’articulation qui constitue le langage,
 
 <!-- id: s20-11-0152 -->
 
@@ -658,7 +658,7 @@ C’était donc l’année dernière[^86] que j’ai pris pour thème la formule
 
 <!-- id: s20-11-0159 -->
 
-que j’ai cru pouvoir supporter d’un nœud bien connu et qu’on appelle *« le nœud borroméen »* *...*la formule : « *Je te demande de refuser ce que je t’offre, parce que ça n’est pas ça* ».
+que j’ai cru pouvoir supporter d’un nœud bien connu et qu’on appelle *« le nœud borroméen »...*la formule : « *Je te demande de refuser ce que je t’offre, parce que ça n’est pas ça* ».
 
 <!-- id: s20-11-0160 -->
 
@@ -690,7 +690,7 @@ La négation a toute semblance de venir de là, mais rien de plus.
 
 <!-- id: s20-11-0167 -->
 
-La structure pour s’y brancher ne démontre rien, sinon qu’elle est du texte même de *la jouissance*, en tant qu’à marquer de quelle distance elle manque celle dont il s’agirait « *si c’était ça »* \[*la jouissance qu’il faut*\]*,* elle ne la suppose pas seulement « *celle qui serait ça »*, elle en supporte une autre. Voilà !
+La structure pour s’y brancher ne démontre rien, sinon qu’elle est du texte même de *la jouissance*, en tant qu’à marquer de quelle distance elle manque celle dont il s’agirait « *si c’était ça »* \[*la jouissance qu’il faut*\], elle ne la suppose pas seulement « *celle qui serait ça »*, elle en supporte une autre. Voilà !
 
 <!-- id: s20-11-0168 -->
 
@@ -702,11 +702,11 @@ La structure pour s’y brancher ne démontre rien, sinon qu’elle est du texte
 
 <!-- id: s20-11-0169 -->
 
-Cette *dit*-*mention* \[*la fonction phallique*\]...
+Cette *dit-mention* \[*la fonction phallique*\]...
 
 <!-- id: s20-11-0170 -->
 
-> là *je me répète*, mais nous sommes dans un domaine où justement la loi c’est *la répétition* *...cette dit-mention c’est le dire de* Freud, c’est même la preuve de l’existence de Freud : dans un certain nombre d’années il en faudra une \[*Rires*\].
+> là *je me répète*, mais nous sommes dans un domaine où justement la loi c’est *la répétition...cette dit-mention c’est le dire de* Freud, c’est même la preuve de l’existence de Freud : dans un certain nombre d’années il en faudra une \[*Rires*\].
 
 <!-- id: s20-11-0171 -->
 
@@ -722,7 +722,7 @@ Le *christianisme* est le fait que vous savez : c’est accroché là...
 
 <!-- id: s20-11-0174 -->
 
-Enfin pour l’instant on a « *Les Trois Essais sur la sexualité »* [^87] auxquels je vous prie de vous reporter d’ailleurs, dont j’aurai à faire usage, comme j’ai fait autrefois usage de ces écrits[^88] sur ce que j’appelle *« la dérive »* *-* pour traduire *Trieb -* *la dérive de la jouissance*.
+Enfin pour l’instant on a « *Les Trois Essais sur la sexualité »* [^87] auxquels je vous prie de vous reporter d’ailleurs, dont j’aurai à faire usage, comme j’ai fait autrefois usage de ces écrits[^88] sur ce que j’appelle *« la dérive »* - pour traduire *Trieb -* *la dérive de la jouissance*.
 
 <!-- id: s20-11-0175 -->
 
@@ -742,11 +742,11 @@ Mais il n’était pas assez intelligent...
 
 <!-- id: s20-11-0179 -->
 
-Ça \[*la révélation chrétienne*\] lui aurait permis de voir, ben que c’est pas du tout ça, qu’il n’y a pas la moindre connaissance, le moins qu’on puisse dire c’est que *les jouissances* \[*les (a)*\] qui en supportent le *semblant* \[S<sub>2</sub> *des discours* H,U,M \]*,* c’est quelque chose comme le spectre de la lumière blanche. À cette seule condition qu’on voie :
+Ça \[*la révélation chrétienne*\] lui aurait permis de voir, ben que c’est pas du tout ça, qu’il n’y a pas la moindre connaissance, le moins qu’on puisse dire c’est que *les jouissances* \[*les (a)*\] qui en supportent le *semblant* \[S<sub>2</sub> *des discours* H,U,M \], c’est quelque chose comme le spectre de la lumière blanche. À cette seule condition qu’on voie :
 
 <!-- id: s20-11-0180 -->
 
-- que *la jouissance* dont il s’agit \[*la lumière blanche*\] est hors du champ de ce spectre \[*qui n’a que des (a)* <sub>→</sub> « <sub> </sub>*objets partiels* »*, illusion d’arc en ciel, faute de* S<sub>1</sub> *unificateur :* S<sub>2 →</sub> *a* <sub>→</sub> S**◊**S<sub>1</sub> \],
+- que *la jouissance* dont il s’agit \[*la lumière blanche*\] est hors du champ de ce spectre \[*qui n’a que des (a)* <sub>→</sub> « <sub> </sub>*objets partiels* »*, illusion d’arc en ciel, faute de* S<sub>1</sub> *unificateur :* S<sub>2 →</sub> *a* <sub>→</sub> S◊S<sub>1</sub> \],
 
 <!-- id: s20-11-0181 -->
 
@@ -802,11 +802,11 @@ Tout ce qui a déferlé des effets du christianisme, dans l’art notamment...
 
 <!-- id: s20-11-0193 -->
 
-\[*une doctrine* (S<sub>2</sub>) *vise la jouissance hors-sexe qui est celle des « objets partiels » du « corps morcelé », les objets (a) : oral, anal, vocal, scopique,* *produisant comme plus-de-jouir un sujet* S, *mais sans la finalité* S<sub>1</sub> *pour en unifier le champ car *S**◊**S<sub>1</sub>, <sub>→</sub> *hétérogénéité de l’être et du pensé, de « la pensée » et du « pensé »* \]
+\[*une doctrine* (S<sub>2</sub>) *vise la jouissance hors-sexe qui est celle des « objets partiels » du « corps morcelé », les objets (a) : oral, anal, vocal, scopique,* *produisant comme plus-de-jouir un sujet* S, *mais sans la finalité* S<sub>1</sub> *pour en unifier le champ car *S◊S<sub>1</sub>, <sub>→</sub> *hétérogénéité de l’être et du pensé, de « la pensée » et du « pensé »* \]
 
 <!-- id: s20-11-0194 -->
 
-Elle \[*la copulation*\] est aussi hors-champ qu’elle l’est dans la réalité humaine qu’elle sustente, qu’elle sustente pourtant *des fantasmes* \[S**◊***a dans le discours* M\] dont elle est constituée \[*a* <sub>→</sub>S *dans le discours* U, *celui de la doctrine chrétienne*\]. Nulle part, dans aucune ère culturelle, cette exclusion ne s’est avouée de façon plus nue.
+Elle \[*la copulation*\] est aussi hors-champ qu’elle l’est dans la réalité humaine qu’elle sustente, qu’elle sustente pourtant *des fantasmes* \[S◊*a dans le discours* M\] dont elle est constituée \[*a* <sub>→</sub>S *dans le discours* U, *celui de la doctrine chrétienne*\]. Nulle part, dans aucune ère culturelle, cette exclusion ne s’est avouée de façon plus nue.
 
 <!-- id: s20-11-0195 -->
 
@@ -868,7 +868,7 @@ L’Autre en tant que *lieu* où la parole d’être *<u>déposée</u>* [^89]...
 
 <!-- id: s20-11-0209 -->
 
-- *que le discours ne serait pas réduit à ne partir - vous vous en souvenez du titre d’un des séminaires - à ne partir que du semblant* [^90]*.*
+- *que le discours ne serait pas réduit à ne partir - vous vous en souvenez du titre d’un des séminaires - à ne partir que du semblant* [^90].
 
 <!-- id: s20-11-0210 -->
 
@@ -980,7 +980,7 @@ Il est plus que probable que la fabulation antique, « *la mythologie »*...
 
 <!-- id: s20-11-0236 -->
 
-Eh ben cette *mythologie* est parvenue aussi à quelque chose, à quelque chose dans le genre de la psychanalyse* *: vous comprenez, ces dieux comme ça, il y en avait à la pelle des dieux, il suffisait de trouver le bon, il suffisait de trouver le bon et ça faisait ce truc, ce truc contingent, qui fait que quelquefois après une analyse, nous aboutissons à ce qu’« *un chacun* » baise convenablement sa « *une chacune* ».
+Eh ben cette *mythologie* est parvenue aussi à quelque chose, à quelque chose dans le genre de la psychanalyse: vous comprenez, ces dieux comme ça, il y en avait à la pelle des dieux, il suffisait de trouver le bon, il suffisait de trouver le bon et ça faisait ce truc, ce truc contingent, qui fait que quelquefois après une analyse, nous aboutissons à ce qu’« *un chacun* » baise convenablement sa « *une chacune* ».
 
 <!-- id: s20-11-0237 -->
 

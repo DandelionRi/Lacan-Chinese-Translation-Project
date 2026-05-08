@@ -98,7 +98,7 @@ Quelque chose irait dans ce sens. C’est ce qui se passe, à la limite, quand �
 
 <!-- id: s7-05-0024 -->
 
-Cet effort vers le plaisir, aussi bien qu’est-ce qu’il donne, si ce n’est ce que nous appelons - dans notre langage, ici, métaphorique, et qui va loin comme tel *-* des formes torturées. Vous me pardonnerez, je pense, cette excursion, puisqu’aussi bien, autant que je vous l’ai annoncé, elle n’est pas sans lancer à l’avance je ne sais quelle pointe vers quelque chose que nous nous trouverons amenés à reprendre tout à l’heure à propos de *ce que j’ai appelé pour vous « l’époque de l’homme du plaisir* », le XVIII<sup>ème</sup> siècle, et le style très spécial qu’il a introduit dans l’investigation de l’érotisme.
+Cet effort vers le plaisir, aussi bien qu’est-ce qu’il donne, si ce n’est ce que nous appelons - dans notre langage, ici, métaphorique, et qui va loin comme tel - des formes torturées. Vous me pardonnerez, je pense, cette excursion, puisqu’aussi bien, autant que je vous l’ai annoncé, elle n’est pas sans lancer à l’avance je ne sais quelle pointe vers quelque chose que nous nous trouverons amenés à reprendre tout à l’heure à propos de *ce que j’ai appelé pour vous « l’époque de l’homme du plaisir* », le XVIII<sup>ème</sup> siècle, et le style très spécial qu’il a introduit dans l’investigation de l’érotisme.
 
 <!-- id: s7-05-0025 -->
 

@@ -6,7 +6,7 @@
 
 <!-- id: s14-20-0001 -->
 
-Je vais essayer de vous faire entrer aujourd’hui dans cet *[arcane](http://www.cnrtl.fr/definition/arcane),* qui pour être trivial dans la psychanalyse, n’en est pas moins un *arcane,* à savoir ceci que vous ren­contrez à tous les tournants : que si le sujet analysé, si le sujet analysable, adopte ce que l’on appelle une position régressive ou encore « *pré* » - *pré*-*œdipienne*, *pré*-*génitale*, enfin *pré*-*quelque chose -* qui serait bien souhaitable, et dont on pourrait d’ailleurs s’étonner à cette occasion, qu’on ne la désigne que « *post* », puisque c’est pour se dérober au jeu, à l’incidence de *la castration*, que le sujet est censé s’y réfugier.
+Je vais essayer de vous faire entrer aujourd’hui dans cet *[arcane](http://www.cnrtl.fr/definition/arcane),* qui pour être trivial dans la psychanalyse, n’en est pas moins un *arcane,* à savoir ceci que vous ren­contrez à tous les tournants : que si le sujet analysé, si le sujet analysable, adopte ce que l’on appelle une position régressive ou encore « *pré* » - *pré-œdipienne*, *pré-génitale*, enfin *pré-quelque chose -* qui serait bien souhaitable, et dont on pourrait d’ailleurs s’étonner à cette occasion, qu’on ne la désigne que « *post* », puisque c’est pour se dérober au jeu, à l’incidence de *la castration*, que le sujet est censé s’y réfugier.
 
 <!-- id: s14-20-0002 -->
 
@@ -30,7 +30,7 @@ La mise en exercice de toute une population d’entités subjectives, que vous c
 
 <!-- id: s14-20-0007 -->
 
-Un sujet n’est en aucun cas une entité autonome, *seul le nom propre peut en donner l’illusion*. Le « *je* », c’est trop dire qu’il soit suspect \- depuis que je vous en parle, il ne doit même plus l’être - il n’est très précisément que ce *sujet* que - comme signifiant - « *je* » représente pour le signi­fiant « *marche* »*,* par exemple, ou pour le couple de signifiants « *la boucle* » *:* « *je la boucle* » !
+Un sujet n’est en aucun cas une entité autonome, *seul le nom propre peut en donner l’illusion*. Le « *je* », c’est trop dire qu’il soit suspect \- depuis que je vous en parle, il ne doit même plus l’être - il n’est très précisément que ce *sujet* que - comme signifiant - « *je* » représente pour le signi­fiant « *marche* », par exemple, ou pour le couple de signifiants « *la boucle* » : « *je la boucle* » !
 
 <!-- id: s14-20-0008 -->
 
@@ -410,7 +410,7 @@ Est-ce qu’il peut y avoir illustrations plus saisissantes de ce qu’introduit
 
 <!-- id: s14-20-0099 -->
 
-Tout ce que je viens de dire, la *Loi mosaïque* elle-même, et aussi bien peut-être l’accent qu’y ajoute le soulignage que ce morceau n’est pas le pénis, puisque dans la circonci­sion il est en quelque sorte incisé, pour être marqué de ce signe négatif, est-ce que ceci n’est pas pour faire surgir devant nous ce qu’il y a - dirai-je - de porte perverse dans l’instauration, au seuil de ce qu’il en est de l’acte sexuel, de ce *Commandement* : « *Ils ne seront qu’une seule chair* » *?*
+Tout ce que je viens de dire, la *Loi mosaïque* elle-même, et aussi bien peut-être l’accent qu’y ajoute le soulignage que ce morceau n’est pas le pénis, puisque dans la circonci­sion il est en quelque sorte incisé, pour être marqué de ce signe négatif, est-ce que ceci n’est pas pour faire surgir devant nous ce qu’il y a - dirai-je - de porte perverse dans l’instauration, au seuil de ce qu’il en est de l’acte sexuel, de ce *Commandement* : « *Ils ne seront qu’une seule chair* » ?
 
 <!-- id: s14-20-0100 -->
 

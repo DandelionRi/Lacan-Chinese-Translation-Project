@@ -82,7 +82,7 @@ ni d’im­portant, si ce n’est pour la beauté des dits « *tableaux synopti
 <!-- id: s5-22-0016 -->
 
 Mais en fin de compte, ce qui fait la valeur de cette *relation d’objet*, c’est ce qui est son pivot, ce qui en somme,
-a introduit dans la dialectique analytique la notion d’objet, c’est bien et avant tout ce qui est appelé « *objet partiel *»*,* terme emprunté au vocabulaire et aux termes d’ABRAHAM, d’une façon d’ailleurs pas tout à fait exacte
+a introduit dans la dialectique analytique la notion d’objet, c’est bien et avant tout ce qui est appelé « *objet partiel *», terme emprunté au vocabulaire et aux termes d’ABRAHAM, d’une façon d’ailleurs pas tout à fait exacte
 car ce dont ABRAHAM a parlé, c’est de « *l’amour partiel de l’objet* », ce qui n’est pas évidemment tout à fait pareil,
 et déjà ce glissement a lui-même quelque chose de significatif.
 
@@ -175,12 +175,12 @@ Cette sorte d’*introjection* qui, elle, devient *« conservatrice » *:
 
 <!-- id: s5-22-0033 -->
 
-« ...*n’a-t-elle pas des traits communs avec la communion religieuse*, *du moins dans la névrose obsessionnelle -* nous dit-on p.172 *-*
+« ...*n’a-t-elle pas des traits communs avec la communion religieuse*, *du moins dans la névrose obsessionnelle -* nous dit-on p.172 -
 *où l’on avale sans mâcher* - ajoute-t-on, puisqu’aussi bien pour commenter ces - « *sentiments de bonheur dans ce fantasme*
 
 <!-- id: s5-22-0034 -->
 
-*qui ne com­portait aucune destruction, semblable en cela aux fantaisies de succion des mélancoliques d’*ABRAHAM*.*
+*qui ne com­portait aucune destruction, semblable en cela aux fantaisies de succion des mélancoliques d’*ABRAHAM.
 *Cette sorte d’introjection que l’on pourrait peut-être qualifier de passive, me paraît beaucoup mieux mériter le nom de conservatrice.*
 
 <!-- id: s5-22-0035 -->
@@ -305,7 +305,7 @@ c’est-à-dire au passage, au remodèlement en fin de compte, du sujet dans les
 <!-- id: s5-22-0061 -->
 
 Nous savons que ceci ne suffit pas à constituer un sujet satisfaisant, un sujet qui se tienne sur le nombre de points d’appui qu’il lui faut, disons 4, et qui sait ? C’est justement dans cet *au-delà de la demande* que s’articule un *Begehren*
-*-* nous avons déjà essayé de le définir la dernière fois en le qualifiant de *Begierde,* de *désir* \[A **◊** *d*\] - à sa place topologique, où il y a en quelque sorte une nécessité liée à cette *topologie*, à ce que ce soit dans ce champ de *l’au-delà de la demande* que vienne se situer, et du même coup s’articuler, nécessairement subir cette articulation particulière à cet *au-delà,*
+- nous avons déjà essayé de le définir la dernière fois en le qualifiant de *Begierde,* de *désir* \[A ◊ *d*\] - à sa place topologique, où il y a en quelque sorte une nécessité liée à cette *topologie*, à ce que ce soit dans ce champ de *l’au-delà de la demande* que vienne se situer, et du même coup s’articuler, nécessairement subir cette articulation particulière à cet *au-delà,*
 le désir sexuel.
 
 <!-- id: s5-22-0062 -->
@@ -335,7 +335,7 @@ Le *signifié*, qui est d’abord un « *à signifier *» est donc bien ce si
 Cela va loin, et il n’y a pas moyen d’aller moins loin pour donner sa signification au *phallus*, à savoir ce quelque chose qui fait qu’il occupe ici cette place privilégiée dans ce qui va se produire comme tel de signifiant,
 dans cet *au-delà* qui s’appelle ici l’*au-delà du désir*, à savoir tout le champ qui est là, au-delà du champ de la demande.
 Pour autant qu’est *symbolisé* cet *au-delà du désir*, et pour autant que c’est ainsi, c’est là que nous verrons la possibilité
-\- c’est une simple articulation du sens de ce que nous disons - qu’ici \[S **◊** D\] il y ait un rapport du *sujet* à *la demande* comme telle. Car il est bien évident que pour qu’il y ait un rapport du *sujet* à *la demande*, il ne faut pas qu’il soit complètement inclus.
+\- c’est une simple articulation du sens de ce que nous disons - qu’ici \[S ◊ D\] il y ait un rapport du *sujet* à *la demande* comme telle. Car il est bien évident que pour qu’il y ait un rapport du *sujet* à *la demande*, il ne faut pas qu’il soit complètement inclus.
 
 <!-- id: s5-22-0068 -->
 
@@ -352,7 +352,7 @@ il n’y a pas seu­lement les petits *frotti-frotta*, les soins à l’*Eau de 
 
 <!-- id: s5-22-0071 -->
 
-Au-delà de cet Autre, s’il y a ici quelque chose qui se constitue du signifiant qui s’appelle l’*au-delà du désir*, nous avons la possibilité de ce rapport S **◊** D, c’est-à-dire le *sujet* comme tel, un *sujet* moins complet, c’est-à-dire qu’il est *barré*.
+Au-delà de cet Autre, s’il y a ici quelque chose qui se constitue du signifiant qui s’appelle l’*au-delà du désir*, nous avons la possibilité de ce rapport S ◊ D, c’est-à-dire le *sujet* comme tel, un *sujet* moins complet, c’est-à-dire qu’il est *barré*.
 Cela veut dire qu’un *sujet* humain complet n’est jamais un pur et simple sujet comme toute la phi­losophie
 
 <!-- id: s5-22-0072 -->
@@ -370,12 +370,12 @@ ou encore à ce qu’on appelle en philosophie *une conscience*.
 Mais comme nous sommes des analystes, nous savons qu’*il y a toujours une Spaltung,* c’est-à-dire qu’il y a toujours
 *deux lignes où il se constitue*, et c’est pour cela d’ailleurs que naissent tous les problèmes de structure qui sont les nôtres.
 Ici, qu’est-ce qui doit se constituer ? C’est précisément ce que j’ai appelé, non plus le *signifié de* A \[*s*(A)\]
-mais le *signifiant de* A, \[S(A)\]*,* en tant que cette *Spaltung,* il la connaît, qu’il est lui-même structuré par cette *Spaltung,* autrement dit, en tant que lui, A, a déjà subi les effets de cette *Spaltung.*
+mais le *signifiant de* A, \[S(A)\], en tant que cette *Spaltung,* il la connaît, qu’il est lui-même structuré par cette *Spaltung,* autrement dit, en tant que lui, A, a déjà subi les effets de cette *Spaltung.*
 
 <!-- id: s5-22-0075 -->
 
 Ici, ça se renverse, ça veut dire : est déjà marqué de cet *effet de signifiant* qui est *signifié* par le signifiant *phallus*.
-*C’est le* A*,* donc si vous voulez*, en tant que le phallus y est barré, porté à l’état de signifiant* \[ϕ → Φ\].
+*C’est le* A, donc si vous voulez*, en tant que le phallus y est barré, porté à l’état de signifiant* \[ϕ → Φ\].
 *C’est l’Autre en tant que châtré qui, ici, se représente à la place du message, le mes­sage du désir* \[S(A)\]. *Le message du désir, c’est cela.*
 
 <!-- id: s5-22-0076 -->
@@ -494,7 +494,7 @@ Et FREUD souligne :
 Là-dessus, nous apprenons que lors d’une promenade en canot, elle a entendu *une chanson d’étudiants* fort *inconvenante*, concernant l’usage que la reine de Suède, les volets fermés, faisait avec les bougies d’APOLLON.
 Elle n’a pas compris le dernier mot, son mari lui a expliqué. Bien entendu les volets fermés, l’APOLLON,
 tout cela se retrouve et s’ébat congrûment à l’occasion. L’important, c’est qu’ici nous voyons apparaître alors,
-à l’état nu si je puis dire, et isolé, à l’état d’*objet partiel*, sinon volant, *le signifiant phallus,* et que *le point impor­tant* c’est bien entendu que - nous ne savons pas à quel moment de cette analyse de cette malade, car c’est une malade certainement en analyse, le sujet de ce rêve a été extrait - *le point important* est évidemment ici dans « *Ce n’est pas sa faute* »*.*
+à l’état nu si je puis dire, et isolé, à l’état d’*objet partiel*, sinon volant, *le signifiant phallus,* et que *le point impor­tant* c’est bien entendu que - nous ne savons pas à quel moment de cette analyse de cette malade, car c’est une malade certainement en analyse, le sujet de ce rêve a été extrait - *le point important* est évidemment ici dans « *Ce n’est pas sa faute* ».
 
 <!-- id: s5-22-0100 -->
 
@@ -522,7 +522,7 @@ le mieux au style de son action et de sa position par rapport à son père, à M
 
 <!-- id: s5-22-0105 -->
 
-Et c’est là que je vous ai indiqué une chose : c’est pour autant qu’*elle se trouve s’identifier à Monsieur K*. dans un certain rapport à l’autre, alors *imaginaire* comme tel, et pour autant *qu’en face de ce désir* elle le sou­tient à cette place, à savoir à la place qui lui est correspondante, que toute la petite construction est possible. Vous avez bien vu qu’en somme ici se dessine un petit carré dont les quatre som­mets sont représentés par : *moi* \[*m*\], *image de l’autre* \[*i(a)*\], *rapport du sujet constitué alors à l’autre imaginaire comme tel* \[S **◊** *a*\],*et ici :* *désir* \[*d*\]*.* Nous trouvons ainsi les quatre pieds sur les­quels peut tenir normalement un sujet humain constitué comme tel, c’est-à-dire qui n’est ni plus ni moins averti du mécanisme et *des ficelles tirant la marionnette* d’un autre là où il voit, c’est-à-dire où il est capable, ou à peu près capable, de se repérer dans cette composante essentielle.
+Et c’est là que je vous ai indiqué une chose : c’est pour autant qu’*elle se trouve s’identifier à Monsieur K*. dans un certain rapport à l’autre, alors *imaginaire* comme tel, et pour autant *qu’en face de ce désir* elle le sou­tient à cette place, à savoir à la place qui lui est correspondante, que toute la petite construction est possible. Vous avez bien vu qu’en somme ici se dessine un petit carré dont les quatre som­mets sont représentés par : *moi* \[*m*\], *image de l’autre* \[*i(a)*\], *rapport du sujet constitué alors à l’autre imaginaire comme tel* \[S ◊ *a*\],*et ici :* *désir* \[*d*\]. Nous trouvons ainsi les quatre pieds sur les­quels peut tenir normalement un sujet humain constitué comme tel, c’est-à-dire qui n’est ni plus ni moins averti du mécanisme et *des ficelles tirant la marionnette* d’un autre là où il voit, c’est-à-dire où il est capable, ou à peu près capable, de se repérer dans cette composante essentielle.
 
 <!-- id: s5-22-0106 -->
 
@@ -745,7 +745,7 @@ Par contre il me semble - vous pouvez le concevoir, et d’ailleurs le retrouver
 vos *obsessionnels -* que *l’obsessionnel* est habité de désirs qui sont justement tous ceux, à condition que vous y mettiez
 un peu la main, que vous voyez fourmiller en une espèce d’extraordinaire vermine qui, dans une espèce de milieu
 de culture particulièrement bien approprié, si vous dirigez en effet - il suffit de pas grand chose, il suffit d’avoir
-les éléments de votre transfert dont je parlais tout à l’heure *-* si vous dirigez la cure de la névrose obsessionnelle
+les éléments de votre transfert dont je parlais tout à l’heure - si vous dirigez la cure de la névrose obsessionnelle
 dans *la culture du fantasme*, vous verrez ladite *vermine* proliférer à peu près dans tout ce qu’on veut.
 
 <!-- id: s5-22-0149 -->

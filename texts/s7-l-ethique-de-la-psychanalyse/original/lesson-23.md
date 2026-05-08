@@ -458,7 +458,7 @@ Ceci est important, parce que ce ne sont pas les dieux d’en bas dont il s’ag
 
 <!-- id: s7-23-0110 -->
 
-« *Je ne suis pas là non plus pour la* δίκη *.* »
+« *Je ne suis pas là non plus pour la* δίκη . »
 
 <!-- id: s7-23-0111 -->
 
@@ -534,7 +534,7 @@ Nulle part ailleurs n’est la position d’ANTIGONE. Elle n’évoque aucun aut
 
 <!-- id: s7-23-0126 -->
 
-*Ce qui est, est* et c’est à cela, c’est autour de cela, de cette surface que se fixe *la position imbrisable*, infranchissable d’ANTIGONE. Elle repousse tout le reste*.* Je crois que, ici, le « *à bout de course* » n’est nulle part mieux illustré, et que tout ce qu’on met autour n’est qu’une façon de faire flotter, d’éluder le caractère absolument radical de la façon dont est posé, dans le texte, le problème. Aussi bien, c’est là ce qui le fonde, ce qu’on peut appeler, dans l’ensemble, cette caractéristique humaine évoquée discrètement au passage, qui fait que l’homme a inventé la sépulture.
+*Ce qui est, est* et c’est à cela, c’est autour de cela, de cette surface que se fixe *la position imbrisable*, infranchissable d’ANTIGONE. Elle repousse tout le reste. Je crois que, ici, le « *à bout de course* » n’est nulle part mieux illustré, et que tout ce qu’on met autour n’est qu’une façon de faire flotter, d’éluder le caractère absolument radical de la façon dont est posé, dans le texte, le problème. Aussi bien, c’est là ce qui le fonde, ce qu’on peut appeler, dans l’ensemble, cette caractéristique humaine évoquée discrètement au passage, qui fait que l’homme a inventé la sépulture.
 
 <!-- id: s7-23-0127 -->
 

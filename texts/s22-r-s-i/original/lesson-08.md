@@ -170,7 +170,7 @@ Faut dire aussi que *le phallus* c’est ce qui donne corps à l’*Imaginaire*.
 
 <!-- id: s22-08-0041 -->
 
-Je rappelle là quelque chose qui m’avait beaucoup frappé dans son temps. 
+Je rappelle là quelque chose qui m’avait beaucoup frappé dans son temps.
 
 <!-- id: s22-08-0042 -->
 
@@ -278,7 +278,7 @@ Il doit y avoir un lien...
 
 <!-- id: s22-08-0068 -->
 
-> parce que je vous ai dit ça comme ça, indiqué dans son temps ...il doit y avoir un lien entre ça et le sens*,* soit ce par quoi le 1 s’applique si bien au 0.
+> parce que je vous ai dit ça comme ça, indiqué dans son temps ...il doit y avoir un lien entre ça et le sens, soit ce par quoi le 1 s’applique si bien au 0.
 
 <!-- id: s22-08-0069 -->
 
@@ -314,7 +314,7 @@ Point d’interro­gation, hein !
 
 <!-- id: s22-08-0077 -->
 
-C’est pas dans l’idée de *l’inconscient* *!*
+C’est pas dans l’idée de *l’inconscient!*
 
 <!-- id: s22-08-0078 -->
 
@@ -476,7 +476,7 @@ Le *green pasture,* pour aller là droit au but : l’*au moins un* Dieu, le vr
 
 <!-- id: s22-08-0116 -->
 
-Le non-dupe du *nom de nom de Nom-du-Père* : le *Non-dupe-erre* sans cela pour le *zist* ou le *zest* [^21]* *: éternité.
+Le non-dupe du *nom de nom de Nom-du-Père* : le *Non-dupe-erre* sans cela pour le *zist* ou le *zest* [^21]: éternité.
 
 <!-- id: s22-08-0117 -->
 
@@ -548,7 +548,7 @@ Voilà ce qu’il faut se demander, c’est : *à quoi elle ex-siste ?*
 
 <!-- id: s22-08-0134 -->
 
-Car c’est ça que ça veut dire le nœud borroméen, c’est que *le trou du Symbolique* est inviolable*.* Voilà !
+Car c’est ça que ça veut dire le nœud borroméen, c’est que *le trou du Symbolique* est inviolable. Voilà !
 
 <!-- id: s22-08-0135 -->
 

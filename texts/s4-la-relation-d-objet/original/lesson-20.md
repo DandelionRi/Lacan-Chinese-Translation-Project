@@ -303,7 +303,7 @@ le poursuivre, le petit Hans dit quelque chose qui est à peu près ceci :
 <!-- id: s4-20-0056 -->
 
 Mais quel est le résultat de ceci ? FREUD lui, nous dit, nous articule, très nettement de lui-même, de son cru, à ce moment-là,
-que bien entendu il n’est pas à attendre que cette communication de sa part porte du premier coup *-* rien que par le coup porté *-*
+que bien entendu il n’est pas à attendre que cette communication de sa part porte du premier coup - rien que par le coup porté -
 ses fruits. Il s’agit, dit FREUD - à ce moment-là dans l’observation, l’articulant comme nous l’articulons ici -
 
 <!-- id: s4-20-0057 -->

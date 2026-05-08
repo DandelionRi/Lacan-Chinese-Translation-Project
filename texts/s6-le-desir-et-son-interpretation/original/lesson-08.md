@@ -346,7 +346,7 @@ La restitution du *sens du fantasme*, c’est-à-dire de quelque chose d’*imag
 
 <!-- id: s6-08-0084 -->
 
-Entre les deux est ce fantasme \[S**◊***a*\] où d’habitude il suspend son rapport à l’être. Mais ce fantasme est toujours *énigmatique*, plus que n’importe quoi d’autre. Et que veut-il ? Ceci : que nous l’interprétions ! Interpréter le désir, c’est restituer ceci, auquel le sujet ne peut pas accéder à lui tout seul, à savoir l’affect qui désigne, au niveau de ce désir qui est le sien…
+Entre les deux est ce fantasme \[S◊*a*\] où d’habitude il suspend son rapport à l’être. Mais ce fantasme est toujours *énigmatique*, plus que n’importe quoi d’autre. Et que veut-il ? Ceci : que nous l’interprétions ! Interpréter le désir, c’est restituer ceci, auquel le sujet ne peut pas accéder à lui tout seul, à savoir l’affect qui désigne, au niveau de ce désir qui est le sien…
 
 <!-- id: s6-08-0085 -->
 

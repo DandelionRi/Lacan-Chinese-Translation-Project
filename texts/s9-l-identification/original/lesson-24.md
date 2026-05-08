@@ -42,7 +42,7 @@ La *figure 2* nous aidera à com­prendre l’autre. Il s’agit de *savoir ce q
 
 <!-- id: s9-24-0010 -->
 
-Tout ce que je vais vous dire en effet sur *le plan projectif*, la place privilégiée qu’y occupe le point, ce que nous appellerons « *le point* »*,* qui est ici figuré dans le *cross-cap*, ici \[fig.1\], *point terminal de la ligne de pseudo-pénétration* de la surface sur elle-même, ce point, vous voyez sa fonction dans cette forme ouverte \[fig.2\] du même objet décrit à la *figure 1*.
+Tout ce que je vais vous dire en effet sur *le plan projectif*, la place privilégiée qu’y occupe le point, ce que nous appellerons « *le point* », qui est ici figuré dans le *cross-cap*, ici \[fig.1\], *point terminal de la ligne de pseudo-pénétration* de la surface sur elle-même, ce point, vous voyez sa fonction dans cette forme ouverte \[fig.2\] du même objet décrit à la *figure 1*.
 
 <!-- id: s9-24-0011 -->
 
@@ -358,11 +358,11 @@ Mais avec cette coupure, ce qui apparaît, c’est une sur­face qui a cet aspec
 
 <!-- id: s9-24-0089 -->
 
-C’est cette ligne, et c’est surtout ce point, qui donnent à la forme à double tour de cette coupure sa signification privilégiée du point de vue schématique, parce que c’est à celle-là que nous allons nous fier pour nous donner *un schéma de représentation*, schématique de ce qu’est la relation S *coupure de (a)* \[S**◊***a*\]*,* ce que nous n’arrivons pas à saisir au niveau de *la structure du tore*, à savoir de quelque chose qui nous permet d’articuler schématiquement *la structure du désir*, la structure du désir en tant que formellement nous l’avons déjà inscrite dans ce quelque chose dont nous disons qu’il nous permet de concevoir *la structure du fantasme* : S**◊***a.*
+C’est cette ligne, et c’est surtout ce point, qui donnent à la forme à double tour de cette coupure sa signification privilégiée du point de vue schématique, parce que c’est à celle-là que nous allons nous fier pour nous donner *un schéma de représentation*, schématique de ce qu’est la relation S *coupure de (a)* \[S◊*a*\], ce que nous n’arrivons pas à saisir au niveau de *la structure du tore*, à savoir de quelque chose qui nous permet d’articuler schématiquement *la structure du désir*, la structure du désir en tant que formellement nous l’avons déjà inscrite dans ce quelque chose dont nous disons qu’il nous permet de concevoir *la structure du fantasme* : S◊*a.*
 
 <!-- id: s9-24-0090 -->
 
-Nous n’épuiserons pas aujourd’hui le sujet, mais nous essaierons d’introduire aujourd’hui pour vous que cette figure, dans sa fonction schématique, est assez exemplaire pour nous permettre de trouver la relation de S *coupure de (a)* \[S**◊***a*\]*,* la for­malisation du fantasme dans son rapport avec *quelque chose* qui s’inscrit dans ce qui est le reste de la surface dite du *plan projectif*, ou *cross-cap,* quand la pièce centrale \[*a*\] en est en quelque sorte énucléée.
+Nous n’épuiserons pas aujourd’hui le sujet, mais nous essaierons d’introduire aujourd’hui pour vous que cette figure, dans sa fonction schématique, est assez exemplaire pour nous permettre de trouver la relation de S *coupure de (a)* \[S◊*a*\], la for­malisation du fantasme dans son rapport avec *quelque chose* qui s’inscrit dans ce qui est le reste de la surface dite du *plan projectif*, ou *cross-cap,* quand la pièce centrale \[*a*\] en est en quelque sorte énucléée.
 
 <!-- id: s9-24-0091 -->
 
@@ -378,11 +378,11 @@ C’est en tant que la relation narcissique, narcissique secondaire, la relation
 
 <!-- id: s9-24-0094 -->
 
-Il y a donc *deux imaginaires*, le vrai et le faux, et le faux ne se soutient que dans cette sorte de subsistance à laquelle restent attachés tous les mirages du « *me-connaître* »*.* J’ai déjà introduit ce jeu de mots « *mé-connaissance* » *:* le sujet se méconnaît dans la relation du miroir. Cette relation du miroir, pour être comprise comme telle, doit être située sur la base de cette relation à l’Autre qui est fondement du sujet, en tant que notre sujet est le sujet du discours, le sujet du langage.
+Il y a donc *deux imaginaires*, le vrai et le faux, et le faux ne se soutient que dans cette sorte de subsistance à laquelle restent attachés tous les mirages du « *me-connaître* ». J’ai déjà introduit ce jeu de mots « *mé-connaissance* » : le sujet se méconnaît dans la relation du miroir. Cette relation du miroir, pour être comprise comme telle, doit être située sur la base de cette relation à l’Autre qui est fondement du sujet, en tant que notre sujet est le sujet du discours, le sujet du langage.
 
 <!-- id: s9-24-0095 -->
 
-C’est en situant ce qu’est S *coupure de (a)* \[S**◊***a*\]...
+C’est en situant ce qu’est S *coupure de (a)* \[S◊*a*\]...
 
 <!-- id: s9-24-0096 -->
 
@@ -406,7 +406,7 @@ C’est en situant ce qu’est S *coupure de (a)* \[S**◊***a*\]...
 >
 > celle *du trait unaire*, celle qui distingue notre sujet, de la transparence connaissante de la pensée classique, comme un sujet entièrement attaché au signifiant en tant que ce signifiant est le point tournant de son rejet,
 >
-> à lui le sujet, hors de toute la réa­lisation signifiante ...c’est en montrant, à partir de la formule S**◊***a* comme *struc­ture du fantasme*, *la relation de cet objet(a) avec la carence de l’Autre*, *que nous voyons comment à un moment tout recule, tout s’efface dans la fonction signi­fiante devant la montée, l’irruption de cet objet.*
+> à lui le sujet, hors de toute la réa­lisation signifiante ...c’est en montrant, à partir de la formule S◊*a* comme *struc­ture du fantasme*, *la relation de cet objet(a) avec la carence de l’Autre*, *que nous voyons comment à un moment tout recule, tout s’efface dans la fonction signi­fiante devant la montée, l’irruption de cet objet.*
 
 <!-- id: s9-24-0100 -->
 
@@ -438,7 +438,7 @@ Déjà à propos du névrosé - et précisément de l’obsessionnel - je vous i
 
 <!-- id: s9-24-0107 -->
 
-Je vous ai montré que ceci éclaire fort bien ce qui se passe au niveau du fantasme - non point sadique - mais sadien, c’est-à-dire celui que j’ai eu l’occa­sion d’épeler devant vous, pour vous, avec vous, dans le séminaire sur l’*Éthique*[^180]*,* pour autant que, réalisation d’une expérience intérieure qu’on ne peut entière­ment réduire aux contingences du cadre connaissable d’un effort de pensée concernant la relation du sujet à la nature, c’est dans l’injure à la nature que SADE essaie de définir l’essence du désir humain.
+Je vous ai montré que ceci éclaire fort bien ce qui se passe au niveau du fantasme - non point sadique - mais sadien, c’est-à-dire celui que j’ai eu l’occa­sion d’épeler devant vous, pour vous, avec vous, dans le séminaire sur l’*Éthique*[^180], pour autant que, réalisation d’une expérience intérieure qu’on ne peut entière­ment réduire aux contingences du cadre connaissable d’un effort de pensée concernant la relation du sujet à la nature, c’est dans l’injure à la nature que SADE essaie de définir l’essence du désir humain.
 
 <!-- id: s9-24-0108 -->
 
@@ -462,7 +462,7 @@ Ce petit point double, ce *poinçon* nous montre que là est le champ où se cer
 
 <!-- id: s9-24-0113 -->
 
-Donc vous pourriez vous dire que tout ce que je suis en train de vous expliquer là est la suite du discours précédent. C’est - laissez-moi employer cette formule - c’est des « *trucs à théo* »*,* car en fin de compte il convient de lui donner un nom, à ce Dieu dont nous nous gargarisons un petit peu trop *romantiquement* la gorge sous cette profération que nous aurions fait un joli coup en disant que Dieu est mort.
+Donc vous pourriez vous dire que tout ce que je suis en train de vous expliquer là est la suite du discours précédent. C’est - laissez-moi employer cette formule - c’est des « *trucs à théo* », car en fin de compte il convient de lui donner un nom, à ce Dieu dont nous nous gargarisons un petit peu trop *romantiquement* la gorge sous cette profération que nous aurions fait un joli coup en disant que Dieu est mort.
 
 <!-- id: s9-24-0114 -->
 
@@ -542,7 +542,7 @@ Et pourquoi ? Qu’est-ce que c’est que ce renvoi de SOCRATE à un être aussi
 
 <!-- id: s9-24-0133 -->
 
-Il passe sur les siècles qui ont suivi, de l’éthique théologique vers cette forme énigmatique et fermée, mais que *Le Banquet* pourtant nous indique au point de départ et avec tous les compléments nécessaires, à savoir qu’ALCIBIADE, manifestant son appel du désirant au cœur de l’objet privilégié, ne fait là rien d’autre que d’apparaître dans une position de séduction effrénée par rapport à celui que j’ai appelé « *le con fondamental* »*,* que pour comble d’ironie PLATON a connoté du *nom propre* du « *Bien »* lui-même, AGATHON. Le *Bien suprême* n’a pas d’autre nom dans sa dialectique.
+Il passe sur les siècles qui ont suivi, de l’éthique théologique vers cette forme énigmatique et fermée, mais que *Le Banquet* pourtant nous indique au point de départ et avec tous les compléments nécessaires, à savoir qu’ALCIBIADE, manifestant son appel du désirant au cœur de l’objet privilégié, ne fait là rien d’autre que d’apparaître dans une position de séduction effrénée par rapport à celui que j’ai appelé « *le con fondamental* », que pour comble d’ironie PLATON a connoté du *nom propre* du « *Bien »* lui-même, AGATHON. Le *Bien suprême* n’a pas d’autre nom dans sa dialectique.
 
 <!-- id: s9-24-0134 -->
 

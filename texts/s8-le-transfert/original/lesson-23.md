@@ -42,7 +42,7 @@ Ceci peut vous sembler après tout presque ne pas faire de question.
 
 <!-- id: s8-23-0010 -->
 
-Mais c’est ce que les divergences dans cette fonction technique, une fois qu’elle est théorisée, font tout de même apparaître : c’est qu’il y a là quelque chose qui ne suffit pas. L’analyste n’est pas justement *le seul analyste*, il fait partie d’un groupe, d’une « *masse* », au sens propre qu’a ce terme dans l’article de FREUD** :** [*Ich-analyse und Massenpsychologie*](http://www.textlog.de/sigmund-freud-massenpsychologie-ich-analyse.html) [^292].
+Mais c’est ce que les divergences dans cette fonction technique, une fois qu’elle est théorisée, font tout de même apparaître : c’est qu’il y a là quelque chose qui ne suffit pas. L’analyste n’est pas justement *le seul analyste*, il fait partie d’un groupe, d’une « *masse* », au sens propre qu’a ce terme dans l’article de FREUD : [*Ich-analyse und Massenpsychologie*](http://www.textlog.de/sigmund-freud-massenpsychologie-ich-analyse.html) [^292].
 
 <!-- id: s8-23-0011 -->
 
@@ -166,7 +166,7 @@ C’est la même chose qui s’exprime sur le plan *théorique* dans la formule 
 
 <!-- id: s8-23-0041 -->
 
-C’est, si vous voulez, l’horizon de cette *action* qui donne sa structure à *ma notation du fantasme*. Et ma petite notation c’est pour ça qu’elle est algébrique, qu’elle ne peut que s’écrire avec de la craie au tableau noir, que la notation du fantasme est S**◊***a***,** qu’on peut lire, S *désir de petit(a), l’objet du désir*. Vous verrez que tout ceci nous amènera peut-être tout de même à apercevoir d’une façon plus précise la nécessité essentielle qu’il y a à ce que nous n’oubliions pas cette place justement indicible en tant que le sujet s’y dissout, que la notation algébrique seule peut préserver dans la formule que je vous donne du fantasme.
+C’est, si vous voulez, l’horizon de cette *action* qui donne sa structure à *ma notation du fantasme*. Et ma petite notation c’est pour ça qu’elle est algébrique, qu’elle ne peut que s’écrire avec de la craie au tableau noir, que la notation du fantasme est S◊*a**,* qu’on peut lire, S *désir de petit(a), l’objet du désir*. Vous verrez que tout ceci nous amènera peut-être tout de même à apercevoir d’une façon plus précise la nécessité essentielle qu’il y a à ce que nous n’oubliions pas cette place justement indicible en tant que le sujet s’y dissout, que la notation algébrique seule peut préserver dans la formule que je vous donne du fantasme.
 
 <!-- id: s8-23-0042 -->
 
@@ -182,7 +182,7 @@ JEKELS et BERGLER nous disent, contrairement à la bergerie où l’amour baigne
 
 <!-- id: s8-23-0045 -->
 
-Ça évidemment c’est pas des choses qu’on peut dire tous les jours. Quand même c’est un petit peu [*nanan*](http://www.cnrtl.fr/lexicographie/nanan) pour les gens qui n’aiment pas CLAUDEL. Pour moi c’est du même ordre qu’on vienne nous dire des choses comme ça. Si on aime, en somme, c’est parce qu’il y a encore quelque part l’ombre de *celui* qu’une femme tordante avec laquelle nous voyagions en Italie appelait « *il* *vecchio con la* *barba* »*,* celui qu’on voit partout chez les primitifs \[en peinture\].
+Ça évidemment c’est pas des choses qu’on peut dire tous les jours. Quand même c’est un petit peu [*nanan*](http://www.cnrtl.fr/lexicographie/nanan) pour les gens qui n’aiment pas CLAUDEL. Pour moi c’est du même ordre qu’on vienne nous dire des choses comme ça. Si on aime, en somme, c’est parce qu’il y a encore quelque part l’ombre de *celui* qu’une femme tordante avec laquelle nous voyagions en Italie appelait « *il* *vecchio con la* *barba* », celui qu’on voit partout chez les primitifs \[en peinture\].
 
 <!-- id: s8-23-0046 -->
 
@@ -198,11 +198,11 @@ Ce n’est pas simplement qu’autour de lui vienne se regrouper tout le systèm
 
 <!-- id: s8-23-0049 -->
 
-Et alors, il y a d’un côté cette intuition dans l’article de nos amis JEKELS et BERGLER, et puis de l’autre il y a l’utilisation partielle et vraiment comme ça brutale comme un rhinocéros de ce que FREUD a apporté *d’aperçus économiques sous le registre du narcissisme*. L’idée que toute finalité de l’équation libidinale vise au dernier terme à la restauration d’une intégrité primitive, à la réintégration de tout ce qui est, si mon souvenir est bon, *abtrennung* \[séparation\]*,* tout ce qui a été amené à un certain moment par *l’expérience* à être considéré par le sujet comme de lui *séparé*.
+Et alors, il y a d’un côté cette intuition dans l’article de nos amis JEKELS et BERGLER, et puis de l’autre il y a l’utilisation partielle et vraiment comme ça brutale comme un rhinocéros de ce que FREUD a apporté *d’aperçus économiques sous le registre du narcissisme*. L’idée que toute finalité de l’équation libidinale vise au dernier terme à la restauration d’une intégrité primitive, à la réintégration de tout ce qui est, si mon souvenir est bon, *abtrennung* \[séparation\], tout ce qui a été amené à un certain moment par *l’expérience* à être considéré par le sujet comme de lui *séparé*.
 
 <!-- id: s8-23-0050 -->
 
-Cette notion *théorique*, elle, est des plus précaires à être appliquée dans tous les registres et à tous les niveaux. La question de la fonction que ça joue au moment de l’*[Introduction au narcissisme](http://www.megapsy.com/Textes/Freud/biblio109.htm),* dans la pensée de FREUD, est une question. *Il s’agit de savoir si nous pouvons y faire foi, de savoir si* - comme les auteurs le disent en termes clairs, *car on savait tout le pourtour des apories* *d’une position*, à cette génération où on n’était pas formé en série - *on peut formuler ceci sous le terme du « miracle de l’investissement des objets »***.**
+Cette notion *théorique*, elle, est des plus précaires à être appliquée dans tous les registres et à tous les niveaux. La question de la fonction que ça joue au moment de l’*[Introduction au narcissisme](http://www.megapsy.com/Textes/Freud/biblio109.htm),* dans la pensée de FREUD, est une question. *Il s’agit de savoir si nous pouvons y faire foi, de savoir si* - comme les auteurs le disent en termes clairs, *car on savait tout le pourtour des apories* *d’une position*, à cette génération où on n’était pas formé en série - *on peut formuler ceci sous le terme du « miracle de l’investissement des objets ».*
 
 <!-- id: s8-23-0051 -->
 
@@ -311,7 +311,7 @@ Mais je crois que la vraie chose, celle qui devait être maintenue en tous les c
 
 [^293]: On trouve cette référence dans les *Écrits*, « *Situation de la psychanalyse en 1956* », p. 473, note 3. Il s’agit d’une lettre de Freud à Eitingon du 23 novembre 1919.
 
-    Cf**.** Sigmund Freud, Max Eitingon : *Correspondance 1906-1939*, Paris, Hachette, 2009, lettre « 151 F », p. 193-194.
+    Cf. Sigmund Freud, Max Eitingon : *Correspondance 1906-1939*, Paris, Hachette, 2009, lettre « 151 F », p. 193-194.
 
 
 [^294]: [Ludwig Jekels, Edmund Bergler : « Übertragung und Liebe », *Imago,* 1934, XX](http://www.archive.org/details/Imago-ZeitschriftFrAnwendungDerPsychoanalyseAufDieNatur-Und_328), n°1. trad. fr. C. Chambond, S. Faladé, M. Lohner, dans *La Documentation*

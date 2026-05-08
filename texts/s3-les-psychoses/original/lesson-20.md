@@ -12,7 +12,7 @@
 
 <!-- id: s3-20-0002 -->
 
-Je pense que ce texte est assez clair et que l’apparente contradiction formelle que vous pourrez en recueillir du fait que FREUD dit que *les rêves s’expriment en images* plutôt qu’en autre chose est aussitôt, je pense, restituée et remise en place, car aussitôt, il vous montrera de quelles sortes d’images il s’agit. C’est-à-dire *d’images* en tant qu’elles interviennent *dans une écriture*, c’est-à-dire non pas même pour leur sens propre, car comme il le dit, il y en a certaines qui seront là, même*-*pas pour être lues, mais simplement pour apporter à ce qui doit être lu une sorte d’exposant qu’il situe, qui resterait autrement énigmatique.
+Je pense que ce texte est assez clair et que l’apparente contradiction formelle que vous pourrez en recueillir du fait que FREUD dit que *les rêves s’expriment en images* plutôt qu’en autre chose est aussitôt, je pense, restituée et remise en place, car aussitôt, il vous montrera de quelles sortes d’images il s’agit. C’est-à-dire *d’images* en tant qu’elles interviennent *dans une écriture*, c’est-à-dire non pas même pour leur sens propre, car comme il le dit, il y en a certaines qui seront là, même-pas pour être lues, mais simplement pour apporter à ce qui doit être lu une sorte d’exposant qu’il situe, qui resterait autrement énigmatique.
 
 <!-- id: s3-20-0003 -->
 
@@ -254,7 +254,7 @@ Il n’y avait vraiment pas de raison de frapper tout particulièrement ces malh
 
 <!-- id: s3-20-0060 -->
 
-Je crois qu’il faut que nous fassions ici la conjonction de ce qu’implique cette défaillance du sujet au moment d’aborder la véritable parole, si c’est là vraiment quelque chose où nous puissions situer l’entrée, le glissement dans le phénomène critique, dans la phrase inaugurale de la psychose. Notre point de mire, si je puis dire*,* vous devez déjà, d’après la phénoménologie, l’entrevoir. La notion de *Verwerfung*, que j’ai introduite comme fondamentale est là pour vous indiquer qu’il doit y avoir justement quelque chose de préalable, qui manque dans la relation au signifiant comme tel.
+Je crois qu’il faut que nous fassions ici la conjonction de ce qu’implique cette défaillance du sujet au moment d’aborder la véritable parole, si c’est là vraiment quelque chose où nous puissions situer l’entrée, le glissement dans le phénomène critique, dans la phrase inaugurale de la psychose. Notre point de mire, si je puis dire, vous devez déjà, d’après la phénoménologie, l’entrevoir. La notion de *Verwerfung*, que j’ai introduite comme fondamentale est là pour vous indiquer qu’il doit y avoir justement quelque chose de préalable, qui manque dans la relation au signifiant comme tel.
 
 <!-- id: s3-20-0061 -->
 
@@ -555,6 +555,7 @@ Il y a certaine façon de l’employer qui est le « *moi* », le « *toi* », l
 <!-- id: s3-20-0135 -->
 
 Nous en resterons là pour aujourd’hui.
+
 ## Notes
 
 [^30]: Cf. l’éditon de Jacques-Alain Miller : *Les Psychoses*, Paris, Seuil 1981, p. 288, qui restitue le passage manquant.

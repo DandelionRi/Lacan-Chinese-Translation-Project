@@ -142,7 +142,7 @@ Alors, comme cette sorte de discours a toujours engendré, bien sûr, ce je ne s
 
 <!-- id: s15-11-0033 -->
 
-> ceci étant d’autant plus *déconcertant* qu’elles se produisaient dans la bouche de gens qui devaient être les moins naïfs …du *célèbre pilier de comité de rédaction*, comme ça, qui devrait quand même en savoir un bout *sur ce qui se dit et ce qui ne se dit pas*, qu’on obtienne de lui *ce cri d’enfant* que j’ai reproduit quelque part, à savoir : « *Pourquoi est-ce qu’il ne dit pas le vrai sur le vrai* [^81] *?* ».
+> ceci étant d’autant plus *déconcertant* qu’elles se produisaient dans la bouche de gens qui devaient être les moins naïfs …du *célèbre pilier de comité de rédaction*, comme ça, qui devrait quand même en savoir un bout *sur ce qui se dit et ce qui ne se dit pas*, qu’on obtienne de lui *ce cri d’enfant* que j’ai reproduit quelque part, à savoir : « *Pourquoi est-ce qu’il ne dit pas le vrai sur le vrai* [^81] ? ».
 
 <!-- id: s15-11-0034 -->
 
@@ -354,7 +354,7 @@ Je vous rappelle cette distinction. Par exemple, je peux donner comme *définiti
 
 <!-- id: s15-11-0085 -->
 
-Cette *troisième négation* donc, LACAN l’appelle le « *pas sans* »*.* Son modèle serait la formule : « *il n’y a pas de vrai sans faux* ».
+Cette *troisième négation* donc, LACAN l’appelle le « *pas sans* ». Son modèle serait la formule : « *il n’y a pas de vrai sans faux* ».
 
 <!-- id: s15-11-0086 -->
 
@@ -406,7 +406,7 @@ Et c’est sur *le premier terme de cette équivalence* que je voudrais maintena
 
 <!-- id: s15-11-0098 -->
 
-C’est avec un tiers que j’argumente, lui faisant renoncer une à une à toutes les voies du savoir dans la « *Première* *méditation* »[^87], jusqu’à le surprendre à un tournant en lui faisant avouer qu’il faut bien que *je sois moi* pour lui faire parcourir ce chemin, à telle enseigne que le « *je suis* » qu’il me donne n’est autre en définitive que *l’ensemble vide* puisqu’il se constitue de ne contenir aucun élément. Le « *je pense »* n’est donc en fait que l’opération de vidage de l’ensemble du* * « *je suis* »*.* Il devient par là même un *j’écris,* seul capable d’effectuer l’évacuation progressive de tout ce qui était à la portée du sujet en fait de savoir.
+C’est avec un tiers que j’argumente, lui faisant renoncer une à une à toutes les voies du savoir dans la « *Première* *méditation* »[^87], jusqu’à le surprendre à un tournant en lui faisant avouer qu’il faut bien que *je sois moi* pour lui faire parcourir ce chemin, à telle enseigne que le « *je suis* » qu’il me donne n’est autre en définitive que *l’ensemble vide* puisqu’il se constitue de ne contenir aucun élément. Le « *je pense »* n’est donc en fait que l’opération de vidage de l’ensemble du* * « *je suis* ». Il devient par là même un *j’écris,* seul capable d’effectuer l’évacuation progressive de tout ce qui était à la portée du sujet en fait de savoir.
 
 <!-- id: s15-11-0099 -->
 
@@ -432,7 +432,7 @@ Elles ne se font pas attendre :
 
 - quant à la *chose pensante*, loin d’être *un point d’unification* elle porte au contraire la marque du morcellement, lequel se démontre en quelque sorte dans tout le développement de la logique moderne, aboutissant à faire de la *res cogitans* non point un sujet mais une *combinatoire de notations.*
 
-# Faire porter donc, *la négation*, cette *négation* que je suis en train d’essayer de faire surgir, sur la réunion du *je pense* et du *je suis* revient à prendre acte de ces conséquences et à les traduire en écrivant qu’il n’y a point d’Autre. 
+# Faire porter donc, *la négation*, cette *négation* que je suis en train d’essayer de faire surgir, sur la réunion du *je pense* et du *je suis* revient à prendre acte de ces conséquences et à les traduire en écrivant qu’il n’y a point d’Autre.
 
 <!-- id: s15-11-0105 -->
 
@@ -444,7 +444,7 @@ La non existence de l’Autre dans le champ des mathématiques correspond en eff
 
 <!-- id: s15-11-0107 -->
 
-L’Autre est donc un champ marqué de la même finitude que le sujet lui-même. Ce qui fait dépendre le sujet des effets du signifiant, fait du même coup que le lieu où s’assure le besoin de vérité est lui-même fracturé en ses deux phases *de l’énoncé* et de *l’énonciation*. C’est pourquoi la réunion du « *je pense* » et du « *je suis* »*,* quoique nécessaire, doit être en son principe niée de cette négation fondamentale.
+L’Autre est donc un champ marqué de la même finitude que le sujet lui-même. Ce qui fait dépendre le sujet des effets du signifiant, fait du même coup que le lieu où s’assure le besoin de vérité est lui-même fracturé en ses deux phases *de l’énoncé* et de *l’énonciation*. C’est pourquoi la réunion du « *je pense* » et du « *je suis* », quoique nécessaire, doit être en son principe niée de cette négation fondamentale.
 
 <!-- id: s15-11-0108 -->
 
@@ -522,11 +522,11 @@ Ce que la logique nous donne à penser c’est que nous n’avons pas le choix, 
 
 <!-- id: s15-11-0126 -->
 
-Or, connexe au choix du *je ne pense pas,* quelque chose surgit dont l’essence est de « *n’être pas je* »*.*
+Or, connexe au choix du *je ne pense pas,* quelque chose surgit dont l’essence est de « *n’être pas je* ».
 
 <!-- id: s15-11-0127 -->
 
-Ce « *pas je *»*,* c’est le Ça, lequel peut se définir par tout ce qui, dans le discours, n’est pas « *je* c’est-à-dire précisément par tout le reste de la structure grammaticale. En effet, la portée du *cogito* se réduit à ceci que le *je pense* fait sens, mais exactement de la même façon que n’importe quel *non-sens* pourvu qu’il soit *d’une forme* *grammaticalement correcte*. La grammaire n’est plus…
+Ce « *pas je *», c’est le Ça, lequel peut se définir par tout ce qui, dans le discours, n’est pas « *je* c’est-à-dire précisément par tout le reste de la structure grammaticale. En effet, la portée du *cogito* se réduit à ceci que le *je pense* fait sens, mais exactement de la même façon que n’importe quel *non-sens* pourvu qu’il soit *d’une forme* *grammaticalement correcte*. La grammaire n’est plus…
 
 <!-- id: s15-11-0128 -->
 
@@ -534,7 +534,7 @@ Ce « *pas je *»*,* c’est le Ça, lequel peut se définir par tout ce qui, 
 
 <!-- id: s15-11-0129 -->
 
-C’est très précisément en cela que le fantasme n’est autre qu’un montage grammatical où s’ordonne, suivant divers renversements, le destin de la pulsion, à telle enseigne qu’il n’y a pas d’autre façon de faire fonctionner le « *je* » dans la relation au monde qu’à le faire passer par cette structure *grammaticale*, mais aussi que le sujet, en tant que « *je* »*,* est exclu du fantasme, comme il se voit dans *Un enfant est battu* [^89] où le sujet n’apparaît comme sujet battu que dans la seconde phase, et cette seconde phase est *une reconstruction signifiante de l’interprétation*.
+C’est très précisément en cela que le fantasme n’est autre qu’un montage grammatical où s’ordonne, suivant divers renversements, le destin de la pulsion, à telle enseigne qu’il n’y a pas d’autre façon de faire fonctionner le « *je* » dans la relation au monde qu’à le faire passer par cette structure *grammaticale*, mais aussi que le sujet, en tant que « *je* », est exclu du fantasme, comme il se voit dans *Un enfant est battu* [^89] où le sujet n’apparaît comme sujet battu que dans la seconde phase, et cette seconde phase est *une reconstruction signifiante de l’interprétation*.
 
 <!-- id: s15-11-0130 -->
 
@@ -618,11 +618,11 @@ Mais il faut descendre dans le temps pour constater, d’une part, que *la véri
 
 > et qui n’est autre que ce que les mathématiciens appellent effectivité,
 >
-> d’où le fait qu’un modèle permette d’interpréter un domaine …que cette *vérité* n’a aucune prise sur le *réel*. En revanche, nous retrouvons ici le modèle de l’aliénation qui pourrait s’imager sous la forme d’un « *ce n’est ni pareil ni pas pareil* »*.* Or, ce n’est là rien d’autre que le graphe de la double boucle qui sert à représenter depuis fort longtemps dans LACAN la solidarité d’un effet directif à *un effet rétroactif*.
+> d’où le fait qu’un modèle permette d’interpréter un domaine …que cette *vérité* n’a aucune prise sur le *réel*. En revanche, nous retrouvons ici le modèle de l’aliénation qui pourrait s’imager sous la forme d’un « *ce n’est ni pareil ni pas pareil* ». Or, ce n’est là rien d’autre que le graphe de la double boucle qui sert à représenter depuis fort longtemps dans LACAN la solidarité d’un effet directif à *un effet rétroactif*.
 
 <!-- id: s15-11-0150 -->
 
-Ce rapport tiers se retrouve, en effet, qui nous permet de faire surgir *le trait unaire* quand, passant du 1 au 2 qui constitue la répétition du 1*,* se présente un effet de rétroaction où le 1 revient comme non numérable, comme 1 en plus ou 1 en trop.
+Ce rapport tiers se retrouve, en effet, qui nous permet de faire surgir *le trait unaire* quand, passant du 1 au 2 qui constitue la répétition du 1, se présente un effet de rétroaction où le 1 revient comme non numérable, comme 1 en plus ou 1 en trop.
 
 <!-- id: s15-11-0151 -->
 
@@ -814,7 +814,7 @@ Quoi qu’il en soit, vous retrouvez là ce point d’accent que j’ai déjà i
 
 <!-- id: s15-11-0198 -->
 
-Encore que, quand vous lisez ARISTOTE, vous voyez qu’il n’y a aucune espèce de doute, que la même mise en suspens du sujet était d’ores et déjà là accentuée, que l’ὑποκειμἐνων \[hypokeimenon\] *ne se confond nullement avec* l’οὐσἰα \[ousia\]*.*
+Encore que, quand vous lisez ARISTOTE, vous voyez qu’il n’y a aucune espèce de doute, que la même mise en suspens du sujet était d’ores et déjà là accentuée, que l’ὑποκειμἐνων \[hypokeimenon\] *ne se confond nullement avec* l’οὐσἰα \[ousia\].
 
 <!-- id: s15-11-0199 -->
 
@@ -900,7 +900,7 @@ Illustration sensible de ceci qui est vraiment banal et nous force à réviser l
 
 <!-- id: s15-11-0219 -->
 
-C’est pourtant là-dessus qu’est exigé que nous introduisions dans notre opération ce quelque chose qui tienne compte de cet élément intercalaire que nous allons pouvoir saisir, bien sûr, à travers une articulation logique, parce que si vous vous attendez à l’attraper dans la réalité, comme ça, dans un coin, vous serez toujours floué, parce que précisément la réalité, comme chacun sait, elle est construite sur votre « *je* »*,* sur le sujet de la connaissance, et elle est précisément construite pour faire que vous ne la trouviez jamais.
+C’est pourtant là-dessus qu’est exigé que nous introduisions dans notre opération ce quelque chose qui tienne compte de cet élément intercalaire que nous allons pouvoir saisir, bien sûr, à travers une articulation logique, parce que si vous vous attendez à l’attraper dans la réalité, comme ça, dans un coin, vous serez toujours floué, parce que précisément la réalité, comme chacun sait, elle est construite sur votre « *je* », sur le sujet de la connaissance, et elle est précisément construite pour faire que vous ne la trouviez jamais.
 
 <!-- id: s15-11-0220 -->
 

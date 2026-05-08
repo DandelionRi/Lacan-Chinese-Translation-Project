@@ -67,7 +67,7 @@ la fixation, la *Fixierung* ? Non seulement je ne le pense pas, mais je pense qu
 
 <!-- id: s11-13-0012 -->
 
-Ne serait-ce, et c’est bien évident, que parce que, quand FREUD vient dans un article, écrit en 1915, c’est-à-dire un an après l’*[Einführung zum Narzissmus](http://www.irwish.de/PDF/Sigmund%20Freud%20-%20Zur%20Einf%FChrung%20des%20Narzi%DFmus.pdf)* [^71] - *vous verrez l’importance de ce rappel tout à l’heure* - nous écrit dans l’article *[Triebe und Triebschicksal](http://zenisis.de/images/ebook/Buch00105-Sigmund-Freud-auf-www.zenisis.de.pdf)* [^72]*,*
+Ne serait-ce, et c’est bien évident, que parce que, quand FREUD vient dans un article, écrit en 1915, c’est-à-dire un an après l’*[Einführung zum Narzissmus](http://www.irwish.de/PDF/Sigmund%20Freud%20-%20Zur%20Einf%FChrung%20des%20Narzi%DFmus.pdf)* [^71] - *vous verrez l’importance de ce rappel tout à l’heure* - nous écrit dans l’article *[Triebe und Triebschicksal](http://zenisis.de/images/ebook/Buch00105-Sigmund-Freud-auf-www.zenisis.de.pdf)* [^72],
 que j’aurais eu envie, en hommage à un livre de notre ami Maurice MERLEAU-PONTY, de traduire, moi, par : « *Les Pulsions*
 *et les avatars de la pulsion ». M*ais après tout, c’est pour éviter justement *avatar* qui ne me paraît pas de très bonne traduction :
 si c’était *Triebwandlungen,* ce serait « *avatars »*, *Schicksale* c’est *« aventures*, *vicissitudes » -* eh bien dans cet article, il dit que dans la pulsion, il importe d’y dis­tinguer quatre termes :
@@ -121,7 +121,7 @@ Il dit quelque part ailleurs que *la pulsion*, en quelque sorte, fait partie de 
 
 <!-- id: s11-13-0023 -->
 
-Terme aussi, je le dis en passant, qui est tout à fait préférable à celui de *modèle* dont on a trop abusé, et qui s’en distingue en ceci : vous savez que le *modèle* n’est jamais un *Grundbegriff* \[*concept de base*\]*.* Ce qu’un certain style d’empirisme dans la théorie - qui est la caractéristique de *la physique anglaise -* a introduit sous le terme de *modèle*, c’est essentiellement quelque chose qui, concernant
+Terme aussi, je le dis en passant, qui est tout à fait préférable à celui de *modèle* dont on a trop abusé, et qui s’en distingue en ceci : vous savez que le *modèle* n’est jamais un *Grundbegriff* \[*concept de base*\]. Ce qu’un certain style d’empirisme dans la théorie - qui est la caractéristique de *la physique anglaise -* a introduit sous le terme de *modèle*, c’est essentiellement quelque chose qui, concernant
 ce sur quoi il y a à opérer dans un cer­tain champ, peut comporter aussi bien plusieurs *modèles* fonction­nant corrélativement.
 Il n’en est pas de même pour un *Grundbegriff*, pour un *concept fondamental*, ni pour une *fiction fondamentale*.
 
@@ -137,7 +137,7 @@ ne peuvent qu’apparaître disjoints.
 <!-- id: s11-13-0026 -->
 
 > si au moment où elle est intro­duite, nous nous reportons au début des énoncés de FREUD dans l’ar­ticle
-> …*la poussée* va être identifiée à une pure et simple *tendance à la décharge*, c’est à savoir, à ce qui se produit du fait d’un *stimulus*, à savoir la transmission de la part admise, au niveau du stimulus, du *sup­plément d’énergie*, la fameuse quantité « Qή » de l’*Esquisse* [^73]*.*
+> …*la poussée* va être identifiée à une pure et simple *tendance à la décharge*, c’est à savoir, à ce qui se produit du fait d’un *stimulus*, à savoir la transmission de la part admise, au niveau du stimulus, du *sup­plément d’énergie*, la fameuse quantité « Qή » de l’*Esquisse* [^73].
 
 <!-- id: s11-13-0027 -->
 
@@ -165,11 +165,11 @@ dans sa totalité, dans son état d’ensemble ?
 
 <!-- id: s11-13-0032 -->
 
-Non, il s’agit bien toujours et tout spécialement de ce champ lui-même, et sous la forme la plus indifférenciée que FREUD lui ait donné au départ, qui - pour nous reporter à l’*Esquisse* que je donnais tout à l’heure, que je désignais tout à l’heure - est à ce niveau appelé le *Ich,* le *Real*-*ich.*
+Non, il s’agit bien toujours et tout spécialement de ce champ lui-même, et sous la forme la plus indifférenciée que FREUD lui ait donné au départ, qui - pour nous reporter à l’*Esquisse* que je donnais tout à l’heure, que je désignais tout à l’heure - est à ce niveau appelé le *Ich,* le *Real-ich.*
 
 <!-- id: s11-13-0033 -->
 
-Le *Real*-*ich* est conçu d’abord comme supporté, non par l’organisme tout entier, mais par *le système nerveux dans son ensemble*
+Le *Real-ich* est conçu d’abord comme supporté, non par l’organisme tout entier, mais par *le système nerveux dans son ensemble*
 *en tant que* - sa trame et ce qu’il reçoit : les *stimuli* - *ce qui en règle la décharge*.
 
 <!-- id: s11-13-0034 -->
@@ -212,7 +212,7 @@ ni d’automne, qu’elle n’a pas de montée, de descente : *c’est une forc
 
 Il faudrait tout de même tenir compte des textes, et aussi de l’expérience. Parce que si, d’autre part - *à l’autre bout de la chaîne* –
 nous nous aper­cevons que ce dont il s’agit, et ce à quoi nous sert le maniement de cette *fonction* de la pulsion, c’est toujours
-la référence à ce que FREUD, ici aussi, *écrit en toutes lettres*, mais avec une paire de guillemets : la « *Befriedigung* »*,* la « *satisfaction* ».
+la référence à ce que FREUD, ici aussi, *écrit en toutes lettres*, mais avec une paire de guillemets : la « *Befriedigung* », la « *satisfaction* ».
 C’est là que se pose pour nous la question de savoir ce que ça veut dire « *la satisfaction de la pulsion* ».
 
 <!-- id: s11-13-0040 -->
@@ -419,6 +419,7 @@ Mais ce qu’autour de ce jeu, il nous fait parvenir, concernant ce qui est l’
 le point topologique où quelque chose se réalise qui est sans doute satisfaction, satisfaction qui est à placer à un niveau du sujet,
 à un niveau du sujet où assurément nous sommes requis d’y voir autre chose que sa détermination, une autre façon de s’atteindre, de se réaliser, de se *satisfaire*, ce que la prochaine fois je vous définirai comme « *le tracé de l’acte* » :
 voilà ce qui maintenant comme « devoir » se propose devant vous.
+
 ## Notes
 
 [^70]: S. Freud : [*Au-delà du principe du plaisir*](http://classiques.uqac.ca/classiques/freud_sigmund/essais_de_psychanalyse/Essai_1_au_dela/Au_dela_principe_plaisir.pdf), in *Essais de psychanalyse*, Payot 2004.

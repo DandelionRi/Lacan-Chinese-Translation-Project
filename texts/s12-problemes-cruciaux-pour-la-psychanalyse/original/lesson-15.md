@@ -120,7 +120,7 @@ C’est aussi que *ce qui est essentiel dans la fonction* et l’existence *du n
 
 <!-- id: s12-15-0027 -->
 
-*Le nom propre* - *sur lequel*, au départ de ce discours j’ai dirigé votre attention en même temps que, d’autre part, *sur la fonction du nombre,* *le nom propre* - pour un instant dirigez votre regard sur ce qu’il a d’essentiel - *le nom propre déjà dans sa nomination*, ὄνομα ἴδιον \[onoma idion\] *comporte cette ambiguïté qui a permis toutes les erreurs, de vouloir dire* : 
+*Le nom propre* - *sur lequel*, au départ de ce discours j’ai dirigé votre attention en même temps que, d’autre part, *sur la fonction du nombre,* *le nom propre* - pour un instant dirigez votre regard sur ce qu’il a d’essentiel - *le nom propre déjà dans sa nomination*, ὄνομα ἴδιον \[onoma idion\] *comporte cette ambiguïté qui a permis toutes les erreurs, de vouloir dire* :
 
 <!-- id: s12-15-0028 -->
 
@@ -182,7 +182,7 @@ Et cet étrange COÛFONTAINE où nous retrouvons l’écho de cette forme du cyg
 
 <!-- id: s12-15-0042 -->
 
-« *Sir Thomas Pollock Nageoire* », quelle invention ! Puisque déjà, avec cette extraordinaire désignation, n’en savons-nous pas tant sur *le personnage* de *L’échange* [^118]*,* que sur tout ce qui va se dérouler dans le drame ?
+« *Sir Thomas Pollock Nageoire* », quelle invention ! Puisque déjà, avec cette extraordinaire désignation, n’en savons-nous pas tant sur *le personnage* de *L’échange* [^118], que sur tout ce qui va se dérouler dans le drame ?
 
 <!-- id: s12-15-0043 -->
 
@@ -196,7 +196,7 @@ Et cet étrange COÛFONTAINE où nous retrouvons l’écho de cette forme du cyg
 
 > autour de laquelle l’attention des personnes du séminaire fermé a été appelée récemment à opiner,
 >
-> à savoir ce « *POOR (d) J’e-LI* » dont l’analyse de LECLAIRE, pour ce qui fût sa part, dans ce rapport inaugural sur l’inconscient où quelque chose, par lui et par son co-auteur avait été promu à l’attention d’un auditoire psychanalytique plus vaste, concernant l’originalité de ce que j’avais pu accentuer dans l’enseignement de FREUD sur l’inconscient …ce quelque chose dont j’ai pu lire - *non sans satisfaction, sous une plume certes non amicale -* que chacun, depuis FREUD, savait que le fait de *l’énonciation de ceci* que « *l’inconscient est structuré comme un langage* »*,* depuis FREUD, c’était une lapalissade.
+> à savoir ce « *POOR (d) J’e-LI* » dont l’analyse de LECLAIRE, pour ce qui fût sa part, dans ce rapport inaugural sur l’inconscient où quelque chose, par lui et par son co-auteur avait été promu à l’attention d’un auditoire psychanalytique plus vaste, concernant l’originalité de ce que j’avais pu accentuer dans l’enseignement de FREUD sur l’inconscient …ce quelque chose dont j’ai pu lire - *non sans satisfaction, sous une plume certes non amicale -* que chacun, depuis FREUD, savait que le fait de *l’énonciation de ceci* que « *l’inconscient est structuré comme un langage* », depuis FREUD, c’était une lapalissade.
 
 <!-- id: s12-15-0046 -->
 

@@ -58,7 +58,7 @@ Mais en même temps, à l’intérieur de ses si pertinentes exhaustions du mode
 
 <!-- id: s9-25-0014 -->
 
-Il n’en reste pas moins que, ce ressort secret peut être resté masqué, que logique elle n’intéressât, elle n’impliquât, le mouvement de ce monde - qui n’est pas rien : on l’appelle *monde de la pensée -* dans une certaine direction qui, pour être centrifuge, n’en était pas moins tout de même déterminée par quelque chose qui se rapportait à un certain type d’objet qui est celui auquel nous nous intéressons pour l’instant. Ce que j’ai défini la dernière fois comme « *le point* », le point Φ dans une certaine façon nouvelle de délimiter le cercle de connotation de l’objet, c’est ce qui nous met au seuil d’avoir, avant de vous quitter cette année, à poser la fonction de ce point Φ, *ambigu* vous ai-je dit, non pas seulement dans la médiation, mais dans la constitution, l’une à l’autre inhérentes - non seulement comme l’envers vaudrait l’endroit, mais comme un envers vous ai-je dit, qui serait la même chose que l’endroit - du S et du *(a)* dans *le fantasme* \[S**◊***a*\] :
+Il n’en reste pas moins que, ce ressort secret peut être resté masqué, que logique elle n’intéressât, elle n’impliquât, le mouvement de ce monde - qui n’est pas rien : on l’appelle *monde de la pensée -* dans une certaine direction qui, pour être centrifuge, n’en était pas moins tout de même déterminée par quelque chose qui se rapportait à un certain type d’objet qui est celui auquel nous nous intéressons pour l’instant. Ce que j’ai défini la dernière fois comme « *le point* », le point Φ dans une certaine façon nouvelle de délimiter le cercle de connotation de l’objet, c’est ce qui nous met au seuil d’avoir, avant de vous quitter cette année, à poser la fonction de ce point Φ, *ambigu* vous ai-je dit, non pas seulement dans la médiation, mais dans la constitution, l’une à l’autre inhérentes - non seulement comme l’envers vaudrait l’endroit, mais comme un envers vous ai-je dit, qui serait la même chose que l’endroit - du S et du *(a)* dans *le fantasme* \[S◊*a*\] :
 
 <!-- id: s9-25-0015 -->
 
@@ -70,7 +70,7 @@ Il n’en reste pas moins que, ce ressort secret peut être resté masqué, que 
 
 <!-- id: s9-25-0017 -->
 
-Et comment l’histoire individuelle - ce *sujet discourant* où cet individu n’est que compris - est orientée, polarisée par ce point secret et peut-être au dernier terme jamais accessible, si tant est qu’il faille admettre avec FREUD, pour un temps du moins, dans l’irréductibilité d’une *Urverdrängung,* l’existence de cet «* ombilic du désir dans le rêve *» dont il parle dans la *Traumdeutung* [^182]*.* C’est cela dont nous ne pouvons omettre la fonction dans toute appréciation des termes dans lesquels nous décomposons les faces de ce *phénomène nucléaire*.
+Et comment l’histoire individuelle - ce *sujet discourant* où cet individu n’est que compris - est orientée, polarisée par ce point secret et peut-être au dernier terme jamais accessible, si tant est qu’il faille admettre avec FREUD, pour un temps du moins, dans l’irréductibilité d’une *Urverdrängung,* l’existence de cet «* ombilic du désir dans le rêve *» dont il parle dans la *Traumdeutung* [^182]. C’est cela dont nous ne pouvons omettre la fonction dans toute appréciation des termes dans lesquels nous décomposons les faces de ce *phénomène nucléaire*.
 
 <!-- id: s9-25-0018 -->
 
@@ -106,7 +106,7 @@ Non pas que je sois en train de dire qu’un corps, un corps vivant - je ne suis
 
 <!-- id: s9-25-0026 -->
 
-Ce qui fait contresens, c’est très clair à définir : c’est que le rapport de la pulsion au corps est partout marqué dans FREUD, topologiquement. Cela n’a pas la même valeur de renvoi, l’idée d’une direction, qu’une découverte d’une *recherche biologique*. Il est bien certain que ce « *qu’est-ce qu’un corps ?* »*,* vous le savez, ce n’est même pas une idée ébauchée dans le consensus du monde philosophant, au moment où FREUD ébauche sa première topique.
+Ce qui fait contresens, c’est très clair à définir : c’est que le rapport de la pulsion au corps est partout marqué dans FREUD, topologiquement. Cela n’a pas la même valeur de renvoi, l’idée d’une direction, qu’une découverte d’une *recherche biologique*. Il est bien certain que ce « *qu’est-ce qu’un corps ?* », vous le savez, ce n’est même pas une idée ébauchée dans le consensus du monde philosophant, au moment où FREUD ébauche sa première topique.
 
 <!-- id: s9-25-0027 -->
 
@@ -118,7 +118,7 @@ Oui, tout ceci fait dans HEIDEGGER d’admirables irruptions dans notre monde me
 
 <!-- id: s9-25-0029 -->
 
-Cette référence, *sans doute suggestive*, à ce que j’appellerai - n’y voyez aucune espèce de tentative de rabaisser ce dont il s’agit - « *une praxis artisanale* »*,* fondement de l’objet-ustensile, comme découvrant assurément au plus haut degré ces premières dimensions de *la présence* si subti­lement détachées que sont la proximité, l’éloignement, comme constituant les premiers linéaments de ce monde, HEIDEGGER le doit beaucoup - il me l’a dit à moi-même - au fait que son père fut tonnelier.
+Cette référence, *sans doute suggestive*, à ce que j’appellerai - n’y voyez aucune espèce de tentative de rabaisser ce dont il s’agit - « *une praxis artisanale* », fondement de l’objet-ustensile, comme découvrant assurément au plus haut degré ces premières dimensions de *la présence* si subti­lement détachées que sont la proximité, l’éloignement, comme constituant les premiers linéaments de ce monde, HEIDEGGER le doit beaucoup - il me l’a dit à moi-même - au fait que son père fut tonnelier.
 
 <!-- id: s9-25-0030 -->
 
@@ -198,7 +198,7 @@ Et se référant au *bouddhi*, à propos d’élucidation de ces termes, le poin
 
 <!-- id: s9-25-0049 -->
 
-Il est bien sûr que ceux qui sont les officiants du domaine, déjà bien constitué, que j’ai appelé la dernière fois celui de *Theo*, d’où naturellement la suspicion, l’exclusion, l’odeur de soufre dont est environnée, dans toutes les religions, *l’ascèse mys­tique*. Quoi qu’il en soit le rapport articulé, à ce stade, au stade qu’on peut appe­ler d’achèvement de l’*involution*, de l’*assomption*, du sujet dans un objet - choisi d’ailleurs par les techniques mystiques avec un ordre très arbitraire, ça peut être une femme, ça peut être *un bouchon de carafe* - me paraissait coïn­cider parfaitement avec la formule S**◊***a* telle que je vous la formule comme don­née, comme formalisation, la plus simple qu’il nous soit permis d’atteindre au contact des diverses formes de la clinique, c’est-à-dire parce qu’il est nécessaire de présumer de la structure de ce point central telle que nous pouvons la construire - le terme est de FREUD - et telle que nous devons la construire nécessairement, pour rendre compte des ambiguïtés de ses effets.
+Il est bien sûr que ceux qui sont les officiants du domaine, déjà bien constitué, que j’ai appelé la dernière fois celui de *Theo*, d’où naturellement la suspicion, l’exclusion, l’odeur de soufre dont est environnée, dans toutes les religions, *l’ascèse mys­tique*. Quoi qu’il en soit le rapport articulé, à ce stade, au stade qu’on peut appe­ler d’achèvement de l’*involution*, de l’*assomption*, du sujet dans un objet - choisi d’ailleurs par les techniques mystiques avec un ordre très arbitraire, ça peut être une femme, ça peut être *un bouchon de carafe* - me paraissait coïn­cider parfaitement avec la formule S◊*a* telle que je vous la formule comme don­née, comme formalisation, la plus simple qu’il nous soit permis d’atteindre au contact des diverses formes de la clinique, c’est-à-dire parce qu’il est nécessaire de présumer de la structure de ce point central telle que nous pouvons la construire - le terme est de FREUD - et telle que nous devons la construire nécessairement, pour rendre compte des ambiguïtés de ses effets.
 
 <!-- id: s9-25-0050 -->
 
@@ -246,7 +246,7 @@ Je veux dire que c’est la structure même du sujet devant cette scène. Je veu
 
 <!-- id: s9-25-0061 -->
 
-Mais l’important, c’est que ce qu’il voit dans son fantasme, c’est S lui-même en tant qu’il est coupure de *(a)* \[S**◊***a*\]. Les *(a)*, ce sont *les loups*. Et si j’y passe aujourd’hui, c’est parce qu’à côté d’un discours difficile, abs­trait - et que je désespère de pouvoir porter, dans les limites où nous sommes, jusqu’à ses derniers détails - cet *objet du désir* s’illustre ici d’une façon qui me permet d’accéder tout de suite à des éléments concrets de structure, que j’aurais des façons plus déductives de vous exposer, mais je n’ai pas le temps et je passe par là.
+Mais l’important, c’est que ce qu’il voit dans son fantasme, c’est S lui-même en tant qu’il est coupure de *(a)* \[S◊*a*\]. Les *(a)*, ce sont *les loups*. Et si j’y passe aujourd’hui, c’est parce qu’à côté d’un discours difficile, abs­trait - et que je désespère de pouvoir porter, dans les limites où nous sommes, jusqu’à ses derniers détails - cet *objet du désir* s’illustre ici d’une façon qui me permet d’accéder tout de suite à des éléments concrets de structure, que j’aurais des façons plus déductives de vous exposer, mais je n’ai pas le temps et je passe par là.
 
 <!-- id: s9-25-0062 -->
 

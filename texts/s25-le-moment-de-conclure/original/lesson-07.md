@@ -50,7 +50,7 @@ Je ne vois pas qu’il m’ait là-dessus convaincu. Je crois que très exacteme
 
 <!-- id: s25-07-0012 -->
 
-Νicole Sels *-* C’est le même. C’est retourné comme une crêpe.
+Νicole Sels - C’est le même. C’est retourné comme une crêpe.
 
 <!-- id: s25-07-0013 -->
 
@@ -66,7 +66,7 @@ On me commu­nique que la figure d’en haut est l’image de ce que l’on voit
 
 <!-- id: s25-07-0016 -->
 
-C’est très précisément cette question de miroir qui différencie les deux figures, car une figure placée dans un miroir est inversée*.*
+C’est très précisément cette question de miroir qui différencie les deux figures, car une figure placée dans un miroir est inversée.
 
 <!-- id: s25-07-0017 -->
 
@@ -268,7 +268,7 @@ Lacan Ιl est - me semble-t-il - clair que si on divise cette feuille, ce qu’o
 
 <!-- id: s25-07-0066 -->
 
-Νicole Sels *-* Non, non !
+Νicole Sels - Non, non !
 
 <!-- id: s25-07-0067 -->
 

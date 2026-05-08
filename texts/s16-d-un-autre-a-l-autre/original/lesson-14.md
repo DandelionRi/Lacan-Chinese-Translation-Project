@@ -234,7 +234,7 @@ Est–ce qu’on peut dire « *tous les mâles* », est-ce que ça peut même 
 
 <!-- id: s16-14-0056 -->
 
-C’est une question qui comporterait ceci : « *Est*-*ce que tous les non*-*mâles, ça voudrait dire les femelles ?* »
+C’est une question qui comporterait ceci : « *Est-ce que tous les non-mâles, ça voudrait dire les femelles ?* »
 
 <!-- id: s16-14-0057 -->
 
@@ -532,7 +532,7 @@ Si vous avez quand même un peu d’imagination…
 
 > « *Au niveau de la jouissance sexuelle, il s’agit plutôt de tumescence par exemple, et puis d’orgasme…*
 >
-> *Qu’est*-*ce que ça a à faire avec des fonctions de bord ?* »
+> *Qu’est-ce que ça a à faire avec des fonctions de bord ?* »
 
 <!-- id: s16-14-0131 -->
 
@@ -564,11 +564,11 @@ Le rituel de l’approche, les stades de *gradus* si je puis dire, vers une joui
 
 <!-- id: s16-14-0138 -->
 
-« *Et puis, mon Dieu, comment ces gens qui, à cette époque*-*là, la nuit du Moyen*-*Age, étaient si peu raffinés*…
+« *Et puis, mon Dieu, comment ces gens qui, à cette époque-là, la nuit du Moyen-Age, étaient si peu raffinés*…
 
 <!-- id: s16-14-0139 -->
 
-> vous pensez, ils étaient moins raffinés que le Professeur en question et sa *bobonne* ! …*comment est-ce que ces gens avaient pu imaginer des hommages si exaltés, qu’est*-*ce que c’est que tout ça, toutes ces femmes que nous chantent* *les poètes, elles ont toutes, toutes le même caractère…* »
+> vous pensez, ils étaient moins raffinés que le Professeur en question et sa *bobonne* ! …*comment est-ce que ces gens avaient pu imaginer des hommages si exaltés, qu’est-ce que c’est que tout ça, toutes ces femmes que nous chantent* *les poètes, elles ont toutes, toutes le même caractère…* »
 
 <!-- id: s16-14-0140 -->
 
@@ -628,7 +628,7 @@ Et comme *l’objet(a)* a plus d’une forme, comme l’énonce expressément FR
 
 <!-- id: s16-14-0154 -->
 
-- et *l’objet sado*-*masochique* quel est-il, celui-là ?
+- et *l’objet sado-masochique* quel est-il, celui-là ?
 
 <!-- id: s16-14-0155 -->
 

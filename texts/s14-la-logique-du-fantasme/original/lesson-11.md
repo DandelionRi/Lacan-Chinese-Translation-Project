@@ -70,11 +70,11 @@ Si ceux d’entre vous qui ont vécu ce qui aura ca­ractérisé le milieu de ce
 
 <!-- id: s14-11-0017 -->
 
-### Quand FREUD introduit pour la première fois, dans son « *Jenseits* » \[*au-delà*\] à lui : l’« *Au delà du principe du plaisir »,* le concept 
+### Quand FREUD introduit pour la première fois, dans son « *Jenseits* » \[*au-delà*\] à lui : l’« *Au delà du principe du plaisir »,* le concept
 
 <!-- id: s14-11-0018 -->
 
-### de « *répétition* », comme du *forçage* : *Zwang, répétition* : *Wiederholung,* cette *répétition* *forcée* : *Wiederholungszwang,* quand il l’introduit 
+### de « *répétition* », comme du *forçage* : *Zwang, répétition* : *Wiederholung,* cette *répétition* *forcée* : *Wiederholungszwang,* quand il l’introduit
 
 <!-- id: s14-11-0019 -->
 
@@ -82,7 +82,7 @@ Si ceux d’entre vous qui ont vécu ce qui aura ca­ractérisé le milieu de ce
 
 <!-- id: s14-11-0020 -->
 
-Si elle s’appelle « *Au-delà du principe du plaisir »*, c’est précisément en ceci qu’elle rompt avec ce qui jusque là lui donnait le module de la fonction psychique, à savoir cette *homéostase* qui fait écho à celle que nécessite *la substance de l’organisme*, qui la redouble et la répète, et qui est celle que, dans l’appareil nerveux isolé comme tel, il définit par la loi de « *la moindre* *tension* »*.*
+Si elle s’appelle « *Au-delà du principe du plaisir »*, c’est précisément en ceci qu’elle rompt avec ce qui jusque là lui donnait le module de la fonction psychique, à savoir cette *homéostase* qui fait écho à celle que nécessite *la substance de l’organisme*, qui la redouble et la répète, et qui est celle que, dans l’appareil nerveux isolé comme tel, il définit par la loi de « *la moindre* *tension* ».
 
 <!-- id: s14-11-0021 -->
 
@@ -90,15 +90,15 @@ Ce qu’introduit la *Wiederholungszwang* est nettement en contradiction avec ce
 
 <!-- id: s14-11-0022 -->
 
-C’est à savoir qu’il ne peut s’arrêter d’é­tendre ce *Zwang*, cette contrainte de la répétition, à un champ qui n’enveloppe pas seulement celui de la manifesta­tion vivante, mais qui la déborde, à l’inclure dans la pa­renthèse d’un retour à « *l’inanimé* »*.* Il nous sollicite donc de faire subsister comme « *vivante* »*...*
+C’est à savoir qu’il ne peut s’arrêter d’é­tendre ce *Zwang*, cette contrainte de la répétition, à un champ qui n’enveloppe pas seulement celui de la manifesta­tion vivante, mais qui la déborde, à l’inclure dans la pa­renthèse d’un retour à « *l’inanimé* ». Il nous sollicite donc de faire subsister comme « *vivante* »*...*
 
 <!-- id: s14-11-0023 -->
 
-et il nous faut bien met­tre ici ce terme *entre guillemets* *...une tendance* qui étend sa loi au-delà de la durée du vivant.
+et il nous faut bien met­tre ici ce terme *entre guillemets...une tendance* qui étend sa loi au-delà de la durée du vivant.
 
 <!-- id: s14-11-0024 -->
 
-Regardons-y bien de près, puisque c’est là ce qui fait l’objection et l’obstacle devant quoi se rebelle… tant que, bien sûr, la chose n’est pas comprise …se re­belle de prime abord, une pensée habituée à donner un cer­tain support au terme « *tendance* »*,* support justement, qui est celui que je viens d’évoquer en mettant le mot « *vivan­te* » entre guillemets. La vie donc, dans cette pensée, n’est plus « *l’ensemble des forces* *qui résistent à la mort* » - pour ce qui est de BICHAT - elle est *l’ensemble des forces* où se signifie que la mort serait pour la vie, son *rail*.
+Regardons-y bien de près, puisque c’est là ce qui fait l’objection et l’obstacle devant quoi se rebelle… tant que, bien sûr, la chose n’est pas comprise …se re­belle de prime abord, une pensée habituée à donner un cer­tain support au terme « *tendance* », support justement, qui est celui que je viens d’évoquer en mettant le mot « *vivan­te* » entre guillemets. La vie donc, dans cette pensée, n’est plus « *l’ensemble des forces* *qui résistent à la mort* » - pour ce qui est de BICHAT - elle est *l’ensemble des forces* où se signifie que la mort serait pour la vie, son *rail*.
 
 <!-- id: s14-11-0025 -->
 
@@ -298,11 +298,11 @@ Bien plutôt devrions-nous trouver nos modèles dans ce qui reste si incompris e
 
 <!-- id: s14-11-0074 -->
 
-Disons qu’il s’agit maintenant pour nous, de *rendre compte en termes de notre logique*, du surgissement néces­saire de ce « *lieu de l’Autre* » en tant qu’il est ainsi divisé. Car, pour nous, c’est *là* qu’il nous est demandé de situer non pas simplement ce « *lieu de l’Autre* »… 
+Disons qu’il s’agit maintenant pour nous, de *rendre compte en termes de notre logique*, du surgissement néces­saire de ce « *lieu de l’Autre* » en tant qu’il est ainsi divisé. Car, pour nous, c’est *là* qu’il nous est demandé de situer non pas simplement ce « *lieu de l’Autre* »…
 
 <!-- id: s14-11-0075 -->
 
-> le « *répondant* » par­fait de ceci : *que la vérité n’est pas trompeuse* …mais bien plus précisément, aux différents niveaux de l’expérience subjective que nous impose la clinique, comment est possi­ble que s’y insèrent *-* dans cette expérience - des instan­ces qui ne sont pas articulables autrement que comme *de­mande de l’Autre* : c’est la névrose.
+> le « *répondant* » par­fait de ceci : *que la vérité n’est pas trompeuse* …mais bien plus précisément, aux différents niveaux de l’expérience subjective que nous impose la clinique, comment est possi­ble que s’y insèrent - dans cette expérience - des instan­ces qui ne sont pas articulables autrement que comme *de­mande de l’Autre* : c’est la névrose.
 
 <!-- id: s14-11-0076 -->
 
@@ -550,7 +550,7 @@ Il n’en reste pas moins *divisé*.
 
 <!-- id: s14-11-0137 -->
 
-Tachons d’éclairer un peu ceci et mettons-nous au niveau de cette *aliénation* où le « *je* » se fonde d’un « *Je ne pense pas* » d’autant plus favorable à laisser tout le champ à l’*Es* de la structure logique. « *Je ne pense pas* » … si « *je* » suis, d’autant plus que *je ne pense pas*, je veux dire : si je ne suis que le «* je* » qu’ins­taure la structure logique, le médium, le trait, où peuvent se conjoindre ces deux termes, c’est le « *j’agis* »*,* ce « *j’agis* » qui n’est pas, comme je vous l’ai dit, effectuation motri­ce. Pour que « *je marche* » devienne un acte, il faut que le fait que « *je marche* » signifie : *que je marche en fait, <u>et</u> que je le dise comme tel*.
+Tachons d’éclairer un peu ceci et mettons-nous au niveau de cette *aliénation* où le « *je* » se fonde d’un « *Je ne pense pas* » d’autant plus favorable à laisser tout le champ à l’*Es* de la structure logique. « *Je ne pense pas* » … si « *je* » suis, d’autant plus que *je ne pense pas*, je veux dire : si je ne suis que le «* je* » qu’ins­taure la structure logique, le médium, le trait, où peuvent se conjoindre ces deux termes, c’est le « *j’agis* », ce « *j’agis* » qui n’est pas, comme je vous l’ai dit, effectuation motri­ce. Pour que « *je marche* » devienne un acte, il faut que le fait que « *je marche* » signifie : *que je marche en fait, <u>et</u> que je le dise comme tel*.
 
 <!-- id: s14-11-0138 -->
 
@@ -610,7 +610,7 @@ Je ne peux ici qu’indiquer en passant, car nous aurons à y revenir, que l’i
 
 <!-- id: s14-11-0152 -->
 
-Or il est un terme que depuis quelque temps j’ai laissé aux *tentatives* et *gustations* de ceux qui m’entou­rent, sans jamais franchement répondre à l’objection qui m’est faite - et qui m’est faite depuis longtemps - que la *Verleugnung* \[*le déni*\]*,* puisque c’est le terme dont il s’agit, est le terme auquel il faudrait référer les effets que j’ai réservés à la *Verwerfung* \[*la forclusion*\].
+Or il est un terme que depuis quelque temps j’ai laissé aux *tentatives* et *gustations* de ceux qui m’entou­rent, sans jamais franchement répondre à l’objection qui m’est faite - et qui m’est faite depuis longtemps - que la *Verleugnung* \[*le déni*\], puisque c’est le terme dont il s’agit, est le terme auquel il faudrait référer les effets que j’ai réservés à la *Verwerfung* \[*la forclusion*\].
 
 <!-- id: s14-11-0153 -->
 
@@ -622,7 +622,7 @@ J’ai assez parlé de cette dernière, depuis le discours d’aujourd’hui, po
 
 <!-- id: s14-11-0155 -->
 
-- Ce n’est pas un acte non plus quand *vous franchissez le Rubicon* en pensant à CÉSAR[^50], c’est *l’imi­tation* de l’acte de CÉSAR. Mais vous voyez déjà que *l’imita­tion* prend, dans la dimension de l’acte, une toute autre structure que celle qu’on lui suppose d’ordinaire. Ce n’est pas un acte, mais ça peut quand même en être un ! Et il n’y a même aucune autre définition possible à des suggestions, autrement aussi exorbitantes que *celles qui s’intitulent l’Imitation de* JÉSUS-CHRIST*,* par exemple.
+- Ce n’est pas un acte non plus quand *vous franchissez le Rubicon* en pensant à CÉSAR[^50], c’est *l’imi­tation* de l’acte de CÉSAR. Mais vous voyez déjà que *l’imita­tion* prend, dans la dimension de l’acte, une toute autre structure que celle qu’on lui suppose d’ordinaire. Ce n’est pas un acte, mais ça peut quand même en être un ! Et il n’y a même aucune autre définition possible à des suggestions, autrement aussi exorbitantes que *celles qui s’intitulent l’Imitation de* JÉSUS-CHRIST, par exemple.
 
 <!-- id: s14-11-0156 -->
 
@@ -662,7 +662,7 @@ Pourquoi cet acte - dans son instance - est-il resté voilé, et ceci dans ceux 
 
 <!-- id: s14-11-0165 -->
 
-C’est sans doute parce que l’autre possibilité de coupure nous est donnée, dans la partie impossible à choi­sir de l’aliénation… pourtant mise à notre portée par le biais de l’analyse …la même coupure intervenant à l’autre sommet, celui ici désigné, qui correspond à la conjonction : *Inconscient -* « *Je ne suis pas* »*.*
+C’est sans doute parce que l’autre possibilité de coupure nous est donnée, dans la partie impossible à choi­sir de l’aliénation… pourtant mise à notre portée par le biais de l’analyse …la même coupure intervenant à l’autre sommet, celui ici désigné, qui correspond à la conjonction : *Inconscient -* « *Je ne suis pas* ».
 
 <!-- id: s14-11-0166 -->
 

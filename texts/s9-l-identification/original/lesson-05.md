@@ -38,7 +38,7 @@ Il semble même que pour certains, cela soit allé dans leurs définitions, droi
 
 <!-- id: s9-05-0009 -->
 
-Donc Μονἀς \[monas\]*,* c’est-à-dire cette unité au sens du *trait unaire* tel qu’ici je vous indique qu’il recoupe, qu’il pointe dans sa fonction ce à quoi nous sommes arri­vés l’année dernière \[Cf. séminaire1960-61 : *Le transfert*..., séance du 07-06 \] dans le champ de notre expérience à repérer dans le texte même de FREUD comme *l’einziger Zug, ce par quoi chacun des étants* *est dit être* « 1 »*,* avec ce qu’apporte d’ambiguïté cet ἕν neutre de εἶς qui veut dire un en grec, étant précisément ce qui peut s’employer en grec comme en français pour désigner la fonction de l’unité en tant qu’elle est ce facteur de cohérence par quoi quelque chose se distingue de ce qui l’entoure, fait un tout, un *Un* au sens unitaire de la fonction, donc Μονἀς \[monas\] *c’est par l’intermédiaire de l’unité que chacun de ces êtres vient à être dit* « **1** », l’avènement dans le dire de cette unité comme caractéristique de chacun des étants, est ici désignée, elle vient de l’usage de la Μονἀς qui n’est rien d’autre que *le trait unique*.
+Donc Μονἀς \[monas\], c’est-à-dire cette unité au sens du *trait unaire* tel qu’ici je vous indique qu’il recoupe, qu’il pointe dans sa fonction ce à quoi nous sommes arri­vés l’année dernière \[Cf. séminaire1960-61 : *Le transfert*..., séance du 07-06 \] dans le champ de notre expérience à repérer dans le texte même de FREUD comme *l’einziger Zug, ce par quoi chacun des étants* *est dit être* « 1 », avec ce qu’apporte d’ambiguïté cet ἕν neutre de εἶς qui veut dire un en grec, étant précisément ce qui peut s’employer en grec comme en français pour désigner la fonction de l’unité en tant qu’elle est ce facteur de cohérence par quoi quelque chose se distingue de ce qui l’entoure, fait un tout, un *Un* au sens unitaire de la fonction, donc Μονἀς \[monas\] *c’est par l’intermédiaire de l’unité que chacun de ces êtres vient à être dit* « **1** », l’avènement dans le dire de cette unité comme caractéristique de chacun des étants, est ici désignée, elle vient de l’usage de la Μονἀς qui n’est rien d’autre que *le trait unique*.
 
 <!-- id: s9-05-0010 -->
 
@@ -74,7 +74,7 @@ C’est bien justement en quoi *s’originalise*, *se distingue* le champ que no
 
 <!-- id: s9-05-0018 -->
 
-Les *trois identifications* ne forment probable­ment pas *une classe*. Si elles peuvent néanmoins porter le même nom qui y apporte une ombre de concept, ce sera aussi sans doute à nous d’en rendre compte. Si nous opérons avec exactitude, cela ne semble pas être une tâche au-dessus de nos forces. En fait, nous savons d’ores et déjà que c’est au niveau du *particulier* que tou­jours surgit ce qui pour nous est *fonction universelle*, et nous n’avons pas trop à nous en étonner au niveau du champ où nous nous déplaçons puisque, concer­nant *la fonction de l’identification*, déjà nous savons - nous avons assez tra­vaillé ensemble pour le savoir *-* le sens de cette formule, que ce qui se passe, se passe essentiellement au niveau de la structure.
+Les *trois identifications* ne forment probable­ment pas *une classe*. Si elles peuvent néanmoins porter le même nom qui y apporte une ombre de concept, ce sera aussi sans doute à nous d’en rendre compte. Si nous opérons avec exactitude, cela ne semble pas être une tâche au-dessus de nos forces. En fait, nous savons d’ores et déjà que c’est au niveau du *particulier* que tou­jours surgit ce qui pour nous est *fonction universelle*, et nous n’avons pas trop à nous en étonner au niveau du champ où nous nous déplaçons puisque, concer­nant *la fonction de l’identification*, déjà nous savons - nous avons assez tra­vaillé ensemble pour le savoir - le sens de cette formule, que ce qui se passe, se passe essentiellement au niveau de la structure.
 
 <!-- id: s9-05-0019 -->
 
@@ -82,7 +82,7 @@ Et *la structure* - *Faut-il le rappe­ler ?* Et justement je crois qu’aujour
 
 <!-- id: s9-05-0020 -->
 
-Si à partir d’un certain moment - et justement celui de la naissance de ces séminaires *-* j’ai cru devoir faire entrer en jeu cette triade du *Symbolique*, de *l’Imaginaire* et du *Réel* [^45], c’est pour autant que ce tiers élément, qui n’était point jusque là dans notre expérience suffisamment discerné comme tel, est exactement à mes yeux ce qui est constitué exactement par ce fait de la révélation d’un champ d’expérience. Et pour ôter toute ambiguïté à ce terme - il s’agit de *l’expérience freudienne* - je dirai, d’un champ d’« *expériment* » : je veux dire qu’il ne s’agit pas d’*Erlebnis* \[expérience vécue\].
+Si à partir d’un certain moment - et justement celui de la naissance de ces séminaires - j’ai cru devoir faire entrer en jeu cette triade du *Symbolique*, de *l’Imaginaire* et du *Réel* [^45], c’est pour autant que ce tiers élément, qui n’était point jusque là dans notre expérience suffisamment discerné comme tel, est exactement à mes yeux ce qui est constitué exactement par ce fait de la révélation d’un champ d’expérience. Et pour ôter toute ambiguïté à ce terme - il s’agit de *l’expérience freudienne* - je dirai, d’un champ d’« *expériment* » : je veux dire qu’il ne s’agit pas d’*Erlebnis* \[expérience vécue\].
 
 <!-- id: s9-05-0021 -->
 
@@ -130,7 +130,7 @@ Je suis loin de sous-estimer ce qu’a apporté, à un moment de l’histoire de
 
 <!-- id: s9-05-0032 -->
 
-Mais ceci ne nous concerne pas, car ça n’est pas le champ auquel nous avons affaire. Nous ne sommes pas ici pour juger du degré de naturel de la physique moderne, encore qu’il puisse nous intéresser - c’est ce que je fais de temps en temps devant vous quelquefois *-* de montrer qu’historiquement c’est justement *dans la mesure où elle a tout à fait négligé le naturel des choses que la physique a commencé à entrer dans le réel*.
+Mais ceci ne nous concerne pas, car ça n’est pas le champ auquel nous avons affaire. Nous ne sommes pas ici pour juger du degré de naturel de la physique moderne, encore qu’il puisse nous intéresser - c’est ce que je fais de temps en temps devant vous quelquefois - de montrer qu’historiquement c’est justement *dans la mesure où elle a tout à fait négligé le naturel des choses que la physique a commencé à entrer dans le réel*.
 
 <!-- id: s9-05-0033 -->
 

@@ -198,7 +198,7 @@ C’est pour autant qu’ici *le quotient que le sujet cherche à atteindre*...
 
 <!-- id: s6-21-0049 -->
 
-<img src="assets/image49.jpeg" style="width:0.63319in;height:0.8125in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S6\28b.jpg" /> S **◊** *a*
+<img src="assets/image49.jpeg" style="width:0.63319in;height:0.8125in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S6\28b.jpg" /> S ◊ *a*
 
 <!-- id: s6-21-0050 -->
 
@@ -242,7 +242,7 @@ Mais avant que ceci soit fait « *Là où Ça était* », qu’est-ce qui nous
 
 <!-- id: s6-21-0059 -->
 
-Ce qui nous le désigne, c’est l’index - de quoi ? - très exactement de ce dont il s’agit : du désir, du désir en tant qu’il est fonction et terme de ce dont il s’agit dans l’inconscient. Et le désir est ici soutenu par l’opposition, la cœxistence des deux termes qui sont S**◊***a,* ici le S, *le sujet en tant que justement à cette limite il se perd, que là l’inconscient commence*.
+Ce qui nous le désigne, c’est l’index - de quoi ? - très exactement de ce dont il s’agit : du désir, du désir en tant qu’il est fonction et terme de ce dont il s’agit dans l’inconscient. Et le désir est ici soutenu par l’opposition, la cœxistence des deux termes qui sont S◊*a,* ici le S, *le sujet en tant que justement à cette limite il se perd, que là l’inconscient commence*.
 
 <!-- id: s6-21-0060 -->
 
@@ -450,7 +450,7 @@ Et dans toute la mesure où il essaie, à cette chaîne d’*aborder*, où il es
 
 <!-- id: s6-21-0110 -->
 
-Il y a bien d’autres choses à démontrer sur cette formalisation S**◊***a,* mais je veux vous montrer comment est fait *(a)*. Je vous l’ai dit, c’est comme *coupure* et comme *intervalle* que le sujet se rencontre au point terme de son interrogation. C’est aussi bien essentiellement comme *forme de coupure* que le *(a)*, dans toute sa généralité, nous montre sa forme.
+Il y a bien d’autres choses à démontrer sur cette formalisation S◊*a,* mais je veux vous montrer comment est fait *(a)*. Je vous l’ai dit, c’est comme *coupure* et comme *intervalle* que le sujet se rencontre au point terme de son interrogation. C’est aussi bien essentiellement comme *forme de coupure* que le *(a)*, dans toute sa généralité, nous montre sa forme.
 
 <!-- id: s6-21-0111 -->
 
@@ -486,7 +486,7 @@ Il y en a *trois espèces repérées* dans l’expérience analytique, *identifi
 
 <!-- id: s6-21-0119 -->
 
-- *la troisième espèce*... c’est peut-être le seul terme qui vous surprendra comme une *nouveauté* mais, à la vérité, je pense que ceux d’entre vous qui ont pu étudier d’assez près ce que j’ai pu écrire sur *les psychoses* ne s’y trouveront tout de même pas essentiellement *déroutés* *...la troisième espèce* d’objet remplissant exactement la même fonction *par rapport au sujet à son point de défaillance,* *de fading,* cela n’est rien d’autre et ni plus ni moins que ce qu’on appelle communément *le délire* et très précisément, ce pourquoi FREUD, depuis presque le début de ses premières appréhensions, a pu écrire : « *Ils aiment leur délire comme soi-même. Sie lieben also den Wahn wie sich selbst* »[^103].
+- *la troisième espèce*... c’est peut-être le seul terme qui vous surprendra comme une *nouveauté* mais, à la vérité, je pense que ceux d’entre vous qui ont pu étudier d’assez près ce que j’ai pu écrire sur *les psychoses* ne s’y trouveront tout de même pas essentiellement *déroutés...la troisième espèce* d’objet remplissant exactement la même fonction *par rapport au sujet à son point de défaillance,* *de fading,* cela n’est rien d’autre et ni plus ni moins que ce qu’on appelle communément *le délire* et très précisément, ce pourquoi FREUD, depuis presque le début de ses premières appréhensions, a pu écrire : « *Ils aiment leur délire comme soi-même. Sie lieben also den Wahn wie sich selbst* »[^103].
 
 <!-- id: s6-21-0120 -->
 

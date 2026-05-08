@@ -390,7 +390,7 @@ Quand j’ai posé la question du point d’arrêt du discours, ceci nous donne 
 
 <!-- id: s3-11-0095 -->
 
-C’est là justement quelque chose dont l’analyse en aucun cas ne peut nous justifier l’existence comme supportée par aucune construction expérimentaliste : il y a là une donnée, une certaine façon de prendre ce moment du soir comme signifiant, qui est quelque chose par rapport à quoi nous sommes ouverts ou fermés. Et que c’est justement dans toute la mesure où nous y étions fermés que nous le recevons avec *ces singuliers phénomènes d’écho*, ou avec *cette amorce du phénomène d’écho* qui consistera dans l’apparition de ce quelque chose d’entendu à la limite de notre saisissement par ce phénomène, et qui se formulera pour nous le plus communément par ces mots : « *la paix du soir* ». Bref, ce que ceci vise maintenant que nous sommes arrivés à la limite où le discours s’il débouche sur quelque chose au-delà de la signification, débouche sur du signifiant dans le réel dont nous ne saurons jamais dans la parfaite ambiguïté où il subsiste, ce qu’il doit au mariage avec le discours, mais ce qui déjà s’amorce de par cette analyse, c’est que plus ce signifiant nous surprend, c’est-à-dire en principe nous échappe, plus déjà il va se présenter à nous avec une frange plus ou moins adéquate de phénomène de discours*.* Autrement dit que si en présence de « *la paix du soir* », ce terme qui viendra ne nous parait pas trop inadéquat.
+C’est là justement quelque chose dont l’analyse en aucun cas ne peut nous justifier l’existence comme supportée par aucune construction expérimentaliste : il y a là une donnée, une certaine façon de prendre ce moment du soir comme signifiant, qui est quelque chose par rapport à quoi nous sommes ouverts ou fermés. Et que c’est justement dans toute la mesure où nous y étions fermés que nous le recevons avec *ces singuliers phénomènes d’écho*, ou avec *cette amorce du phénomène d’écho* qui consistera dans l’apparition de ce quelque chose d’entendu à la limite de notre saisissement par ce phénomène, et qui se formulera pour nous le plus communément par ces mots : « *la paix du soir* ». Bref, ce que ceci vise maintenant que nous sommes arrivés à la limite où le discours s’il débouche sur quelque chose au-delà de la signification, débouche sur du signifiant dans le réel dont nous ne saurons jamais dans la parfaite ambiguïté où il subsiste, ce qu’il doit au mariage avec le discours, mais ce qui déjà s’amorce de par cette analyse, c’est que plus ce signifiant nous surprend, c’est-à-dire en principe nous échappe, plus déjà il va se présenter à nous avec une frange plus ou moins adéquate de phénomène de discours. Autrement dit que si en présence de « *la paix du soir* », ce terme qui viendra ne nous parait pas trop inadéquat.
 
 <!-- id: s3-11-0096 -->
 
@@ -398,7 +398,7 @@ Ce dont il s’agit pour nous, ce que nous visons, c’est de chercher - c’est
 
 <!-- id: s3-11-0097 -->
 
-Qu’est–ce que veut dire ce discours et la volupté ineffable qui s’y attache en tant qu’elle est le fondement, la tonalité fondamentale de la vie du sujet ? C’est un repérage de ce dont il s’agit, d’une sorte d’analyse telle qu’elle peut être tentée dans un cas qui se montre comme spécialement tératologique, dont je me propose de soutenir devant vous l’interrogation*.* Et pour l’ouvrir, vous faire la remarque que ce sujet d’une observation particulièrement vécue qui est d’un infrangible attachement à la vérité, note ce qui se passe quand ce discours - auquel il est véritablement suspendu, non sans douleur - *s’interrompt*.
+Qu’est–ce que veut dire ce discours et la volupté ineffable qui s’y attache en tant qu’elle est le fondement, la tonalité fondamentale de la vie du sujet ? C’est un repérage de ce dont il s’agit, d’une sorte d’analyse telle qu’elle peut être tentée dans un cas qui se montre comme spécialement tératologique, dont je me propose de soutenir devant vous l’interrogation. Et pour l’ouvrir, vous faire la remarque que ce sujet d’une observation particulièrement vécue qui est d’un infrangible attachement à la vérité, note ce qui se passe quand ce discours - auquel il est véritablement suspendu, non sans douleur - *s’interrompt*.
 
 <!-- id: s3-11-0098 -->
 
@@ -456,7 +456,7 @@ Autrement dit qu’une sorte d’évanouissement, de retour rétrospectif de la 
 
 <!-- id: s3-11-0111 -->
 
-Entre ces deux pôles extrêmes du miracle de hurlement et de l’appel au secours, tout se passe donc comme si nous touchions là du doigt une sorte de *passage*, de *transition* qui définit elle-même *une frontière*, et où l’on verrait le passage d’une absorption du sujet dans un lien incontestablement érotisé. Les connotations y sont données, c’est un rapport féminin-masculin avec un exercice que le sujet avec le temps a fini par neutraliser extrêmement, par réduire à son exercice même d’un jeu continu de significations*,* qu’il appelle lui-même « *Unsinnig »*, insensé, mais qui dans leur mise en exercice à l’intérieur, jouent au contraire sur le sens contraire, puisqu’il s’agit de combler des phases.
+Entre ces deux pôles extrêmes du miracle de hurlement et de l’appel au secours, tout se passe donc comme si nous touchions là du doigt une sorte de *passage*, de *transition* qui définit elle-même *une frontière*, et où l’on verrait le passage d’une absorption du sujet dans un lien incontestablement érotisé. Les connotations y sont données, c’est un rapport féminin-masculin avec un exercice que le sujet avec le temps a fini par neutraliser extrêmement, par réduire à son exercice même d’un jeu continu de significations, qu’il appelle lui-même « *Unsinnig »*, insensé, mais qui dans leur mise en exercice à l’intérieur, jouent au contraire sur le sens contraire, puisqu’il s’agit de combler des phases.
 
 <!-- id: s3-11-0112 -->
 
@@ -521,6 +521,7 @@ C’est ce qui nous restera à tenter de comprendre, mais c’est une question d
 <!-- id: s3-11-0127 -->
 
 Que c’est dans cette opposition de la localisation subjective de la *Verwerfung* et de la *Verdrängung*, c’est dans une première approximation de cette opposition que se situe le sens que j’ai essayé de vous faire comprendre aujourd’hui.
+
 ## Notes
 
 [^23]: Empruté au latin ecclésiastique « *martyr »*, du grec μάρτυς, -υρος : « *témoin* », d'où spécialement « *témoin de Dieu, martyr* » (TLF).

@@ -142,7 +142,7 @@ C’est la formule de l’acte. *L’acte de poser l’inconscien*t peut-il êtr
 
 <!-- id: s15-05-0033 -->
 
-Ici je reprends, je souligne : il se trouve que dans un certain champ je puis formuler « *je pense* »*,* ça en a tous les caractères :
+Ici je reprends, je souligne : il se trouve que dans un certain champ je puis formuler « *je pense* », ça en a tous les caractères :
 
 <!-- id: s15-05-0034 -->
 
@@ -166,7 +166,7 @@ Il est tout à fait certain que la révélation du « *je pense* » de l’inc
 
 <!-- id: s15-05-0039 -->
 
-> tout le monde sait cela, *qu’on ait fait de la psychanalyse ou pas*, il suffit d’ouvrir un bouquin et de voir de quoi il s’agit …*quelque chose* qui, au niveau de ce que le *cogito* de DESCARTES nous fait toucher de l’implication du « *donc je suis* »*,* cette dimension que j’appellerai de *désamorçage*, qui fait que là où le plus sûrement « *je pense* », à m’en apercevoir, *j’y étais*, mais exactement comme on dit - *vous savez que j’ai déjà usé de cet exemple, l’expérience m’apprend qu’il n’est pas vain de se répéter –* c’est au même sens, selon l’exemple extrait des remarques du linguiste GUILLAUME[^42], que cet emploi très spécifique de l’imparfait en français qui fait toute l’ambiguïté de l’expression : « *Un instant plus tard, la bombe éclatait. *»
+> tout le monde sait cela, *qu’on ait fait de la psychanalyse ou pas*, il suffit d’ouvrir un bouquin et de voir de quoi il s’agit …*quelque chose* qui, au niveau de ce que le *cogito* de DESCARTES nous fait toucher de l’implication du « *donc je suis* », cette dimension que j’appellerai de *désamorçage*, qui fait que là où le plus sûrement « *je pense* », à m’en apercevoir, *j’y étais*, mais exactement comme on dit - *vous savez que j’ai déjà usé de cet exemple, l’expérience m’apprend qu’il n’est pas vain de se répéter –* c’est au même sens, selon l’exemple extrait des remarques du linguiste GUILLAUME[^42], que cet emploi très spécifique de l’imparfait en français qui fait toute l’ambiguïté de l’expression : « *Un instant plus tard, la bombe éclatait. *»
 
 <!-- id: s15-05-0040 -->
 
@@ -182,7 +182,7 @@ Permettez-moi de la rajouter, de la plaquer, cette nuance sur le *Wo Es war* all
 
 <!-- id: s15-05-0043 -->
 
-- « *soll Ich werden* »* *: « *ici...* - le *Ich*, il y a longtemps que je l’ai souligné, ne peut que se traduire par *le sujet - ...le sujet doit advenir »*.
+- « *soll Ich werden* »: « *ici...* - le *Ich*, il y a longtemps que je l’ai souligné, ne peut que se traduire par *le sujet - ...le sujet doit advenir »*.
 
 <!-- id: s15-05-0044 -->
 
@@ -252,7 +252,7 @@ Donc quand je parle du « *faux être* », il ne s’agit pas de ce qui vient e
 
 <!-- id: s15-05-0060 -->
 
-Naturellement que c’est *une place commode* ce « *Je ne pense pas* »*.* Il n’y a pas que l’être bouffi dont je parlais à l’instant qui y trouve sa place, tout y vient : *le préjugé médical* dans l’ensemble, et *le préjugé psychologique ou psychologisant*, pas moins.
+Naturellement que c’est *une place commode* ce « *Je ne pense pas* ». Il n’y a pas que l’être bouffi dont je parlais à l’instant qui y trouve sa place, tout y vient : *le préjugé médical* dans l’ensemble, et *le préjugé psychologique ou psychologisant*, pas moins.
 
 <!-- id: s15-05-0061 -->
 

@@ -38,7 +38,7 @@ Mais c’est *La femme* préhistorique, c’est celle dont vous voyez qu’elle 
 
 <!-- id: s21-15-0009 -->
 
-Elle ne se rend pas compte, quand on a beaucoup de plis, on ne sent pas grand-chose*,* sans ça - qui sait ? - elle me trouverait peut-être encombrant.
+Elle ne se rend pas compte, quand on a beaucoup de plis, on ne sent pas grand-chose, sans ça - qui sait ? - elle me trouverait peut-être encombrant.
 
 <!-- id: s21-15-0010 -->
 
@@ -80,7 +80,7 @@ Mais j’y ai réfléchi, et il y a à ça des raisons qui sont peut-être dues 
 
 <!-- id: s21-15-0019 -->
 
-Le savoir dont nous nous occupons ici *-* je pense vous l’avoir fait sentir *-* c’est *le savoir en quoi consiste l’inconscient*, et c’est en somme là-dessus que je voudrais clore cette année.
+Le savoir dont nous nous occupons ici - je pense vous l’avoir fait sentir - c’est *le savoir en quoi consiste l’inconscient*, et c’est en somme là-dessus que je voudrais clore cette année.
 
 <!-- id: s21-15-0020 -->
 
@@ -530,7 +530,7 @@ Car c’est ce que nous montre l’expérience analytique, c’est à savoir que
 
 > quoique tout de même ça le chatouillait lui aussi
 >
-> et il l’a entrevu, il l’a presque dit dans *« Malaise dans la Civilisation »* *...*c’est à savoir que *le sens n’est sexuel que parce que le sens se substitue justement au sexuel qui manque*.
+> et il l’a entrevu, il l’a presque dit dans *« Malaise dans la Civilisation »...*c’est à savoir que *le sens n’est sexuel que parce que le sens se substitue justement au sexuel qui manque*.
 
 <!-- id: s21-15-0128 -->
 
@@ -642,7 +642,7 @@ C’est pas pour rien...
 
 <!-- id: s21-15-0155 -->
 
-> parce que quand même j’ai ma petite idée ...c’est pas pour rien que je vous ai fait remarquer que ce fameux arbre de départ là*,* celui où on a cueilli la pomme*,* on pouvait se poser la question *s’il jouit* lui-même tout comme un autre être vivant.
+> parce que quand même j’ai ma petite idée ...c’est pas pour rien que je vous ai fait remarquer que ce fameux arbre de départ là, celui où on a cueilli la pomme, on pouvait se poser la question *s’il jouit* lui-même tout comme un autre être vivant.
 
 <!-- id: s21-15-0156 -->
 
@@ -654,7 +654,7 @@ Et alors disons que *lalangue, <u>n’importe quel élément de lalangue</u> <u>
 
 <!-- id: s21-15-0158 -->
 
-> *au regard de la jouissance phallique* *...<u>un brin de jouissance</u>, et c’est en ça que ça étend ses racines <u>si loin dans le corps</u>.*
+> *au regard de la jouissance phallique...<u>un brin de jouissance</u>, et c’est en ça que ça étend ses racines <u>si loin dans le corps</u>.*
 
 <!-- id: s21-15-0159 -->
 
@@ -662,7 +662,7 @@ Bon, alors *ce dont il faut partir*...
 
 <!-- id: s21-15-0160 -->
 
-> vous voyez, ça traîne, il est tard, bon... ...*c’est de cette forte affirmation que l’inconscient n’est pas une connaissance : c’est un savoir,* *et un savoir en tant que je le définis de la connexion de signifiants*, 1<sup>er</sup> point. 2<sup>ème</sup> point : *c’est un savoir dysharmonique,* qui ne prête d’aucune façon à un mariage qui serait heureux*.*
+> vous voyez, ça traîne, il est tard, bon... ...*c’est de cette forte affirmation que l’inconscient n’est pas une connaissance : c’est un savoir,* *et un savoir en tant que je le définis de la connexion de signifiants*, 1<sup>er</sup> point. 2<sup>ème</sup> point : *c’est un savoir dysharmonique,* qui ne prête d’aucune façon à un mariage qui serait heureux.
 
 <!-- id: s21-15-0161 -->
 
@@ -722,7 +722,7 @@ C’est paradoxal, je dis ça parce que j’ai lu un petit papier tor­chon qui 
 
 <!-- id: s21-15-0175 -->
 
-- qu’il y ait la moindre *harmonie* de ce qu’on situe de *la jouissance,* de *la jouissance corporelle,* avec ce qui entoure*.*
+- qu’il y ait la moindre *harmonie* de ce qu’on situe de *la jouissance,* de *la jouissance corporelle,* avec ce qui entoure.
 
 <!-- id: s21-15-0176 -->
 
@@ -842,7 +842,7 @@ Alors je me suis rendu compte à quel point je m’explique mal. \[*Rires*\]
 
 <!-- id: s21-15-0204 -->
 
-Parce que moi je vous avais écrit au tableau* *: : §.
+Parce que moi je vous avais écrit au tableau: : §.
 
 <!-- id: s21-15-0205 -->
 
@@ -850,7 +850,7 @@ Ce qui veut dire : faut qu’il y en ait un qui dise *non* à la jouissance pha
 
 <!-- id: s21-15-0206 -->
 
-Grâce à quoi, et seulement grâce à quoi,* *; !, il y en a des *« tous »* qui disent *oui*.
+Grâce à quoi, et seulement grâce à quoi,; !, il y en a des *« tous »* qui disent *oui*.
 
 <!-- id: s21-15-0207 -->
 
@@ -894,7 +894,7 @@ Le propre d’un signifiant...
 
 <!-- id: s21-15-0217 -->
 
-> c’est un fait de langue auquel on ne peut rien ...c’est que tout signifiant peut se réduire à la portée du signifiant **1***.*
+> c’est un fait de langue auquel on ne peut rien ...c’est que tout signifiant peut se réduire à la portée du signifiant **1**.
 
 <!-- id: s21-15-0218 -->
 

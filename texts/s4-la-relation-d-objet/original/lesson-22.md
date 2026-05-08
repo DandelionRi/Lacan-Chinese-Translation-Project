@@ -91,7 +91,7 @@ et de « *l’acte* » qui trouve sa médiation dans un amour.
 <!-- id: s4-22-0017 -->
 
 Mais hors de cette tradition, disons-le bien, toute relation à l’objet implique cette tierce dimension que nous voyons articulée dans ARISTOTE, qui est précisément celle qui est ensuite éliminée par - je dirais - l’ARISTOTE apocryphe,
-l’ARISTOTE d’une théologie qu’on lui a attribuée bien plus tard - cha­cun sait, et quelle existe et qu’elle est apocryphe *-*
+l’ARISTOTE d’une théologie qu’on lui a attribuée bien plus tard - cha­cun sait, et quelle existe et qu’elle est apocryphe -
 
 <!-- id: s4-22-0018 -->
 
@@ -518,7 +518,7 @@ n’est pas justement applicable dans ce cas là parce qu’il s’agit du père
 
 <!-- id: s4-22-0091 -->
 
-Bien entendu alors qu’il n’est que trop évident que dans toute analyse d’enfant pratiquée par un analyste, il y a bel et bien transfert, tout simplement comme *-* et mieux que partout ailleurs *-* il y en a chez l’adulte, ici il s’agit de quelque chose
+Bien entendu alors qu’il n’est que trop évident que dans toute analyse d’enfant pratiquée par un analyste, il y a bel et bien transfert, tout simplement comme - et mieux que partout ailleurs - il y en a chez l’adulte, ici il s’agit de quelque chose
 d’un peu particulier, et dont nous serons amenés par la suite montrer les conséquences.
 
 <!-- id: s4-22-0092 -->
@@ -638,7 +638,7 @@ Et le père est très intéressé :
 
 <!-- id: s4-22-0114 -->
 
-- « *Est-ce Chocolodi ? Est-ce Saffalodi** **?* ».
+- « *Est-ce Chocolodi ? Est-ce Saffalodi** *? ».
 
 <!-- id: s4-22-0115 -->
 
@@ -725,7 +725,7 @@ de sa phobie. Que va-t-il rester comme *traces*, si on peut dire, *du passage pa
 
 <!-- id: s4-22-0130 -->
 
-Quelque chose de très curieux, quelque chose qui est le rôle du petit agneau avec lequel à la fin il nous dit qu’il se livre à *des jeux très particuliers*, par exemple de se faire bousculer par lui, et ce petit agneau est un agneau sur lequel on a essayé de mettre un jour à cheval sa sœur, c’est-à-dire de la mettre dans la position *-* comme on l’appelle dans le fantasme *-* de la grande boîte.
+Quelque chose de très curieux, quelque chose qui est le rôle du petit agneau avec lequel à la fin il nous dit qu’il se livre à *des jeux très particuliers*, par exemple de se faire bousculer par lui, et ce petit agneau est un agneau sur lequel on a essayé de mettre un jour à cheval sa sœur, c’est-à-dire de la mettre dans la position - comme on l’appelle dans le fantasme - de la grande boîte.
 
 <!-- id: s4-22-0131 -->
 

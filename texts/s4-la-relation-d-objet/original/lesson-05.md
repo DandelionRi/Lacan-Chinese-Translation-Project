@@ -67,7 +67,7 @@ cet *objet imaginaire* et *l’objet réel*, que l’analyste va être à chaque
 
 <!-- id: s4-05-0011 -->
 
-- et la notion mise en valeur par *l’un de ces auteurs* - suivi dans cette occasion par tous les autres *-* qui est celle de *« la distance névrotique »* que le sujet impose à *l’objet*, se réfère très précisément à cette *situa­tion analytique*.
+- et la notion mise en valeur par *l’un de ces auteurs* - suivi dans cette occasion par tous les autres - qui est celle de *« la distance névrotique »* que le sujet impose à *l’objet*, se réfère très précisément à cette *situa­tion analytique*.
 
 <!-- id: s4-05-0012 -->
 
@@ -467,7 +467,7 @@ d’un drap, de sorte qu’il y a toutes les conditions de l’approche, mise à
 <!-- id: s4-05-0089 -->
 
 Ceci qui peut passer pour être simplement une heureuse *fantaisie de mœurs* dont nous pouvons peut-être regretter de n’être pas par­ticipants, cela pourrait être amusant, mérite une certaine attention, car en fin de compte il n’y a rien de forcé à dire
-que la situation analytique 17 ou 18 ans après la mort de FREUD est paradoxale et aboutit à être conçue, et formalisée ainsi*.*
+que la situation analytique 17 ou 18 ans après la mort de FREUD est paradoxale et aboutit à être conçue, et formalisée ainsi.
 
 <!-- id: s4-05-0090 -->
 
@@ -499,11 +499,10 @@ C’est un ordre de recherche dans *la réalisation amoureuse* qui, à plusieurs
 
 <!-- id: s4-05-0096 -->
 
-Ce qui est ordonné, ce qui est effectivement atteint*,* nous n’avons pas ici à le poser en question, que cela visât quelque chose qui essayât d’aller au-delà du court-circuit physiologique si on peut s’exprimer ainsi, il n’est également pas douteux que ça ait
+Ce qui est ordonné, ce qui est effectivement atteint, nous n’avons pas ici à le poser en question, que cela visât quelque chose qui essayât d’aller au-delà du court-circuit physiologique si on peut s’exprimer ainsi, il n’est également pas douteux que ça ait
 un certain intérêt. Ce n’est pas là quelque chose qui est introduit ici en dehors d’une certaine référence qui nous permet
 de situer exactement, et cette métaphore, et en même temps la possibilité d’intégrer à divers niveaux, c’est-à-dire d’une façon plus ou moins consciente, ce qu’on fait de l’usage de *la relation imaginaire* comme telle...
-peut-être elle-même employée *d’une façon délibérée*
-*...*l’usage si on peut dire de pratiques qui peuvent paraître aux yeux d’un naïf être des *pratiques perverses*, et qui en réalité
+peut-être elle-même employée *d’une façon délibérée...*l’usage si on peut dire de pratiques qui peuvent paraître aux yeux d’un naïf être des *pratiques perverses*, et qui en réalité
 ne le sont pas plus que n’importe quel règlement de l’approche amoureuse d’une sphère définie des mœurs et des *patterns*, comme on s’exprime.C’est quelque chose qui mérite d’être signalé comme point de référence pour savoir où nous nous situons.
 
 <!-- id: s4-05-0097 -->

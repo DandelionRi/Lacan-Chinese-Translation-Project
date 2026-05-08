@@ -78,7 +78,7 @@ Ce point d’interrogation a sa réponse pour « *tout tétrume un* »...
 
 <!-- id: s25-05-0019 -->
 
-> je ne vois pas pourquoi je n’écrirais pas ça comme ça, à l’occasion ...ce point d’inter­rogation - viens-je de dire - a sa réponse pour « *tout tétrume un* » : j’écrirais ça « *l’amort* »*.*
+> je ne vois pas pourquoi je n’écrirais pas ça comme ça, à l’occasion ...ce point d’inter­rogation - viens-je de dire - a sa réponse pour « *tout tétrume un* » : j’écrirais ça « *l’amort* ».
 
 <!-- id: s25-05-0020 -->
 
@@ -132,7 +132,7 @@ D’où le sans-gêne avec lequel on a mani­pulé toutes ces *momies* éminemme
 
 <!-- id: s25-05-0032 -->
 
-C’est à quoi se sont consa­crés les « *nés après* »*.*
+C’est à quoi se sont consa­crés les « *nés après* ».
 
 <!-- id: s25-05-0033 -->
 
@@ -168,7 +168,7 @@ Une *vélaire* qui m’apprend à vêler le Quetchua, c’est-à-dire à faire c
 
 <!-- id: s25-05-0041 -->
 
-Un *affreux* du nom de Freud, a mis au point un bafouillage qu’il a qua­lifié d’« *analyse *» - on ne sait pourquoi - pour énoncer la seule vérité qui comp­te : *il n’y a pas de rapport sexuel* chez « *les trumains* »*.* C’est moi qui en ai conclu ça.
+Un *affreux* du nom de Freud, a mis au point un bafouillage qu’il a qua­lifié d’« *analyse *» - on ne sait pourquoi - pour énoncer la seule vérité qui comp­te : *il n’y a pas de rapport sexuel* chez « *les trumains* ». C’est moi qui en ai conclu ça.
 
 <!-- id: s25-05-0042 -->
 
@@ -312,7 +312,7 @@ Vous venez ? Je vais vous passer ça puisque aussi bien... Allons-y.
 
 <!-- id: s25-05-0077 -->
 
-Sur le 0 et le 1... Sur le 0 et le 1 *de l’arithmé­tique* *!*
+Sur le 0 et le 1... Sur le 0 et le 1 *de l’arithmé­tique!*
 
 <!-- id: s25-05-0078 -->
 
@@ -356,7 +356,7 @@ Alors, dans les « *chaînes* » il y a des choses analogues à ça. Mais alor
 
 <!-- id: s25-05-0088 -->
 
-X *-* Qu’est-ce que ça veut dire « *systématique* » ? \[*Rires*\]
+X - Qu’est-ce que ça veut dire « *systématique* » ? \[*Rires*\]
 
 <!-- id: s25-05-0089 -->
 
@@ -830,7 +830,7 @@ Pierre Soury - Bon. Alors ça, c’est deux tores enlacés :
 
 <!-- id: s25-05-0206 -->
 
-Alors, ce qui est la même chose, c’est ça : deux tores, deux tores enlacés. Et ça c’est deux tores enlacés… Lacan *-* Ceux-là ne sont pas enlacés, ils sont l’un à l’in­térieur de l’autre.
+Alors, ce qui est la même chose, c’est ça : deux tores, deux tores enlacés. Et ça c’est deux tores enlacés… Lacan - Ceux-là ne sont pas enlacés, ils sont l’un à l’in­térieur de l’autre.
 
 <!-- id: s25-05-0207 -->
 

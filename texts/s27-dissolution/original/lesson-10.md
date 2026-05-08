@@ -85,7 +85,7 @@ Comme je ne m’y fais pas, je me fatigue à le dissoudre.
 
 <!-- id: s27-10-0020 -->
 
-Et du coup, je le nourris. C’est ce qui s’appelle le séminaire perpétuel.   
+Et du coup, je le nourris. C’est ce qui s’appelle le séminaire perpétuel.
 
 <!-- id: s27-10-0021 -->
 
@@ -98,7 +98,7 @@ Si vous croyez que tout puisse s’en révéler, eh bien, vous vous mettez dedan
 
 <!-- id: s27-10-0023 -->
 
-Cela veut dire qu’une part ne s’en révélera jamais.   
+Cela veut dire qu’une part ne s’en révélera jamais.
 
 <!-- id: s27-10-0024 -->
 
@@ -106,7 +106,7 @@ C’est précisément ce dont la religion se targue.
 
 <!-- id: s27-10-0025 -->
 
-Et c’est ce qui donne son rempart à la Révélation dont elle se prévaut pour l’exploiter. 
+Et c’est ce qui donne son rempart à la Révélation dont elle se prévaut pour l’exploiter.
 
 <!-- id: s27-10-0026 -->
 
@@ -135,7 +135,7 @@ De traumatisme, il n’y en a pas d’autre : l’homme naît malentendu.
 
 <!-- id: s27-10-0032 -->
 
-Puisqu’on m’interroge sur ce qu’on appelle le statut du corps, j’y viens, pour souligner qu’il ne s’attrape que de là. 
+Puisqu’on m’interroge sur ce qu’on appelle le statut du corps, j’y viens, pour souligner qu’il ne s’attrape que de là.
 
 <!-- id: s27-10-0033 -->
 
@@ -254,8 +254,8 @@ Vous allez  tout de suite voir pourquoi.
 
 <!-- id: s27-10-0060 -->
 
-Le titre est : « Dissolution »**  
-  **
+Le titre est : « Dissolution »
+
 Évidemment, je ne pouvais pas vous le dire en novembre, parce que mon effet aurait été manqué.
 
 <!-- id: s27-10-0061 -->
@@ -280,7 +280,7 @@ C’est le contraire : il a la bonté de m’accueillir chez lui quand je ne sui
 
 <!-- id: s27-10-0066 -->
 
-Il souhaite un rythme plus soutenu, et j’en suis bien d’accord. C’est à quoi je veillerai après l’été. 
+Il souhaite un rythme plus soutenu, et j’en suis bien d’accord. C’est à quoi je veillerai après l’été.
 
 <!-- id: s27-10-0067 -->
 

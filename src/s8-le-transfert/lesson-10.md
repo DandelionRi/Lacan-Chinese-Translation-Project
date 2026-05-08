@@ -20,7 +20,7 @@
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0001">
 
-Je vous ai laissés la dernière fois, en manière de relais dans notre propos, sur le mot - auquel je vous disais en même temps, que je lui laissais jusqu’à la prochaine fois toute sa valeur d’*énigme* - sur le mot ἄγαλμα \[agalma\]*.* Je ne croyais pas si bien dire. Pour un grand nombre, l’énigme était si totale qu’on se demandait : « *Quoi ? Qu’est-ce qu’il a dit ? Est-ce que vous savez ?* » Enfin, à ceux qui ont manifesté cette inquiétude, quelqu’un de ma maison a pu donner au moins cette réponse - qui prouve, qu’au moins chez moi, *l’éducation secondaire* sert à quelque chose - ça veut dire : « *ornement, parure* ».
+Je vous ai laissés la dernière fois, en manière de relais dans notre propos, sur le mot - auquel je vous disais en même temps, que je lui laissais jusqu’à la prochaine fois toute sa valeur d’*énigme* - sur le mot ἄγαλμα \[agalma\]. Je ne croyais pas si bien dire. Pour un grand nombre, l’énigme était si totale qu’on se demandait : « *Quoi ? Qu’est-ce qu’il a dit ? Est-ce que vous savez ?* » Enfin, à ceux qui ont manifesté cette inquiétude, quelqu’un de ma maison a pu donner au moins cette réponse - qui prouve, qu’au moins chez moi, *l’éducation secondaire* sert à quelque chose - ça veut dire : « *ornement, parure* ».
 
 </div>
 
@@ -39,7 +39,7 @@ Je vous ai laissés la dernière fois, en manière de relais dans notre propos, 
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0002">
 
-Quoi qu’il en soit, cette réponse n’était en effet qu’une réponse de premier aspect de ce que *tout le monde* doit savoir : ἄγαλμα \[agalma\]*,* de ἀγάλλω\[agallô\], *parer, orner,* signifie en effet, au premier aspect, *ornement, parure*. D’abord, elle n’est pas si simple que cela la notion *d’ornement, de parure*, on voit tout de suite que ça peut nous mener loin. *Pourquoi, de quoi, se pare-t-on ? Ou pourquoi* *se parer, et avec quoi ?* Il est bien clair que si nous sommes là sur un point central, beaucoup d’avenues doivent nous y mener. Mais enfin j’ai retenu, pour en faire le pivot de mon explication, ce mot ἄγαλμα \[agalma\].
+Quoi qu’il en soit, cette réponse n’était en effet qu’une réponse de premier aspect de ce que *tout le monde* doit savoir : ἄγαλμα \[agalma\], de ἀγάλλω\[agallô\], *parer, orner,* signifie en effet, au premier aspect, *ornement, parure*. D’abord, elle n’est pas si simple que cela la notion *d’ornement, de parure*, on voit tout de suite que ça peut nous mener loin. *Pourquoi, de quoi, se pare-t-on ? Ou pourquoi* *se parer, et avec quoi ?* Il est bien clair que si nous sommes là sur un point central, beaucoup d’avenues doivent nous y mener. Mais enfin j’ai retenu, pour en faire le pivot de mon explication, ce mot ἄγαλμα \[agalma\].
 
 </div>
 
@@ -248,7 +248,7 @@ Il est d’autant plus extraordinaire, presque *scandaleux* que ceci n’ait pas
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0013">
 
-Ἄγαλμα \[agalma\]*,* voici comment dans le texte il se présente : ALCIBIADE parle de SOCRATE, il dit qu’il va le démasquer \- nous n’irons pas aujourd’hui jusqu’au bout de ce que signifie le discours d’ALCIBIADE - vous savez qu’ALCIBIADE entre dans les plus grands détails de son aventure avec SOCRATE. Il a essayé quoi ? Que SOCRATE - dirons-nous - lui manifeste son désir car il sait que SOCRATE a du désir pour lui, ce qu’il a voulu c’est un signe. Laissons ceci en suspens, il est trop tôt pour demander pourquoi. Nous sommes seulement au départ de la démarche d’ALCIBIADE et au premier abord cette démarche n’a pas l’air de se distinguer essentiellement de ce qu’on a dit jusque là. Il s’agissait au départ, dans le discours de PAUSANIAS, de *ce qu’on va chercher dans l’amour,* et il était dit que ce que chacun cherchait *dans l’autre* - échange de bons procédés - c’était ce qu’il contenait d’ἐρώμενον \[erômenon\]*,* de désirable. C’est bien de la même chose qu’il a l’air... qu’il semble s’agir maintenant. ALCIBIADE nous dit que :
+Ἄγαλμα \[agalma\], voici comment dans le texte il se présente : ALCIBIADE parle de SOCRATE, il dit qu’il va le démasquer \- nous n’irons pas aujourd’hui jusqu’au bout de ce que signifie le discours d’ALCIBIADE - vous savez qu’ALCIBIADE entre dans les plus grands détails de son aventure avec SOCRATE. Il a essayé quoi ? Que SOCRATE - dirons-nous - lui manifeste son désir car il sait que SOCRATE a du désir pour lui, ce qu’il a voulu c’est un signe. Laissons ceci en suspens, il est trop tôt pour demander pourquoi. Nous sommes seulement au départ de la démarche d’ALCIBIADE et au premier abord cette démarche n’a pas l’air de se distinguer essentiellement de ce qu’on a dit jusque là. Il s’agissait au départ, dans le discours de PAUSANIAS, de *ce qu’on va chercher dans l’amour,* et il était dit que ce que chacun cherchait *dans l’autre* - échange de bons procédés - c’était ce qu’il contenait d’ἐρώμενον \[erômenon\], de désirable. C’est bien de la même chose qu’il a l’air... qu’il semble s’agir maintenant. ALCIBIADE nous dit que :
 
 </div>
 
@@ -362,7 +362,7 @@ Je le souligne parce que tout de même c’est dans le texte, il est expresséme
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0019">
 
-*D’autre part* - nous dit ALCIBIADE - *son aspect étrange ne vous y arrêtez pas si*, εἰρωνευόμενος \[eirôneuomenos\] *il fait le naïf, il interroge,* *il fait l’âne pour avoir du son, il se conduit vraiment comme un enfant, il passe son temps à dire des badinages*. *Mais* Σπουδάσαντος δὲ αὐτοῦ \[spouda santos de autou\] *-* non pas, comme on traduit « *quand* *il se met à être sérieux* » mais c’est : - *soyez sérieux, faites-y bien attention, ouvrez-le* *le silène,* ἀνοιχθέντος \[anoichthentos\] *entr’ouvert, je ne sais pas si quelqu’un a jamais vu les agalmata* *qui* *sont à l’intérieur*[^126]*, les joyaux.*
+*D’autre part* - nous dit ALCIBIADE - *son aspect étrange ne vous y arrêtez pas si*, εἰρωνευόμενος \[eirôneuomenos\] *il fait le naïf, il interroge,* *il fait l’âne pour avoir du son, il se conduit vraiment comme un enfant, il passe son temps à dire des badinages*. *Mais* Σπουδάσαντος δὲ αὐτοῦ \[spouda santos de autou\] - non pas, comme on traduit « *quand* *il se met à être sérieux* » mais c’est : - *soyez sérieux, faites-y bien attention, ouvrez-le* *le silène,* ἀνοιχθέντος \[anoichthentos\] *entr’ouvert, je ne sais pas si quelqu’un a jamais vu les agalmata* *qui* *sont à l’intérieur*[^126]*, les joyaux.*
 
 </div>
 
@@ -590,7 +590,7 @@ Vous le savez, la tragédie d’HÉCUBE se place au moment de « *la prise de T
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0031">
 
-Puisque, comme vous le savez, on n’avait ni le droit d’y accoucher, ni d’y mourir. Et là, devant la description de Délos, elle fait allusion à un objet qui était célèbre, qui était - comme la façon dont elle en parle l’indique - ** **« *un palmier* » dont elle dit que ce *palmier*, il est ὠδῖνος ἄγαλμα Δίας \[ôdinos agalma dias\], c’est-à-dire : *ôdinos : de la douleur*, *agalma dias* : le terme Δίας désigne Λητώ \[[Léto](http://fr.wikipedia.org/wiki/L%C3%A9to)\], il s’agit de l’enfantement d’APOLLON, c’est l*’agalma de la douleur de la divine.*[^128]
+Puisque, comme vous le savez, on n’avait ni le droit d’y accoucher, ni d’y mourir. Et là, devant la description de Délos, elle fait allusion à un objet qui était célèbre, qui était - comme la façon dont elle en parle l’indique -  « *un palmier* » dont elle dit que ce *palmier*, il est ὠδῖνος ἄγαλμα Δίας \[ôdinos agalma dias\], c’est-à-dire : *ôdinos : de la douleur*, *agalma dias* : le terme Δίας désigne Λητώ \[[Léto](http://fr.wikipedia.org/wiki/L%C3%A9to)\], il s’agit de l’enfantement d’APOLLON, c’est l*’agalma de la douleur de la divine.*[^128]
 
 </div>
 
@@ -609,7 +609,7 @@ Puisque, comme vous le savez, on n’avait ni le droit d’y accoucher, ni d’y
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0032">
 
-Nous retrouvons la thématique de l’accouchement mais tout de même assez changée, car là ce tronc, cet arbre, cette chose magique érigée, conservée comme un objet de référence à travers les âges, c’est quelque chose qui ne peut manquer - à nous, en tout cas du moins, analystes - d’éveiller tout le registre qu’il y a autour de la thématique du *phallus féminin* en tant que son fantasme est là, nous le savons, à l’horizon et situe cet objet infantile comme *fétiche*. Le fétiche qu’il reste ne peut pas ne pas être non plus pour nous l’écho de cette signification. Mais en tout cas, il est bien clair qu’ἄγαλμα \[agalma\] ne peut pas là être traduit d’aucune façon par *ornement, parure,* ni même comme on voit souvent dans les textes : *statue*, car souvent θεῶν ἄγαλματα \[theôn agalmata\]*,* quand *on traduit rapidement* on croit que ça colle, qu’il s’agit dans le texte des *statues* *des dieux* [^129]*.*
+Nous retrouvons la thématique de l’accouchement mais tout de même assez changée, car là ce tronc, cet arbre, cette chose magique érigée, conservée comme un objet de référence à travers les âges, c’est quelque chose qui ne peut manquer - à nous, en tout cas du moins, analystes - d’éveiller tout le registre qu’il y a autour de la thématique du *phallus féminin* en tant que son fantasme est là, nous le savons, à l’horizon et situe cet objet infantile comme *fétiche*. Le fétiche qu’il reste ne peut pas ne pas être non plus pour nous l’écho de cette signification. Mais en tout cas, il est bien clair qu’ἄγαλμα \[agalma\] ne peut pas là être traduit d’aucune façon par *ornement, parure,* ni même comme on voit souvent dans les textes : *statue*, car souvent θεῶν ἄγαλματα \[theôn agalmata\], quand *on traduit rapidement* on croit que ça colle, qu’il s’agit dans le texte des *statues* *des dieux* [^129].
 
 </div>
 
@@ -704,7 +704,7 @@ Aussi bien il ne s’agit pas pour moi ici de poursuivre la phénoménologie du 
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0037">
 
-Car bien entendu, nous ne nous faisons pas l’idée, je pense, ici dans la ligne de l’enseignement que je vous fais, que l’*étymologie* consiste à trouver *le sens* dans *la* *racine*. La racine d’ἄγαλμα, c’est pas si commode. Ce que je veux vous dire, c’est que les auteurs... *en tant qu’ils le rapprochent d’*άγαυός \[agauos\][^131], *de ce mot ambigu qu’est* άγαμαι \[agamai\] : *j’admire, je suis étonné mais aussi bien* *je porte* *envie, je suis jaloux de, qui va faire* άγαζω \[agazô\], *qu’on supporte avec* *peine, va vers* άγαίομαι \[agaiomai\] *qui veut dire* : *être indigné* ...que les auteurs en mal de *racines* - je veux dire de *racines* qui portent avec elles un *sens*, ce qui est absolument contraire au principe de la linguistique - en dégagent γαλ \[gal\] ou γελ \[gel\] le γελ de γελάω \[gelaô\][^132], le γαλ *qui est le même dans* γλήνη \[glènè\] *la pupille,* et γαλήνη \[galènè\] *-* l’autre jour, je vous l’ai cité au passage - c’est *la mer qui brille parce qu’elle est parfaitement unie*. Bref, que c’est une idée d’éclat qui est là cachée dans la racine. Aussi bien άγλαός\[aglaos\][^133], Aglaé, *la Brillante* est là pour nous y faire un écho familier.
+Car bien entendu, nous ne nous faisons pas l’idée, je pense, ici dans la ligne de l’enseignement que je vous fais, que l’*étymologie* consiste à trouver *le sens* dans *la* *racine*. La racine d’ἄγαλμα, c’est pas si commode. Ce que je veux vous dire, c’est que les auteurs... *en tant qu’ils le rapprochent d’*άγαυός \[agauos\][^131], *de ce mot ambigu qu’est* άγαμαι \[agamai\] : *j’admire, je suis étonné mais aussi bien* *je porte* *envie, je suis jaloux de, qui va faire* άγαζω \[agazô\], *qu’on supporte avec* *peine, va vers* άγαίομαι \[agaiomai\] *qui veut dire* : *être indigné* ...que les auteurs en mal de *racines* - je veux dire de *racines* qui portent avec elles un *sens*, ce qui est absolument contraire au principe de la linguistique - en dégagent γαλ \[gal\] ou γελ \[gel\] le γελ de γελάω \[gelaô\][^132], le γαλ *qui est le même dans* γλήνη \[glènè\] *la pupille,* et γαλήνη \[galènè\] - l’autre jour, je vous l’ai cité au passage - c’est *la mer qui brille parce qu’elle est parfaitement unie*. Bref, que c’est une idée d’éclat qui est là cachée dans la racine. Aussi bien άγλαός\[aglaos\][^133], Aglaé, *la Brillante* est là pour nous y faire un écho familier.
 
 </div>
 
@@ -742,7 +742,7 @@ Comme vous le voyez, cela ne va pas contre ce que nous avons à en dire. *Je ne 
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0039">
 
-Ἄγαλμα \[agalma\], à la vérité ce n’est pas de ce côté-là que nous avons à nous tourner pour lui donner *sa valeur*. Ἄγαλμα \[agalma\], on le voit, a toujours rapport *aux images*, à condition que vous voyiez bien que, comme dans tout contexte, c’est toujours *d’un type d’images bien spéciales*. Il faut que je choisisse parmi les références. Il y en a dans EMPÉDOCLE, dans HÉRACLITE, dans DÉMOCRITE. Je vais prendre les plus vulgaires, les poétiques, celles que tout le monde savait par cœur dans l’Antiquité. Je vais les chercher dans une édition juxtalinéaire de l’*Iliade* et de l’*Odyssée*. Dans l’*Odyssée* par exemple il y a deux endroits où l’on trouve ἄγαλμα \[agalma\]. C’est d’abord au *Livre III* dans la *Télémachie*[^136] et il s’agit des sacrifices que l’on fait pour *l’arrivée de* TÉLÉMAQUE. Les prétendants, comme d’habitude, *en mettent un coup*[^137] et on sacrifie au dieu un βοός \[boos\] ce qu’on traduit par une *génisse*, c’est un exemplaire de l’espèce bœuf. Et on dit qu’on convoque tout exprès un nommé LAERKÈS qui est orfèvre, comme HÉPHAÏSTOS, et qu’on le charge de faire un *ornement d’or,* ἄγαλμα \[agalma\], pour les cornes de la bestiole**.**
+Ἄγαλμα \[agalma\], à la vérité ce n’est pas de ce côté-là que nous avons à nous tourner pour lui donner *sa valeur*. Ἄγαλμα \[agalma\], on le voit, a toujours rapport *aux images*, à condition que vous voyiez bien que, comme dans tout contexte, c’est toujours *d’un type d’images bien spéciales*. Il faut que je choisisse parmi les références. Il y en a dans EMPÉDOCLE, dans HÉRACLITE, dans DÉMOCRITE. Je vais prendre les plus vulgaires, les poétiques, celles que tout le monde savait par cœur dans l’Antiquité. Je vais les chercher dans une édition juxtalinéaire de l’*Iliade* et de l’*Odyssée*. Dans l’*Odyssée* par exemple il y a deux endroits où l’on trouve ἄγαλμα \[agalma\]. C’est d’abord au *Livre III* dans la *Télémachie*[^136] et il s’agit des sacrifices que l’on fait pour *l’arrivée de* TÉLÉMAQUE. Les prétendants, comme d’habitude, *en mettent un coup*[^137] et on sacrifie au dieu un βοός \[boos\] ce qu’on traduit par une *génisse*, c’est un exemplaire de l’espèce bœuf. Et on dit qu’on convoque tout exprès un nommé LAERKÈS qui est orfèvre, comme HÉPHAÏSTOS, et qu’on le charge de faire un *ornement d’or,* ἄγαλμα \[agalma\], pour les cornes de la bestiole.
 
 </div>
 
@@ -913,7 +913,7 @@ Ce dont il s’agit, c’est du sens *brillant*, du sens *galant*, car le mot *g
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0048">
 
-Il est quelque part dit dans PAUSANIAS, aussi *à propos d’un usage d’*ἄγαλμα \[agalma\], que les ἄγαλματα \[agalmata\] qui se rapportent dans tel sanctuaire, aux sorcières qui étaient là exprès pour retenir, empêcher de se faire l’accouchement d’ALCMÈNE, étaient ἆμυδροτερος \[amudroteros\]*,* un tant soit peu *effacés* [^143].
+Il est quelque part dit dans PAUSANIAS, aussi *à propos d’un usage d’*ἄγαλμα \[agalma\], que les ἄγαλματα \[agalmata\] qui se rapportent dans tel sanctuaire, aux sorcières qui étaient là exprès pour retenir, empêcher de se faire l’accouchement d’ALCMÈNE, étaient ἆμυδροτερος \[amudroteros\], un tant soit peu *effacés* [^143].
 
 </div>
 
@@ -989,7 +989,7 @@ Nous ne nous sommes pas dits à propos de tout ça :
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0052">
 
-- que nous-mêmes peut-être, dans ce que *nous élaborons*, ce que nous avons à manier de ce fond qu’on appelle notre « *Ça* »*,* c’est peut-être d’un vaste trophée de tous ces *objets partiels* qu’il s’agit.
+- que nous-mêmes peut-être, dans ce que *nous élaborons*, ce que nous avons à manier de ce fond qu’on appelle notre « *Ça* », c’est peut-être d’un vaste trophée de tous ces *objets partiels* qu’il s’agit.
 
 </div>
 
@@ -1027,7 +1027,7 @@ Nous ne nous sommes pas dits à propos de tout ça :
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0054">
 
-Mais *c’est quand même drôle* qu’il y ait quelque chose que nous ayons complètement laissé de côté dans cette affaire – et c’est bien forcé de le laisser de côté quand on prend les choses dans cette visée particulièrement simplifiée *-* et qui suppose, avec l’idée d’une *harmonie préétablie*, le problème résolu : qu’en somme, il suffit d’aimer *génitalement* pour aimer l’autre pour lui-même.
+Mais *c’est quand même drôle* qu’il y ait quelque chose que nous ayons complètement laissé de côté dans cette affaire – et c’est bien forcé de le laisser de côté quand on prend les choses dans cette visée particulièrement simplifiée - et qui suppose, avec l’idée d’une *harmonie préétablie*, le problème résolu : qu’en somme, il suffit d’aimer *génitalement* pour aimer l’autre pour lui-même.
 
 </div>
 
@@ -1065,7 +1065,7 @@ Je n’ai pas apporté - parce que je lui ai fait un sort ailleurs, et vous le v
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0056">
 
-Mais quoi qu’il en soit, il est bien clair qu’à revenir au départ et aux sources, il y a au moins une question à poser sur ce sujet. Si vraiment cet *amour oblatif* n’est en quelque sorte que l’homologue, le développement, l’épanouissement de *l’acte génital* en lui-même, qui suffirait, je dirai, à *en donner le mot*, *le* « *la* »*,* la mesure, il est clair que l’ambiguïté persiste au sujet de savoir si cet *autre*, notre *oblativité* est ce que nous lui dédions dans cet amour « *tout amour* », tout pour l’autre, si ce que nous cherchons c’est sa jouissance, comme cela semble aller de soi du fait qu’il s’agit de l’union génitale, ou bien sa perfection.
+Mais quoi qu’il en soit, il est bien clair qu’à revenir au départ et aux sources, il y a au moins une question à poser sur ce sujet. Si vraiment cet *amour oblatif* n’est en quelque sorte que l’homologue, le développement, l’épanouissement de *l’acte génital* en lui-même, qui suffirait, je dirai, à *en donner le mot*, *le* « *la* », la mesure, il est clair que l’ambiguïté persiste au sujet de savoir si cet *autre*, notre *oblativité* est ce que nous lui dédions dans cet amour « *tout amour* », tout pour l’autre, si ce que nous cherchons c’est sa jouissance, comme cela semble aller de soi du fait qu’il s’agit de l’union génitale, ou bien sa perfection.
 
 </div>
 
@@ -1160,7 +1160,7 @@ Car si un objet en vaut un autre selon sa *noèse* [^146], à condition que nous
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0061">
 
-Il suffit pour y répondre de faire cette remarque que si un objet en vaut un autre, pour le sujet c’est encore bien pire, car ce n’est pas simplement un autre sujet qu’il vaut. Un sujet strictement en est un autre ! *Le sujet strict*, c’est quelqu’un à qui nous pouvons imputer \- quoi ? - rien d’autre que d’être comme nous *cet être qui* ἔναρθρον ἔχειν ἔπος \[enarthron echein epos\] *qui s’exprime en langage articulé* [^147]*,* qui possède la combinatoire et qui peut, à notre combinatoire, répondre par ses propres combinaisons, donc que nous pouvons faire entrer dans notre calcul comme quelqu’un qui combine comme nous.
+Il suffit pour y répondre de faire cette remarque que si un objet en vaut un autre, pour le sujet c’est encore bien pire, car ce n’est pas simplement un autre sujet qu’il vaut. Un sujet strictement en est un autre ! *Le sujet strict*, c’est quelqu’un à qui nous pouvons imputer \- quoi ? - rien d’autre que d’être comme nous *cet être qui* ἔναρθρον ἔχειν ἔπος \[enarthron echein epos\] *qui s’exprime en langage articulé* [^147], qui possède la combinatoire et qui peut, à notre combinatoire, répondre par ses propres combinaisons, donc que nous pouvons faire entrer dans notre calcul comme quelqu’un qui combine comme nous.
 
 </div>
 
@@ -1274,7 +1274,7 @@ De toute façon, quand vous parlez d’une façon plus ou moins passionnée des 
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0067">
 
-Pour tout dire, si cet objet vous passionne, c’est parce que là-dedans, caché en lui il y a *l’objet du désir *: ἄγαλμα \[agalma\], le poids, la chose pour laquelle c’est *intéressant* de savoir où il est ce fameux objet, savoir sa fonction et savoir où il opère, aussi bien dans l’*inter* que dans l’*intra*subjectivité, et en tant que cet objet privilégié du désir, c’est quelque chose qui, pour chacun, culmine à cette frontière, à ce point limite que je vous ai appris à considérer comme la métonymie du discours inconscient où il joue un rôle que j’ai essayé de formaliser - j’y reviendrai la prochaine fois - dans le fantasme \[S**◊***a*\]. Et c’est toujours cet objet qui, de quelque façon que vous ayez à en parler dans l’expérience analytique - que vous l’appeliez *le sein*, *le phallus*, ou *la merde -* est un *objet partiel*. C’est là ce dont il s’agit pour autant que *l’analyse* est une méthode, une technique qui s’est avancée dans *ce champ délaissé*, dans *ce champ décrié*, *dans ce champ exclu par la philosophie* - parce que non maniable, non accessible à sa dialectique et pour les mêmes raisons - *qui s’appelle le désir*.
+Pour tout dire, si cet objet vous passionne, c’est parce que là-dedans, caché en lui il y a *l’objet du désir *: ἄγαλμα \[agalma\], le poids, la chose pour laquelle c’est *intéressant* de savoir où il est ce fameux objet, savoir sa fonction et savoir où il opère, aussi bien dans l’*inter* que dans l’*intra*subjectivité, et en tant que cet objet privilégié du désir, c’est quelque chose qui, pour chacun, culmine à cette frontière, à ce point limite que je vous ai appris à considérer comme la métonymie du discours inconscient où il joue un rôle que j’ai essayé de formaliser - j’y reviendrai la prochaine fois - dans le fantasme \[S◊*a*\]. Et c’est toujours cet objet qui, de quelque façon que vous ayez à en parler dans l’expérience analytique - que vous l’appeliez *le sein*, *le phallus*, ou *la merde -* est un *objet partiel*. C’est là ce dont il s’agit pour autant que *l’analyse* est une méthode, une technique qui s’est avancée dans *ce champ délaissé*, dans *ce champ décrié*, *dans ce champ exclu par la philosophie* - parce que non maniable, non accessible à sa dialectique et pour les mêmes raisons - *qui s’appelle le désir*.
 
 </div>
 
@@ -1521,7 +1521,7 @@ Mais qu’est-ce que cela justement : ἄγαλμα, cet objet que nous avons a
 
 <div class="original-paragraph" data-paragraph-id="s8-10-0080">
 
-**  **
+&nbsp;
 
 </div>
 
@@ -1648,6 +1648,6 @@ Mais qu’est-ce que cela justement : ἄγαλμα, cet objet que nous avons a
 [^146]: Noèse : L'acte de penser. (philosophie, phénoménologie)
 
 
-[^147]: Cf. [*Cra**tyle*, 398e, 399-c](#CRATYLE), sur l’étymologie d’« anthrôpos ».
+[^147]: Cf. [*Cratyle*, 398e, 399-c](#CRATYLE), sur l’étymologie d’« anthrôpos ».
 
 </section>

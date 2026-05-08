@@ -120,7 +120,7 @@ y avoir proprement des *effets de transfert* exactement structurables comme *le 
 <!-- id: s11-10-0024 -->
 
 De sorte que ce peut fort bien être la seule façon d’introduire *l’uni­versalité de l’application du concept*, de faire émerger son apparition dans l’analyse où il trouve ses fondements structuraux. Il suffira alors, si je puis dire, de couper le cordon de son arrimage
-dans la sphère de l’ana­lyse, bien plus encore, naturellement de la δόξα \[doxa\]*,* de l’opinion, qui y est attenante.
+dans la sphère de l’ana­lyse, bien plus encore, naturellement de la δόξα \[doxa\], de l’opinion, qui y est attenante.
 
 <!-- id: s11-10-0025 -->
 
@@ -189,7 +189,7 @@ Que l’inconscient soit le seul *des effets* qui se dérobe, *de la parole sur 
 <!-- id: s11-10-0039 -->
 
 Donc il y a un lien entre ce champ et le moment - *moment de* FREUD - où il se révèle. C’est ce lien que j’exprime, en le rapprochant de ce qui se passe au niveau d’une démarche dans *la physique* comme celle de NEWTON, d’EINSTEIN, de PLANCK et que
-je caractérise comme *a*-*cos­mologique*, dans ce sens que tout ces champs se caractérisent de tracer un nouveau sillon dans le réel, et que j’exprime d’une façon imagée en le désignant - ce sillon - comme nouveau par rapport à la connaissance qu’on pourrait en attribuer, de toute éternité, à Dieu.
+je caractérise comme *a-cos­mologique*, dans ce sens que tout ces champs se caractérisent de tracer un nouveau sillon dans le réel, et que j’exprime d’une façon imagée en le désignant - ce sillon - comme nouveau par rapport à la connaissance qu’on pourrait en attribuer, de toute éternité, à Dieu.
 
 <!-- id: s11-10-0040 -->
 
@@ -239,8 +239,8 @@ et c’est la seule chance qu’on ait de la gagner.
 <!-- id: s11-10-0048 -->
 
 C’est pourquoi, au *deuxième temps* de mon explication conceptuelle marquant la connexion qui à la fois est nécessaire et distingue
-le concept de *la répétition* dans sa dimension méconnue, c’est essentiellement d’y mettre en relief ce ressort qui est celui de *la rencontre toujours évitée*, de *la chance manquée* comme étant la visée qui donne son sens au terme de *la répétition* : que la fonction de manquement, de ratage - qui est toujours dans *la répétition* analytique - ne se soutient que de marquer en un point X, la place du *rendez*-*vous*,
-place de la τύχη \[tyché\]*.*
+le concept de *la répétition* dans sa dimension méconnue, c’est essentiellement d’y mettre en relief ce ressort qui est celui de *la rencontre toujours évitée*, de *la chance manquée* comme étant la visée qui donne son sens au terme de *la répétition* : que la fonction de manquement, de ratage - qui est toujours dans *la répétition* analytique - ne se soutient que de marquer en un point X, la place du *rendez-vous*,
+place de la τύχη \[tyché\].
 
 <!-- id: s11-10-0049 -->
 
@@ -258,7 +258,7 @@ que le choix, qui serait celui où nous ferait buter ce second temps, le dilemme
 <!-- id: s11-10-0052 -->
 
 Si vous voulez, celle-ci se formulerait ainsi, reprenant la formule, clas­sique, le cliché de : l’« *ablata causa tollitur effectus* »
-\[enlevez la cause, vous enlevez l'effet\]*.* Nous n’aurions qu’une petite modification à y apporter qui serait de souligner *le singulier* de *la protase* : l’*ablata causa,* en mettant au pluriel les termes de *l’apodose *: non plus « *tollitur »,* mais « *tolluntur effectus », et qui voudrait dire :*
+\[enlevez la cause, vous enlevez l'effet\]. Nous n’aurions qu’une petite modification à y apporter qui serait de souligner *le singulier* de *la protase* : l’*ablata causa,* en mettant au pluriel les termes de *l’apodose *: non plus « *tollitur »,* mais « *tolluntur effectus », et qui voudrait dire :*
 « *les effets ne se portent bien qu’en l’absence de la cause* ».
 
 <!-- id: s11-10-0053 -->
@@ -269,8 +269,8 @@ en somme, s’ils « *se tenaient bien la main* », comme dans la chanson cél
 
 <!-- id: s11-10-0054 -->
 
-À cet endroit, il faut définir la cause inconsciente comme n’étant ni un οὐχ ὂν \[ouk on\]*,* ni un *non-étant -* comme je crois certains, Henri EY nommément - *non-étant* de la possibilité, *l’étant ce serait l’étant de la profondeur*. Elle n’est rien de tout cela.
-Elle est un μή ὂν \[mé on : interdit\]*,* de l’in­terdiction qui porte à l’*être* un *étant* malgré son non avènement, une fonction de l’*impossible* sur quoi se fonde une certitude. Mais voilà qui nous mène à la fonction de transfert.
+À cet endroit, il faut définir la cause inconsciente comme n’étant ni un οὐχ ὂν \[ouk on\], ni un *non-étant -* comme je crois certains, Henri EY nommément - *non-étant* de la possibilité, *l’étant ce serait l’étant de la profondeur*. Elle n’est rien de tout cela.
+Elle est un μή ὂν \[mé on : interdit\], de l’in­terdiction qui porte à l’*être* un *étant* malgré son non avènement, une fonction de l’*impossible* sur quoi se fonde une certitude. Mais voilà qui nous mène à la fonction de transfert.
 
 <!-- id: s11-10-0055 -->
 
@@ -288,9 +288,9 @@ Il est alors frappant de noter la multipli­cité, la pluralité voire la pluriv
 
 <!-- id: s11-10-0058 -->
 
-Et ici, la moindre chose qui s’indique est de marquer *les premiers reliefs par où le concept a été abordé par* FREUD lui*-*même.
+Et ici, la moindre chose qui s’indique est de marquer *les premiers reliefs par où le concept a été abordé par* FREUD lui-même.
 À son émergence dans les textes et les enseignements de FREUD, quelque chose nous guette *comme un glissement* que
-nous ne saurions lui imputer, *a fortiori* lui reprocher : c’est *-* ce concept de *transfert* *-* de n’y voir que le concept même de *la répétition*.
+nous ne saurions lui imputer, *a fortiori* lui reprocher : c’est - ce concept de *transfert* - de n’y voir que le concept même de *la répétition*.
 
 <!-- id: s11-10-0059 -->
 
@@ -304,12 +304,12 @@ le grand Autre, *le lieu de la parole*, virtuellement *le lieu de la vérité*.
 
 <!-- id: s11-10-0061 -->
 
-Est*-*ce là le moment fécond, le point d’apparition du concept du *transfert* ?
+Est-ce là le moment fécond, le point d’apparition du concept du *transfert* ?
 C’est là ce qu’il en est, en apparence, et c’est souvent ce à quoi l’on s’en tient.
 
 <!-- id: s11-10-0062 -->
 
-Mais regardons de plus près : ce moment, dans FREUD, n’est pas sim­plement ce moment*-*limite qui correspondrait à ce que j’ai désigné comme - et c’est pour cela qu’il m’a fallu vous le rappeler au début de cette confé­rence - *le moment de fermeture de l’inconscient*, de *la pulsation tem­porelle* qui le fait disparaître à un certain point de son énoncé. Ce moment, FREUD quand il amène la fonction
+Mais regardons de plus près : ce moment, dans FREUD, n’est pas sim­plement ce moment-limite qui correspondrait à ce que j’ai désigné comme - et c’est pour cela qu’il m’a fallu vous le rappeler au début de cette confé­rence - *le moment de fermeture de l’inconscient*, de *la pulsation tem­porelle* qui le fait disparaître à un certain point de son énoncé. Ce moment, FREUD quand il amène la fonction
 du transfert, a bien soin de le marquer comme la cause de ce que nous appelons transfert. L’Autre est dès avant présent, latent
 ou pas, dans la révélation subjec­tive : il est déjà là quand quelque chose a commencé à se livrer de *l’in­conscient*.
 
@@ -317,8 +317,8 @@ ou pas, dans la révélation subjec­tive : il est déjà là quand quelque chos
 
 Ce que le sujet a commencé d’abord d’en donner, sous une forme qui est loin d’être limitée à la *remémoration*, sous une forme
 où *l’interpré­tation* de l’analyste ne fait en somme que recouvrir le fait que l’incons­cient et *ses nœuds* dans leur constitution,
-où qu’ils aboutissent : *au rêve, au lapsus, au rire du mot d’esprit ou au symptôme,* l’inconscient lui*-*même - s’il est ce que je dis, à savoir jeu du *signifiant* - l’inconscient dans ses formations a déjà, lui, procédé par interprétation. L’Autre, le grand Autre est déjà là
-dans toute ouverture, si fugitive soit*-*elle, de l’inconscient.
+où qu’ils aboutissent : *au rêve, au lapsus, au rire du mot d’esprit ou au symptôme,* l’inconscient lui-même - s’il est ce que je dis, à savoir jeu du *signifiant* - l’inconscient dans ses formations a déjà, lui, procédé par interprétation. L’Autre, le grand Autre est déjà là
+dans toute ouverture, si fugitive soit-elle, de l’inconscient.
 
 <!-- id: s11-10-0064 -->
 
@@ -419,7 +419,7 @@ Cet article, paru dans *le dernier numéro* - et c’est pourquoi je le prends d
 
 <!-- id: s11-10-0085 -->
 
-Il est extrêmement frappant qu’il se trouve - *si c’est là, certes, une position extrémiste, c’est une position poursuivie dans un discours excessivement cohérent -* il est tout à fait frappant qu’un auteur, d’ailleurs des plus estimés dans son cercle qui est celui de la psychana­lyse exactement américaine, fasse cet article pour reconsidérer, mettre en question, la fonction du concept du transfert comme n’étant rien d’autre qu’une défense du psychanalyste, et qu’il aboutisse à une conclusion qui est celle*-*ci, conclusion terminale - par rapport à un article, mais qui nous laisse en suspens au regard de l’avenir *-* d’un exa­men qui assurément ne peut que paraître dès lors, vous allez le voir, que très problématique, à une conclusion comme celle*-*ci :
+Il est extrêmement frappant qu’il se trouve - *si c’est là, certes, une position extrémiste, c’est une position poursuivie dans un discours excessivement cohérent -* il est tout à fait frappant qu’un auteur, d’ailleurs des plus estimés dans son cercle qui est celui de la psychana­lyse exactement américaine, fasse cet article pour reconsidérer, mettre en question, la fonction du concept du transfert comme n’étant rien d’autre qu’une défense du psychanalyste, et qu’il aboutisse à une conclusion qui est celle-ci, conclusion terminale - par rapport à un article, mais qui nous laisse en suspens au regard de l’avenir - d’un exa­men qui assurément ne peut que paraître dès lors, vous allez le voir, que très problématique, à une conclusion comme celle-ci :
 
 <!-- id: s11-10-0086 -->
 
@@ -431,7 +431,7 @@ C’est un concept qu’il appelle *inspi­red -* je me méfie toujours des *fau
 
 <!-- id: s11-10-0088 -->
 
-« *Encore -* dit*-*il *- donne-t-il asile, harbour, aux germes, non seulement de sa propre destruction,*
+« *Encore -* dit-il *- donne-t-il asile, harbour, aux germes, non seulement de sa propre destruction,*
 *mais de la destruction de la psychanalyse elle-même.* »
 
 <!-- id: s11-10-0089 -->
@@ -475,11 +475,11 @@ Mais la lecture de cet article...
 
 <!-- id: s11-10-0097 -->
 
-Et c’est à partir de là que sont étudiés les cas, divisés en ces termes, une fois obtenue la présence du transfert, c’est une question d’accord entre l’analysé et l’analyste, à ceci près que l’analyste étant ici juge sans appel, et sans recours pour lui*-*même nous sommes évidem­ment conduits à dénommer comme champ de pur risque, champ sans contrôle, toute analyse du transfert.
+Et c’est à partir de là que sont étudiés les cas, divisés en ces termes, une fois obtenue la présence du transfert, c’est une question d’accord entre l’analysé et l’analyste, à ceci près que l’analyste étant ici juge sans appel, et sans recours pour lui-même nous sommes évidem­ment conduits à dénommer comme champ de pur risque, champ sans contrôle, toute analyse du transfert.
 
 <!-- id: s11-10-0098 -->
 
-Je n’ai pris cet article que comme un cas limite, et après tout exemplaire, démonstratif, opératoire à l’occa­sion à nous inciter à restituer ici une détermination qui fasse entrer en jeu un autre ordre. Cet ordre n’est, à proprement parler, que celui de *la vérité*. Entendez que la dialectique par quoi *la vérité* ne se fonde que de ceci : que la paro­le *-* même mensongère *-* y fait appel et la suscite.
+Je n’ai pris cet article que comme un cas limite, et après tout exemplaire, démonstratif, opératoire à l’occa­sion à nous inciter à restituer ici une détermination qui fasse entrer en jeu un autre ordre. Cet ordre n’est, à proprement parler, que celui de *la vérité*. Entendez que la dialectique par quoi *la vérité* ne se fonde que de ceci : que la paro­le - même mensongère - y fait appel et la suscite.
 
 <!-- id: s11-10-0099 -->
 
@@ -488,7 +488,7 @@ Cette dimension, est ce­ *quelque chose* qui est toujours absent de ce que j’
 <!-- id: s11-10-0100 -->
 
 Chose singulière, on a pu parler de la conception de la dynamique inconsciente, d’intellectualisation, sous prétexte que j’y mettais
-au pre­mier rang la fonction du signifiant. Assurément, ne voit*-*on pas, ici appa­raître, dans cette facette inattendue du développement de la pensée de l’analyse dans la psychanalyse américaine, qu’il s’agit là *-* bel et bien *-* dans ce mode opératoire - où tout se joue
+au pre­mier rang la fonction du signifiant. Assurément, ne voit-on pas, ici appa­raître, dans cette facette inattendue du développement de la pensée de l’analyse dans la psychanalyse américaine, qu’il s’agit là - bel et bien - dans ce mode opératoire - où tout se joue
 de *la confrontation d’une réalité et d’une connotation d’illusion* portée sur le phénomène du *transfert,* que c’est là qu’est effectivement *l’intellectualisation* prétendue et qui serait ici dominante.
 
 <!-- id: s11-10-0101 -->
@@ -498,19 +498,19 @@ et même prenant et qui simplement se révèle en ceci : que loin que nous ayons
 
 <!-- id: s11-10-0102 -->
 
-Quand je vous ai introduit le terme du *sujet de la certitude carté­sienne* comme le point de départ nécessaire de toutes nos spéculations, sur ce que *révèle l’inconscient*, j’ai bien marqué le rôle de balancier essentiel qu’est l’Autre dans DESCARTES, comme *-* dit-on -
+Quand je vous ai introduit le terme du *sujet de la certitude carté­sienne* comme le point de départ nécessaire de toutes nos spéculations, sur ce que *révèle l’inconscient*, j’ai bien marqué le rôle de balancier essentiel qu’est l’Autre dans DESCARTES, comme - dit-on -
 ne devant pas être, en aucun cas, *trompeur*. *Mais cet Autre assurément, le danger dans l’ana­lyse, c’est qu’il soit un Autre trompé*.
 Or, ce n’est pas là tout ce dont il s’agit, je le souligne, quand il s’agit d’appréhender la dimension du trans­fert.
 
 <!-- id: s11-10-0103 -->
 
-Ce n’est certes pas là, la seule direction dans laquelle il convient de rappeler *ce dont il s’agit* - ce que je ne fais ici qu’indiquer car j’aurai à y entrer la prochaine fois - ce n’est pas la seule dimension que celle*-*ci que je désigne comme celle de la tromperie, dans le sens de ce que le sujet cherche, et tout ceci est en suspens, la tromperie, si elle a quelque part, chance de réussir, quant à un faux accès
+Ce n’est certes pas là, la seule direction dans laquelle il convient de rappeler *ce dont il s’agit* - ce que je ne fais ici qu’indiquer car j’aurai à y entrer la prochaine fois - ce n’est pas la seule dimension que celle-ci que je désigne comme celle de la tromperie, dans le sens de ce que le sujet cherche, et tout ceci est en suspens, la tromperie, si elle a quelque part, chance de réussir, quant à un faux accès
 à ce qui lui manque, c’est bien assurément l’amour qui en donne le modèle.
 
 <!-- id: s11-10-0104 -->
 
 Quelle meilleure manière d’assurer, de s’assurer, sur le point où on se trompe, que de per­suader l’autre de la vérité
-de ce qu’on avance ? Et est*-*ce que ce n’est pas là *une structure fondamentale -* que le transfert nous donne l’occasion d’imager -
+de ce qu’on avance ? Et est-ce que ce n’est pas là *une structure fondamentale -* que le transfert nous donne l’occasion d’imager -
 *de la dimension de l’amour*, c’est à persuader l’autre qu’il a ce qui peut nous compléter. Et qu’aussi bien, c’est justement
 ce qui fait surgir, à point nommé, nécessairement, à l’occasion, cette dimension de l’amour.
 Voilà qui nous servira de porte exemplaire, pour la prochaine fois en démontrer le tour.
@@ -518,7 +518,7 @@ Voilà qui nous servira de porte exemplaire, pour la prochaine fois en démontre
 <!-- id: s11-10-0105 -->
 
 J’indique assez que ceci nous permet de réfuter totalement une critique aussi extrême, et dont on ne voit d’ailleurs pas à quoi
-elle peut aboutir*,* que celle qui est faite ici, du maniement du concept de *transfert*. C’est elle aussi qui nous permet, qui nous indique de complètement rejeter toute référence à cette prétendue « *alliance avec la partie saine du moi* » comme constituant l’opération
+elle peut aboutir, que celle qui est faite ici, du maniement du concept de *transfert*. C’est elle aussi qui nous permet, qui nous indique de complètement rejeter toute référence à cette prétendue « *alliance avec la partie saine du moi* » comme constituant l’opération
 du transfert, ceci - je l’indique pour que vous ne vous y trompiez pas - n’est pas tout ce que j’ai à vous mon­trer.
 
 <!-- id: s11-10-0106 -->
@@ -530,6 +530,7 @@ réservée au niveau du *concept de transfert*, et que j’ai dessinée par l’
 <!-- id: s11-10-0107 -->
 
 *  *
+
 ## Notes
 
 [^58]: S. Nacht : *La Présence du psychanalyste*, PUF, 1963.

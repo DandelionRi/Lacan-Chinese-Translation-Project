@@ -678,7 +678,7 @@ Mais ceci marquant le signe de la subsistance de *l’exigence du signifiant à 
 
 <!-- id: s3-07-0166 -->
 
-Vous le verrez quand nous étudierons en détail ce délire, vous verrez que tout au contraire les deux personnages* *:
+Vous le verrez quand nous étudierons en détail ce délire, vous verrez que tout au contraire les deux personnages:
 
 <!-- id: s3-07-0167 -->
 
@@ -707,6 +707,7 @@ Et c’est un délire par rapport à un discours normal, vous le verrez, il n’
 <!-- id: s3-07-0173 -->
 
 Telles sont les questions, c’est-à-dire au joint précisément de cette *Verwerfung* avec la *Verneinung* qui va être la première réponse que nous poursuivrons la prochaine fois dans notre examen.
+
 ## Notes
 
 [^15]: Cf. Paul Claudel : « *Le soulier de satin* ».

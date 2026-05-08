@@ -180,7 +180,7 @@ Les empires modernes laissent éclater leur part de manque justement en ceci que
 
 <!-- id: s16-19-0043 -->
 
-*Pour qu’il y ait du symbolique, il faut qu’il se compte au moins* 1*.* Pendant longtemps, on a cru que *compter pouvait se réduire à l’Un :*
+*Pour qu’il y ait du symbolique, il faut qu’il se compte au moins* 1. Pendant longtemps, on a cru que *compter pouvait se réduire à l’Un :*
 
 <!-- id: s16-19-0044 -->
 
@@ -216,7 +216,7 @@ Ce qu’il faut saisir, c’est que bien sûr, ce *Un* qui n’est pas simple et
 
 <!-- id: s16-19-0052 -->
 
-Et ce qui s’institue, ce qui s’ordonne dans mon discours, à ceux qui le suivent de l’éprouver, c’est que ces effets du comptage *symbolique*, dans l’ordre que nous avons évoqué tout à l’heure de l’*imaginaire*, à savoir en ceci : que l’*imaginaire*, c’est l’ordre par quoi le *réel* d’un organisme - *c’est*-*à*-*dire un réel tout à fait situé* - se complète d’un *Umwelt* le comptage a - au niveau de l’*imaginaire* - cet effet d’y faire apparaître ce que j’appelle *l’objet(a)*.
+Et ce qui s’institue, ce qui s’ordonne dans mon discours, à ceux qui le suivent de l’éprouver, c’est que ces effets du comptage *symbolique*, dans l’ordre que nous avons évoqué tout à l’heure de l’*imaginaire*, à savoir en ceci : que l’*imaginaire*, c’est l’ordre par quoi le *réel* d’un organisme - *c’est-à-dire un réel tout à fait situé* - se complète d’un *Umwelt* le comptage a - au niveau de l’*imaginaire* - cet effet d’y faire apparaître ce que j’appelle *l’objet(a)*.
 
 <!-- id: s16-19-0053 -->
 

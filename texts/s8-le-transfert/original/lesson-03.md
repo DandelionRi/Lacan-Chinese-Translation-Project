@@ -352,7 +352,7 @@ Arrivé à ce point de son discours, PHÈDRE passe la main à PAUSANIAS.
 
 <!-- id: s8-03-0087 -->
 
-**  **
+&nbsp;
 
 ## Notes
 

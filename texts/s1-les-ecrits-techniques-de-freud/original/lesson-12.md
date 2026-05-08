@@ -607,7 +607,7 @@ Cela me paraît tout à fait important puisque lorsqu’il introduit donc *cette
 
 <!-- id: s1-12-0145 -->
 
-\[*Die Kranken klagen dann darüber, daß man alle ihre Gedanken kennt, ihre Handlungen beobachtet und beaufsichtigt; sie werden von dem Walten dieser Instanz durch Stimmen informiert, welche charakteristischerweise in der dritten Person zu ihnen sprechen. (*« *Jetzt denkt sie wieder daran* »*;* « *jetzt geht er fort* »*.) Diese Klage hat recht, sie beschreibt die Wahrheit; eine solche Macht, die alle unsere Absichten beobachtet, erfährt und kritisiert, besteht wirklich,* *und zwar bei uns allen im normalen Leben.*\]
+\[*Die Kranken klagen dann darüber, daß man alle ihre Gedanken kennt, ihre Handlungen beobachtet und beaufsichtigt; sie werden von dem Walten dieser Instanz durch Stimmen informiert, welche charakteristischerweise in der dritten Person zu ihnen sprechen. (*« *Jetzt denkt sie wieder daran* »; « *jetzt geht er fort* »*.) Diese Klage hat recht, sie beschreibt die Wahrheit; eine solche Macht, die alle unsere Absichten beobachtet, erfährt und kritisiert, besteht wirklich,* *und zwar bei uns allen im normalen Leben.*\]
 
 <!-- id: s1-12-0146 -->
 
@@ -715,7 +715,7 @@ C’est dans ce sens-là, il me semble, qu’on voit toute la richesse de cette 
 
 <!-- id: s1-12-0172 -->
 
-Jean HYPPOLITE - Pourriez-vous relire la phrase de FREUD *?*
+Jean HYPPOLITE - Pourriez-vous relire la phrase de FREUD ?
 
 <!-- id: s1-12-0173 -->
 
@@ -899,7 +899,7 @@ Voici simplement un miroir, *l’œil mythique*, l’objet imaginaire \[*image r
 
 <!-- id: s1-12-0218 -->
 
-En somme, que *le reflet de l’œil mythique* \[*idéal du moi*\] c’est-à-dire l’autre que nous sommes, là où nous avons d’abord vu notre *ego*, c’est-à-dire *hors de nous* dans la forme humaine, non pas en tant qu’elle est faite pour cap­ter un comportement sexuel, mais en tant qu’elle est liée à quelque chose qui ne surgira que plus tard dans l’œuvre de FREUD, fondamentalement liée à l’impuis­sance primitive de l’être humain, et au fait qu’il voit sa forme réalisée *-* sa forme totale, le mirage de lui-même *- hors de lui*.
+En somme, que *le reflet de l’œil mythique* \[*idéal du moi*\] c’est-à-dire l’autre que nous sommes, là où nous avons d’abord vu notre *ego*, c’est-à-dire *hors de nous* dans la forme humaine, non pas en tant qu’elle est faite pour cap­ter un comportement sexuel, mais en tant qu’elle est liée à quelque chose qui ne surgira que plus tard dans l’œuvre de FREUD, fondamentalement liée à l’impuis­sance primitive de l’être humain, et au fait qu’il voit sa forme réalisée - sa forme totale, le mirage de lui-même *- hors de lui*.
 
 <!-- id: s1-12-0219 -->
 

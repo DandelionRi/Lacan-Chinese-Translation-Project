@@ -78,7 +78,7 @@ La triple *bande de Mœbius* n’est pas capable de se coucher sur un tore.
 
 <!-- id: s25-12-0019 -->
 
-D’où il résulte que si on *découpe* ceci tel que c’était primitivement, à savoir *la coupure* - *la simple coupure* – ça ne fait pas un nœud à 3*,* et si on coupe *la chambre à air* de la façon qui est représentée là \[coupure redou­blée\], et bien ce qu’on obtient c’est quelque chose qui est bien différent de ce qu’on attendait, à savoir que c’est une chose quatre fois pliée, à l’oc­casion par exemple, ceci est l’intérieur de *la chambre à air*, ceci est à l’in­térieur aussi et ceci est à l’extérieur :
+D’où il résulte que si on *découpe* ceci tel que c’était primitivement, à savoir *la coupure* - *la simple coupure* – ça ne fait pas un nœud à 3, et si on coupe *la chambre à air* de la façon qui est représentée là \[coupure redou­blée\], et bien ce qu’on obtient c’est quelque chose qui est bien différent de ce qu’on attendait, à savoir que c’est une chose quatre fois pliée, à l’oc­casion par exemple, ceci est l’intérieur de *la chambre à air*, ceci est à l’in­térieur aussi et ceci est à l’extérieur :
 
 <!-- id: s25-12-0020 -->
 

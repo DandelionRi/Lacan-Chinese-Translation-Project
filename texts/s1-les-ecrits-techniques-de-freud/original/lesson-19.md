@@ -162,7 +162,7 @@ Ce plan est *le plan symbolique*. En quel sens est-elle structurée sur *le plan
 
 <!-- id: s1-19-0039 -->
 
-Dans l’édification qui se déroule dans *la passion*, le sérieux et le négatif *de la lutte et du travail*, c’est donc sur ce plan qu’il va se centrer. Et pour se structurer dans un mythe originel qui est cette relation fondamentale sur le plan que lui-même définit comme *néga­tif*, marqué de *négativité*. La nécessité même de son développement l’y pousse, ce que nous pourrions appeler une relation réelle d’utilisation de l’homme par l’homme, comme on voit certains insectes présenter ces formes de - pourquoi pas* *? - de sociétés, le terme ne me fait pas peur. Là se marquera la différence entre société animale et société humaine. Les sociétés humaines ne sont pas marquées ni concevables par aucune analyse de lien objectivable, interindividuel.
+Dans l’édification qui se déroule dans *la passion*, le sérieux et le négatif *de la lutte et du travail*, c’est donc sur ce plan qu’il va se centrer. Et pour se structurer dans un mythe originel qui est cette relation fondamentale sur le plan que lui-même définit comme *néga­tif*, marqué de *négativité*. La nécessité même de son développement l’y pousse, ce que nous pourrions appeler une relation réelle d’utilisation de l’homme par l’homme, comme on voit certains insectes présenter ces formes de - pourquoi pas? - de sociétés, le terme ne me fait pas peur. Là se marquera la différence entre société animale et société humaine. Les sociétés humaines ne sont pas marquées ni concevables par aucune analyse de lien objectivable, interindividuel.
 
 <!-- id: s1-19-0040 -->
 
@@ -210,7 +210,7 @@ Et c’est sur ce plan que se soutient la dialectique intersubjective du regard.
 
 <!-- id: s1-19-0051 -->
 
-La *théorie des jeux*, comme on l’appelle, pour autant qu’elle est un mode d’étude fondamentale de cette relation subjective, illustre assez ce que nous disons pour que vous voyiez que du seul fait qu’elle est une théorie mathéma­tique, nous sommes déjà dans *le plan symbolique*. Il n’y a pas plus à en dire. Ouvrez tel ou tel livre moderne de ce qu’on appelle *théorie des jeux*, d’une éti­quette tout à fait impropre, car ça ne se limite pas à ce que vous pouvez croire, aux jeux plus ou moins conventionnels, qu’il s’agisse du jeu des monopoles, bimonopoles sur un marché, ou du jeu de dames ou d’échecs*.*
+La *théorie des jeux*, comme on l’appelle, pour autant qu’elle est un mode d’étude fondamentale de cette relation subjective, illustre assez ce que nous disons pour que vous voyiez que du seul fait qu’elle est une théorie mathéma­tique, nous sommes déjà dans *le plan symbolique*. Il n’y a pas plus à en dire. Ouvrez tel ou tel livre moderne de ce qu’on appelle *théorie des jeux*, d’une éti­quette tout à fait impropre, car ça ne se limite pas à ce que vous pouvez croire, aux jeux plus ou moins conventionnels, qu’il s’agisse du jeu des monopoles, bimonopoles sur un marché, ou du jeu de dames ou d’échecs.
 
 <!-- id: s1-19-0052 -->
 
@@ -222,7 +222,7 @@ Si vous lisez le SARTRE auquel je faisais allusion l’autre jour, vous verrez q
 
 <!-- id: s1-19-0054 -->
 
-Ceci se soutient, dans l’analyse de son point de départ : analyse de *« l’en-soi »* et du *« pour-soi »*, il reste sur un plan strictement phénoménologique, ce qui fait qu’il ne s’aperçoit pas qu’au contraire le champ intersubjectif ne peut pas ne pas déboucher sur une structuration numérique, sur ce 3, et sur ce 4*,* sur lequel je vous apprends à vous *repérer*, depuis le moment même où nous essayons ici de définir l’expérience analytique.
+Ceci se soutient, dans l’analyse de son point de départ : analyse de *« l’en-soi »* et du *« pour-soi »*, il reste sur un plan strictement phénoménologique, ce qui fait qu’il ne s’aperçoit pas qu’au contraire le champ intersubjectif ne peut pas ne pas déboucher sur une structuration numérique, sur ce 3, et sur ce 4, sur lequel je vous apprends à vous *repérer*, depuis le moment même où nous essayons ici de définir l’expérience analytique.
 
 <!-- id: s1-19-0055 -->
 
@@ -416,7 +416,7 @@ L’intéressant est l’exemple, car vous devez sentir quelle gamme il y a entr
 
 <!-- id: s1-19-0102 -->
 
-Est-ce que - vous vous en rendez compte ? - ce n’est pas là que nous commençons à entrer dans l’aberration, quand nous faisons sim­plement une remarque *irrelevant*, de dire : « *C’est très bien, tout ça.* » ? Ce type après tout est *dans son droit* d’opérer ainsi. Mais est-ce que ce n’est pas une façon *un*-*economic* ? Est-ce que ce n’est pas un très long détour ?
+Est-ce que - vous vous en rendez compte ? - ce n’est pas là que nous commençons à entrer dans l’aberration, quand nous faisons sim­plement une remarque *irrelevant*, de dire : « *C’est très bien, tout ça.* » ? Ce type après tout est *dans son droit* d’opérer ainsi. Mais est-ce que ce n’est pas une façon *un-economic* ? Est-ce que ce n’est pas un très long détour ?
 
 <!-- id: s1-19-0103 -->
 
@@ -574,7 +574,7 @@ L’expérience analytique est enfermée dans certains usages réglés avec des 
 
 <!-- id: s1-19-0141 -->
 
-Est-ce que vous y êtes ? C’est cela que j’ai voulu aujourd’hui exemplifier par le contraste entre les exemples concrets que donne BALINT et ce en quoi se manifestent pour lui, et à juste titre, les phénomènes typiques de transfert, et les exemples qu’il en donne. Naturellement, à la fin, ce qui lui paraît le plus frappant dans la situation est l’exercice, l’usage qu’ont fait ces deux personnes de la parole, comme si c’était là le ressort vraiment de la situation*.*
+Est-ce que vous y êtes ? C’est cela que j’ai voulu aujourd’hui exemplifier par le contraste entre les exemples concrets que donne BALINT et ce en quoi se manifestent pour lui, et à juste titre, les phénomènes typiques de transfert, et les exemples qu’il en donne. Naturellement, à la fin, ce qui lui paraît le plus frappant dans la situation est l’exercice, l’usage qu’ont fait ces deux personnes de la parole, comme si c’était là le ressort vraiment de la situation.
 
 <!-- id: s1-19-0142 -->
 
@@ -647,6 +647,7 @@ C’est certainement une chose importante, et plus riche pour nous de réso­nan
 <!-- id: s1-19-0159 -->
 
 Je ne saurais trop vous conseiller, ceux qui veulent s’introduire à ce registre, de lire ce texte admirable.
+
 ## Notes
 
 [^29]: Angelus silesius :

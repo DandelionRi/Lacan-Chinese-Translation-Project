@@ -31,7 +31,7 @@ Voici deux termes qui n’en font qu’un, également :
 
 <!-- id: s5-15-0006 -->
 
-- et «* je vous signifie ma demande* », comme on dit : « *je vous signifie un ordre* »*,* « *je vous signifie un arrêt* »*.*
+- et «* je vous signifie ma demande* », comme on dit : « *je vous signifie un ordre* », « *je vous signifie un arrêt* ».
   Cette « *demande* » donc implique :
 
 <!-- id: s5-15-0007 -->
@@ -40,11 +40,11 @@ Voici deux termes qui n’en font qu’un, également :
 
 <!-- id: s5-15-0008 -->
 
-- mais aussi celui pour qui cette *demande* a un sens, un *Autre* qui *-* entre autres dimensions *-* a celle d’être *le lieu* où ce signifiant a sa portée.
+- mais aussi celui pour qui cette *demande* a un sens, un *Autre* qui - entre autres dimensions - a celle d’être *le lieu* où ce signifiant a sa portée.
 
 <!-- id: s5-15-0009 -->
 
-Ceci nous le savons déjà. Le deuxième terme de « *demande signifiée*  »*,* au sens où je vous signifie quelque chose,
+Ceci nous le savons déjà. Le deuxième terme de « *demande signifiée*  », au sens où je vous signifie quelque chose,
 je vous signifie ma volonté, c’est là qu’est le point important auquel nous avons songé spécialement.
 Maintenant ce « *signifié*  » implique dans le sujet *l’action structurante de signifiants* constitués, par rapport au besoin,
 
@@ -671,7 +671,7 @@ Vous avez reconnu là le pot de lait de la mère, comme \[la voit\] l’en­fant
 
 <!-- id: s5-15-0143 -->
 
-- « *comme une per­sonne qui a réussi*… », \[a person who has been successful\]*.*
+- « *comme une per­sonne qui a réussi*… », \[a person who has been successful\].
 
 <!-- id: s5-15-0144 -->
 
@@ -705,7 +705,7 @@ On ne peut méconnaître ce que Mélanie KLEIN nous montre à propos de ce qu’
 
 « *l’œdipe ultra précoce de l’enfant* », rien que de nous représenter *l’expérience primitive* de l’enfant. Cette expérience primi­tive, sans doute y accède-t-on *à la lorgnette*, mais elle, elle le fait en s’approchant le plus près possible de la place
 et en analysant les enfants de trois ou quatre ans. Et nous découvrons déjà chez eux un rapport à l’objet
-qui est structuré sous cette forme que j’ai appelée « *l’empire du corps maternel* »*.*
+qui est structuré sous cette forme que j’ai appelée « *l’empire du corps maternel* ».
 
 <!-- id: s5-15-0152 -->
 
@@ -891,7 +891,7 @@ C’est que, de deux choses l’une :
 
 <!-- id: s5-15-0188 -->
 
-- ou alors*,* c’est dans toute la mesure où il garde ces objets, c’est-à-dire où il maintient ce quelque chose qui est pour lui beaucoup plus que leur valeur, car la valeur justement est ce qui peut s’échanger et ce qui existe à partir du moment où il les réduit à de purs signifiants, dans toute la mesure où il tient à ces objets en tant qu’objets de son désir.
+- ou alors, c’est dans toute la mesure où il garde ces objets, c’est-à-dire où il maintient ce quelque chose qui est pour lui beaucoup plus que leur valeur, car la valeur justement est ce qui peut s’échanger et ce qui existe à partir du moment où il les réduit à de purs signifiants, dans toute la mesure où il tient à ces objets en tant qu’objets de son désir.
 
 <!-- id: s5-15-0189 -->
 

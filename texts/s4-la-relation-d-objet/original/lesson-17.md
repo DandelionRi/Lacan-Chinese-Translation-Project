@@ -113,7 +113,7 @@ De même un autre élément fait pendant un long moment sujet d’inter­rogatio
 
 c’est le fameux *Krawall,* c’est l’idée de bruit, de *tumulte*, de bruit désordonné, avec quelques prolongements qui font qu’il peut
 \- paraît-il - aller jusqu’à être utilisé pour désigner un esclandre, un scandale. Dans tous les cas apparaît le caractère inquiétant, spécialement angoissant du *Krawall* tel qu’il est appréhendé par le petit Hans quand il peut se produire après que le cheval
-soit tombé, ce qui a été un des évènements à son propre dire, précipitants pour lui, *Umfallen***,** de la valeur phobique du cheval.
+soit tombé, ce qui a été un des évènements à son propre dire, précipitants pour lui, *Umfallen**,* de la valeur phobique du cheval.
 
 <!-- id: s4-17-0022 -->
 
@@ -221,7 +221,7 @@ quelle prévention intime anti-intellectualiste, d’un domaine présumé intell
 
 <!-- id: s4-17-0040 -->
 
-Il en résulte *-* dit très formellement cet auteur *-* qu’aux défauts déjà inhérents à ce qu’on appelle l’école psychologique…
+Il en résulte - dit très formellement cet auteur - qu’aux défauts déjà inhérents à ce qu’on appelle l’école psychologique…
 c’est-à-dire l’école qui cherche dans son analyse des mythes, à en retrouver la source
 
 dans cette soi-disant constante de la phi­losophie humaine, je dirais comme étant en quelque sorte générique
@@ -253,7 +253,7 @@ Nous ne pouvons d’aucune façon nous satisfaire d’une déduction à partir d
 <!-- id: s4-17-0045 -->
 
 L’impression que nous avons, c’est que dans *l’édification idéique* qui - si nous pouvons l’appeler ainsi dans le cas du petit Hans -
-est quelque chose qui *a sa motivation propre*, *son plan propre*,*son instance propre*, qui répond peut-être à tel ou tel besoin,
+est quelque chose qui *a sa motivation propre*, *son plan propre,son instance propre*, qui répond peut-être à tel ou tel besoin,
 ou à telle ou telle fonction, assurément pas à quoi que ce soit qui puisse à aucun moment se justifier de telle *pulsion*,
 de tel *élan*, de tel *mouvement émotionnel* particulier qui s’y transposerait, qui s’y exprimerait purement et simplement.
 
@@ -316,7 +316,7 @@ et que vient-il faire là ?
 
 <!-- id: s4-17-0056 -->
 
-Est-ce vraiment sur Anna, et à l’occasion sur son *Kra­wall***,** car beaucoup plus loin dans l’observation nous verrons apparaître
+Est-ce vraiment sur Anna, et à l’occasion sur son *Kra­wall**,* car beaucoup plus loin dans l’observation nous verrons apparaître
 la petite Anna comme bien gênante par ses cris, exactement un cri qui ne peut pas - à condition que nous ayons toujours l’oreille ouverte à l’élément signifiant - pour nous être identifié au cri de la mère dans ce fantasme.
 
 <!-- id: s4-17-0057 -->
@@ -618,8 +618,8 @@ au cours de la longue et compliquée conversation au cours de laquelle
 le petit Hans et son père essayent de débrouiller ensemble la question
 …qui s’avère à tout instant ne prendre de valeur que de manifester une série d’oppositions qu’il faut chercher dans des traits
 qui passent d’abord pour tout à fait inaperçus, en tout cas qui passent radicalement ina­perçus quand on cherche à identifier massivement la culotte jaune à quelque chose qui serait par exemple l’urination, et la culotte noire à quelque chose
-que l’on appelle dans le langage de Hans, le *Lumpf***,** la *défécation*. Et on a tout à fait tort d’identifier le *Lumpf* à la défécation,
-et d’omettre cet élément essentiel qui serait vraiment pour Hans un *Lumpf***.**
+que l’on appelle dans le langage de Hans, le *Lumpf**,* la *défécation*. Et on a tout à fait tort d’identifier le *Lumpf* à la défécation,
+et d’omettre cet élément essentiel qui serait vraiment pour Hans un *Lumpf**.*
 
 <!-- id: s4-17-0110 -->
 

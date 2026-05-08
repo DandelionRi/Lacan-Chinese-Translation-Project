@@ -146,7 +146,7 @@ De très nombreux enfants ont le fantasme d’avoir une autre famille, d’être
 
 <!-- id: s2-04-0034 -->
 
-Alors qu’est-ce en somme - c’est là où je veux en venir - que l’analyse des résistances ? L’analyse des résistances, ça n’est pas, comme on tend sinon à le dire, à le formuler - et on le formule, je vous en donnerais bien des exemples *-* mais beaucoup plus à le pratiquer, ça n’est pas intervenir auprès du sujet pour qu’il prenne conscience de la façon dont ses *attachements*, ses *préjugés*, l’équi­libre de son *moi*, l’empêchent de voir,
+Alors qu’est-ce en somme - c’est là où je veux en venir - que l’analyse des résistances ? L’analyse des résistances, ça n’est pas, comme on tend sinon à le dire, à le formuler - et on le formule, je vous en donnerais bien des exemples - mais beaucoup plus à le pratiquer, ça n’est pas intervenir auprès du sujet pour qu’il prenne conscience de la façon dont ses *attachements*, ses *préjugés*, l’équi­libre de son *moi*, l’empêchent de voir,
 
 <!-- id: s2-04-0035 -->
 
@@ -222,7 +222,7 @@ Le fait d’intervenir en se substituant en somme au *moi* du sujet - ce qui est
 
 <!-- id: s2-04-0053 -->
 
-Je vais pas à pas. Je crois avoir suffisamment accentué au cours de ces mois, voire de ces années qui précèdent, ce que j’ai voulu dire en disant que l’incons­cient c’est exactement ce sujet inconnu du *moi*, méconnu par le *moi*, ce point du sujet*,* ou son être humain à proprement parler, *der Kern unseres Wesen* \[*le noyau de notre être*\], écrit quelque part FREUD. Dans le chapitre de la *Traumdeutung* sur *le procès du rêve* - dont je vous ai prié de prendre connaissance, d’aborder la lecture - quand FREUD parle du processus primaire, il entend bien parler de quelque chose qui a un sens *ontologique*, il l’appelle *le noyau de notre être*.
+Je vais pas à pas. Je crois avoir suffisamment accentué au cours de ces mois, voire de ces années qui précèdent, ce que j’ai voulu dire en disant que l’incons­cient c’est exactement ce sujet inconnu du *moi*, méconnu par le *moi*, ce point du sujet, ou son être humain à proprement parler, *der Kern unseres Wesen* \[*le noyau de notre être*\], écrit quelque part FREUD. Dans le chapitre de la *Traumdeutung* sur *le procès du rêve* - dont je vous ai prié de prendre connaissance, d’aborder la lecture - quand FREUD parle du processus primaire, il entend bien parler de quelque chose qui a un sens *ontologique*, il l’appelle *le noyau de notre être*.
 
 <!-- id: s2-04-0054 -->
 
@@ -262,7 +262,7 @@ C’est exactement ce qui s’est passé dans l’analyse à partir du jour où,
 
 <!-- id: s2-04-0063 -->
 
-…ce qui était la fécondité première de la découverte analytique s’épuisait*,* dans la pratique, on est revenu à ce qu’on appelle *« l’analyse du moi »*, prétendant y trouver l’exact envers de ce qu’il s’agissait, si on peut dire, de *démontrer* au sujet.
+…ce qui était la fécondité première de la découverte analytique s’épuisait, dans la pratique, on est revenu à ce qu’on appelle *« l’analyse du moi »*, prétendant y trouver l’exact envers de ce qu’il s’agissait, si on peut dire, de *démontrer* au sujet.
 
 <!-- id: s2-04-0064 -->
 
@@ -458,7 +458,7 @@ Au point où nous en sommes, et peut-être justement parce que nous nous sommes 
 
 <!-- id: s2-04-0112 -->
 
-Ce qui ne règle pas pour autant la question ouverte, mais elle nous est indifférente, et en ce sens je vous dis *que ce n’est pas* *une hypothèse* que je vous développe, mais simplement un exemple qui vous montre que nous pouvons au départ \- et simplement *par opération de salubrité*, pour commencer à ne pouvoir véritablement poser les questions de ce qu’est *le moi -* partir de ce *qu’il est* - contrairement à la vision que nous appellerons profondément religieuse de la conscience, considérée comme le sommet des créatures - *fabrication de l’homme moderne*, qui est quelque chose d’absolument extraordinaire, car implicitement l’homme moderne pense que tout ce qui s’est passé dans l’univers depuis l’origine est fait pour converger vers cette « *chose qui pense* », création de la vie et être précieux : l’Homme, parmi lequel cet être unique qui est lui-même, dans lequel il y a ce point privilégié qui s’appelle la conscience. À partir de cette perspective, nous entrons précisément dans un anthropo­morphisme si délirant qu’il faut commencer à s’en dessiller les yeux* *:
+Ce qui ne règle pas pour autant la question ouverte, mais elle nous est indifférente, et en ce sens je vous dis *que ce n’est pas* *une hypothèse* que je vous développe, mais simplement un exemple qui vous montre que nous pouvons au départ \- et simplement *par opération de salubrité*, pour commencer à ne pouvoir véritablement poser les questions de ce qu’est *le moi -* partir de ce *qu’il est* - contrairement à la vision que nous appellerons profondément religieuse de la conscience, considérée comme le sommet des créatures - *fabrication de l’homme moderne*, qui est quelque chose d’absolument extraordinaire, car implicitement l’homme moderne pense que tout ce qui s’est passé dans l’univers depuis l’origine est fait pour converger vers cette « *chose qui pense* », création de la vie et être précieux : l’Homme, parmi lequel cet être unique qui est lui-même, dans lequel il y a ce point privilégié qui s’appelle la conscience. À partir de cette perspective, nous entrons précisément dans un anthropo­morphisme si délirant qu’il faut commencer à s’en dessiller les yeux:
 
 <!-- id: s2-04-0113 -->
 
@@ -530,7 +530,7 @@ Vous entendez bien ce que ça veut dire ? Que sur ce point-là, la surface du la
 
 <!-- id: s2-04-0130 -->
 
-- de même que vous n’avez pas besoin de toute la surface d’un miroir, si tant est que cela veuille dire quelque chose*,* pour vous apercevoir du contenu d’un champ, ou d’une pièce, qu’avec un tout petit morceau vous obtenez le même résultat en le manœuvrant,
+- de même que vous n’avez pas besoin de toute la surface d’un miroir, si tant est que cela veuille dire quelque chose, pour vous apercevoir du contenu d’un champ, ou d’une pièce, qu’avec un tout petit morceau vous obtenez le même résultat en le manœuvrant,
 
 <!-- id: s2-04-0131 -->
 

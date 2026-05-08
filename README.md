@@ -40,19 +40,165 @@
 
 ## 生成发布展示层
 
-从 `texts/` 生成 mdBook 使用：
+`scripts/build_src_from_texts.py` 用来把长期维护的 `texts/` 内容合成为 mdBook 使用的 `src/` 展示层。日常翻译、校对和分段调整应优先修改 `texts/`；修改完成后再运行这个脚本重新生成 `src/`。
+
+### 基本命令
+
+从全部 `texts/<seminar>/original/` 目录生成 `src/`：
 
 ```bash
 python3 scripts/build_src_from_texts.py
 ```
 
-只生成某一期研讨班时使用：
+只生成某一期研讨班：
 
 ```bash
 python3 scripts/build_src_from_texts.py --seminar s8-le-transfert
 ```
 
-脚本会按段落 ID 合并原文和译文；译文中的连续引用区块如果以 `注` 开头会归为注释，否则归为个人解读评论。生成后的页面通过 mdBook 额外加载的 CSS/JS 提供“原文 / 注释 / 个人解读评论”三个显示开关。
+一次只生成多期研讨班，可以重复传入 `--seminar`：
+
+```bash
+python3 scripts/build_src_from_texts.py \
+  --seminar s8-le-transfert \
+  --seminar s20-encore
+```
+
+只更新课文页面、不重写 `src/SUMMARY.md`：
+
+```bash
+python3 scripts/build_src_from_texts.py --seminar s8-le-transfert --skip-summary
+```
+
+生成 `src/` 后再打包 mdBook：
+
+```bash
+python3 scripts/build_src_from_texts.py
+./bin/mdbook build
+```
+
+本地预览：
+
+```bash
+python3 scripts/build_src_from_texts.py
+./bin/mdbook serve --open
+```
+
+### 输入目录约定
+
+脚本读取以下文件：
+
+- `texts/<seminar>/original/lesson-xx.md`：必需。每个 `<!-- id: ... -->` 标记开始一个原文段落，直到下一个 ID 标记为止。
+- `texts/<seminar>/translation/lesson-xx.md`：可选。文件不存在时，该课原文仍会生成，译文位置显示 `[无对应译文]`。
+- `texts/<seminar>/original/assets/`：可选。原文图片会复制到 `src/<seminar>/assets/`。
+- `texts/<seminar>/translation/assets/`：可选。译文额外图片也会复制到 `src/<seminar>/assets/`。
+- `texts/<seminar>/glossary.md`：可选。存在时会复制为 `src/<seminar>/glossary.md`。
+- `texts/<seminar>/original/README.md`：可选。存在时脚本会优先用其中的标题生成 `src/<seminar>/README.md`。
+
+`<seminar>` 必须使用目录 slug，例如 `s8-le-transfert`、`s20-encore`。`lesson-xx.md` 的编号用于排序，建议保持两位数字，例如 `lesson-01.md`。
+
+### 原文格式
+
+原文课文的基本结构如下：
+
+```markdown
+# Leçon 01 | 16 Novembre 1960
+
+<!-- id: s8-01-0001 -->
+
+原文第一段。
+
+<!-- id: s8-01-0002 -->
+
+原文第二段。
+```
+
+标题位于第一个段落 ID 之前。`## Notes` 及其后面的内容会被视为原文注释区，生成到页面底部的注释块里。
+
+### 译文格式
+
+译文同样使用 `<!-- id: ... -->` 标记。一个 ID 到下一个 ID 之间的内容是一个译文条目：
+
+```markdown
+<!-- id: s8-01-0001 -->
+
+中文译文第一段。
+
+<!-- id: s8-01-0002 -->
+
+中文译文第二段。
+```
+
+译文分段规则：
+
+- 两段之间有空行，视为不同 Markdown 段落。
+- 只有换行但没有空行，仍视为同一个文本区块。
+- 译文条目下方的引用区块会被视为对该译文条目的注释或个人解读。
+
+如果一个中文译文条目对应多个原文段落，在译文 ID 后添加 `<!-- ids: ... -->`：
+
+```markdown
+<!-- id: s8-01-0001 -->
+<!-- ids: s8-01-0001 s8-01-0002 s8-01-0003 -->
+
+这一个中文译文区块对应上面三个原文段落。
+```
+
+其中 `id` 是该译文条目的锚点，`ids` 是它实际覆盖的原文段落 ID 列表。生成页面时，这些原文段落会合并显示在同一个对照区块里。
+
+如果某段已经确认暂不翻译，可以标记：
+
+```markdown
+<!-- id: s8-01-0004 -->
+<!-- untranslated -->
+```
+
+页面会显示 `[未译]`。如果完全没有对应译文文件或译文 ID，页面会显示 `[无对应译文]`。
+
+### 注释和个人解读
+
+译文条目中的连续引用区块会被单独分类：
+
+```markdown
+<!-- id: s8-01-0005 -->
+
+这里是译文正文。
+
+> 注：这里是译注。
+
+> 这里是个人解读或评论。
+```
+
+识别规则：
+
+- 连续引用区块的第一条非空内容，以 `注` 开头，或者以 `【注】`、`[注]`、`（注` 这类形式开头，则整个引用区块归为“注释”。
+- 其他引用区块归为“个人解读评论”。
+- 页面会提供“原文 / 注释 / 个人解读评论”三个开关，分别控制这些内容的显示。
+
+### 生成结果
+
+脚本会写入或更新：
+
+- `src/<seminar>/README.md`：该期研讨班目录页。
+- `src/<seminar>/lesson-xx.md`：合成后的双语对照页面。
+- `src/<seminar>/assets/`：从原文和译文 assets 复制的图片资源。
+- `src/<seminar>/glossary.md`：从 `texts/<seminar>/glossary.md` 复制的术语表。
+- `src/SUMMARY.md`：mdBook 总目录，除非使用 `--skip-summary`。
+
+命令结束时会输出统计信息：
+
+- `Built seminars`：本次生成的研讨班目录。
+- `Lessons`：本次生成的课次数。
+- `Aligned translation blocks`：找到译文并成功按 ID 对齐的译文区块数。
+- `Untranslated blocks`：显式标记为 `<!-- untranslated -->` 的译文区块数。
+- `Missing translation blocks`：原文存在但没有对应译文的段落数。
+
+### 注意事项
+
+- `src/` 是展示层，可以由脚本重建；长期维护内容应放在 `texts/`。
+- 修改 `texts/` 后，提交前建议运行 `python3 scripts/build_src_from_texts.py && ./bin/mdbook build`。
+- 只想降低 PR 噪音时，可以用 `--seminar` 限定本次修改涉及的研讨班。
+- 如果修改了研讨班目录结构、课次文件、标题或术语表，通常不要使用 `--skip-summary`，让脚本同步更新 `src/SUMMARY.md`。
 
 ## 原文整理规则
 

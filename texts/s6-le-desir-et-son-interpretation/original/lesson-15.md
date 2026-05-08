@@ -306,7 +306,7 @@ Il y a des personnes qui m’écoutent et qui auront sans doute besoin que j’e
 
 <!-- id: s6-15-0075 -->
 
-Si HAMLET est vraiment ce que je vous dis, à savoir *une composition*, une structure telle que là, le désir puisse trouver sa place suffisamment correctement, rigoureusement posée pour que tous les désirs ou, plus exactement, tous les problèmes de rapport du sujet au désir puissent s’y projeter, il suffirait en quelque sorte de le lire. Je fais donc allusion aux gens qui pourraient me poser la question de la fonction de l’acteur. *Où est la fonction du théâtre, de* «* la représentation *»*?* Il est clair que ce n’est pas du tout la même chose de lire HAMLET et de le voir *représenté*.
+Si HAMLET est vraiment ce que je vous dis, à savoir *une composition*, une structure telle que là, le désir puisse trouver sa place suffisamment correctement, rigoureusement posée pour que tous les désirs ou, plus exactement, tous les problèmes de rapport du sujet au désir puissent s’y projeter, il suffirait en quelque sorte de le lire. Je fais donc allusion aux gens qui pourraient me poser la question de la fonction de l’acteur. *Où est la fonction du théâtre, de* «* la représentation *»? Il est clair que ce n’est pas du tout la même chose de lire HAMLET et de le voir *représenté*.
 
 <!-- id: s6-15-0076 -->
 
@@ -644,7 +644,7 @@ Par quelque chose qui se dessine ainsi :
 
 <!-- id: s6-15-0158 -->
 
-À savoir d’une voie de retour du *code de l’inconscient* \[**S◊**D\] vers le message de l’inconscient sur le plan *imaginaire*. Que le circuit pointillé, autrement dit inconscient, qui commence ici \[1\] et qui passant, au niveau du message S(A) \[2\], va au niveau du *code de l’inconscient* **S◊**D \[3\], en face de *la demande*, revient vers *le désir* (*d*)\[4\], de là vers *le fantasme* **S◊***a* \[5\]. Que c’est, en d’autres termes, essentiellement par rapport à ce qui règle sur cette ligne, la hauteur, la situation du *désir*, et dans une voie qui est une voie de retour par rapport à l’inconscient…
+À savoir d’une voie de retour du *code de l’inconscient* \[S◊D\] vers le message de l’inconscient sur le plan *imaginaire*. Que le circuit pointillé, autrement dit inconscient, qui commence ici \[1\] et qui passant, au niveau du message S(A) \[2\], va au niveau du *code de l’inconscient* S◊D \[3\], en face de *la demande*, revient vers *le désir* (*d*)\[4\], de là vers *le fantasme* S◊*a* \[5\]. Que c’est, en d’autres termes, essentiellement par rapport à ce qui règle sur cette ligne, la hauteur, la situation du *désir*, et dans une voie qui est une voie de retour par rapport à l’inconscient…
 
 <!-- id: s6-15-0159 -->
 

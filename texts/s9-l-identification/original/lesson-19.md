@@ -58,7 +58,7 @@ Vous vous reportez au texte, vous lisez : et d’ailleurs, si mon souvenir est 
 
 <!-- id: s9-19-0014 -->
 
-Entre ces deux termes, il y a la différence du « *si* » au « *puisque* »*,* c’est-à-dire d’une *logique hypo­thétique* à une *logique assertorique*. Et vous me direz : « *distinction de logicien, en quoi est-ce qu’elle nous intéresse ?* ». Elle nous intéresse tellement que c’est pour représenter les choses de la pre­mière façon qu’au dernier terme, le terme kantien, on nous maintient l’existence de Dieu.
+Entre ces deux termes, il y a la différence du « *si* » au « *puisque* », c’est-à-dire d’une *logique hypo­thétique* à une *logique assertorique*. Et vous me direz : « *distinction de logicien, en quoi est-ce qu’elle nous intéresse ?* ». Elle nous intéresse tellement que c’est pour représenter les choses de la pre­mière façon qu’au dernier terme, le terme kantien, on nous maintient l’existence de Dieu.
 
 <!-- id: s9-19-0015 -->
 
@@ -90,7 +90,7 @@ Et là aussi nous trouvons ce même *nœud interne* qui fait que ce qui a l’ai
 
 <!-- id: s9-19-0022 -->
 
-Or c’est ce point de la boucle qui n’est point encore assuré et c’est là que nous avançons, et c’est pour cela que nous rappelons l’usage que nous avons fait jusqu’ici du *(a).* Où l’avons-nous vu ? Où allons-nous d’abord le désigner ? Dans *le fantasme* ! Où bien évidemment, il a une fonction qui a quelque rapport avec *l’imaginaire*. Appelons-la « *la valeur imaginaire dans le fantasme* »*.* Elle est tout autre que simplement projetable d’une façon intuitive dans *la fonction de leurre* telle qu’elle nous est donnée dans l’expérience biologique par exemple de l’*innate releasing mechanism*[^158].
+Or c’est ce point de la boucle qui n’est point encore assuré et c’est là que nous avançons, et c’est pour cela que nous rappelons l’usage que nous avons fait jusqu’ici du *(a).* Où l’avons-nous vu ? Où allons-nous d’abord le désigner ? Dans *le fantasme* ! Où bien évidemment, il a une fonction qui a quelque rapport avec *l’imaginaire*. Appelons-la « *la valeur imaginaire dans le fantasme* ». Elle est tout autre que simplement projetable d’une façon intuitive dans *la fonction de leurre* telle qu’elle nous est donnée dans l’expérience biologique par exemple de l’*innate releasing mechanism*[^158].
 
 <!-- id: s9-19-0023 -->
 
@@ -98,11 +98,11 @@ C’est autre chose, et c’est ce que vous rappellent :
 
 <!-- id: s9-19-0024 -->
 
-- et la formalisation du *fantasme* comme étant *constitué* dans son support par l’ensemble : *S barré désir de a* \[S**◊***a*\]*,*
+- et la formalisation du *fantasme* comme étant *constitué* dans son support par l’ensemble : *S barré désir de a* \[S◊a\],
 
 <!-- id: s9-19-0025 -->
 
-- et *la situation de cette formule dans le graphe qui montre homologiquement, par sa position à l’étage supérieur qui la fait l’homologue du* *i(a)* de l’étage inférieur : *en tant qu’il est le support du moi, petit m ici*, *de même que S barré désir de a* \[S**◊***a*\]*est le support du* *désir*.
+- et *la situation de cette formule dans le graphe qui montre homologiquement, par sa position à l’étage supérieur qui la fait l’homologue du* *i(a)* de l’étage inférieur : *en tant qu’il est le support du moi, petit m ici*, *de même que S barré désir de a* \[S◊a\] *est le support du* *désir*.
 
 <!-- id: s9-19-0026 -->
 
@@ -110,11 +110,11 @@ C’est autre chose, et c’est ce que vous rappellent :
 
 <!-- id: s9-19-0027 -->
 
-Qu’est-ce que cela veut dire ? C’est que *le fantasme* \[S**◊***a*\] est là où le sujet se saisit, dans ce que je vous ai pointé pour être en question au 2<sup>nd</sup> étage du graphe, *sous la forme* reprise au niveau de l’Autre, dans le champ de l’Autre, en ce point ici \[A\] du graphe, *de la ques­tion « Qu’est-ce que ça veut ?* », qui est aussi bien *celle qui prendra la forme « Que veut-il ? »* \[*Che vuoi ?*\], si quelqu’un a su prendre la place - projetée par la structure - du lieu de l’Autre, à savoir - de ce lieu - qui en est le maître et le garant.
+Qu’est-ce que cela veut dire ? C’est que *le fantasme* \[S◊a\] est là où le sujet se saisit, dans ce que je vous ai pointé pour être en question au 2<sup>nd</sup> étage du graphe, *sous la forme* reprise au niveau de l’Autre, dans le champ de l’Autre, en ce point ici \[A\] du graphe, *de la ques­tion « Qu’est-ce que ça veut ?* », qui est aussi bien *celle qui prendra la forme « Que veut-il ? »* \[*Che vuoi ?*\], si quelqu’un a su prendre la place - projetée par la structure - du lieu de l’Autre, à savoir - de ce lieu - qui en est le maître et le garant.
 
 <!-- id: s9-19-0028 -->
 
-Ceci veut dire que sur le champ et le parcours de cette question *le fantasme* a une fonction homologue à celle de *i(a)*, du *moi idéal*, du *moi imaginaire* sur lequel je me repose, que cette fonction a une dimension - sans doute quelquefois pointée et même plus d’une fois - dont il me faut ici vous rappeler qu’elle anticipe la fonction du *moi idéal*, comme vous le marque dans le graphe ceci : que c’est par une sorte de « *retour* » qui permet quand même *un court-circuit* par rapport à la menée inten­tionnelle du discours considéré comme constituant - à ce premier étage - du sujet, qu’ici, avant que, *signifié* et *signifiant* se recroisant, il ait constitué sa phrase, le sujet imaginairement anticipe celui qu’il désigne comme « *moi* » \[S *<sub>→</sub>i(a)<sub>→</sub>m*\]*.*
+Ceci veut dire que sur le champ et le parcours de cette question *le fantasme* a une fonction homologue à celle de *i(a)*, du *moi idéal*, du *moi imaginaire* sur lequel je me repose, que cette fonction a une dimension - sans doute quelquefois pointée et même plus d’une fois - dont il me faut ici vous rappeler qu’elle anticipe la fonction du *moi idéal*, comme vous le marque dans le graphe ceci : que c’est par une sorte de « *retour* » qui permet quand même *un court-circuit* par rapport à la menée inten­tionnelle du discours considéré comme constituant - à ce premier étage - du sujet, qu’ici, avant que, *signifié* et *signifiant* se recroisant, il ait constitué sa phrase, le sujet imaginairement anticipe celui qu’il désigne comme « *moi* » \[S <sub>→</sub>i(a)<sub>→</sub>m\].
 
 <!-- id: s9-19-0029 -->
 
@@ -134,7 +134,7 @@ Ceci veut dire que vous auriez tort de vous arrê­ter à quoi que ce soit que j
 
 <!-- id: s9-19-0033 -->
 
-Revenons à notre *fantasme* et au *(a),* pour saisir ce dont il s’agit dans cette *imaginification* propre à sa place dans *le fantasme*. Il est bien sûr que nous ne pouvons pas l’isoler sans son corrélatif du S \[S**◊***a*\], du fait que *l’émergence* de *la fonc­tion de l’objet* *du désir* comme *(a)* dans le *fantasme* est *corrélative* de cette sorte de « *fading »,* d’« *évanouissement du symbolique* » qui est cela même que j’ai arti­culé la dernière fois - je crois en répondant à M<sup>me</sup> AULAGNIER, si mon sou­venir est bon - comme l’exclusion déterminée par la dépendance même du sujet de l’usage du signifiant.
+Revenons à notre *fantasme* et au *(a),* pour saisir ce dont il s’agit dans cette *imaginification* propre à sa place dans *le fantasme*. Il est bien sûr que nous ne pouvons pas l’isoler sans son corrélatif du S \[S◊a\], du fait que *l’émergence* de *la fonc­tion de l’objet* *du désir* comme *(a)* dans le *fantasme* est *corrélative* de cette sorte de « *fading »,* d’« *évanouissement du symbolique* » qui est cela même que j’ai arti­culé la dernière fois - je crois en répondant à M<sup>me</sup> AULAGNIER, si mon sou­venir est bon - comme l’exclusion déterminée par la dépendance même du sujet de l’usage du signifiant.
 
 <!-- id: s9-19-0034 -->
 
@@ -188,7 +188,7 @@ Ce qui pour nous est nécessaire à formuler ainsi, pour autant qu’également 
 
 <!-- id: s9-19-0046 -->
 
-C’est ce que j’ai voulu vous montrer le jour où, par exemple, prenant le sein comme signifiant de la demande orale, je vous montrai que justement c’est à cause de cela qu’éventuellement - c’était ce que j’avais de plus *simple* pour vous le faire toucher du doigt - c’est justement à ce moment-là que le sein réel devient, non pas objet de nourriture, mais objet érotique, nous montrant une fois de plus que *la fonction du signifiant exclut que le signifiant puisse se signi­fier lui-même* \[S<sub>1*→*</sub>S<sub>2*→* </sub>a<sub>↓</sub>\].
+C’est ce que j’ai voulu vous montrer le jour où, par exemple, prenant le sein comme signifiant de la demande orale, je vous montrai que justement c’est à cause de cela qu’éventuellement - c’était ce que j’avais de plus *simple* pour vous le faire toucher du doigt - c’est justement à ce moment-là que le sein réel devient, non pas objet de nourriture, mais objet érotique, nous montrant une fois de plus que *la fonction du signifiant exclut que le signifiant puisse se signi­fier lui-même* \[S<sub>1→</sub>S<sub>2→</sub>a<sub>↓</sub>\].
 
 <!-- id: s9-19-0047 -->
 
@@ -240,7 +240,7 @@ Le champ marqué à l’intérieur n’est pas aussi simple que cela, ici que ce
 
 <!-- id: s9-19-0059 -->
 
-J’anticipe et profère que : *le phallus dans sa fonction radicale est seul signifiant, mais, quoiqu’il puisse se signifier lui-même,* *il est innommable comme tel***.** *S’il est dans l’ordre du signifiant, car c’est un signifiant et rien d’autre, il peut être posé sans différer de lui-même.* Comment le concevoir intuitivement ? Disons *qu’il est le seul nom qui abolisse toutes les autres nominations et que c’est pour cela* *qu’il est indicible.* Il n’est pas indicible puisque nous l’appelons *le phallus*, mais on ne peut pas à la fois dire *le phallus* et continuer de nommer d’autres choses.
+J’anticipe et profère que : *le phallus dans sa fonction radicale est seul signifiant, mais, quoiqu’il puisse se signifier lui-même,* *il est innommable comme tel**.* *S’il est dans l’ordre du signifiant, car c’est un signifiant et rien d’autre, il peut être posé sans différer de lui-même.* Comment le concevoir intuitivement ? Disons *qu’il est le seul nom qui abolisse toutes les autres nominations et que c’est pour cela* *qu’il est indicible.* Il n’est pas indicible puisque nous l’appelons *le phallus*, mais on ne peut pas à la fois dire *le phallus* et continuer de nommer d’autres choses.
 
 <!-- id: s9-19-0060 -->
 
@@ -268,7 +268,7 @@ J’y ai déjà fait plu­sieurs fois référence. La coupure, entendez-la avec 
 
 <!-- id: s9-19-0066 -->
 
-Quand j’ai cru vous dire des choses très simples à pro­pos du huit intérieur sur la surface d’un *tore* 
+Quand j’ai cru vous dire des choses très simples à pro­pos du huit intérieur sur la surface d’un *tore*
 
 <!-- id: s9-19-0067 -->
 

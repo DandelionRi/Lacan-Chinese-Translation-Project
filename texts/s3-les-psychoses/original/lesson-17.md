@@ -448,7 +448,7 @@ D’un autre côté, quand je vous ai parlé du cas de cet hystérique décrit p
 
 <!-- id: s3-17-0099 -->
 
-Ils sont des formes de résorption, mais ils sont aussi - et là les analystes touchent à quelque chose de juste - la représentation de ce qui va arriver dans l’avenir. SCHREBER le dit, le monde va être repeuplé par ce qu’il appelle des « *hommes*-*Schreber* », par des hommes d’esprit schreberien, c’est-à-dire de menus êtres fantasmatiques qui vont engendrer une sorte de procréation d’après le déluge, qui est la perspective, le point de fuite vers l’avenir. N’êtes-vous pas frappés que, de même que nous venons d’apercevoir les deux formes précédentes, la forme normale et la forme névrotique ou paranévrotique :
+Ils sont des formes de résorption, mais ils sont aussi - et là les analystes touchent à quelque chose de juste - la représentation de ce qui va arriver dans l’avenir. SCHREBER le dit, le monde va être repeuplé par ce qu’il appelle des « *hommes-Schreber* », par des hommes d’esprit schreberien, c’est-à-dire de menus êtres fantasmatiques qui vont engendrer une sorte de procréation d’après le déluge, qui est la perspective, le point de fuite vers l’avenir. N’êtes-vous pas frappés que, de même que nous venons d’apercevoir les deux formes précédentes, la forme normale et la forme névrotique ou paranévrotique :
 
 <!-- id: s3-17-0100 -->
 
@@ -472,7 +472,7 @@ Mais nous voyons curieusement surgir dans le délire, sous la forme de ces « *
 
 <!-- id: s3-17-0105 -->
 
-Quoiqu’il en soit, puisque nous nous sommes maintenant engagés dans la lecture de ce texte et dans une espèce d’entreprise de vraiment actualiser au maximum cette lecture dans le registre dialectique *signifiant*-*signifié*, nous pouvons l’utiliser comme méthode de repérage de la psychose.
+Quoiqu’il en soit, puisque nous nous sommes maintenant engagés dans la lecture de ce texte et dans une espèce d’entreprise de vraiment actualiser au maximum cette lecture dans le registre dialectique *signifiant-signifié*, nous pouvons l’utiliser comme méthode de repérage de la psychose.
 
 <!-- id: s3-17-0106 -->
 

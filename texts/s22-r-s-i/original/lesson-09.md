@@ -504,7 +504,7 @@ Alors, si le *noumène* ce n’est rien d’autre que ce que je viens d’énon�
 
 > du tore en tant que distingué de la sphère par un mode d’écriture
 >
-> dont se définissent aussi bien *homo*, que *homéo*, que *auto*-*morphisme* ...dont le fondement est toujours la possibilité de se fonder sur ce qu’on appelle une déformation continue, et une déformation qui se définit de rencon­trer ce qui fait obstacle d’une autre corde...
+> dont se définissent aussi bien *homo*, que *homéo*, que *auto-morphisme* ...dont le fondement est toujours la possibilité de se fonder sur ce qu’on appelle une déformation continue, et une déformation qui se définit de rencon­trer ce qui fait obstacle d’une autre corde...
 
 <!-- id: s22-09-0125 -->
 
@@ -612,7 +612,7 @@ Il y a pas moyen de le réduire dans son *imaginarité*.
 
 <!-- id: s22-09-0151 -->
 
-C’est en ça que la topologie fait un pas*.*
+C’est en ça que la topologie fait un pas.
 
 <!-- id: s22-09-0152 -->
 
@@ -716,7 +716,7 @@ Or ce dont il s’agit, c’est de donner tout son poids à cette *consistance*,
 
 <!-- id: s22-09-0177 -->
 
-*nommer* qu’aussi bien vous pourriez écrire *n, apostrophe, h, o, deux m, e, r* : *n’hommer* *...*« *dire* » est un acte : ce par quoi *dire* est un acte c’est d’ajouter une dimen­sion, une dimension de *mise à plat*.
+*nommer* qu’aussi bien vous pourriez écrire *n, apostrophe, h, o, deux m, e, r* : *n’hommer...*« *dire* » est un acte : ce par quoi *dire* est un acte c’est d’ajouter une dimen­sion, une dimension de *mise à plat*.
 
 <!-- id: s22-09-0178 -->
 

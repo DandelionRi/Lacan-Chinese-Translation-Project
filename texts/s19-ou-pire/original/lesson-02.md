@@ -314,15 +314,15 @@ Alors cette authenticité, c’est peut-être pas l’authenticité d’Aristote
 
 <!-- id: s19-02-0076 -->
 
-### Parce que, bien entendu, depuis que nous avons vu les gamètes, nous pouvons écrire au tableau : 
+### Parce que, bien entendu, depuis que nous avons vu les gamètes, nous pouvons écrire au tableau :
 
 <!-- id: s19-02-0077 -->
 
-### « *homme* = *porteur de spermatozoïdes* ». 
+### « *homme* = *porteur de spermatozoïdes* ».
 
 <!-- id: s19-02-0078 -->
 
-### Ce qui serait une définition un peu drôle parce qu’il n’y a pas que lui qui en porte, il y a des tas d’ani­maux ! 
+### Ce qui serait une définition un peu drôle parce qu’il n’y a pas que lui qui en porte, il y a des tas d’ani­maux !
 
 <!-- id: s19-02-0079 -->
 
@@ -334,7 +334,7 @@ Pourquoi les spermatozoïdes d’hommes sont-ils justement ceux que porte l’ho
 
 <!-- id: s19-02-0081 -->
 
-### Parce que, *comme c’est des spermatozoïdes d’homme qui font l’homme*, nous sommes dans un cercle qui tourne là ! 
+### Parce que, *comme c’est des spermatozoïdes d’homme qui font l’homme*, nous sommes dans un cercle qui tourne là !
 
 <!-- id: s19-02-0082 -->
 
@@ -342,15 +342,15 @@ Pourquoi les spermatozoïdes d’hommes sont-ils justement ceux que porte l’ho
 
 <!-- id: s19-02-0083 -->
 
-### Seulement ça n’a aucun rapport avec quoi que ce soit qui puisse s’écrire, si je puis dire, de sensé, 
+### Seulement ça n’a aucun rapport avec quoi que ce soit qui puisse s’écrire, si je puis dire, de sensé,
 
 <!-- id: s19-02-0084 -->
 
-### c’est-à-dire qui ait *un rapport au réel*. Ce n’est pas parce que c’est biologique que c’est plus *réel* : 
+### c’est-à-dire qui ait *un rapport au réel*. Ce n’est pas parce que c’est biologique que c’est plus *réel* :
 
 <!-- id: s19-02-0085 -->
 
-### c’est le fruit de la science qui s’appelle *biologique*. 
+### c’est le fruit de la science qui s’appelle *biologique*.
 
 <!-- id: s19-02-0086 -->
 
@@ -582,7 +582,7 @@ Ce qui veut dire que chaque fois que je vais avoir affaire à ce signifiant sexu
 
 <!-- id: s19-02-0143 -->
 
-> c’est-à-dire à ce *quelque chose* qui tient à *la jouissance* *...*je vais avoir affaire à ΦX,
+> c’est-à-dire à ce *quelque chose* qui tient à *la jouissance...*je vais avoir affaire à ΦX,
 
 <!-- id: s19-02-0144 -->
 
@@ -598,7 +598,7 @@ Moi je suis évidemment...
 
 <!-- id: s19-02-0147 -->
 
-> comme je l’ai mis au dos de mes *Écrits* *...du parti des lumières* : j’éclaire, dans l’espoir du Jour J, bien sûr.
+> comme je l’ai mis au dos de mes *Écrits...du parti des lumières* : j’éclaire, dans l’espoir du Jour J, bien sûr.
 
 <!-- id: s19-02-0148 -->
 
@@ -614,7 +614,7 @@ Moyennant quoi vous allez croire qu’il fait clair quand je vous dirai que ΦX,
 
 <!-- id: s19-02-0151 -->
 
-### Bon, figurez-vous que moi si j’écris tout ça au tableau, et que je vais continuer, 
+### Bon, figurez-vous que moi si j’écris tout ça au tableau, et que je vais continuer,
 
 <!-- id: s19-02-0152 -->
 
@@ -622,7 +622,7 @@ Moyennant quoi vous allez croire qu’il fait clair quand je vous dirai que ΦX,
 
 <!-- id: s19-02-0153 -->
 
-### Et que j’espère, à l’aide de ce jeu de lettres venir, à ce qu’enfin justement « *le jour se lève* », 
+### Et que j’espère, à l’aide de ce jeu de lettres venir, à ce qu’enfin justement « *le jour se lève* »,
 
 <!-- id: s19-02-0154 -->
 
@@ -634,19 +634,19 @@ Moyennant quoi vous allez croire qu’il fait clair quand je vous dirai que ΦX,
 
 <!-- id: s19-02-0156 -->
 
-### ...tant qu’on ne le saura pas, et on ne le saura qu’à avoir fait jouer à différents niveaux de relations topologiques, 
+### ...tant qu’on ne le saura pas, et on ne le saura qu’à avoir fait jouer à différents niveaux de relations topologiques,
 
 <!-- id: s19-02-0157 -->
 
-### une certaine façon de changer les lettres et de voir comment ça se répartit. 
+### une certaine façon de changer les lettres et de voir comment ça se répartit.
 
 <!-- id: s19-02-0158 -->
 
-### Jusque-là vous en êtes réduits à de petites histoires, à savoir que Papa a dit : « *on va te la couper »*... 
+### Jusque-là vous en êtes réduits à de petites histoires, à savoir que Papa a dit : « *on va te la couper »*...
 
 <!-- id: s19-02-0159 -->
 
-### Enfin, comme si c’était pas la connerie type ! 
+### Enfin, comme si c’était pas la connerie type !
 
 <!-- id: s19-02-0160 -->
 
@@ -708,7 +708,7 @@ Ce que je veux simplement vous dire, c’est que ce qu’écrit ΦX, ça veut di
 
 <!-- id: s19-02-0174 -->
 
-> je ne dis même pas ces deux signifiants-là précisément ...mais eux et un certain nombre d’autres qui s’articulent avec, donc ont pour effet qu’on ne peut plus disposer de l’ensemble des signifiants*,* et que c’est peut-être bien là une première approche de ce qu’il en est de *la castration,* du point de vue bien sûr de cette fonction mathématique que mon écrit imite.
+> je ne dis même pas ces deux signifiants-là précisément ...mais eux et un certain nombre d’autres qui s’articulent avec, donc ont pour effet qu’on ne peut plus disposer de l’ensemble des signifiants, et que c’est peut-être bien là une première approche de ce qu’il en est de *la castration,* du point de vue bien sûr de cette fonction mathématique que mon écrit imite.
 
 <!-- id: s19-02-0175 -->
 
@@ -720,7 +720,7 @@ Dans un premier temps je ne vous demande pas plus que de reconnaître que c’es
 
 <!-- id: s19-02-0177 -->
 
-Enfin, il y a moyen d’écrire que **∀**X, ça fonctionne.
+Enfin, il y a moyen d’écrire que ∀X, ça fonctionne.
 
 <!-- id: s19-02-0178 -->
 
@@ -752,7 +752,7 @@ C’est d’ailleurs de là qu’est pris tout le prestige qui, dans la construc
 
 <!-- id: s19-02-0185 -->
 
-### ...si vous voulez aller chercher simplement les « *Premiers Analytiques »,* 
+### ...si vous voulez aller chercher simplement les « *Premiers Analytiques »,*
 
 <!-- id: s19-02-0186 -->
 
@@ -764,7 +764,7 @@ C’est d’ailleurs de là qu’est pris tout le prestige qui, dans la construc
 
 <!-- id: s19-02-0188 -->
 
-### ...n’au­ront jamais le courage de le lire, encore que ce soit fascinant, je vous recommande quand même... 
+### ...n’au­ront jamais le courage de le lire, encore que ce soit fascinant, je vous recommande quand même...
 
 <!-- id: s19-02-0189 -->
 
@@ -772,11 +772,11 @@ C’est d’ailleurs de là qu’est pris tout le prestige qui, dans la construc
 
 <!-- id: s19-02-0190 -->
 
-### ...de lire ce qu’Aristote produit sur ce qu’il en est de *la néga­tion*, à savoir sur *la différence* qu’il y a à dire 
+### ...de lire ce qu’Aristote produit sur ce qu’il en est de *la néga­tion*, à savoir sur *la différence* qu’il y a à dire
 
 <!-- id: s19-02-0191 -->
 
-### « *l’homme n’est pas blanc »,* si c’est bien ça le contraire de « *l’homme est blanc »* ou si... 
+### « *l’homme n’est pas blanc »,* si c’est bien ça le contraire de « *l’homme est blanc »* ou si...
 
 <!-- id: s19-02-0192 -->
 
@@ -816,7 +816,7 @@ Je veux simplement dire qu’il y a eu...
 
 <!-- id: s19-02-0201 -->
 
-### À savoir que, *comme je l’ai déjà écrit l’année dernière* : . !, le signe de la négation mis au niveau où il y a le grand **A** \[**∀**\], c’est une possibilité qui nous est ouverte justement par cette introduction des *quanteurs*, 
+### À savoir que, *comme je l’ai déjà écrit l’année dernière* : . !, le signe de la négation mis au niveau où il y a le grand **A** \[∀\], c’est une possibilité qui nous est ouverte justement par cette introduction des *quanteurs*,
 
 <!-- id: s19-02-0202 -->
 
@@ -824,11 +824,11 @@ Je veux simplement dire qu’il y a eu...
 
 <!-- id: s19-02-0203 -->
 
-### je ne suis pas le seul ni le premier, parce que la chose importante 
+### je ne suis pas le seul ni le premier, parce que la chose importante
 
 <!-- id: s19-02-0204 -->
 
-### est que vous sachiez ce qui est évident : que ça n’a absolument rien à faire avec la quantité, 
+### est que vous sachiez ce qui est évident : que ça n’a absolument rien à faire avec la quantité,
 
 <!-- id: s19-02-0205 -->
 
@@ -836,7 +836,7 @@ Je veux simplement dire qu’il y a eu...
 
 <!-- id: s19-02-0206 -->
 
-### ...enfin, cette articulation des *quanteurs* nous permet ce qui n’a jamais été fait dans cette *logique des quanteurs*, 
+### ...enfin, cette articulation des *quanteurs* nous permet ce qui n’a jamais été fait dans cette *logique des quanteurs*,
 
 <!-- id: s19-02-0207 -->
 
@@ -852,7 +852,7 @@ Je continue à me ser­vir des quanteurs.
 
 <!-- id: s19-02-0210 -->
 
-Il y a une façon qu’on a de les articuler c’est d’écrire **:**, ça veut dire « *il existe* ». Il existe - quoi ? - un signifiant.
+Il y a une façon qu’on a de les articuler c’est d’écrire :, ça veut dire « *il existe* ». Il existe - quoi ? - un signifiant.
 
 <!-- id: s19-02-0211 -->
 
@@ -977,6 +977,8 @@ C’est sur cette petite énigme que je vous laisserai aujourd’hui parce que, 
 Bon, je laisse les choses au moment où c’est l’heure qui me coupe comme il convient, et je reprendrai les choses le deuxiè­me mercredi de Janvier au point précis où je les ai laissées aujourd’hui.
 
 <!-- id: s19-02-0240 -->
+
+&nbsp;
 
 ## Notes
 

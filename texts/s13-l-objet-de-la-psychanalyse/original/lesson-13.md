@@ -10,7 +10,7 @@
 
 <!-- id: s13-13-0002 -->
 
-Cette dernière fois donc, je vous ai parlé, au premier abord de ce que je pouvais en donner immédiatement*,* de ma visite aux Amériques. C’est là un sujet qui n’a pas fini, je pense, de porter ses fruits, ou ses conséquences, dans la suite de ce que j’aurais à vous dire. Pour *aujourd’hui*, nous le laisserons radicalement de côté - *On m’entend au fond ? Pas très bien -* et que donc ce sujet je ne le reprendrai pas *aujourd’hui*.
+Cette dernière fois donc, je vous ai parlé, au premier abord de ce que je pouvais en donner immédiatement, de ma visite aux Amériques. C’est là un sujet qui n’a pas fini, je pense, de porter ses fruits, ou ses conséquences, dans la suite de ce que j’aurais à vous dire. Pour *aujourd’hui*, nous le laisserons radicalement de côté - *On m’entend au fond ? Pas très bien -* et que donc ce sujet je ne le reprendrai pas *aujourd’hui*.
 
 <!-- id: s13-13-0003 -->
 
@@ -452,11 +452,11 @@ J’ai construit un graphe pour vous montrer - à un autre état, et dans une au
 
 <!-- id: s13-13-0112 -->
 
-Le fantasme, je l’ai symbolisé par la formule S *coupure*, si vous voulez, de *(a)* : S**◊***a*. Qu’est-ce que c’est que ce *(a)* ?
+Le fantasme, je l’ai symbolisé par la formule S *coupure*, si vous voulez, de *(a)* : S◊*a*. Qu’est-ce que c’est que ce *(a)* ?
 
 <!-- id: s13-13-0113 -->
 
-Est-ce que c’est quelque chose d’équivalent à *i(a)*, image spéculaire*,* ce dont se supporte - comme FREUD l’articule expressément - cette série d’identification s’enveloppant l’une l’autre, s’additionnant, se concrétisant à la façon des couches d’une perle, au cours du développement qui s’appelle le *moi*. Est-ce que le *(a)* n’est qu’*une autre fonction de l’imaginaire* ?
+Est-ce que c’est quelque chose d’équivalent à *i(a)*, image spéculaire, ce dont se supporte - comme FREUD l’articule expressément - cette série d’identification s’enveloppant l’une l’autre, s’additionnant, se concrétisant à la façon des couches d’une perle, au cours du développement qui s’appelle le *moi*. Est-ce que le *(a)* n’est qu’*une autre fonction de l’imaginaire* ?
 
 <!-- id: s13-13-0114 -->
 

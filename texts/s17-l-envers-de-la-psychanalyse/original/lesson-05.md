@@ -364,11 +364,11 @@ et que c’est toujours les choses les plus visibles, celles qui s’étalent, q
 
 <!-- id: s17-05-0088 -->
 
-Le pire c’est que je n’avais pas de dictionnaire français-grec, d’ail­leurs il n’y en a pas. Enfin il y en a des petits, des moches*.*
+Le pire c’est que je n’avais pas de dictionnaire français-grec, d’ail­leurs il n’y en a pas. Enfin il y en a des petits, des moches.
 
 <!-- id: s17-05-0089 -->
 
-Mais enfin, il faut reconnaître que j’avais trouvé γένος \[génos\]*,* qui bien sûr n’a rien à faire avec le sexe, puisque ça veut dire un tas d’autres choses, *la race*, enfin c’était la ligne, c’était *la lignée*, c’est *l’engendrement*, c’est *la reproduction*.
+Mais enfin, il faut reconnaître que j’avais trouvé γένος \[génos\], qui bien sûr n’a rien à faire avec le sexe, puisque ça veut dire un tas d’autres choses, *la race*, enfin c’était la ligne, c’était *la lignée*, c’est *l’engendrement*, c’est *la reproduction*.
 
 <!-- id: s17-05-0090 -->
 
@@ -380,7 +380,7 @@ Mais c’est pas ça du tout que nous disons, ça n’a pas du tout cet accent, 
 
 <!-- id: s17-05-0092 -->
 
-Cette répartition des êtres vivants, tout ça en - d’une part d’entre eux - en deux classes, avec tout ce dont on s’aperçoit que ça comporte, très proba­blement l’irruption de *la mort*, puisque les autres - mon Dieu - n’ont pas l’air de tellement mourir que ça, ceux qui sont pas sexués*.*
+Cette répartition des êtres vivants, tout ça en - d’une part d’entre eux - en deux classes, avec tout ce dont on s’aperçoit que ça comporte, très proba­blement l’irruption de *la mort*, puisque les autres - mon Dieu - n’ont pas l’air de tellement mourir que ça, ceux qui sont pas sexués.
 
 <!-- id: s17-05-0093 -->
 
@@ -392,7 +392,7 @@ C’est là qu’on s’aperçoit que *sexe,* avec l’accent qu’il a pour nou
 
 <!-- id: s17-05-0095 -->
 
-Et quand on dit « *par rapport au grec* », il faudrait poursuivre l’enquête dans d’autres langues positives, mais en latin ça se rattache - mais très nettement - à « *secare* »*.*
+Et quand on dit « *par rapport au grec* », il faudrait poursuivre l’enquête dans d’autres langues positives, mais en latin ça se rattache - mais très nettement - à « *secare* ».
 
 <!-- id: s17-05-0096 -->
 
@@ -424,7 +424,7 @@ Il n’y a pas un très grand nombre d’animaux chez qui l’organe, l’organe
 
 <!-- id: s17-05-0103 -->
 
-« *Post coitum animal triste* »*,* a déjà dit Galien[^20] \[*Rires*\]. C’est pas forcé, d’ailleurs !
+« *Post coitum animal triste* », a déjà dit Galien[^20] \[*Rires*\]. C’est pas forcé, d’ailleurs !
 
 <!-- id: s17-05-0104 -->
 
@@ -594,7 +594,7 @@ C’est ceci : *c’est que l’essentiel*...
 
 <!-- id: s17-05-0145 -->
 
-*l’essentiel* de ce qui détermine ce à quoi on a affaire dans l’exploration de l’*inconscient* *...c’est la répétition*.
+*l’essentiel* de ce qui détermine ce à quoi on a affaire dans l’exploration de l’*inconscient...c’est la répétition*.
 
 <!-- id: s17-05-0146 -->
 
@@ -744,7 +744,7 @@ Cette soustraction à l’esclave de son *savoir*, qui est - à la voir de plus 
 
 <!-- id: s17-05-0182 -->
 
-Peut-être alors, s’il avait pu se mettre au dos des formules, qui pour la première fois uni­fièrent *ce champ* ainsi désigné *de la thermodynamique*, aurait-il pu y reconnaître ceci, *du règne pur du signifiant*, du signifiant répété à deux niveaux, **S<sub>1</sub>**, **S<sub>1</sub>** encore :
+Peut-être alors, s’il avait pu se mettre au dos des formules, qui pour la première fois uni­fièrent *ce champ* ainsi désigné *de la thermodynamique*, aurait-il pu y reconnaître ceci, *du règne pur du signifiant*, du signifiant répété à deux niveaux, **S<sub>1</sub>,S<sub>1</sub>** encore :
 
 <!-- id: s17-05-0183 -->
 

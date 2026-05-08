@@ -308,7 +308,7 @@ Mais de cette fonction du *regard,* j’ai écarté *tout pittoresque*, je n’a
 
 <!-- id: s13-21-0076 -->
 
-Dans ce champ de l’Autre le regard est ce qui introduit l’écran et la nécessité - qu’un de mes élèves : MELMAN, m’a fait récemment la remarque, qu’il est inscrit dans l’article de FREUD *Über Deck**erinnerungen* sur *les souvenirs écrans* - la nécessité que *le sujet s’inscrive* dans le tableau. Il n’y est pas dit, bien sûr, cette topologie si essentielle, si fondamentale à tout le développement freudien, qu’elle est aussi importante que celle de l’œdipe, cette topologie qui est la véritable assise et ce qui donne sa consistance à cette fonction qu’on appelle - pourquoi ? - la scène primitive.
+Dans ce champ de l’Autre le regard est ce qui introduit l’écran et la nécessité - qu’un de mes élèves : MELMAN, m’a fait récemment la remarque, qu’il est inscrit dans l’article de FREUD *Über Deckerinnerungen* sur *les souvenirs écrans* - la nécessité que *le sujet s’inscrive* dans le tableau. Il n’y est pas dit, bien sûr, cette topologie si essentielle, si fondamentale à tout le développement freudien, qu’elle est aussi importante que celle de l’œdipe, cette topologie qui est la véritable assise et ce qui donne sa consistance à cette fonction qu’on appelle - pourquoi ? - la scène primitive.
 
 <!-- id: s13-21-0077 -->
 

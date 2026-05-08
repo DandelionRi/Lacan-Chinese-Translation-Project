@@ -154,7 +154,7 @@ Est-ce que vous y êtes ? Ceci aussi a des répondants expérimentaux. Suzan ISA
 
 <!-- id: s1-15-0038 -->
 
-Nous pouvons déjà distinguer chez un tout petit enfant deux réactions complètement différentes, avant l’apparition extériorisée du langage. Mais nous savons, nous devons admettre, avant même cette apparition extériorisée, précisément étant donné la forme, le mode sous lequel l’apparition extériorisée se manifeste - je ne peux pas m’engager dans toutes les voies à la fois *-* l’enfant a déjà une première appréhen­sion du *symbolisme du langage*, de *sa fonction* justement, *de pacte et de loi*.
+Nous pouvons déjà distinguer chez un tout petit enfant deux réactions complètement différentes, avant l’apparition extériorisée du langage. Mais nous savons, nous devons admettre, avant même cette apparition extériorisée, précisément étant donné la forme, le mode sous lequel l’apparition extériorisée se manifeste - je ne peux pas m’engager dans toutes les voies à la fois - l’enfant a déjà une première appréhen­sion du *symbolisme du langage*, de *sa fonction* justement, *de pacte et de loi*.
 
 <!-- id: s1-15-0039 -->
 

@@ -34,7 +34,7 @@ Bien-sûr, n’est-ce pas dire pour autant que c’est ce que vous connaissez so
 
 <!-- id: s14-02-0008 -->
 
-Mais si je le choisis, c’est bien qu’il doit avoir, avec ce que nous avons à énoncer, quelque rapport. Un point justement sur lequel nous allons avoir à jouer aujourd’hui sans cesse est celui-ci : *que ce n’est pas la même chose, après avoir dit quelque chose, de l’écrire* *ou bien d’écrire qu’on le dit.* La seconde opération essentielle est la fonction de *l’écriture*, sous l’angle où je veux en montrer l’importance, pour ce qui est de nos références les plus propres dans le sujet de cette année*.*
+Mais si je le choisis, c’est bien qu’il doit avoir, avec ce que nous avons à énoncer, quelque rapport. Un point justement sur lequel nous allons avoir à jouer aujourd’hui sans cesse est celui-ci : *que ce n’est pas la même chose, après avoir dit quelque chose, de l’écrire* *ou bien d’écrire qu’on le dit.* La seconde opération essentielle est la fonction de *l’écriture*, sous l’angle où je veux en montrer l’importance, pour ce qui est de nos références les plus propres dans le sujet de cette année.
 
 <!-- id: s14-02-0009 -->
 
@@ -206,7 +206,7 @@ Nous supposons, nous l’avons dit, que ce que détermine cet axiome comme spéc
 
 <!-- id: s14-02-0050 -->
 
-Le signifiant en lui-même étant justement caractérisé de ceci : qu’il n’y a rien d’obligatoire, qu’il est loin d’être de premier jet, qu’il engendre une signification. C’est ce qui me rend en droit de symboliser par le signifiant B ce trait : que le rapport du signifiant à soi-même n’engendre aucune signification : B**◊**B.
+Le signifiant en lui-même étant justement caractérisé de ceci : qu’il n’y a rien d’obligatoire, qu’il est loin d’être de premier jet, qu’il engendre une signification. C’est ce qui me rend en droit de symboliser par le signifiant B ce trait : que le rapport du signifiant à soi-même n’engendre aucune signification : B◊B.
 
 <!-- id: s14-02-0051 -->
 
@@ -258,19 +258,19 @@ Y a-t-il quelque *sous-ensemble*, défini par cette propo­sition de l’existen
 
 <!-- id: s14-02-0063 -->
 
-Il est assurément facile, dans cette condition, de mon­trer la contradiction qui existe dans ceci puisque nous n’avons qu’à prendre un élément y comme faisant partie de B, comme élément de B : y **∈** B \[**∈** : appartient à..., **∉** : n’appartient pas à...\] pour nous apercevoir des conséquences qu’il y a dès lors à le faire *à la fois*, comme tel :
+Il est assurément facile, dans cette condition, de mon­trer la contradiction qui existe dans ceci puisque nous n’avons qu’à prendre un élément y comme faisant partie de B, comme élément de B : y ∈ B \[∈ : appartient à..., ∉ : n’appartient pas à...\] pour nous apercevoir des conséquences qu’il y a dès lors à le faire *à la fois*, comme tel :
 
 <!-- id: s14-02-0064 -->
 
-- faire partie, comme élément, de A : y **∈** B, y **∈** A,
+- faire partie, comme élément, de A : y ∈ B, y ∈ A,
 
 <!-- id: s14-02-0065 -->
 
-- et n’étant pas élément de lui–même : y **∉** y.
+- et n’étant pas élément de lui–même : y ∉ y.
 
 <!-- id: s14-02-0066 -->
 
-La contradiction se révè­le à mettre B à la place de y : B **∈ **B, B **∈ **A, B **∉ **B, et à voir que la formule joue en ceci que chaque fois que nous faisons B élément de B, il en résulte, en raison de la solidarité de la formule, que puisque B fait partie de A, il ne doit pas faire partie de lui-même, si d’autre part - B étant mis, substitué, à la place de cet y - si d’autre part il ne fait pas partie de lui-même, satisfaisant à la paren­thèse de droite de la formule, il fait donc partie de lui-même étant un de ces y qui sont éléments de B.
+La contradiction se révè­le à mettre B à la place de y : B ∈ B, B ∈ A, B ∉ B, et à voir que la formule joue en ceci que chaque fois que nous faisons B élément de B, il en résulte, en raison de la solidarité de la formule, que puisque B fait partie de A, il ne doit pas faire partie de lui-même, si d’autre part - B étant mis, substitué, à la place de cet y - si d’autre part il ne fait pas partie de lui-même, satisfaisant à la paren­thèse de droite de la formule, il fait donc partie de lui-même étant un de ces y qui sont éléments de B.
 
 <!-- id: s14-02-0067 -->
 

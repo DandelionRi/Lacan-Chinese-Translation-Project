@@ -58,7 +58,7 @@ Vous savez, de moi, que ça veut dire *le réel*.
 
 <!-- id: s17-13-0014 -->
 
-«* Ça ne mérite pas la mort* »*,* on dit ça à propos de n’importe quoi, pour ramener tout au futile.
+«* Ça ne mérite pas la mort* », on dit ça à propos de n’importe quoi, pour ramener tout au futile.
 
 <!-- id: s17-13-0015 -->
 
@@ -78,7 +78,7 @@ Si ça n’arrive pas...
 
 <!-- id: s17-13-0019 -->
 
-ce qui au regard de la surprise précédente fait *malchance* *...*alors il vous reste la vie comme honte à boire, de ce qu’elle ne mérite pas qu’on en meure.
+ce qui au regard de la surprise précédente fait *malchance...*alors il vous reste la vie comme honte à boire, de ce qu’elle ne mérite pas qu’on en meure.
 
 <!-- id: s17-13-0020 -->
 
@@ -90,7 +90,7 @@ Justement : Vincennes, on y a - paraît-il - été content de ce que j’ai di
 
 <!-- id: s17-13-0022 -->
 
-Il y a beau y avoir une personne gentille qui a essayé de meubler au premier rang, de « *faire Vincennes* »*,* il n’y avait manifestement personne de Vincennes, enfin ou très peu, juste les oreilles les plus dignes de me décerner un bon point*.*
+Il y a beau y avoir une personne gentille qui a essayé de meubler au premier rang, de « *faire Vincennes* », il n’y avait manifestement personne de Vincennes, enfin ou très peu, juste les oreilles les plus dignes de me décerner un bon point.
 
 <!-- id: s17-13-0023 -->
 
@@ -186,7 +186,7 @@ Cet air éventé qui est le vôtre, vous le verrez buter à chaque pas sur *une 
 
 <!-- id: s17-13-0046 -->
 
-« *Ré-hégélez* » vous*,* dirai-je, j’y reviens.
+« *Ré-hégélez* » vous, dirai-je, j’y reviens.
 
 <!-- id: s17-13-0047 -->
 
@@ -418,7 +418,7 @@ C’est que quand par hasard on est pris au niveau d’un public large, d’une 
 
 <!-- id: s17-13-0102 -->
 
-- eh bien pourquoi justement ne pas élever, en quelque sorte proportionnellement à l’inaptitude présumée, qui est pure présomption*,* de ce champ, élever le niveau proportionnellement à l’inaptitude en question ?
+- eh bien pourquoi justement ne pas élever, en quelque sorte proportionnellement à l’inaptitude présumée, qui est pure présomption, de ce champ, élever le niveau proportionnellement à l’inaptitude en question ?
 
 <!-- id: s17-13-0103 -->
 
@@ -602,7 +602,7 @@ En tous les cas pour l’analyse, c’est évident, hein. Le *sujet supposé sav
 
 # il n’est pas forcé que cela passe toujours par là, 
 
-# et que cela tourne dans le même sens. 
+# et que cela tourne dans le même sens.
 
 <!-- id: s17-13-0147 -->
 
@@ -790,7 +790,7 @@ C’était du *signifiant-Maître*. C’était une façon de leur demander de se
 
 <!-- id: s17-13-0193 -->
 
-##### Seulement voilà, si jamais enfin - et c’est une pure supposition - si on me demandait mon avis 
+##### Seulement voilà, si jamais enfin - et c’est une pure supposition - si on me demandait mon avis
 
 <!-- id: s17-13-0194 -->
 
@@ -882,15 +882,15 @@ Mais après ça vous pouvez dire tout ce que vous voudrez à condition *de vous 
 
 <!-- id: s17-13-0216 -->
 
-##### Comment puis-je dire ? 
+##### Comment puis-je dire ?
 
 <!-- id: s17-13-0217 -->
 
-##### Je ne voudrais pas, à ce que j’ai fait, accorder trop d’importance, 
+##### Je ne voudrais pas, à ce que j’ai fait, accorder trop d’importance,
 
 <!-- id: s17-13-0218 -->
 
-##### mais c’est comme ça qu’il m’est venu l’idée d’un truc, 
+##### mais c’est comme ça qu’il m’est venu l’idée d’un truc,
 
 <!-- id: s17-13-0219 -->
 
@@ -898,15 +898,15 @@ Mais après ça vous pouvez dire tout ce que vous voudrez à condition *de vous 
 
 <!-- id: s17-13-0220 -->
 
-#####  Ça a quand même frappé certains que j’aie dit que c’était là un lieu où devaient s’écrire des choses non signées. 
+#####  Ça a quand même frappé certains que j’aie dit que c’était là un lieu où devaient s’écrire des choses non signées.
 
 <!-- id: s17-13-0221 -->
 
-##### Il ne faut pas croire que les miennes le soient plus, si vous voyez ce que j’y ai écrit. 
+##### Il ne faut pas croire que les miennes le soient plus, si vous voyez ce que j’y ai écrit.
 
 <!-- id: s17-13-0222 -->
 
-##### J’y ai écrit *ce qui chante tout seul* d’une expérience pénible qui est celle que j’ai eue précisément avec ce qu’on appelle *une École*. 
+##### J’y ai écrit *ce qui chante tout seul* d’une expérience pénible qui est celle que j’ai eue précisément avec ce qu’on appelle *une École*.
 
 <!-- id: s17-13-0223 -->
 
@@ -992,7 +992,7 @@ Vous voyez qu’il n’y a pas lieu tellement de se soucier que ce qui sort de v
 
 <!-- id: s17-13-0243 -->
 
-Ne serait-ce que de ce qu’à l’intérieur de ce à quoi vous pouvez avoir à vous intéresser, naturellement vous vous croyez obligés, au nom des lois de la thèse, de le rapporter à l’auteur : 
+Ne serait-ce que de ce qu’à l’intérieur de ce à quoi vous pouvez avoir à vous intéresser, naturellement vous vous croyez obligés, au nom des lois de la thèse, de le rapporter à l’auteur :
 
 <!-- id: s17-13-0244 -->
 

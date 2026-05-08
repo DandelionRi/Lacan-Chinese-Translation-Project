@@ -49,9 +49,9 @@ nous attendre, que de voir les esprits, et particulièrement ceux des psychanaly
 
 <!-- id: s5-03-0009 -->
 
-On peut même dire qu’il n’y a pas eu besoin d’arriver à l’expérience freudienne, il n’y a pas besoin d’y recourir*,*
+On peut même dire qu’il n’y a pas eu besoin d’arriver à l’expérience freudienne, il n’y a pas besoin d’y recourir,
 pour qu’une simple inspection sincère de ce qu’est notre vie à chacun, nous permette d’entrevoir
-que cette « *puissance de synthèse* » *-* *soi-disant -* est plus que tenue en échec, et qu’à vrai dire - sauf *fiction -* il n’y a vraiment rien qui soit d’expérience plus commune que ce que nous pourrons appeler non seulement *l’incohérence de nos motifs*,
+que cette « *puissance de synthèse* » - *soi-disant -* est plus que tenue en échec, et qu’à vrai dire - sauf *fiction -* il n’y a vraiment rien qui soit d’expérience plus commune que ce que nous pourrons appeler non seulement *l’incohérence de nos motifs*,
 mais je dirais même plus : le sentiment de leur profonde immotivation, de leur *aliénation* fondamentale.
 
 <!-- id: s5-03-0010 -->
@@ -170,7 +170,7 @@ Autrement dit, nous pouvons saisir *ce quelque chose* qui reste jusque là élid
 <!-- id: s5-03-0031 -->
 
 Car ce que nous pouvons attendre comme étant le correspondant de son existence de l’organisme vivant,
-ce *quelque chose de singulier* que présente un certain *style*, une certaine diversité surabondante, luxuriante, et en même temps une insaisissabilité *-* comme telle, comme objet biologique *-* du monde des objets humains,
+ce *quelque chose de singulier* que présente un certain *style*, une certaine diversité surabondante, luxuriante, et en même temps une insaisissabilité - comme telle, comme objet biologique - du monde des objets humains,
 c’est quelque chose qui se trouve, dans cette conjoncture, devoir être étroitement et indissolublement relaté
 à la soumission, à la subduction de l’être humain par le phénomène du langage.
 
@@ -248,7 +248,7 @@ pour autant qu’il est ici identifié, si l’on peut dire à la puissance abso
 
 <!-- id: s5-03-0046 -->
 
-- de sortir dans la rue avec d’une main une enveloppe portant *-* ce qui à l’époque avait sa valeur *-* un billet de cinq cents francs, et dans l’autre main une gifle, si l’on peut s’exprimer ainsi,
+- de sortir dans la rue avec d’une main une enveloppe portant - ce qui à l’époque avait sa valeur - un billet de cinq cents francs, et dans l’autre main une gifle, si l’on peut s’exprimer ainsi,
 
 <!-- id: s5-03-0047 -->
 
@@ -289,7 +289,7 @@ pour son patron caricatural, Cristoforo DI GUMPELINO.
 Et ici à cette *place* \[en β’\] nous devons systématiquement chercher, chaque fois que nous avons affaire
 à une *formation de l’inconscient* comme telle, ce que j’ai appelé « [*les dé*<span id="débris_objet" class="anchor"></span>*bris de l’objet métonymique*](#Reour_débris_objet) » *qui* assurément,
 pour des raisons qui sont tout à fait claires à l’expérience, *se révèlent* naturellement *particulièrement importants*
-*quand la création métaphorique* *-* si l’on peut dire *-* *n’est pas réussie*. Je veux dire quand elle n’a abouti à rien,
+*quand la création métaphorique* - si l’on peut dire - *n’est pas réussie*. Je veux dire quand elle n’a abouti à rien,
 comme dans le cas que je vous ai montré de *l’oubli d’un nom* : quand le nom SIGNORELLI est oublié,
 pour retrouver la trace de ce creux, de ce trou que nous trouvons au niveau de la métaphore,
 les *débris métonymiques* prennent là toute leur importance.

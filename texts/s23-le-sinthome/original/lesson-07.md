@@ -82,7 +82,7 @@ Bon, alors je vais quand même rentrer dans ce que je suppose...
 
 <!-- id: s23-07-0020 -->
 
-Et pour entrer dans le vif, je l’illustre. Voilà un nœud* *:
+Et pour entrer dans le vif, je l’illustre. Voilà un nœud:
 
 <!-- id: s23-07-0021 -->
 
@@ -182,7 +182,7 @@ Alors, si vous vous souvenez bien...
 
 <!-- id: s23-07-0045 -->
 
-> comme il y a un nœud à 4 qui est bien connu, qui s’appelle le nœud de Listing ...j’ai appelé celui-là, comme ça, idée loufoque... , « *le nœud de Lacan* »* *:
+> comme il y a un nœud à 4 qui est bien connu, qui s’appelle le nœud de Listing ...j’ai appelé celui-là, comme ça, idée loufoque... , « *le nœud de Lacan* »:
 
 <!-- id: s23-07-0046 -->
 
@@ -274,7 +274,7 @@ J’essaierai d’articuler ça d’une façon plus précise, mais il est clair 
 
 <!-- id: s23-07-0068 -->
 
-Il se trouve que vendredi, à ma « *présentation de*... quelque chose qu’on considère généralement comme « *un cas »*, un cas de folie assuré­ment. Un cas de folie qui a commencé par le *sinthome* : « *paroles imposées* »*.*
+Il se trouve que vendredi, à ma « *présentation de*... quelque chose qu’on considère généralement comme « *un cas »*, un cas de folie assuré­ment. Un cas de folie qui a commencé par le *sinthome* : « *paroles imposées* ».
 
 <!-- id: s23-07-0069 -->
 
@@ -290,7 +290,7 @@ C’est bien en quoi ce qu’on appelle un malade va quelquefois plus loin que c
 
 <!-- id: s23-07-0072 -->
 
-La question est plutôt de savoir pourquoi est-ce qu’un homme normal - dit normal *-* ne s’aperçoit pas :
+La question est plutôt de savoir pourquoi est-ce qu’un homme normal - dit normal - ne s’aperçoit pas :
 
 <!-- id: s23-07-0073 -->
 
@@ -346,7 +346,7 @@ Car il entendait quelque chose : « *sale assassinat politique* » par exemple
 
 <!-- id: s23-07-0086 -->
 
-Ce qu’il faisait équivalent à « *sale assistanat politique* »*.*
+Ce qu’il faisait équivalent à « *sale assistanat politique* ».
 
 <!-- id: s23-07-0087 -->
 
@@ -370,7 +370,7 @@ Et ce qui le rendait tout à fait affolé, c’était la pensée que ce qu’il 
 
 <!-- id: s23-07-0092 -->
 
-Il était donc, comme il s’exprime, « *télépathe émetteur* »*.* Autrement dit, il n’avait plus de secret.
+Il était donc, comme il s’exprime, « *télépathe émetteur* ». Autrement dit, il n’avait plus de secret.
 
 <!-- id: s23-07-0093 -->
 
@@ -454,7 +454,7 @@ Imposé au point qu’il finit par « *dissoudre le langage même* », comme l
 
 <!-- id: s23-07-0112 -->
 
-je vous ai dit ça au début de l’année ...imposer au langage même une sorte de brisure, de décomposition qui fait que il n’y a plus d’identité phona­toire*.*
+je vous ai dit ça au début de l’année ...imposer au langage même une sorte de brisure, de décomposition qui fait que il n’y a plus d’identité phona­toire.
 
 <!-- id: s23-07-0113 -->
 
@@ -474,7 +474,7 @@ En s’imposant comme telle, à savoir dans une déformation dont reste ambigu d
 
 <!-- id: s23-07-0117 -->
 
-Quoiqu’il en soit, que Joyce articule à propos de Lucia *-* pour la défendre *-* qu’elle est une télépathe, me paraît...
+Quoiqu’il en soit, que Joyce articule à propos de Lucia - pour la défendre - qu’elle est une télépathe, me paraît...
 
 <!-- id: s23-07-0118 -->
 
@@ -644,7 +644,7 @@ Il y a donc strictement *équivalence,* et il n’est...
 
 <!-- id: s23-07-0159 -->
 
-> après ce que j’ai frayé autour du *rapport sexuel* *...*il n’est pas difficile de suggérer que quand il y a équivalence, c’est bien en cela qu’il n’y a pas de *rapport*.
+> après ce que j’ai frayé autour du *rapport sexuel...*il n’est pas difficile de suggérer que quand il y a équivalence, c’est bien en cela qu’il n’y a pas de *rapport*.
 
 <!-- id: s23-07-0160 -->
 

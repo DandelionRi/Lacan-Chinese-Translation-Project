@@ -34,7 +34,7 @@ Il y a un problème de l’école. Ce n’est pas une énigme. Aussi, je m’y o
 
 <!-- id: s27-04-0008 -->
 
-Ce problème se démontre tel, d’avoir une solution : c’est la *dis* - la dissolution.   
+Ce problème se démontre tel, d’avoir une solution : c’est la *dis* - la dissolution.
 
 <!-- id: s27-04-0009 -->
 
@@ -84,11 +84,11 @@ Que l’écrit d’une candidature les fasse aussitôt connaître de moi.
 
 <!-- id: s27-04-0020 -->
 
-Dans les 10 jours, pour couper court à la débilité ambiante, je publierai les adhésions premières que j’aurai agréées, comme engagement de critique assidue de ce qu’en matière de « déviations et compromissions » l’EFP a nourri.   
+Dans les 10 jours, pour couper court à la débilité ambiante, je publierai les adhésions premières que j’aurai agréées, comme engagement de critique assidue de ce qu’en matière de « déviations et compromissions » l’EFP a nourri.
 
 <!-- id: s27-04-0021 -->
 
-Démontrant en acte que ce n’est pas de leur fait que mon École serait Institution, effet de groupe consolidé, aux dépens de l’effet de discours attendu de l’expérience, quand elle est freudienne. On sait ce qu’il en a coûté, que Freud ait permis que le groupe psychanalytique l’emporte sur le discours, devienne Église. 
+Démontrant en acte que ce n’est pas de leur fait que mon École serait Institution, effet de groupe consolidé, aux dépens de l’effet de discours attendu de l’expérience, quand elle est freudienne. On sait ce qu’il en a coûté, que Freud ait permis que le groupe psychanalytique l’emporte sur le discours, devienne Église.
 
 <!-- id: s27-04-0022 -->
 
@@ -116,7 +116,7 @@ La stabilité de la religion vient de ce que le sens est  toujours religieux.
 
 <!-- id: s27-04-0028 -->
 
-D’où mon obstination dans ma voie de mathèmes, qui n’empêche rien, mais témoigne de ce qu’il faudrait pour - l’analyste - le mettre au pas de sa fonction.   
+D’où mon obstination dans ma voie de mathèmes, qui n’empêche rien, mais témoigne de ce qu’il faudrait pour - l’analyste - le mettre au pas de sa fonction.
 
 <!-- id: s27-04-0029 -->
 
@@ -125,7 +125,7 @@ Je n’ai pas besoin de beaucoup de monde.
 
 <!-- id: s27-04-0030 -->
 
-Et il y a du monde dont je n’ai pas besoin. 
+Et il y a du monde dont je n’ai pas besoin.
 
 <!-- id: s27-04-0031 -->
 
@@ -137,7 +137,7 @@ Ceux que j’admettrai avec moi feront ils mieux ?
 
 <!-- id: s27-04-0033 -->
 
-Au moins pourront-ils se prévaloir de ce que je leur en laisse la chance. 
+Au moins pourront-ils se prévaloir de ce que je leur en laisse la chance.
 
 <!-- id: s27-04-0034 -->
 

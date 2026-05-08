@@ -14,7 +14,7 @@ Monsieur A(lthusser), philosophe...
 
 <!-- id: s27-08-0003 -->
 
-qui a surgi de je ne sais où pour me serrer la pince samedi dernier ...m’a fait resurgir un titre de Tristan Tzara. Ça date de Dada, c’est-à-dire pas des ronds de jambe qui commencent à « *Littérature »,* revue à laquelle je n’ai pas donné une ligne. 
+qui a surgi de je ne sais où pour me serrer la pince samedi dernier ...m’a fait resurgir un titre de Tristan Tzara. Ça date de Dada, c’est-à-dire pas des ronds de jambe qui commencent à « *Littérature »,* revue à laquelle je n’ai pas donné une ligne.
 
 <!-- id: s27-08-0004 -->
 
@@ -26,12 +26,12 @@ Je l’ai prouvé à n’y contribuer que latéralement, et très sur le tard, p
 
 <!-- id: s27-08-0006 -->
 
-Je dois dire qu’Éluard m’attendrissait. 
+Je dois dire qu’Éluard m’attendrissait.
 
 <!-- id: s27-08-0007 -->
 
 Monsieur A., lui, ne m’attendrit pas, puisqu’il m’a fait revenir le titre : *Monsieur Aa, l’antiphilosophe.*   
-Ça, ça m’en a bouché un coin. 
+Ça, ça m’en a bouché un coin.
 
 <!-- id: s27-08-0008 -->
 
@@ -53,7 +53,7 @@ Tzara ne délirait que sur Villon.
 
 <!-- id: s27-08-0012 -->
 
-Il se méfiait tout de même de ce délire. 
+Il se méfiait tout de même de ce délire.
 
 <!-- id: s27-08-0013 -->
 
@@ -65,7 +65,7 @@ Il y en avait déjà assez qui faisaient ça.
 
 <!-- id: s27-08-0015 -->
 
-Et ça dure encore. 
+Et ça dure encore.
 
 <!-- id: s27-08-0016 -->
 
@@ -83,7 +83,7 @@ Ce qui est sûr, c’est que c’est une chose finie.
 
 <!-- id: s27-08-0019 -->
 
-Même si je m’attends à ce qu’en rebondisse un rejet. 
+Même si je m’attends à ce qu’en rebondisse un rejet.
 
 <!-- id: s27-08-0020 -->
 
@@ -101,7 +101,7 @@ Faut-il que je précise ?
 <!-- id: s27-08-0023 -->
 
 Je ne songe pas du tout à dissoudre l’École Normale Supérieure, où j’ai trouvé un temps le meilleur accueil.   
-Ma foudre est tombée juste à côté, rue Claude Bernard, où j’avais installé la mienne d’École, dans ses meubles. 
+Ma foudre est tombée juste à côté, rue Claude Bernard, où j’avais installé la mienne d’École, dans ses meubles.
 
 <!-- id: s27-08-0024 -->
 
@@ -110,11 +110,11 @@ Ma foudre est tombée juste à côté, rue Claude Bernard, où j’avais install
 <!-- id: s27-08-0025 -->
 
 Dénuement qui a beaucoup d’avantages : personne ne demande à faire séminaire dans ma boîte aux lettres.   
-Il faut que j’innove, ai-je dit - sauf à rajouter que : *pas tout seul.* 
+Il faut que j’innove, ai-je dit - sauf à rajouter que : *pas tout seul.*
 
 <!-- id: s27-08-0026 -->
 
-Je vois ça comme ça : *que chacun y mette du sien.* 
+Je vois ça comme ça : *que chacun y mette du sien.*
 
 <!-- id: s27-08-0027 -->
 
@@ -122,7 +122,7 @@ Allez-y.
 
 <!-- id: s27-08-0028 -->
 
-Mettez-vous à plusieurs, collez-vous ensemble le temps qu’il faut pour faire quelque chose, et puis dissolvez-vous après pour faire autre chose. 
+Mettez-vous à plusieurs, collez-vous ensemble le temps qu’il faut pour faire quelque chose, et puis dissolvez-vous après pour faire autre chose.
 
 <!-- id: s27-08-0029 -->
 
@@ -130,7 +130,7 @@ Il s’agit que « La Cause freudienne » échappe à l’effet de groupe que 
 
 <!-- id: s27-08-0030 -->
 
-D’où se déduit qu’elle ne durera que par *le temporaire, *je veux dire - si on se délie, avant de se coller à ne plus pouvoir en revenir. 
+D’où se déduit qu’elle ne durera que par *le temporaire, *je veux dire - si on se délie, avant de se coller à ne plus pouvoir en revenir.
 
 <!-- id: s27-08-0031 -->
 
@@ -138,15 +138,15 @@ D’où se déduit qu’elle ne durera que par *le temporaire, *je veux dire -
 
 <!-- id: s27-08-0032 -->
 
-- *une boîte aux lettres, *voir plus haut, 
+- *une boîte aux lettres, *voir plus haut,
 
 <!-- id: s27-08-0033 -->
 
-- *un courrier, *qui fait savoir ce qui, dans cette boîte, se propose comme travail, 
+- *un courrier, *qui fait savoir ce qui, dans cette boîte, se propose comme travail,
 
 <!-- id: s27-08-0034 -->
 
-- *un congrès, *ou mieux, *un forum *où ça s’échange, 
+- *un congrès, *ou mieux, *un forum *où ça s’échange,
 
 <!-- id: s27-08-0035 -->
 
@@ -176,7 +176,7 @@ Pas du contraire non plus.
 
 <!-- id: s27-08-0041 -->
 
-Car le réel est ce qui s’oppose à ça. 
+Car le réel est ce qui s’oppose à ça.
 
 <!-- id: s27-08-0042 -->
 
@@ -237,7 +237,7 @@ Je précise : à la seule condition qu’on le notifiera au courrier de la dite 
 
 <!-- id: s27-08-0056 -->
 
-« Le *Plus-Un* est-il tiré au sort ? » me demande Pierre Soury : à qui je réponds que *non, *les quatre qui s’associent le choisissent. 
+« Le *Plus-Un* est-il tiré au sort ? » me demande Pierre Soury : à qui je réponds que *non, *les quatre qui s’associent le choisissent.
 
 <!-- id: s27-08-0057 -->
 
@@ -257,7 +257,7 @@ Donc, pas de « *grand ensemble* ».
 
 <!-- id: s27-08-0061 -->
 
-Et je n’implique pas de tirage au sort général, mais seulement pour composer les instances provisoires qui seront les repères du travail. 
+Et je n’implique pas de tirage au sort général, mais seulement pour composer les instances provisoires qui seront les repères du travail.
 
 <!-- id: s27-08-0062 -->
 
@@ -265,7 +265,7 @@ Ceci dit, je félicite Soury de formuler la collaboration dans « La Cause » 
 
 <!-- id: s27-08-0063 -->
 
-C’est bien en effet ce qu’il s’agit d’obtenir, mais à terme : que *ça tourbillonne* ainsi. 
+C’est bien en effet ce qu’il s’agit d’obtenir, mais à terme : que *ça tourbillonne* ainsi.
 
 <!-- id: s27-08-0064 -->
 
@@ -277,7 +277,7 @@ C’est un A.E. qui me le demande.
 
 <!-- id: s27-08-0066 -->
 
-Eh bien, qu’il relise ma « *Proposition... » *d’octobre 1967. Il verra que cela comporte au moins qu’*on l’ouvre.* 
+Eh bien, qu’il relise ma « *Proposition... » *d’octobre 1967. Il verra que cela comporte au moins qu’*on l’ouvre.*
 
 <!-- id: s27-08-0067 -->
 
@@ -289,11 +289,11 @@ C’est d’ailleurs une personne qui ne se contente pas de m’envoyer cette qu
 
 <!-- id: s27-08-0069 -->
 
-À vrai dire, elle ne me les a pas envoyés, elle me les a déposés, hier, chez moi. 
+À vrai dire, elle ne me les a pas envoyés, elle me les a déposés, hier, chez moi.
 
 <!-- id: s27-08-0070 -->
 
-Il s’agit de Christiane Rabant, qui a été touchée - me dit-elle – par ce qu’il m’est arrivé d’articuler à propos *de la lettre d’amour*. 
+Il s’agit de Christiane Rabant, qui a été touchée - me dit-elle – par ce qu’il m’est arrivé d’articuler à propos *de la lettre d’amour*.
 
 <!-- id: s27-08-0071 -->
 
@@ -302,12 +302,12 @@ Qu’est-ce qui est fixé?
 <!-- id: s27-08-0072 -->
 
 C’est *le désir, *qui pour être pris dans le procès du refoulement, se conserve en *une permanence* qui vaut à *l’indestructibilité*.   
-C’est là un point sur lequel on est revenu jusqu’à la fin, sans en démordre. 
+C’est là un point sur lequel on est revenu jusqu’à la fin, sans en démordre.
 
 <!-- id: s27-08-0073 -->
 
 C’est en quoi le désir contraste du tout au tout avec la mouvance de l’affect.   
-La perversion est là-dessus assez indicative, puisque la plus simple phénoménologie met assez en évidence la constance des fantasmes privilégiés. 
+La perversion est là-dessus assez indicative, puisque la plus simple phénoménologie met assez en évidence la constance des fantasmes privilégiés.
 
 <!-- id: s27-08-0074 -->
 
@@ -329,7 +329,7 @@ Des questions, vous pouvez m’en envoyer encore.
 
 <!-- id: s27-08-0078 -->
 
-Je ne m’en lasse pas. 
+Je ne m’en lasse pas.
 
 <!-- id: s27-08-0079 -->
 

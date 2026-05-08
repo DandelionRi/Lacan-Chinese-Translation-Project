@@ -30,7 +30,7 @@ Prenons donc le petit *schéma* avec lequel vous commencez à vous familiariser 
 
 <!-- id: s8-26-0007 -->
 
-*L’illusion* ici représentée, dite « *du vase renversé* »*,* ne peut se produire que pour l’œil qui se situe quelque part à l’intérieur du cône ainsi produit par le point de jonction de la limite du miroir sphérique avec le point foyer où doit se produire *l’illusion dite du vase renversé*. Vous savez que cette illusion - image réelle - est ce qui nous sert à métaphoriser quelque chose que j’appelle *i(a)* et dont vous savez que ce dont il s’agit est ce qui est support de *la fonction de l’image spéculaire*. Autrement dit, c’est l’image spéculaire en tant que telle et chargée de son ton, de son accent spécial, de son pouvoir de fascination, de l’investissement propre qui est le sien dans le registre de cet investissement libidinal bien distingué par FREUD sous le terme d’investissement narcissique. La fonction *i(a)* est la fonction centrale de l’investissement narcissique.
+*L’illusion* ici représentée, dite « *du vase renversé* », ne peut se produire que pour l’œil qui se situe quelque part à l’intérieur du cône ainsi produit par le point de jonction de la limite du miroir sphérique avec le point foyer où doit se produire *l’illusion dite du vase renversé*. Vous savez que cette illusion - image réelle - est ce qui nous sert à métaphoriser quelque chose que j’appelle *i(a)* et dont vous savez que ce dont il s’agit est ce qui est support de *la fonction de l’image spéculaire*. Autrement dit, c’est l’image spéculaire en tant que telle et chargée de son ton, de son accent spécial, de son pouvoir de fascination, de l’investissement propre qui est le sien dans le registre de cet investissement libidinal bien distingué par FREUD sous le terme d’investissement narcissique. La fonction *i(a)* est la fonction centrale de l’investissement narcissique.
 
 <!-- id: s8-26-0008 -->
 
@@ -314,7 +314,7 @@ Ou bien, dans les rares espèces pour qui cette chose-là doit arriver par devan
 
 <!-- id: s8-26-0078 -->
 
-Il me semble qu’on n’a pas mis encore très bien en valeur toutes les conséquences de cette remarque dans ce que j’appellerai les diverses positions fondamentales, les versants de l’érotisme. Cela n’est pas que - par ci, par là - nous n’en voyions des traits et que les auteurs depuis longtemps n’aient fait la remarque que presque toutes « *les scènes primitives* » évoquent, reproduisent, s’accrochent autour de la perception d’un « *coït a tergo* »*.*
+Il me semble qu’on n’a pas mis encore très bien en valeur toutes les conséquences de cette remarque dans ce que j’appellerai les diverses positions fondamentales, les versants de l’érotisme. Cela n’est pas que - par ci, par là - nous n’en voyions des traits et que les auteurs depuis longtemps n’aient fait la remarque que presque toutes « *les scènes primitives* » évoquent, reproduisent, s’accrochent autour de la perception d’un « *coït a tergo* ».
 
 <!-- id: s8-26-0079 -->
 
@@ -322,7 +322,7 @@ Pourquoi ? Il y a un certain nombre de remarques qui pourraient s’ordonner da
 
 <!-- id: s8-26-0080 -->
 
-Le souvenir m’est venu à ce propos, dans un livre de cette excellente M<sup>me</sup> GYP, qui s’appelle le *[Petit Bob](http://gallica.bnf.fr/ark:/12148/bpt6k641729.r=GYP.langFR)* [^325]*,* le pitre inénarrable, du repérage par *Petit Bob*, au bord de la mer, sur une dame qui fait la planche, des deux petits « *pains d’sucre* », s’exprime-t-il, dont il découvre l’apparence avec émerveillement, et l’on n’est pas sans remarquer quelque complaisance chez l’auteur. Je ne crois pas que ce soit jamais sans profit qu’on lise les auteurs qui s’occupent de recueillir des propos d’enfant - celui-là est sûrement recueilli sur le vif - et après tout le fait que cette dame, dont on savait qu’elle était la mère d’un regretté neurochirurgien qui fut sans doute lui-même le prototype du *Petit Bob,* était - il faut bien le dire - un peu conne, n’empêche pas que ce qu’il en résulte pour nous soit d’un moindre profit, au contraire.
+Le souvenir m’est venu à ce propos, dans un livre de cette excellente M<sup>me</sup> GYP, qui s’appelle le *[Petit Bob](http://gallica.bnf.fr/ark:/12148/bpt6k641729.r=GYP.langFR)* [^325], le pitre inénarrable, du repérage par *Petit Bob*, au bord de la mer, sur une dame qui fait la planche, des deux petits « *pains d’sucre* », s’exprime-t-il, dont il découvre l’apparence avec émerveillement, et l’on n’est pas sans remarquer quelque complaisance chez l’auteur. Je ne crois pas que ce soit jamais sans profit qu’on lise les auteurs qui s’occupent de recueillir des propos d’enfant - celui-là est sûrement recueilli sur le vif - et après tout le fait que cette dame, dont on savait qu’elle était la mère d’un regretté neurochirurgien qui fut sans doute lui-même le prototype du *Petit Bob,* était - il faut bien le dire - un peu conne, n’empêche pas que ce qu’il en résulte pour nous soit d’un moindre profit, au contraire.
 
 <!-- id: s8-26-0081 -->
 
@@ -359,7 +359,7 @@ Or, ce dont il s’agit concerne précisément le renard. Se souvenant - ou ne s
     *en s'abstenant même d'attendre ce qui va en surgir, un miroir sans éclat lui montre une surface où ne se reflète rien.* »
 
 
-[^319]: Dans *Tr**auer und Melancholie* Freud parle de « *das verlassene Objekt »* : « *Der Schatten des Objekts fiel so auf das Ich, welches nun von einer besonderen Instanz wie ein Objekt, wie*
+[^319]: Dans *Trauer und Melancholie* Freud parle de « *das verlassene Objekt »* : « *Der Schatten des Objekts fiel so auf das Ich, welches nun von einer besonderen Instanz wie ein Objekt, wie*
 
     *das verlassene Objekt, beurteilt werden konnte.* ». *L’ombre de l’objet tomba ainsi sur le moi qui put alors être jugé par une instance particulière comme un objet, comme l’objet abandonné*.
 

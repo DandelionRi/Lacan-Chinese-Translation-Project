@@ -132,7 +132,7 @@ Pour cette description phénoménologique - elle n’est rien de plus - tâchez 
 
 <!-- id: s3-21-0032 -->
 
-- c’est de trouver un mécanisme : c’est à proprement parler se livrer à un travail d’analyse scientifique simplement portant sur quelque chose dont les registres, dont les différents modes de manifestations ne nous sont pas, en tant que médecins, et en tant que praticiens*,* familiers.
+- c’est de trouver un mécanisme : c’est à proprement parler se livrer à un travail d’analyse scientifique simplement portant sur quelque chose dont les registres, dont les différents modes de manifestations ne nous sont pas, en tant que médecins, et en tant que praticiens, familiers.
 
 <!-- id: s3-21-0033 -->
 
@@ -645,6 +645,7 @@ Le schéma que je vous ai donné : le S, le petit *a*, le *a’* et le A, où so
 <!-- id: s3-21-0143 -->
 
 Aucun doute, vous vous imaginez peut-être que le « *tu* » est là \[A\] et c’est par là que nous commencerons la prochaine fois : le « *tu* » dans sa forme verbalisée, dans sa forme signifiante est loin, très très loin de se confondre et même de recouvrir, si approximativement que ce soit, ce pôle que nous avons appelé le grand A, c’est-à-dire le grand Autre.
+
 ## Notes
 
 [^31]: Jean Racine : *Athalie*, in [*Théâtre complet*](http://www.ebooksgratuits.com/ebooksfrance/racine_theatre_complet.pdf).

@@ -282,7 +282,7 @@ comme introduisant un *rapport* essentiellement *dialectique* entre les différe
 <!-- id: s4-01-0052 -->
 
 À ceci qu’on a cru pouvoir...
-et un des premiers à y avoir mis l’accent - mais non pas si tôt qu’on le croit *-* est ABRAHAM
+et un des premiers à y avoir mis l’accent - mais non pas si tôt qu’on le croit - est ABRAHAM
 ...essayer de recentrer tout ce qui est introduit jusque là dans l’évolution du sujet, d’une façon qui est toujours vue
 par *reconstruction*, d’une façon rétroactive, à partir d’une expérience centrale qui est celle de *la tension conflictuelle entre conscient*
 *et inconscient*, de la tension conflictuelle créée par ce fait fondamental que ce qui est cherché par *la tendance* est obscur,

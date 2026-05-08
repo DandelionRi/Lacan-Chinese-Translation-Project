@@ -206,7 +206,7 @@ il faut quand même donner aux mots un sens
 
 <!-- id: s7-15-0051 -->
 
-...*d’exp**loiter son travail sans dédommagement, de l’utiliser sexuellement sans son consentement,de s’approprier ses biens,* *de l’humilier, de lui infliger des souffrances, de le martyriser et de le tuer.* »
+...*d’exploiter son travail sans dédommagement, de l’utiliser sexuellement sans son consentement,de s’approprier ses biens,* *de l’humilier, de lui infliger des souffrances, de le martyriser et de le tuer.* »
 
 <!-- id: s7-15-0052 -->
 
@@ -274,7 +274,7 @@ Et là encore vous pouvez remarquer combien le piège du même paradoxe se repr�
 
 <!-- id: s7-15-0068 -->
 
-« *Mais mon bien ne se confond pas avec celui de l’autre, et votre principe monsieur* BENTHAM*,* *du maximum de bonheur pour le plus grand nombre, est quelque chose qui se heurte aux exigences de mon égoïsme* ».
+« *Mais mon bien ne se confond pas avec celui de l’autre, et votre principe monsieur* BENTHAM, *du maximum de bonheur pour le plus grand nombre, est quelque chose qui se heurte aux exigences de mon égoïsme* ».
 
 <!-- id: s7-15-0069 -->
 

@@ -182,7 +182,7 @@ Ce n’est pas un artifice verbal. Dans la *théorie combinatoire de la topologi
 
 <!-- id: s9-20-0045 -->
 
-Est-ce qu’un signifiant, dans son essence la plus radicale, ne peut être envisagé que comme *coupure :* \>\<, dans une surface ? Ces deux signes : *plus* *grand* : \>, et *plus* *petit* : \<*,* ne s’imposant que de leur *structure de cou­pure* inscrite sur quelque chose où toujours est marquée, non seulement *la conti­nuité d’un plan* sur lequel la suite s’inscrira, mais aussi *la direction* *vectorielle* où ceci se retrouvera toujours.
+Est-ce qu’un signifiant, dans son essence la plus radicale, ne peut être envisagé que comme *coupure :* \>\<, dans une surface ? Ces deux signes : *plus* *grand* : \>, et *plus* *petit* : \<, ne s’imposant que de leur *structure de cou­pure* inscrite sur quelque chose où toujours est marquée, non seulement *la conti­nuité d’un plan* sur lequel la suite s’inscrira, mais aussi *la direction* *vectorielle* où ceci se retrouvera toujours.
 
 <!-- id: s9-20-0046 -->
 
@@ -210,11 +210,11 @@ Où est l’interpolation d’une différence ?
 
 <!-- id: s9-20-0052 -->
 
-*En tout cas, ce qui se répète comme <u>signifiant</u> n’est différent que de pouvoir être inscrit***.** Il n’en reste pas moins que la fonction de *la coupure* nous importe au premier chef dans *ce qui* *peut être écrit*. Et c’est ici que la notion de surface topologique doit être introduite dans notre fonctionnement mental parce que c’est là seule­ment que prend son intérêt la fonction de la coupure.
+*En tout cas, ce qui se répète comme <u>signifiant</u> n’est différent que de pouvoir être inscrit**.* Il n’en reste pas moins que la fonction de *la coupure* nous importe au premier chef dans *ce qui* *peut être écrit*. Et c’est ici que la notion de surface topologique doit être introduite dans notre fonctionnement mental parce que c’est là seule­ment que prend son intérêt la fonction de la coupure.
 
 <!-- id: s9-20-0053 -->
 
-L’inscription nous rame­nant à la mémoire est une objection à réfuter. La mémoire qui nous intéresse, nous analystes, est à distinguer d’une mémoire organique, celle - si je puis dire - qui, à la même « *succion* » du réel répondrait par la même façon pour l’organisme de s’en défendre : *celle qui maintient l’homéostasie*, car l’organisme ne reconnaît pas *le même* qui se renouvelle en tant que différent. La mémoire organique « *même-orise* »*.* Notre mémoire est autre chose : elle intervient en fonction du *trait unaire*, marquant la fois unique, et a pour support l’inscription. Entre le stimulus et la réponse, l’ins­cription, le *printing,* doit être rappelée en termes d’imprimerie gutenbergienne.
+L’inscription nous rame­nant à la mémoire est une objection à réfuter. La mémoire qui nous intéresse, nous analystes, est à distinguer d’une mémoire organique, celle - si je puis dire - qui, à la même « *succion* » du réel répondrait par la même façon pour l’organisme de s’en défendre : *celle qui maintient l’homéostasie*, car l’organisme ne reconnaît pas *le même* qui se renouvelle en tant que différent. La mémoire organique « *même-orise* ». Notre mémoire est autre chose : elle intervient en fonction du *trait unaire*, marquant la fois unique, et a pour support l’inscription. Entre le stimulus et la réponse, l’ins­cription, le *printing,* doit être rappelée en termes d’imprimerie gutenbergienne.
 
 <!-- id: s9-20-0054 -->
 
@@ -258,7 +258,7 @@ La simple intervention de la coupure a changé la structure omniprésente de tou
 
 <!-- id: s9-20-0064 -->
 
-Le *polygone quadrilatère* est originaire du *tore* et du *bonnet*. Si je n’ai jamais introduit la véritable verbalisation de cette forme : **◊**, *poinçon, désir* unissant le S au *(a)* dans S**◊***a*, ce petit quadrilatère doit se lire : *le sujet* en tant que marqué par *le signifiant* *est* proprement, *dans le fantasme,* *coupure de a.*
+Le *polygone quadrilatère* est originaire du *tore* et du *bonnet*. Si je n’ai jamais introduit la véritable verbalisation de cette forme : ◊, *poinçon, désir* unissant le S au *(a)* dans S◊*a*, ce petit quadrilatère doit se lire : *le sujet* en tant que marqué par *le signifiant* *est* proprement, *dans le fantasme,* *coupure de a.*
 
 <!-- id: s9-20-0065 -->
 

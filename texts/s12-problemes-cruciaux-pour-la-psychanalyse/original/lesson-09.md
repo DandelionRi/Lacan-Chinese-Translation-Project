@@ -296,7 +296,7 @@ Il n’est pas sûr et j’en ai - je l’avoue - douté, qu’un petit potage m
 
 <!-- id: s12-09-0071 -->
 
-Et pourtant, vous êtes là*.* Permettez que je m’émerveille un instant de votre assistance et d’avoir pour un moment le privilège de manipuler cet organe, précieux entre tous ceux dont vous avez l’usage, votre oreille. C’est donc votre présence ici que je vais m’employer à justifier à vous mêmes par des raisons au moins qui soient avouables.
+Et pourtant, vous êtes là. Permettez que je m’émerveille un instant de votre assistance et d’avoir pour un moment le privilège de manipuler cet organe, précieux entre tous ceux dont vous avez l’usage, votre oreille. C’est donc votre présence ici que je vais m’employer à justifier à vous mêmes par des raisons au moins qui soient avouables.
 
 <!-- id: s12-09-0072 -->
 
@@ -576,7 +576,7 @@ S’il n’y a pas de chose qui ne soit pas *identique à soi*, c’est qu’ell
 
 <!-- id: s12-09-0141 -->
 
-C’est dans l’énoncé décisif « que le nombre assigné au concept de la non-identité à soi est **0** »*,* que se suture le discours logique.
+C’est dans l’énoncé décisif « que le nombre assigné au concept de la non-identité à soi est **0** », que se suture le discours logique.
 
 <!-- id: s12-09-0142 -->
 
@@ -632,7 +632,7 @@ Voilà le **1** qui est venu, et d’où est-il venu ce **1** ? Il faut un petit
 
 <!-- id: s12-09-0155 -->
 
-Je passe *le concept* « *membre de la série des nombres naturels se terminant par* 3 »*,* c’est-à-dire que je fais fonctionner 3 comme *une réserve*, 3 je ne le prends plus comme nombre, je le prends cette fois-ci, si vous voulez, comme concept. Je vais essayer de voir ce qu’il a dans le ventre, alors je décompose. Qu’est ce que 3 *a dans le ventre* ? Il a 1, 2, 3 : 3 objets comme vous diriez. Seulement, nous sommes dans l’élément du *nombre*, et dans l’élément du *nombre* on compte le **0**. Dans la série des nombres naturels, *le* **0** *compte* *pour* **1**, c’est-à-dire qu’en plus il y a le **0** et que *le* **0** *compte pour* **1** voilà la formule fondamentale de *l’engendrement de la suite des nombres*.
+Je passe *le concept* « *membre de la série des nombres naturels se terminant par* 3 », c’est-à-dire que je fais fonctionner 3 comme *une réserve*, 3 je ne le prends plus comme nombre, je le prends cette fois-ci, si vous voulez, comme concept. Je vais essayer de voir ce qu’il a dans le ventre, alors je décompose. Qu’est ce que 3 *a dans le ventre* ? Il a 1, 2, 3 : 3 objets comme vous diriez. Seulement, nous sommes dans l’élément du *nombre*, et dans l’élément du *nombre* on compte le **0**. Dans la série des nombres naturels, *le* **0** *compte* *pour* **1**, c’est-à-dire qu’en plus il y a le **0** et que *le* **0** *compte pour* **1** voilà la formule fondamentale de *l’engendrement de la suite des nombres*.
 
 <!-- id: s12-09-0156 -->
 
@@ -826,7 +826,7 @@ On n’a pas à s’étonner ici d’apercevoir un effet de *rétroaction*, la *
 
 <!-- id: s12-09-0203 -->
 
-Voilà, c’est là que se tient le temps circulaire. Vous voyez qu’à partir d’un discours simplement *logique* on peut rigoureusement en déduire *cette structure du sujet dans son rapport au signifiant*, telle que, avec la plus grande simplicité, le D<sup>r</sup> LACAN l’a martelée : «** ***Structure en équilibre de ce qui apparaît pour disparaître.* »
+Voilà, c’est là que se tient le temps circulaire. Vous voyez qu’à partir d’un discours simplement *logique* on peut rigoureusement en déduire *cette structure du sujet dans son rapport au signifiant*, telle que, avec la plus grande simplicité, le D<sup>r</sup> LACAN l’a martelée : « *Structure en équilibre de ce qui apparaît pour disparaître.* »
 
 <!-- id: s12-09-0204 -->
 
@@ -898,7 +898,7 @@ La conclusion de ce mécanisme essentiel, comme dit, il me se semble très bien,
 
 <!-- id: s12-09-0221 -->
 
-Ce corps fantasmé*,* ce corps que le psychotique voit dans le miroir, n’est-ce pas qu’il lui manque en définitive cette unification que seule pourrait lui assurer la distinction du trait ? N’est-ce pas donc : ce qui manque ici, c’est la subordination qu’au début nous avons dite essentielle : de *la fonction de l’unité unifiante* à *la fonction de l’unité distinctive,* et donc la fonction du *trait unaire* comme cœur, racine, de cette *castration* ?
+Ce corps fantasmé, ce corps que le psychotique voit dans le miroir, n’est-ce pas qu’il lui manque en définitive cette unification que seule pourrait lui assurer la distinction du trait ? N’est-ce pas donc : ce qui manque ici, c’est la subordination qu’au début nous avons dite essentielle : de *la fonction de l’unité unifiante* à *la fonction de l’unité distinctive,* et donc la fonction du *trait unaire* comme cœur, racine, de cette *castration* ?
 
 <!-- id: s12-09-0222 -->
 

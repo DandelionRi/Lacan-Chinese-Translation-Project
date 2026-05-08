@@ -106,7 +106,7 @@ Et nous aussi bien, nous n’avons à le chercher que pour autant que vous êtes
 
 <!-- id: s9-13-0026 -->
 
-Ce qu’il y a de certain, c’est que les seuls qui y aient convenablement rêvé, à savoir les poètes, ont toujours abouti à d’assez étranges constructions. Et si quelque préfiguration peut s’en trouver dans ce sur quoi je me suis arrêté avec quelque longueur - les ébauches qui peuvent en être données justement dans certains points paradoxaux de la tradi­tion chrétienne, *l’amour courtois* par exemple - ça a été pour vous souligner les singularités tout à fait bizarres - que ceux qui en étaient les auditeurs s’en sou­viennent *-* de certain sonnet d’[Arnaut DANIEL](http://www.trobar.org/troubadours/arnaut_daniel/arnaut_daniel_07.php)[^123] par exemple, qui nous ouvrent des perspectives bien curieuses sur ce que représenteraient effectivement les rela­tions entre l’amoureux et sa dame.
+Ce qu’il y a de certain, c’est que les seuls qui y aient convenablement rêvé, à savoir les poètes, ont toujours abouti à d’assez étranges constructions. Et si quelque préfiguration peut s’en trouver dans ce sur quoi je me suis arrêté avec quelque longueur - les ébauches qui peuvent en être données justement dans certains points paradoxaux de la tradi­tion chrétienne, *l’amour courtois* par exemple - ça a été pour vous souligner les singularités tout à fait bizarres - que ceux qui en étaient les auditeurs s’en sou­viennent - de certain sonnet d’[Arnaut DANIEL](http://www.trobar.org/troubadours/arnaut_daniel/arnaut_daniel_07.php)[^123] par exemple, qui nous ouvrent des perspectives bien curieuses sur ce que représenteraient effectivement les rela­tions entre l’amoureux et sa dame.
 
 <!-- id: s9-13-0027 -->
 
@@ -239,7 +239,7 @@ Ces marques étant posées, *qu’est-ce qui définit* *le névrosé* ? Le névr
 
 <!-- id: s9-13-0048 -->
 
-*Le névrosé veut effacer cet effacement, il veut faire que ça ne soit pas arrivé.* C’est là le sens le plus profond du comportement sommaire, exemplaire, de l’obsessionnel. *Ce sur quoi il revient toujours* - sans jamais bien entendu pouvoir en abolir l’effet, car chacun de ses efforts pour l’abolir ne fait que le renforcer - *c’est de faire que cet avènement à la fonction de signifiant ne se soit pas produit, qu’on retrouve ce qu’il y a* *de réel à l’origine, à savoir, de quoi tout ça est le signe***.** Ceci, je le laisse là indiqué, amorcé, pour y revenir d’une façon généralisée et en même temps plus diversifiée, à savoir selon les trois espèces de névroses : *pho­bie, hystérie et obsession*, après que j’aurai fait le tour auquel *ce préambule* est destiné : à me ramener dans mon discours.
+*Le névrosé veut effacer cet effacement, il veut faire que ça ne soit pas arrivé.* C’est là le sens le plus profond du comportement sommaire, exemplaire, de l’obsessionnel. *Ce sur quoi il revient toujours* - sans jamais bien entendu pouvoir en abolir l’effet, car chacun de ses efforts pour l’abolir ne fait que le renforcer - *c’est de faire que cet avènement à la fonction de signifiant ne se soit pas produit, qu’on retrouve ce qu’il y a* *de réel à l’origine, à savoir, de quoi tout ça est le signe**.* Ceci, je le laisse là indiqué, amorcé, pour y revenir d’une façon généralisée et en même temps plus diversifiée, à savoir selon les trois espèces de névroses : *pho­bie, hystérie et obsession*, après que j’aurai fait le tour auquel *ce préambule* est destiné : à me ramener dans mon discours.
 
 <!-- id: s9-13-0049 -->
 
@@ -399,7 +399,7 @@ C’est faussement qu’on peut dire que l’être dont je suis jaloux, le frèr
 
 <!-- id: s9-13-0087 -->
 
-Ce placement est difficile. Il serait bien entendu tout à fait impossible si le *symbolique* n’était si - comme je l’ai rappelé, martelé, depuis toujours et assez longtemps pour que ça vous entre dans la tête *-* si l’Autre et le discours où le sujet a à se placer ne l’attendaient depuis toujours, dès avant sa naissance, et que par l’intermédiaire au moins de sa mère, de sa nourrice, on lui parle.
+Ce placement est difficile. Il serait bien entendu tout à fait impossible si le *symbolique* n’était si - comme je l’ai rappelé, martelé, depuis toujours et assez longtemps pour que ça vous entre dans la tête - si l’Autre et le discours où le sujet a à se placer ne l’attendaient depuis toujours, dès avant sa naissance, et que par l’intermédiaire au moins de sa mère, de sa nourrice, on lui parle.
 
 <!-- id: s9-13-0088 -->
 
@@ -509,7 +509,7 @@ C’est une exclusion liée qui déjà en soi seule indique son renversement.
 
 <!-- id: s9-13-0114 -->
 
-Un pas de plus, faisons-le, c’est celui du « *pas sans* ». L’autre, sans doute, s’introduit dans la perspective naïve du désir comme *sans pouvoir*, mais, essentiellement, ce qui le lie à la structure du désir, c’est le « *pas sans* » : *il n’est pas non plus sans pouvoir.* C’est pourquoi cet *Autre*, que nous avons introduit en tant qu’en somme *métaphore du trait unaire,* c’est-à-dire de ce que nous trouvons à son niveau et qu’il rem­place, dans une régression infinie, puisqu’il est le lieu où se succèdent ces 1 *tous différents* les uns des autres *dont le sujet n’est que la métonymie,* cet *Autre* comme 1 - et le jeu de mots fait partie de la formule que j’emploie ici pour défi­nir le mode sous lequel je l’ai introduit *-* se retrouve, une fois bouclée la néces­sité des effets de *la frustration imaginaire*, comme ayant cette valeur unique, car *lui seul n’est pas « sans pouvoir »*, *il est à l’origine possible du désir posé comme condition*, même si cette condition reste en suspens.
+Un pas de plus, faisons-le, c’est celui du « *pas sans* ». L’autre, sans doute, s’introduit dans la perspective naïve du désir comme *sans pouvoir*, mais, essentiellement, ce qui le lie à la structure du désir, c’est le « *pas sans* » : *il n’est pas non plus sans pouvoir.* C’est pourquoi cet *Autre*, que nous avons introduit en tant qu’en somme *métaphore du trait unaire,* c’est-à-dire de ce que nous trouvons à son niveau et qu’il rem­place, dans une régression infinie, puisqu’il est le lieu où se succèdent ces 1 *tous différents* les uns des autres *dont le sujet n’est que la métonymie,* cet *Autre* comme 1 - et le jeu de mots fait partie de la formule que j’emploie ici pour défi­nir le mode sous lequel je l’ai introduit - se retrouve, une fois bouclée la néces­sité des effets de *la frustration imaginaire*, comme ayant cette valeur unique, car *lui seul n’est pas « sans pouvoir »*, *il est à l’origine possible du désir posé comme condition*, même si cette condition reste en suspens.
 
 <!-- id: s9-13-0115 -->
 

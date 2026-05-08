@@ -26,7 +26,7 @@ C'est une écrasante minorité, mais enfin ils me suffisent tout à fait.
 
 <!-- id: s19b-01-0006 -->
 
-### À partir de là, et pour autant que je pourrais soutenir ce souffle, je vais essayer de vous dire quelques mots. 
+### À partir de là, et pour autant que je pourrais soutenir ce souffle, je vais essayer de vous dire quelques mots.
 
 <!-- id: s19b-01-0007 -->
 
@@ -442,7 +442,7 @@ Enfin bref, il tombe dans un travers, Freud.
 
 <!-- id: s19b-01-0107 -->
 
-Il pense que contre *la résistance* il n'y a qu'une chose à faire, c'est la révolution*.*
+Il pense que contre *la résistance* il n'y a qu'une chose à faire, c'est la révolution.
 
 <!-- id: s19b-01-0108 -->
 
@@ -846,7 +846,7 @@ C'est bien en quoi le suicide mérite objection : c'est qu'on n'a pas besoin qu
 
 <!-- id: s19b-01-0207 -->
 
-Peut-être que les bouddhistes, avec leurs bidons d'essence *-* car ils sont à la page - on n'en sait rien car ils ne reviennent pas porter témoignage.
+Peut-être que les bouddhistes, avec leurs bidons d'essence - car ils sont à la page - on n'en sait rien car ils ne reviennent pas porter témoignage.
 
 <!-- id: s19b-01-0208 -->
 
@@ -866,7 +866,7 @@ Oui, ce qu'il y a à approfondir, c'est le 5^ème^ point que j'ai énoncé cette
 
 <!-- id: s19b-01-0212 -->
 
-Bien entendu, ça paraît comme ça un peu *zinzin,* un peu *éffloupi *: suffirait de baiser un bon coup pour me démontrer le contraire*.*
+Bien entendu, ça paraît comme ça un peu *zinzin,* un peu *éffloupi *: suffirait de baiser un bon coup pour me démontrer le contraire.
 
 <!-- id: s19b-01-0213 -->
 
@@ -874,7 +874,7 @@ Malheureusement c'est la seule chose qui ne démontre absolument rien de pareil 
 
 <!-- id: s19b-01-0214 -->
 
-On peut sérieusement parler de *rapport* non seulement quand l'établit un discours*,* mais *quand on l'énonce, le rapport.*
+On peut sérieusement parler de *rapport* non seulement quand l'établit un discours, mais *quand on l'énonce, le rapport.*
 
 <!-- id: s19b-01-0215 -->
 
@@ -1102,7 +1102,7 @@ S'il y a quelque chose dont il prenait l'idée dans *les sphères éternelles*, 
 
 <!-- id: s19b-01-0268 -->
 
-> il faut du temps pour que ça passe \...ce sont *les sphères éthérées *: elles savent*.* C'est bien en quoi *le savoir* est associé dès l'origine à l'idée *du pouvoir*.
+> il faut du temps pour que ça passe \...ce sont *les sphères éthérées *: elles savent. C'est bien en quoi *le savoir* est associé dès l'origine à l'idée *du pouvoir*.
 
 <!-- id: s19b-01-0269 -->
 

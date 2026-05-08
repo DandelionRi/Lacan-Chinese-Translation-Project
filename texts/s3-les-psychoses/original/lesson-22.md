@@ -426,7 +426,7 @@ Peut–être à partir de cette position radicale, toujours masquée, bien enten
 
 <!-- id: s3-22-0104 -->
 
-Cette question quand elle affleure, nous la voyons déjà se décomposer singulièrement, et quand elle affleure sous des formes qui n’ont rien d’interrogatif, qui sont - sous la forme du « *puissé-je y arriver !* » - entre l’exclamation, le souhait, la formule dubitative, si nous voulons lui donner un tout petit peu plus de consistance, l’exprimer dans le registre qui est celui du *délocutoire* et des *narratifs*, à savoir à l’indicatif*,* remarquez comment nous l’exprimons tout naturellement, nous dirons : « *Penses-tu réussir ?* ».
+Cette question quand elle affleure, nous la voyons déjà se décomposer singulièrement, et quand elle affleure sous des formes qui n’ont rien d’interrogatif, qui sont - sous la forme du « *puissé-je y arriver !* » - entre l’exclamation, le souhait, la formule dubitative, si nous voulons lui donner un tout petit peu plus de consistance, l’exprimer dans le registre qui est celui du *délocutoire* et des *narratifs*, à savoir à l’indicatif, remarquez comment nous l’exprimons tout naturellement, nous dirons : « *Penses-tu réussir ?* ».
 
 <!-- id: s3-22-0105 -->
 
@@ -707,6 +707,7 @@ Il emploie le mot essentiel de tout ce qui se passe dans son délire, à titre i
 <!-- id: s3-22-0174 -->
 
 Ceci doit tout de même, si humoristique soit le mode d’abord, vous mettre sur la voie de ce que je veux dire. Et nous sommes aussi dans un terrain familier, quand nous posons dans un autre langage, mais qui comporte des structurations absolument décisives et essentielles dans tout notre registre de ce qu’il s’agit de définir quand nous abordons par la voie de la relation propre à l’intérieur du signifiant, de la cohérence de la phrase à la phrase, quand nous abordons ce problème de ce qui résulte d’un certain manque au niveau du signifiant, dans la façon dont le sujet ressent, perçoit, entre en rapport effectif fondamental qui est ce au niveau de quoi le « *Je* », le sujet cause, dit « *tu* » comme tel.
+
 ## Notes
 
 [^33]: Martin Buber : « *Je et Tu »*, Aubier Montaigne, 1992.

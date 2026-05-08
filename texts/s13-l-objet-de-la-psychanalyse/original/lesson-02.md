@@ -242,7 +242,7 @@ Il y a là sur la droite, le rappel de quatre de ces réseaux structuraux. D’a
 
 <!-- id: s13-02-0060 -->
 
-Un champ où ceux - pas tellement rares - qui me lisent, encore que je n’en apprenne jamais rien, ont pu le relever au début d’un article qui s’appelle *D’une question préliminaire à tout traitement possible de la psychose*[^33]*.*
+Un champ où ceux - pas tellement rares - qui me lisent, encore que je n’en apprenne jamais rien, ont pu le relever au début d’un article qui s’appelle *D’une question préliminaire à tout traitement possible de la psychose*[^33].
 
 <!-- id: s13-02-0061 -->
 
@@ -342,11 +342,11 @@ Et le vase n’est pas un *objet(a)*. Ça a servi depuis très longtemps à expr
 
 <!-- id: s13-02-0085 -->
 
-Est-ce que c’est une leçon de théologie ? Vous savez, Dieu le grand ouvrier : « *De même* - nous dit-on au catéchisme - *qu’il faut* *un potier pour faire un pot, de même*… ». 
+Est-ce que c’est une leçon de théologie ? Vous savez, Dieu le grand ouvrier : « *De même* - nous dit-on au catéchisme - *qu’il faut* *un potier pour faire un pot, de même*… ».
 
 <!-- id: s13-02-0086 -->
 
-Que n’en avons-nous mieux profité ! *Car ça ne dit pas du tout ce dont ça cherche à nous convaincre*. Ça nous dit quoi ? 
+Que n’en avons-nous mieux profité ! *Car ça ne dit pas du tout ce dont ça cherche à nous convaincre*. Ça nous dit quoi ?
 
 <!-- id: s13-02-0087 -->
 
@@ -522,7 +522,7 @@ Et ou serait donc la fécondité de ce qu’on nous dit être la caractéristiqu
 
 <!-- id: s13-02-0130 -->
 
-Mais la question n’est pas là, *c’est justement de rester collé à cette notion que la quantité c’est une propriété de l’objet et qu’on la mesure,* qu’on perd le fil, qu’on perd le secret de ce qui constitue l’objet scientifique. Ce qui se mesure à l’aune de quelque chose, qui est toujours quelque chose d*’autre* [^44]*,* dans les dimensions - *et elles peuvent être multiples* - de l’objet comme *manque*.
+Mais la question n’est pas là, *c’est justement de rester collé à cette notion que la quantité c’est une propriété de l’objet et qu’on la mesure,* qu’on perd le fil, qu’on perd le secret de ce qui constitue l’objet scientifique. Ce qui se mesure à l’aune de quelque chose, qui est toujours quelque chose d*’autre* [^44], dans les dimensions - *et elles peuvent être multiples* - de l’objet comme *manque*.
 
 <!-- id: s13-02-0131 -->
 
@@ -602,7 +602,7 @@ Et comme telle, *peut-être, cette sorte de cause*, sur laquelle j’ai laissé 
 
 <!-- id: s13-02-0150 -->
 
-C’est bien en ce *nœud de la fonction du manque* que gît et qu’est recelé ici *le point tournant* de ce qui est en question. Et qu’allons-nous avoir en ce point qui est un point de béance ? Nous l’avons vu l’année dernière à propos de la genèse fregéenne du nombre 1 : c’est pour « *sauver la vérité* » qu’il faut que ça fonctionne. «* Sauver la vérité *» *ce qui veut dire* «* ne rien vouloir en savoir *»*.*
+C’est bien en ce *nœud de la fonction du manque* que gît et qu’est recelé ici *le point tournant* de ce qui est en question. Et qu’allons-nous avoir en ce point qui est un point de béance ? Nous l’avons vu l’année dernière à propos de la genèse fregéenne du nombre 1 : c’est pour « *sauver la vérité* » qu’il faut que ça fonctionne. «* Sauver la vérité *» *ce qui veut dire* «* ne rien vouloir en savoir *».
 
 <!-- id: s13-02-0151 -->
 

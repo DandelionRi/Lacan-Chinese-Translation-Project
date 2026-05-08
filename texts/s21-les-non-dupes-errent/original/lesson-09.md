@@ -376,7 +376,7 @@ C’est à savoir que le *Réel*, au regard de ce que nous repérons dans une ce
 
 <!-- id: s21-09-0092 -->
 
-avec l’*Imaginaire* et <u>le *Symbolique*</u>*,* fait 3 \[rectification du lapsus\].
+avec l’*Imaginaire* et <u>le *Symbolique*</u>, fait 3 \[rectification du lapsus\].
 
 <!-- id: s21-09-0093 -->
 
@@ -860,7 +860,7 @@ Parce que le seul fait que quand il bafouille...
 
 <!-- id: s21-09-0210 -->
 
-C’est quand même drôle que *ça en reste à la métaphore*, que ça n’éclaire pas, que ça ne donne pas l’idée que du côté de cette chose, dont je vous ai - j’espère, comme ça - un petit peu fait sentir le côté de consistance étran­ge, et le fait que ça surprend que le *Réel* - en fin de comp­te - ce n’est que ça : histoire de nœuds*.*
+C’est quand même drôle que *ça en reste à la métaphore*, que ça n’éclaire pas, que ça ne donne pas l’idée que du côté de cette chose, dont je vous ai - j’espère, comme ça - un petit peu fait sentir le côté de consistance étran­ge, et le fait que ça surprend que le *Réel* - en fin de comp­te - ce n’est que ça : histoire de nœuds.
 
 <!-- id: s21-09-0211 -->
 

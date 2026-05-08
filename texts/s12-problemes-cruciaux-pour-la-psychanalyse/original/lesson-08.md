@@ -172,7 +172,7 @@ Ce dont il s’agit dans le rappel que j’ai fait ici de ce petit schéma, c’
 
 <!-- id: s12-08-0042 -->
 
-> comme je l’ai appelée tout à l’heure, ici désignée par *(a)* et qui est effectivement ce que nous appelons l’*objet(a)* ...cette fleur n’a pas, dans cette expérience et par rapport au miroir, n’a pas la même fonction, n’est pas homogène à ce qui vient jouer autour d’elle comme repère*,* à savoir *l’image du corps* et le *moi*.
+> comme je l’ai appelée tout à l’heure, ici désignée par *(a)* et qui est effectivement ce que nous appelons l’*objet(a)* ...cette fleur n’a pas, dans cette expérience et par rapport au miroir, n’a pas la même fonction, n’est pas homogène à ce qui vient jouer autour d’elle comme repère, à savoir *l’image du corps* et le *moi*.
 
 <!-- id: s12-08-0043 -->
 
@@ -198,7 +198,7 @@ L’*idéal du moi *: lieu de la fonction du *trait unaire* au départ, *accroc
 
 <!-- id: s12-08-0048 -->
 
-Autour disons du *(a)* caché dans la référence à l’Autre, autour du *(a)* - tout autant et plus qu’autour de l’*idéal du moi -* se joue le drame des *identifications* du sujet, et *la question* est de savoir 
+Autour disons du *(a)* caché dans la référence à l’Autre, autour du *(a)* - tout autant et plus qu’autour de l’*idéal du moi -* se joue le drame des *identifications* du sujet, et *la question* est de savoir
 
 <!-- id: s12-08-0049 -->
 
@@ -230,7 +230,7 @@ C’est là l’ordre dans lequel…
 
 <!-- id: s12-08-0056 -->
 
-Je veux dire que mon mathématicien, pour résoudre ces problèmes dont il s’agit, d’un commun accord se refuse énergiquement, et à juste titre, à même regarder effectivement du côté de *l’horrible issue* de la bouteille - *cette espèce de curieuse bouche double,* à la fois embrassée, accolée à elle-même *-* mais de par l’intérieur - ce qui fait qu’on arrive à ce bord des deux côtés à la fois.
+Je veux dire que mon mathématicien, pour résoudre ces problèmes dont il s’agit, d’un commun accord se refuse énergiquement, et à juste titre, à même regarder effectivement du côté de *l’horrible issue* de la bouteille - *cette espèce de curieuse bouche double,* à la fois embrassée, accolée à elle-même - mais de par l’intérieur - ce qui fait qu’on arrive à ce bord des deux côtés à la fois.
 
 <!-- id: s12-08-0057 -->
 
@@ -568,7 +568,7 @@ Mais au niveau où nous sommes ce que nous avons à *voir*, c’est que dans le 
 
 <!-- id: s12-08-0138 -->
 
-En son temps je l’ai articulé autour du *Banquet* [^63]* *: ALCIBIADE s’approche de SOCRATE et veut le séduire pour ravir son désir, et il prend la métaphore de la petite boite silénique, je veux dire en forme de silène, au centre de quoi il y a un objet précieux.
+En son temps je l’ai articulé autour du *Banquet* [^63]: ALCIBIADE s’approche de SOCRATE et veut le séduire pour ravir son désir, et il prend la métaphore de la petite boite silénique, je veux dire en forme de silène, au centre de quoi il y a un objet précieux.
 
 <!-- id: s12-08-0139 -->
 
@@ -727,7 +727,7 @@ C’est vrai, et ce mot, ce n’est point en vain qu’il est homonyme et homolo
     « *C'est bien taillé, mon fils ; maintenant il faut coudre !* »
 
 
-[^61]: Pearl King **:** *Psychic Experience and Problems of Technique***,** Taylor and Francis, 1991.
+[^61]: Pearl King : *Psychic Experience and Problems of Technique**,* Taylor and Francis, 1991.
 
 
 [^62]: Pearl King <span class="smallcaps">:</span> *Time présent and Time passed*, in *Selected Papers*, London, Karnac, 2005.

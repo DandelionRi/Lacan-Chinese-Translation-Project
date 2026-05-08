@@ -134,7 +134,7 @@ C’est bien ce qui m’a fait - il faut bien le dire - *délirer* quand j’ai 
 
 <!-- id: s25-10-0033 -->
 
-« *De la syntaxe à l’interprétation* »*,* c’est ce que nous propose Jean-Claude Milner [^2].
+« *De la syntaxe à l’interprétation* », c’est ce que nous propose Jean-Claude Milner [^2].
 
 <!-- id: s25-10-0034 -->
 

@@ -128,7 +128,7 @@ C’est là l’intérêt de la considération linguistique du problème, c’es
 
 <!-- id: s3-16-0031 -->
 
-Or, je dis qu’il est vrai que la découverte analytique ce n’est pas cela*.* Et son ressort est dans ceci : non pas simplement, comme nous l’avions jusqu’ici méconnu, des *significations* dites *libidinales*, dites instinctuelles, à toute une série de comportements humains. C’est vrai, il y a ça !
+Or, je dis qu’il est vrai que la découverte analytique ce n’est pas cela. Et son ressort est dans ceci : non pas simplement, comme nous l’avions jusqu’ici méconnu, des *significations* dites *libidinales*, dites instinctuelles, à toute une série de comportements humains. C’est vrai, il y a ça !
 
 <!-- id: s3-16-0032 -->
 
@@ -212,7 +212,7 @@ Qu’il y ait un certain nombre d’éléments, je parlais tout à l’heure du 
 
 <!-- id: s3-16-0051 -->
 
-- qui ne se dégagent pas du monde réel* *:
+- qui ne se dégagent pas du monde réel:
 
 <!-- -->
 
@@ -614,7 +614,7 @@ Quand par exemple le registre du père, dans sa fonction essentielle, dans ce qu
 
 <!-- id: s3-16-0150 -->
 
-Eh bien, qu’est-ce qui se passe, si cela est pensable* *? Un *certain trou*, un *certain manque* s’est produit quelque part ? On peut désigner comment ce quelque part est pensable, concevable, et à quel moment ce quelque chose s’est produit, qui est un manque, dans la fonction formatrice du père, dans sa présence, si le père a eu un certain mode de relation et de rapport effectif tel que ce n’est pas le conflit qui a caractérisé les choses, que ce n’est pas un effet du conflit - par une crainte de la castration par exemple - que le fils a pris la position féminine.
+Eh bien, qu’est-ce qui se passe, si cela est pensable? Un *certain trou*, un *certain manque* s’est produit quelque part ? On peut désigner comment ce quelque part est pensable, concevable, et à quel moment ce quelque chose s’est produit, qui est un manque, dans la fonction formatrice du père, dans sa présence, si le père a eu un certain mode de relation et de rapport effectif tel que ce n’est pas le conflit qui a caractérisé les choses, que ce n’est pas un effet du conflit - par une crainte de la castration par exemple - que le fils a pris la position féminine.
 
 <!-- id: s3-16-0151 -->
 

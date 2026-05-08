@@ -22,7 +22,7 @@ Seulement voilà, cette créance « *je croyais que c’était passé* », cett
 
 <!-- id: s21-01-0005 -->
 
-Et c’est ce relief qu’exprime exactement mon titre de cette année, celui que vous avez pu lire, j’espère, sur l’affiche, et qui s’écrit 
+Et c’est ce relief qu’exprime exactement mon titre de cette année, celui que vous avez pu lire, j’espère, sur l’affiche, et qui s’écrit
 
 <!-- id: s21-01-0006 -->
 
@@ -166,7 +166,7 @@ Vous avez peut-être entendu parler de ça : ça vient de *tripalium,* qui est 
 
 <!-- id: s21-01-0041 -->
 
-Il est en effet bien clair que le travail, tel que nous le connaissons par l’inconscient*,* c’est ce qui fait des rapports...
+Il est en effet bien clair que le travail, tel que nous le connaissons par l’inconscient, c’est ce qui fait des rapports...
 
 <!-- id: s21-01-0042 -->
 
@@ -590,7 +590,7 @@ Si la dupe est vraiment ce qu’on nous dit...
 
 <!-- id: s21-01-0146 -->
 
-On ne voit absolument pas pourquoi une huppe serait plus stupide qu’un autre oiseau, mais la chose qui me paraît remarquable, c’est l’ac­cent que met le dictionnaire pour préciser qu’elle est du féminin : la dupe est « *la* »*.*
+On ne voit absolument pas pourquoi une huppe serait plus stupide qu’un autre oiseau, mais la chose qui me paraît remarquable, c’est l’ac­cent que met le dictionnaire pour préciser qu’elle est du féminin : la dupe est « *la* ».
 
 <!-- id: s21-01-0147 -->
 

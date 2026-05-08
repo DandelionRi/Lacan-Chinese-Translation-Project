@@ -26,7 +26,7 @@ Je voudrais tout de même poser quelque chose de *précis*. Vous avez dû vous a
 
 <!-- id: s2-03-0006 -->
 
-C’est en ce sens que je vous prie de prendre garde à ceci, que dans ces séances ouvertes vous n’êtes nullement en représentation, mal­gré que nous ayons des invités étrangers, sympathisants et autres, ça ne doit nullement vous impressionner, c’est*-*à*-*dire que vous ne devez pas chercher à dire des choses bien élégantes, destinées à vous mettre en valeur, ni à augmen­ter l’estime qu’on peut déjà avoir pour vous.
+C’est en ce sens que je vous prie de prendre garde à ceci, que dans ces séances ouvertes vous n’êtes nullement en représentation, mal­gré que nous ayons des invités étrangers, sympathisants et autres, ça ne doit nullement vous impressionner, c’est-à-dire que vous ne devez pas chercher à dire des choses bien élégantes, destinées à vous mettre en valeur, ni à augmen­ter l’estime qu’on peut déjà avoir pour vous.
 
 <!-- id: s2-03-0007 -->
 
@@ -34,7 +34,7 @@ Cela n’a véritablement aucune espèce d’importance. Rien ne vous force à f
 
 <!-- id: s2-03-0008 -->
 
-Alors pourquoi cette ouverture ne lui donneriez-vous pas, si je puis dire, *son retentissement maximum* en posant les questions au point le plus profond où elles peuvent vous parvenir, même si cela se traduit par une question un peu hésitante et floue, voire baroque ? En d’autres termes, le seul reproche que j’au­rais à vous faire *-* si je puis me permettre *-* c’est que vous voulez tous paraître trop intelligents. Tout le monde sait que vous l’êtes. Alors pourquoi vouloir le paraître ? Et de toute façon quelle importance, soit pour l’être, soit pour le paraître ?
+Alors pourquoi cette ouverture ne lui donneriez-vous pas, si je puis dire, *son retentissement maximum* en posant les questions au point le plus profond où elles peuvent vous parvenir, même si cela se traduit par une question un peu hésitante et floue, voire baroque ? En d’autres termes, le seul reproche que j’au­rais à vous faire - si je puis me permettre - c’est que vous voulez tous paraître trop intelligents. Tout le monde sait que vous l’êtes. Alors pourquoi vouloir le paraître ? Et de toute façon quelle importance, soit pour l’être, soit pour le paraître ?
 
 <!-- id: s2-03-0009 -->
 
@@ -452,7 +452,7 @@ C’est une petite remarque que je vous fais à propos de ce que je suis en trai
 
 <!-- id: s2-03-0110 -->
 
-Ceux qui en sont encore à la critique du vieux mécanisme*,* mais il y a deux façons de voir :
+Ceux qui en sont encore à la critique du vieux mécanisme, mais il y a deux façons de voir :
 
 <!-- id: s2-03-0111 -->
 
@@ -500,11 +500,11 @@ Jean HYPPOLITE - Parce qu’elle est une espèce de *préférence universelle* ?
 
 <!-- id: s2-03-0122 -->
 
-Octave MANNONI *-* Je ne sais pas.
+Octave MANNONI - Je ne sais pas.
 
 <!-- id: s2-03-0123 -->
 
-Jean HYPPOLITE *-* Ce serait une *contingence universelle*.
+Jean HYPPOLITE - Ce serait une *contingence universelle*.
 
 <!-- id: s2-03-0124 -->
 
@@ -520,7 +520,7 @@ Là je crois que vous faites tout de même intervenir des choses qui n’étaien
 
 <!-- id: s2-03-0127 -->
 
-Jean HYPPOLITE *-* Je ne crois pas.
+Jean HYPPOLITE - Je ne crois pas.
 
 <!-- id: s2-03-0128 -->
 
@@ -560,7 +560,7 @@ Il me semble que vous avez tout à l’heure très justement oppo­sé l’*univ
 
 <!-- id: s2-03-0137 -->
 
-LACAN *-* C’est la fonction du symbole.
+LACAN - C’est la fonction du symbole.
 
 <!-- id: s2-03-0138 -->
 
@@ -588,11 +588,11 @@ Il y a deux sens au mot formel :
 
 <!-- id: s2-03-0144 -->
 
-Jean HYPPOLITE *-* Est-ce ce second sens qui est le vôtre, ou le premier ?
+Jean HYPPOLITE - Est-ce ce second sens qui est le vôtre, ou le premier ?
 
 <!-- id: s2-03-0145 -->
 
-LACAN *-* C’est le premier, incontestablement !
+LACAN - C’est le premier, incontestablement !
 
 <!-- id: s2-03-0146 -->
 
@@ -652,7 +652,7 @@ Il n’en est pas moins vrai *que l’univers symbolique ne résout pas*, par le
 
 <!-- id: s2-03-0160 -->
 
-LACAN *-* Certainement pas.
+LACAN - Certainement pas.
 
 <!-- id: s2-03-0161 -->
 
@@ -664,15 +664,15 @@ Je veux dire que ce qu’on appelait *institution* et qui implique *un certain n
 
 <!-- id: s2-03-0163 -->
 
-LACAN *-* Il ne s’agit pas d’explication.
+LACAN - Il ne s’agit pas d’explication.
 
 <!-- id: s2-03-0164 -->
 
-Jean HYPPOLITE *-* Nous n’en restons pas moins devant un problème.
+Jean HYPPOLITE - Nous n’en restons pas moins devant un problème.
 
 <!-- id: s2-03-0165 -->
 
-LACAN *-* Exactement ! Devant le problème des origines.
+LACAN - Exactement ! Devant le problème des origines.
 
 <!-- id: s2-03-0166 -->
 
@@ -684,7 +684,7 @@ Même au sein de *la fonction symbolique* elle-même. Je ne refu­se pas que *la
 
 <!-- id: s2-03-0168 -->
 
-Octave MANNONI *-* C’est très compliqué, moi je ne comprends plus grand-chose.
+Octave MANNONI - C’est très compliqué, moi je ne comprends plus grand-chose.
 
 <!-- id: s2-03-0169 -->
 
@@ -910,7 +910,7 @@ Octave MANNONI
 
 <!-- id: s2-03-0223 -->
 
-Après LÉVI*-*STRAUSS on a l’impression qu’on ne peut plus employer les notions de *nature* et *culture*. On ne peut plus les employer. Il les détruit. De même pour l’idée d’*adaptation* dont nous parlons tout le temps : être adapté veut dire être vivant. Et de même les notions de *nature* et de *culture* ne peuvent plus être employées.
+Après LÉVI-STRAUSS on a l’impression qu’on ne peut plus employer les notions de *nature* et *culture*. On ne peut plus les employer. Il les détruit. De même pour l’idée d’*adaptation* dont nous parlons tout le temps : être adapté veut dire être vivant. Et de même les notions de *nature* et de *culture* ne peuvent plus être employées.
 
 <!-- id: s2-03-0224 -->
 
@@ -918,4 +918,4 @@ LACAN
 
 <!-- id: s2-03-0225 -->
 
-Il y a du juste mais nous n’en sommes pas encore là. C’est certain, ce que vous posez là est une question analogue à celle que j’avais posée à l’instant, en disant qu’à un moment donné FREUD a voulu à tout prix défendre un certain dualisme. C’est du même ordre. En effet, du fait de l’évolution rapide de la théo­rie et de la technique analytique, FREUD s’est trouvé en présence d’une chute de tension analogue à celle que vous décelez dans ce qui se passe dans l’esprit de LÉVI*-*STRAUSS mais c’est peut*-*être incomplètement achevé chez lui quand même.
+Il y a du juste mais nous n’en sommes pas encore là. C’est certain, ce que vous posez là est une question analogue à celle que j’avais posée à l’instant, en disant qu’à un moment donné FREUD a voulu à tout prix défendre un certain dualisme. C’est du même ordre. En effet, du fait de l’évolution rapide de la théo­rie et de la technique analytique, FREUD s’est trouvé en présence d’une chute de tension analogue à celle que vous décelez dans ce qui se passe dans l’esprit de LÉVI-STRAUSS mais c’est peut-être incomplètement achevé chez lui quand même.

@@ -298,7 +298,7 @@ En tenant compte de ces remarques *on peut se demander :*
 
 <!-- id: s13-07-0074 -->
 
-- et que représente cette rixe, ...c’est à dire quel est le rapport entre Maître ADAM et SINON qui se termine par cette *merveilleuse allusion*. 
+- et que représente cette rixe, ...c’est à dire quel est le rapport entre Maître ADAM et SINON qui se termine par cette *merveilleuse allusion*.
 
 <!-- id: s13-07-0075 -->
 
@@ -410,7 +410,7 @@ Tout ceci semble symboliser deux phases du mouvement d’auto-fascination de la 
 
 <!-- id: s13-07-0102 -->
 
-Lui, SINON, il n’a donc rien à préférer à une *image d’eau*. La source, anéantie dans *le langage* qu’il a feint, fait si bien recette sur cette fiction, qu’elle acquiert un pouvoir autonome pour SINON. Pour SINON la vraie source est devenue cette *eau en image* dont *la conscience* qui rêve est capable de s’abreuver. D’où la réflexion de Maître ADAM à SINON que « *pour lécher le miroir de Narcisse, il ne faudrait pas pour t’y inviter beaucoup de paroles* ». 
+Lui, SINON, il n’a donc rien à préférer à une *image d’eau*. La source, anéantie dans *le langage* qu’il a feint, fait si bien recette sur cette fiction, qu’elle acquiert un pouvoir autonome pour SINON. Pour SINON la vraie source est devenue cette *eau en image* dont *la conscience* qui rêve est capable de s’abreuver. D’où la réflexion de Maître ADAM à SINON que « *pour lécher le miroir de Narcisse, il ne faudrait pas pour t’y inviter beaucoup de paroles* ».
 
 <!-- id: s13-07-0103 -->
 
@@ -678,7 +678,7 @@ Il y a donc là une transformation profonde de quelque chose qui n’est pas ét
 
 <!-- id: s13-07-0161 -->
 
-N’allons pas trop vite. Je ne dis pas que DANTE soit un philosophe, encore que son rapport à la philosophie soit tel qu’il ait pu être suivi, isolé, dans *tout un ouvrage* par exemple de M. Étienne GILSON qui a pour titre précisément 
+N’allons pas trop vite. Je ne dis pas que DANTE soit un philosophe, encore que son rapport à la philosophie soit tel qu’il ait pu être suivi, isolé, dans *tout un ouvrage* par exemple de M. Étienne GILSON qui a pour titre précisément
 
 <!-- id: s13-07-0162 -->
 

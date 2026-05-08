@@ -62,7 +62,7 @@ Mais ce *Réel*, je l’ai écrit sous la forme de ce que on appelle le nœud bo
 
 <!-- id: s23-10-0015 -->
 
-Et sous la forme minimale sous laquelle j’ai tracé cette chaîne, il en faut au moins trois* *: le *Réel* c’est ça.
+Et sous la forme minimale sous laquelle j’ai tracé cette chaîne, il en faut au moins trois: le *Réel* c’est ça.
 
 <!-- id: s23-10-0016 -->
 
@@ -274,11 +274,11 @@ La définition que je donne de ce signifiant, comme tel...
 
 <!-- id: s23-10-0068 -->
 
-> et que je supporte du S *indice* 1 : **S<sub>1</sub>** <sub>...</sub>c’est de représenter un sujet, comme tel, et de le représenter vraiment*.*
+> et que je supporte du S *indice* 1 : **S<sub>1</sub>** <sub>...</sub>c’est de représenter un sujet, comme tel, et de le représenter vraiment.
 
 <!-- id: s23-10-0069 -->
 
-Vraiment veut dire dans l’occasion : conformément à la réalité*.*
+Vraiment veut dire dans l’occasion : conformément à la réalité.
 
 <!-- id: s23-10-0070 -->
 
@@ -354,7 +354,7 @@ La réduire à être *symptomatique*, c’est aussi réduire toute « *inventio
 
 <!-- id: s23-10-0088 -->
 
-Changeons de place : à partir du moment où on a une mémoire* *:
+Changeons de place : à partir du moment où on a une mémoire:
 
 <!-- id: s23-10-0089 -->
 
@@ -366,11 +366,11 @@ Changeons de place : à partir du moment où on a une mémoire* *:
 
 <!-- id: s23-10-0091 -->
 
-Je devrais dire qu’on en « *dire-s-pose* » *:* on *a à dire*.
+Je devrais dire qu’on en « *dire-s-pose* » : on *a à dire*.
 
 <!-- id: s23-10-0092 -->
 
-Et c’est en quoi la langue - la langue que j’ai appelée *lalanglaise -* a toutes sortes de ressources : « *I have to tell* »*.*
+Et c’est en quoi la langue - la langue que j’ai appelée *lalanglaise -* a toutes sortes de ressources : « *I have to tell* ».
 
 <!-- id: s23-10-0093 -->
 
@@ -382,15 +382,15 @@ C’est d’ailleurs un anglicisme.
 
 <!-- id: s23-10-0095 -->
 
-Mais qu’on puisse dire non seulement « *have* » mais « *awe *» (*a,w,e*)* *: « *I awe to tell* » donne le glissement : « *j’ai à dire* » devient « *je dois dire* »*.*
+Mais qu’on puisse dire non seulement « *have* » mais « *awe *» (*a,w,e*): « *I awe to tell* » donne le glissement : « *j’ai à dire* » devient « *je dois dire* ».
 
 <!-- id: s23-10-0096 -->
 
-Et qu’on puisse, dans cette langue, mettre l’accent sur le verbe d’une façon telle qu’on puisse dire : « *I do make* », j’insiste en somme sur le fait que par ce « *making* »*,* il n’y a que fabrication.
+Et qu’on puisse, dans cette langue, mettre l’accent sur le verbe d’une façon telle qu’on puisse dire : « *I do make* », j’insiste en somme sur le fait que par ce « *making* », il n’y a que fabrication.
 
 <!-- id: s23-10-0097 -->
 
-Qu’on puisse également séparer la négation sous cette forme qu’on dise : 
+Qu’on puisse également séparer la négation sous cette forme qu’on dise :
 
 <!-- id: s23-10-0098 -->
 
@@ -398,7 +398,7 @@ Qu’on puisse également séparer la négation sous cette forme qu’on dise :
 
 <!-- id: s23-10-0099 -->
 
-- « *I don’t talk* »*,* « *Je ne choisis pas de parler* »*,* de parler quoi ? Dans le cas de Joyce, c’est *le gaëlique *!
+- « *I don’t talk* », « *Je ne choisis pas de parler* », de parler quoi ? Dans le cas de Joyce, c’est *le gaëlique *!
 
 <!-- id: s23-10-0100 -->
 
@@ -690,7 +690,7 @@ Ce que pose comme question cette question de la droite, c’est justement ceci :
 
 <!-- id: s23-10-0172 -->
 
-Mis à part le rayon lumineux qui semble nous donner - et chacun sait qu’il ne nous donne pas *-* une image.
+Mis à part le rayon lumineux qui semble nous donner - et chacun sait qu’il ne nous donne pas - une image.
 
 <!-- id: s23-10-0173 -->
 
@@ -906,7 +906,7 @@ C’est que je réduisais le *sinthome* qui est ici à quelque chose qui répond
 
 <!-- id: s23-10-0226 -->
 
-Un 3<sup>ème</sup> terme qui - ces 2 ronds - pour les appeler de leur nom : les ronds de ficelle *-* les maintiennent séparés.
+Un 3<sup>ème</sup> terme qui - ces 2 ronds - pour les appeler de leur nom : les ronds de ficelle - les maintiennent séparés.
 
 <!-- id: s23-10-0227 -->
 

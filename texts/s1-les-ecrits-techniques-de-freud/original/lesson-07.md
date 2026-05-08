@@ -74,7 +74,7 @@ Cette situation d’une *fonction dynamique*, pour appeler les choses par leur n
 
 <!-- id: s1-07-0018 -->
 
-Je crois que beaucoup d’entre vous ont lu ce livre d’Anna FREUD, qui est assez lu, sur « *Le Moi et les mécanismes de défense »*. Il est extrêmement instructif*.*
+Je crois que beaucoup d’entre vous ont lu ce livre d’Anna FREUD, qui est assez lu, sur « *Le Moi et les mécanismes de défense »*. Il est extrêmement instructif.
 
 <!-- id: s1-07-0019 -->
 
@@ -126,11 +126,11 @@ Et qu’est-ce qu’elle appelle *« avoir analysé la défense contre les affe
 
 <!-- id: s1-07-0031 -->
 
-Autrement dit, nous revenons à la question : *de quelle Bejahung, de quelle assomption par le moi, de quel oui s’agit-il dans le progrès analytique ?* Quelle est la *Bejahung* qu’il s’agit d’obtenir et qui constitue la révélation, le dévoile­ment essentiel au progrès d’une analyse ? Quelque part, FREUD, dans un écrit qui n’est pas hors de notre cercle, puis­qu’il l’appelle lui-même « *De la technique psychanalytique »*, qui est dans l’*Abrégé de psychanalyse* [^15]*,* nous dit quelque chose comme ceci : « *Il y a un pacte qui est conclu*… » qui définit *l’entrée* *dans la situation analy­tique*, celle-ci par *un pacte conclu,* c’est une façon de présenter les choses, *entre l’analysé et l’analyste*
+Autrement dit, nous revenons à la question : *de quelle Bejahung, de quelle assomption par le moi, de quel oui s’agit-il dans le progrès analytique ?* Quelle est la *Bejahung* qu’il s’agit d’obtenir et qui constitue la révélation, le dévoile­ment essentiel au progrès d’une analyse ? Quelque part, FREUD, dans un écrit qui n’est pas hors de notre cercle, puis­qu’il l’appelle lui-même « *De la technique psychanalytique »*, qui est dans l’*Abrégé de psychanalyse* [^15], nous dit quelque chose comme ceci : « *Il y a un pacte qui est conclu*… » qui définit *l’entrée* *dans la situation analy­tique*, celle-ci par *un pacte conclu,* c’est une façon de présenter les choses, *entre l’analysé et l’analyste*
 
 <!-- id: s1-07-0032 -->
 
-« *Un pacte est conclu. Le moi malade du patient nous promet une franchise totale, c’est-à-dire la libre disposition de tout ce que* *son auto*-*­perception lui livre. De notre côté, nous lui assurons la plus stricte discrétion et mettons à son service notre expérience dans l’interprétation* *du matériel influencé par l’incons­cient. Notre savoir compense son ignorance et permet au moi de récupérer et de gouverner les domaines perdus* *de son psychisme. C’est ce pacte qui constitue toute la situation analytique*. »
+« *Un pacte est conclu. Le moi malade du patient nous promet une franchise totale, c’est-à-dire la libre disposition de tout ce que* *son auto-­perception lui livre. De notre côté, nous lui assurons la plus stricte discrétion et mettons à son service notre expérience dans l’interprétation* *du matériel influencé par l’incons­cient. Notre savoir compense son ignorance et permet au moi de récupérer et de gouverner les domaines perdus* *de son psychisme. C’est ce pacte qui constitue toute la situation analytique*. »
 
 <!-- id: s1-07-0033 -->
 
@@ -146,7 +146,7 @@ Le caractère origi­nel détermine une certaine *constellation symbolique dans 
 
 <!-- id: s1-07-0036 -->
 
-Que FREUD nous en ait donné ce que nous pouvons appeler le premier modèle, l’étalon*,* sous la forme du *complexe d’Œdipe*… Vous savez bien, je pense, tout au moins ceux d’entre vous qui ont suivi depuis assez longtemps ce séminaire ont pu voir... précisément à pro­pos du commentaire des cas les moins sujets à caution, parce que vraiment les plus richement délinéés par FREUD lui-même, à savoir deux, voire trois de ses cinq grandes psychanalyses …*savent combien*, à mesure que nous approfondissons la relation du *complexe d’Œdipe,* nous voyons *qu’il pose de problèmes, d’ambi­guïtés*.
+Que FREUD nous en ait donné ce que nous pouvons appeler le premier modèle, l’étalon, sous la forme du *complexe d’Œdipe*… Vous savez bien, je pense, tout au moins ceux d’entre vous qui ont suivi depuis assez longtemps ce séminaire ont pu voir... précisément à pro­pos du commentaire des cas les moins sujets à caution, parce que vraiment les plus richement délinéés par FREUD lui-même, à savoir deux, voire trois de ses cinq grandes psychanalyses …*savent combien*, à mesure que nous approfondissons la relation du *complexe d’Œdipe,* nous voyons *qu’il pose de problèmes, d’ambi­guïtés*.
 
 <!-- id: s1-07-0037 -->
 
@@ -254,7 +254,7 @@ C’est un article qui date de 1930 et s’intitule *Importance de la formation 
 
 <!-- id: s1-07-0062 -->
 
-Je vous dirai ensuite *-* ce qui est l’introduction du chapitre *-* comment elle conçoit en général le passage d’un cer­tain stade à un autre, et ensuite comment elle applique ces considérations, com­ment elle comprend à travers ces considérations le cas de l’enfant, l’amorce du traitement qu’elle nous donne, sa compréhension du traitement. Pour finir, je dirai comment j’ai régi là-devant.
+Je vous dirai ensuite - ce qui est l’introduction du chapitre - comment elle conçoit en général le passage d’un cer­tain stade à un autre, et ensuite comment elle applique ces considérations, com­ment elle comprend à travers ces considérations le cas de l’enfant, l’amorce du traitement qu’elle nous donne, sa compréhension du traitement. Pour finir, je dirai comment j’ai régi là-devant.
 
 <!-- id: s1-07-0063 -->
 
@@ -1029,6 +1029,7 @@ The ego’s excessive and premature defence against sadism checks the establishi
 <!-- id: s1-07-0255 -->
 
 This withdrawal becomes the basis of the lack of affect and anxiety, which is one of the symptoms of dementia praecox. In this disease, therefore, the regression would go right back to the early phase of development in which the sadistic appropriation and destruction of the interior of the mother’s body, as conceived of by the subject in phantasy, together with the establishing of the relation to reality, was prevented or checked owing to anxiety. <sup>1</sup> I will cite elsewhere the material upon which I am basing this view and will give more detailed reason in support of it. (Cf. my *Psycho-Analysis of Children.)*
+
 ## Notes
 
 [^13]: Phrase prononcée par Philippe « Le hardi », fils du roi de France Jean II, le 19 septembre 1356 lors de la bataille de Poitiers.

@@ -402,7 +402,7 @@ Par opposition, quelle différence y a-t-il entre quelque chose qui est de l’o
 
 <!-- id: s3-01-0095 -->
 
-Pour entrer par exemple dans le champ de l’expérience où nous allons commencer de nous introduire, celle de notre *psychotique,* prenons quelque chose de tout à fait élémentaire. L’un de nos psychotiques nous raconte dans quel monde étrange il est entré depuis quelques temps : tout pour lui est devenu *signe*, non seulement comme il le raconte il est épié, observé, surveillé : « *on parle, on dit, on indique, on le regarde, on cligne de l’œil »*, mais cela peut aller beaucoup plus loin, cela peut envahir - vous allez voir tout de suite l’ambiguïté s’établir *-* nous dirons le champ des objets réels inanimés, non-humains.
+Pour entrer par exemple dans le champ de l’expérience où nous allons commencer de nous introduire, celle de notre *psychotique,* prenons quelque chose de tout à fait élémentaire. L’un de nos psychotiques nous raconte dans quel monde étrange il est entré depuis quelques temps : tout pour lui est devenu *signe*, non seulement comme il le raconte il est épié, observé, surveillé : « *on parle, on dit, on indique, on le regarde, on cligne de l’œil »*, mais cela peut aller beaucoup plus loin, cela peut envahir - vous allez voir tout de suite l’ambiguïté s’établir - nous dirons le champ des objets réels inanimés, non-humains.
 
 <!-- id: s3-01-0096 -->
 
@@ -410,7 +410,7 @@ Regardons-y de plus près avant de voir de quoi il s’agit s’il rencontre dan
 
 <!-- id: s3-01-0097 -->
 
-Posons-nous des questions à propos d’un phénomène aussi simple, le phénomène de l’intuition délirante de ce sujet à propos de la valeur de cette *auto rouge*. Il est très souvent d’ailleurs tout à fait incapable, sans qu’elle ait pour lui une signification maxima*,* de préciser cette signification qui reste ambiguë : est-elle favorable, est-elle menaçante *?* Il est quelquefois incapable de trancher sur le plan de cette caractéristique, *mais assurément l’auto est là pour quelque chose.*
+Posons-nous des questions à propos d’un phénomène aussi simple, le phénomène de l’intuition délirante de ce sujet à propos de la valeur de cette *auto rouge*. Il est très souvent d’ailleurs tout à fait incapable, sans qu’elle ait pour lui une signification maxima, de préciser cette signification qui reste ambiguë : est-elle favorable, est-elle menaçante ? Il est quelquefois incapable de trancher sur le plan de cette caractéristique, *mais assurément l’auto est là pour quelque chose.*
 
 <!-- id: s3-01-0098 -->
 
@@ -574,7 +574,7 @@ Je vous le rappelle brièvement, vous savez que tout ce qui s’introduit dans l
 
 <!-- id: s3-01-0134 -->
 
-Là-dessus, le texte de FREUD est sans ambiguïté * *: *si l’Homme aux loups n’est pas sans tendance ni propriété psychotique*…
+Là-dessus, le texte de FREUD est sans ambiguïté : *si l’Homme aux loups n’est pas sans tendance ni propriété psychotique*…
 
 <!-- id: s3-01-0135 -->
 
@@ -713,6 +713,7 @@ Je crois aujourd’hui n’avoir pu faire autre chose que de vous apporter l’i
 <!-- id: s3-01-0168 -->
 
 Cette élaboration notionnelle avec ce qu’elle comporte pour nous de « *formation »*, au sens de *rectification des perspectives*, est quelque chose qui peut avoir des incidences les plus directes dans la façon dont nous penserons, ou tout au moins dont nous nous garderons de penser, ce qu’est et ce que doit être dans sa visée, l’expérience de chaque jour.
+
 ## Notes
 
 [^1]: Paul Sérieux et Joseph Capgras : [*Les folies raisonnantes : le délire d’interprétation*](http://web2.bium.univ-paris5.fr/livanc/?cote=61092&do=pages), Alcan, 1909.

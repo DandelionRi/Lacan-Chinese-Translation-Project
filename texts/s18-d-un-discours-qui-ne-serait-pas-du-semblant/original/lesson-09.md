@@ -232,7 +232,7 @@ Pour la raison que *la jouissance*, « *c’est très peu pour elle* », puisq
 
 <!-- id: s18-09-0055 -->
 
-*Le semblant dénoncé par la vérité pure est*, il faut le reconnaître, *assez*-*phalle*, assez intéressé...
+*Le semblant dénoncé par la vérité pure est*, il faut le reconnaître, *assez-phalle*, assez intéressé...
 
 <!-- id: s18-09-0056 -->
 
@@ -367,7 +367,7 @@ pas le langage ...*l’écriture donne os à toutes les jouissances qui, de par 
 
 <!-- id: s18-09-0088 -->
 
-Tel est *l’Autre de* *la jouissance *: à jamais *inter*-*dit* celui dont le langage ne permet *l’habitation* qu’à le fournir...
+Tel est *l’Autre de* *la jouissance *: à jamais *inter-dit* celui dont le langage ne permet *l’habitation* qu’à le fournir...
 
 <!-- id: s18-09-0089 -->
 
@@ -421,7 +421,7 @@ Nous aimons à le croire, enfin cela nous laisse tout de même dans l’embarras
 
 <!-- id: s18-09-0100 -->
 
-Le chemin parcouru n’est-ce pas pour l’inscrire \[*traces de pas sur le sol lunaire*\], pour se tirer de cet *embarras*, il faut comprendre que c’est l’accomplissement du *signifiant de A barré* de mon graphe : S(A)**.**
+Le chemin parcouru n’est-ce pas pour l’inscrire \[*traces de pas sur le sol lunaire*\], pour se tirer de cet *embarras*, il faut comprendre que c’est l’accomplissement du *signifiant de A barré* de mon graphe : S(A).
 
 <!-- id: s18-09-0101 -->
 
@@ -485,7 +485,7 @@ C’est ce vide qu’avait relevé - sans fard - l’existentialisme, après que
 
 <!-- id: s18-09-0116 -->
 
-> la phénoménologie, hein : bien plus *faux*-*jeton*... ...eût jeté le gant de ses exercices respiratoires.
+> la phénoménologie, hein : bien plus *faux-jeton*... ...eût jeté le gant de ses exercices respiratoires.
 
 <!-- id: s18-09-0117 -->
 
@@ -698,7 +698,7 @@ C’est bien en effet ce que j’écris et dont il serait facile, à relire Aris
 
 <!-- id: s18-09-0168 -->
 
-Le choix de Πας \[paz\], Πασα \[passa\], Παν \[pan\]*,* le choix de ce vocable plutôt que celui d’εχαστος \[ekastos, chaque\] pour désigner *la proposition universelle affirmative*, comme *la négative* d’ailleurs, enfin toute cette *pan*-talonnade de la première grande logique formelle, est tout à fait essentiellement lié à l’idée qu’Aristote se fait de la femme.
+Le choix de Πας \[paz\], Πασα \[passa\], Παν \[pan\], le choix de ce vocable plutôt que celui d’εχαστος \[ekastos, chaque\] pour désigner *la proposition universelle affirmative*, comme *la négative* d’ailleurs, enfin toute cette *pan*-talonnade de la première grande logique formelle, est tout à fait essentiellement lié à l’idée qu’Aristote se fait de la femme.
 
 <!-- id: s18-09-0169 -->
 
@@ -923,7 +923,7 @@ C’est tout à fait vrai, même à tenir compte des efforts faits pour nous sug
 
 <!-- id: s18-09-0223 -->
 
-La note donnée par Lévi-Strauss dans *Les* *Structures* [^79]*,* de l’action de parade exercée par ces structures à l’endroit de l’amour, ici tranche heureusement.
+La note donnée par Lévi-Strauss dans *Les* *Structures* [^79], de l’action de parade exercée par ces structures à l’endroit de l’amour, ici tranche heureusement.
 
 <!-- id: s18-09-0224 -->
 
@@ -1160,7 +1160,7 @@ Il s’agit seulement de savoir où cela peut nous conduire.
     Il a régné de 1449 à 1473. En 1489 il fait construire le temple du 銀閣寺 Ginkaku-ji, ou *Pavillon d’Argent* à Kyōto.
 
 
-[^75]: La première édition des *Écrits* en espagnol avait pour titre : « *Lectura estructuralista de Freud* »*,* trad. Tomas Segovia.* *
+[^75]: La première édition des *Écrits* en espagnol avait pour titre : « *Lectura estructuralista de Freud* », trad. Tomas Segovia.* *
 
 
 [^76]: André Green : « *Un œil en trop* » (*le complexe d’Œdipe dans la tragédie*), Paris, Minuit, p. 264.

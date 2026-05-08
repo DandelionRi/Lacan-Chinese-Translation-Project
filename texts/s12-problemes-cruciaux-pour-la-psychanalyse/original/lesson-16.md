@@ -110,7 +110,7 @@ Le texte introduit la question inaugurale de Hans par la phrase :
 
 <!-- id: s12-16-0027 -->
 
-> « *Mama, hast du auch einen Wiwimacher ?* » « *Maman, as-tu également un  Wiwimacher ?* » …suivie, à propos du pis de la vache : 
+> « *Mama, hast du auch einen Wiwimacher ?* » « *Maman, as-tu également un  Wiwimacher ?* » …suivie, à propos du pis de la vache :
 
 <!-- id: s12-16-0028 -->
 
@@ -234,7 +234,7 @@ Une extraordinaire constellation signifiante apparaît ainsi à ce point autour 
 
 <!-- id: s12-16-0058 -->
 
-- le « U » de *Blut* pointe la castration imaginaire vécue dans la parole de la mère. 
+- le « U » de *Blut* pointe la castration imaginaire vécue dans la parole de la mère.
 
 <!-- id: s12-16-0059 -->
 
@@ -326,7 +326,7 @@ Une telle approche peut-elle apporter un jour nouveau à la compréhension de la
 
 <!-- id: s12-16-0081 -->
 
-Les travaux de WINNICOT[^125] chez l’enfant, qui s’incarne dans le phonème (*La psychanalyse* n° 5, pp. 2l-4l), ou ceux de PERRIER[^126] 
+Les travaux de WINNICOT[^125] chez l’enfant, qui s’incarne dans le phonème (*La psychanalyse* n° 5, pp. 2l-4l), ou ceux de PERRIER[^126]
 
 <!-- id: s12-16-0082 -->
 
@@ -362,7 +362,7 @@ Toute la dynamique de ce rêve s’exprime par le passage du « A » de : *M<u>
 
 <!-- id: s12-16-0090 -->
 
-C’est dans ce même rêve, que d’avoir mis un *RE* (*R*) anglais là où il ne convenait pas, amène les pensées de FREUD à la scène infantile de caractère incestueux où il fut chassé par un mot énergique du père, *ein Machtwort* : littéralement un mot de pouvoir ou d’autorité, qui fut peut-être simplement « *fort* *!* »
+C’est dans ce même rêve, que d’avoir mis un *RE* (*R*) anglais là où il ne convenait pas, amène les pensées de FREUD à la scène infantile de caractère incestueux où il fut chassé par un mot énergique du père, *ein Machtwort* : littéralement un mot de pouvoir ou d’autorité, qui fut peut-être simplement « *fort!* »
 
 <!-- id: s12-16-0091 -->
 
@@ -430,7 +430,7 @@ C’est dans le « *Fort-Da, oh !* » de l’absence, « *ah !* » de la pré
 
 <!-- id: s12-16-0107 -->
 
-« *C’est ainsi que le symbole se manifeste d’abord comme meurtre de la chose et cette mort constitue pour le sujet l’éternisation de son désir »* 
+« *C’est ainsi que le symbole se manifeste d’abord comme meurtre de la chose et cette mort constitue pour le sujet l’éternisation de son désir »*
 
 <!-- id: s12-16-0108 -->
 
@@ -552,7 +552,7 @@ La spécificité d’une demande ou la première séance.
 
 <!-- id: s12-16-0137 -->
 
-(S. FREUD* : L’Homme aux rats*)*.*
+(S. FREUD* : L’Homme aux rats*).
 
 <!-- id: s12-16-0138 -->
 

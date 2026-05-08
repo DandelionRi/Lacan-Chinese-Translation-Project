@@ -88,7 +88,7 @@ Or jusqu’à présent rien ne nous l’assure, pour autant que ce domaine de *l
 
 <!-- id: s12-12-0021 -->
 
-Ce n’est point tant parce qu’il a été en fait *- et réellement -* que dans une fonction, dans une fonction qui est autre, qui fait en particulier que ce qui sert dans l’analyse *-* à ce nourrissage *-* de symbole, à savoir *le sein maternel*, est absolument exclusivement…
+Ce n’est point tant parce qu’il a été en fait *- et réellement -* que dans une fonction, dans une fonction qui est autre, qui fait en particulier que ce qui sert dans l’analyse - à ce nourrissage - de symbole, à savoir *le sein maternel*, est absolument exclusivement…
 
 <!-- id: s12-12-0022 -->
 
@@ -276,7 +276,7 @@ de la *bande de Mœbius* périphérique et de cette rondelle réduite, de ce que
 
 <!-- id: s12-12-0068 -->
 
-- et qui apparaît comme la cause d’une reprise par le sujet de ce qui s’appelle *fantasme* \[S**◊***a*\], et qui à l’horizon de la demande fait apparaître la structure du désir dans son ambiguïté.
+- et qui apparaît comme la cause d’une reprise par le sujet de ce qui s’appelle *fantasme* \[S◊*a*\], et qui à l’horizon de la demande fait apparaître la structure du désir dans son ambiguïté.
 
 <!-- id: s12-12-0069 -->
 
@@ -324,7 +324,7 @@ Car ici, il ressort de ce qui dans les théories de la technique et des communic
 
 <!-- id: s12-12-0080 -->
 
-Il est clair que de centrer autour du surgissement de ce fantasme, en tant qu’il apparaît au niveau de l’Autre, c’est-à-dire de l’analyste, un repérage , une approche, une critique de l’approche de la réalité, qui semblerait dans cette perspective être la clé, le gond, la porte, par où peut se résoudre la mise en accord du sujet avec un indiqué prétendu objet réel*,* c’est là quelque chose qui se distingue en tout cas, d’une autre pensée, d’une autre théorie, moyennant quoi il ne saurait y avoir d’analyse qui puisse d’aucune façon se dire achevée, si ce n’est pas au niveau du sujet lui-même…
+Il est clair que de centrer autour du surgissement de ce fantasme, en tant qu’il apparaît au niveau de l’Autre, c’est-à-dire de l’analyste, un repérage , une approche, une critique de l’approche de la réalité, qui semblerait dans cette perspective être la clé, le gond, la porte, par où peut se résoudre la mise en accord du sujet avec un indiqué prétendu objet réel, c’est là quelque chose qui se distingue en tout cas, d’une autre pensée, d’une autre théorie, moyennant quoi il ne saurait y avoir d’analyse qui puisse d’aucune façon se dire achevée, si ce n’est pas au niveau du sujet lui-même…
 
 <!-- id: s12-12-0081 -->
 
@@ -512,7 +512,7 @@ C’est-à-dire qu’il n’est en aucun cas *quoi que ce soit*, qui par l’ana
 [^92]: Plaute : [*Comédies* tome I, *Pœnulus, prologue*](http://remacle.org/bloodwolf/Plaute/spectateurs1.htm).
 
 
-[^93]: S. Freud : *Esquisse d'une psychologie,* Érès, 2011, bilingue*.*
+[^93]: S. Freud : *Esquisse d'une psychologie,* Érès, 2011, bilingue.
 
 
 [^94]: M. Bouvet : *La psychanalyse d'aujourd'hui*, Paris, PUF, 1956.
@@ -521,6 +521,6 @@ C’est-à-dire qu’il n’est en aucun cas *quoi que ce soit*, qui par l’ana
 [^95]: Cf. séminaire 1960-61 : *Le transfert*... Seuil, 2001.
 
 
-[^96]: [<span class="smallcaps">Rabelais</span> François, *Vie très horrifique du Grand Gargantua*](http://un2sg4.unige.ch/athena/rabelais/rab_garg.html)*,* Livre I<sup>er</sup>, prologue :
+[^96]: [<span class="smallcaps">Rabelais</span> François, *Vie très horrifique du Grand Gargantua*](http://un2sg4.unige.ch/athena/rabelais/rab_garg.html), Livre I<sup>er</sup>, prologue :
 
     *« Buveurs très illustres et vous très précieux vérolés, car c’est à vous que je dédie mes écrits et non à personne d’autre, Alcibiade, ou le dialogue de Platon intitulé le Banquet, louant son précepteur Socrate, qui est sans controverse le Prince des philosophes, dit entre autres mots qu’il est semblable à Silènes. Silènes était jadis de petites boites, que que nous voyons aujourd’hui présentes dans la boutique des apothicaires, peintes au dessus de joyeuses et frivoles figures, comme les harpies, les satyres, les oisons bridés, les lièvres cornus, les canes bâtées, les boucs volants, les cerfs limoniers et autres figures  ou images peintes à plaisir pour exciter le monde à rire. (comme le fut Silène, maître du bon Bacchus): mais au dedans, on y tenait de fins remèdes comme les baumes, l’ambre gris, l’amomon, le musc, la civette, les pierreries, et autres choses précieuses. Aussi précieux que l’on disait être Socrate, parce que le voyant d’apparence extérieure, et l’estimant par cette apparence, vous n’en auriez donné une pelure d’oignon, tant il était laid de corps et ridicule de son maintien, le nez pointu, le regard d’un taureau, le visage d’un fou, simple de manières et ridicule de maintien, pauvre de bien, infortuné avec les femmes, inapte à tous offices de la République, toujours riant, toujours buvant d’autant avec l’un ou avec l’autre, toujours se réjouissant, toujours dissimulant son divin savoir, mais ouvrant cette boîte, vous auriez alors trouvé une céleste et appréciable drogue. Compréhension plus qu’une humaine, vertus merveilleuses, courage invincible, sobriété non pareille, contentement certain, assurance parfaite, mépris incroyable de tout ce pourquoi les humains sont pris de convoitise, travaillent, courent, naviguent et bataillent.*».

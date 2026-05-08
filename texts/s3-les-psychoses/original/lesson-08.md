@@ -602,7 +602,7 @@ Qu’il y avait là une mise en valeur de la chaîne symbolique dans sa dimensio
 
 <!-- id: s3-08-0149 -->
 
-Ceci aussi mérite de nous retenir dans son détail, l’évolu­tion en tant que telle de la relation du sujet au langage, le fait pendant longtemps qu’il y a là pour lui la même chose que dans le monde imaginaire, un danger perpétuellement su, que toute la *fantasmagorie* ne se réduise à une unité qui en fin de compte annihile, non pas son existence, mais juste­ment l’existence de Dieu *qui est essentiellement langage* - il l’écrit formellement - il dit : « *Les rayons doivent parler* ». Le fait qu’il faut donc qu’il se produise à tout instant des phéno­mènes de diversion pour que Dieu soit SCHREBER, fait d’une complète résorption dans l’existence centrale du sujet, n’est pas non plus quelque chose qui mérite pour nous d’être tenu comme allant de soi, et qui va en tout cas nous illustrer ce qu’il y a de fondamentalement vrai dans les rapports créa­teurs*.*
+Ceci aussi mérite de nous retenir dans son détail, l’évolu­tion en tant que telle de la relation du sujet au langage, le fait pendant longtemps qu’il y a là pour lui la même chose que dans le monde imaginaire, un danger perpétuellement su, que toute la *fantasmagorie* ne se réduise à une unité qui en fin de compte annihile, non pas son existence, mais juste­ment l’existence de Dieu *qui est essentiellement langage* - il l’écrit formellement - il dit : « *Les rayons doivent parler* ». Le fait qu’il faut donc qu’il se produise à tout instant des phéno­mènes de diversion pour que Dieu soit SCHREBER, fait d’une complète résorption dans l’existence centrale du sujet, n’est pas non plus quelque chose qui mérite pour nous d’être tenu comme allant de soi, et qui va en tout cas nous illustrer ce qu’il y a de fondamentalement vrai dans les rapports créa­teurs.
 
 <!-- id: s3-08-0150 -->
 
@@ -650,7 +650,7 @@ Assurément grâce à lui subsiste quelqu’un qui peut dire une vraie parole, e
 
 <!-- id: s3-08-0161 -->
 
-C’est là que nous devons centrer notre étude du phéno­mène, nous n’avons bien entendu aucun moyen puisque nous ne connaissons pas ce sujet, et que nous ne pouvons y entrer autrement d’une façon approfondie que par la phéno­ménologie de son langage*.* C’est donc autour du phénomène du langage, des phénomènes de langage…
+C’est là que nous devons centrer notre étude du phéno­mène, nous n’avons bien entendu aucun moyen puisque nous ne connaissons pas ce sujet, et que nous ne pouvons y entrer autrement d’une façon approfondie que par la phéno­ménologie de son langage. C’est donc autour du phénomène du langage, des phénomènes de langage…
 
 <!-- id: s3-08-0162 -->
 
@@ -667,6 +667,7 @@ C’est par là qu’il apporte une dimension nouvelle, non éclairée jusqu’i
 <!-- id: s3-08-0165 -->
 
 *  *
+
 ## Notes
 
 [^17]: Cf. - Jacques Lacan : [*Intervention sur l’exposé de D. Lagache *: « *Le problème du transfert* »](http://www.ecole-lacanienne.net/pictures/mynews/9917835CB831A5EB84B0E347B2992D86/1951-11-01.pdf) (E.L.P.),

@@ -80,7 +80,7 @@ Je vous ai déjà fait remarquer qu’il est impos­sible de *structurer l’exp
 
 <!-- id: s6-23-0019 -->
 
-Et qu’en tant qu’*être*, c’est *dans les intervalles* qu’il apparaît à un niveau que nous essayerons peut-être, un peu plus loin, d’articuler *d’une façon* que là, délibérément, je vais faire *plus ambiguë* que celle de l’*Un* telle que je viens de l’introduire, puisque, *elle*, je ne pense pas qu’on ait encore essayé de bien l’articuler comme telle dans son *ambiguïté* même. C’est la notion du « *pas Un* »*.* C’est en tant que ce S apparaît ici comme ce « *pas Un* » que nous allons reprendre et revoir, que nous allons avoir affaire à lui aujourd’hui.
+Et qu’en tant qu’*être*, c’est *dans les intervalles* qu’il apparaît à un niveau que nous essayerons peut-être, un peu plus loin, d’articuler *d’une façon* que là, délibérément, je vais faire *plus ambiguë* que celle de l’*Un* telle que je viens de l’introduire, puisque, *elle*, je ne pense pas qu’on ait encore essayé de bien l’articuler comme telle dans son *ambiguïté* même. C’est la notion du « *pas Un* ». C’est en tant que ce S apparaît ici comme ce « *pas Un* » que nous allons reprendre et revoir, que nous allons avoir affaire à lui aujourd’hui.
 
 <!-- id: s6-23-0020 -->
 
@@ -288,7 +288,7 @@ Et je vous demande encore un temps, avant d’entrer dans cette articulation, po
 
 <!-- id: s6-23-0070 -->
 
-La tragédie finit avec « *le nom du héros* » et avec *la totale identification du héros* : HAMLET est HAMLET, il est tel *nom*. C’est même parce que son père était déjà HAMLET qu’en fin de compte tout se résout là, à savoir qu’HAMLET est définitivement aboli dans son désir. Je crois en avoir assez dit maintenant avec HAMLET*.*
+La tragédie finit avec « *le nom du héros* » et avec *la totale identification du héros* : HAMLET est HAMLET, il est tel *nom*. C’est même parce que son père était déjà HAMLET qu’en fin de compte tout se résout là, à savoir qu’HAMLET est définitivement aboli dans son désir. Je crois en avoir assez dit maintenant avec HAMLET.
 
 <!-- id: s6-23-0071 -->
 
@@ -396,7 +396,7 @@ Ce n’est pas de cela du tout qu’il s’agit, et c’est pour cela que *le fa
 
 <!-- id: s6-23-0097 -->
 
-On a l’habitude de nous dire : « *C’est très simple, c’est très joli ce fantasme per­vers, la pulsion scoptophilique* ». Bien sûr on aime regarder, on aime être regardé, ces *charmantes pulsions vitales*, comme dit quelque part Paul ÉLUARD. Il y a en somme là quelque chose, la pulsion, qui se complaît à ce que le poème d’ÉLUARD exprimait très joliment sous la formule « *Donner à voir* »*,* manifestation de la forme s’offrant d’elle-même à l’autre.
+On a l’habitude de nous dire : « *C’est très simple, c’est très joli ce fantasme per­vers, la pulsion scoptophilique* ». Bien sûr on aime regarder, on aime être regardé, ces *charmantes pulsions vitales*, comme dit quelque part Paul ÉLUARD. Il y a en somme là quelque chose, la pulsion, qui se complaît à ce que le poème d’ÉLUARD exprimait très joliment sous la formule « *Donner à voir* », manifestation de la forme s’offrant d’elle-même à l’autre.
 
 <!-- id: s6-23-0098 -->
 
@@ -508,7 +508,7 @@ L’objet, disons *féminin* puisque, semble-t-il, ce ne soit pas pour rien que 
 
 <!-- id: s6-23-0124 -->
 
-La créature sur­prise sera d’autant plus érotisable, dirais-je, que quelque chose dans ses gestes peut nous la révéler comme s’offrant à ce que j’appellerai *les hôtes invisibles de l’air*. Ce n’est pas pour rien que je les évoque ici. Ceux-là s’appellent des « *anges de la chrétienté* » ceux que Monsieur Anatole FRANCE a eu le culot d’impliquer dans cette affaire. Lisez *La révolte des anges* [^111]*,* vous y verrez à tout le moins le lien très précis qui unit la dialectique du désir avec cette sorte de *virtualité d’un œil*, insaisissable mais toujours imaginable.
+La créature sur­prise sera d’autant plus érotisable, dirais-je, que quelque chose dans ses gestes peut nous la révéler comme s’offrant à ce que j’appellerai *les hôtes invisibles de l’air*. Ce n’est pas pour rien que je les évoque ici. Ceux-là s’appellent des « *anges de la chrétienté* » ceux que Monsieur Anatole FRANCE a eu le culot d’impliquer dans cette affaire. Lisez *La révolte des anges* [^111], vous y verrez à tout le moins le lien très précis qui unit la dialectique du désir avec cette sorte de *virtualité d’un œil*, insaisissable mais toujours imaginable.
 
 <!-- id: s6-23-0125 -->
 
@@ -582,7 +582,7 @@ Je veux dire que désormais le S dans le fantasme, en tant que confronté et opp
 
 <!-- id: s6-23-0142 -->
 
-…je vous demande d’admettre la notion suivante :je me permets même le ridicule de me référer à une notation de √-1 concernant les *imaginaires*. Je vous ai laissés au bord du « *pas Un* » dans cet évanouissement du sujet. C’est à ce « *pas Un* »*,* et même à ce « *comme pas un* » en tant que c’est lui qui nous donne l’ouverture sur *l’unicité du sujet* que je reprendrai la prochaine fois. Mais si je vous demande de le noter de cette façon, c’est justement pour que vous n’y voyiez pas la forme la plus générale, et du même coup la plus confuse, de la négation.
+…je vous demande d’admettre la notion suivante :je me permets même le ridicule de me référer à une notation de √-1 concernant les *imaginaires*. Je vous ai laissés au bord du « *pas Un* » dans cet évanouissement du sujet. C’est à ce « *pas Un* », et même à ce « *comme pas un* » en tant que c’est lui qui nous donne l’ouverture sur *l’unicité du sujet* que je reprendrai la prochaine fois. Mais si je vous demande de le noter de cette façon, c’est justement pour que vous n’y voyiez pas la forme la plus générale, et du même coup la plus confuse, de la négation.
 
 <!-- id: s6-23-0143 -->
 
@@ -604,4 +604,4 @@ S’il est tellement difficile de parler de la négation, c’est que personne n
 
 [^112]: [Paul Valéry : *La jeune Parque*](http://fr.wikisource.org/wiki/La_Jeune_Parque) :
 
-    « ...*Et dans mes doux liens, à mon sang suspendue, Je me voyais me voir, sinueuse, et dorais De regards en regards, mes profondes forêts*…*** **».*
+    « ...*Et dans mes doux liens, à mon sang suspendue, Je me voyais me voir, sinueuse, et dorais De regards en regards, mes profondes forêts*…* ».*

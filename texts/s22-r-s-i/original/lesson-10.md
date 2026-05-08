@@ -58,7 +58,7 @@ C’est pas Joyce qui est le responsable d’être englué comme ça dans « *l
 
 <!-- id: s22-10-0014 -->
 
-Mais c’est pas dû seulement à ça, vous êtes tout aussi englués dans « *la sphère et dans la croix* ». Elle est là sur la petite page : 
+Mais c’est pas dû seulement à ça, vous êtes tout aussi englués dans « *la sphère et dans la croix* ». Elle est là sur la petite page :
 
 <!-- id: s22-10-0015 -->
 
@@ -122,7 +122,7 @@ Ce qui semblerait s<sup>’</sup>imposer tout autant, enfin si de A et de B on f
 
 <!-- id: s22-10-0030 -->
 
-C’est un fait dont le moins qu’on puisse dire est qu’il est curieux que je m’intéresse au nœud bor­roméen*,* parce que dites-vous bien que le nœud borroméen, c’est pas for­cément ce que je vous ai dessiné cent fois.
+C’est un fait dont le moins qu’on puisse dire est qu’il est curieux que je m’intéresse au nœud bor­roméen, parce que dites-vous bien que le nœud borroméen, c’est pas for­cément ce que je vous ai dessiné cent fois.
 
 <!-- id: s22-10-0031 -->
 
@@ -334,7 +334,7 @@ Il y a quand même quelqu’un, qui un jour...
 
 > il y a encore beaucoup de carrefours, beau­coup de coins de rues, bien sûr,
 >
-> je sais pas ce qui lui a pris de penser qu’il y aurait plus de carrefours, qu’il y aurait toujours des passages souterrains ...que ce temps mériterait un meilleur sort que de rester dans la théologie générale*.*
+> je sais pas ce qui lui a pris de penser qu’il y aurait plus de carrefours, qu’il y aurait toujours des passages souterrains ...que ce temps mériterait un meilleur sort que de rester dans la théologie générale.
 
 <!-- id: s22-10-0082 -->
 
@@ -358,7 +358,7 @@ C’est *une cosméticologie, cosméticuleuse* en plus. C’est une tradition, g
 
 <!-- id: s22-10-0087 -->
 
-Grâce à ce *Welt* \[*monde*\], il y a l’*Umwelt* \[*environnement*\] et puis il y a l’*Innenwelt* \[*monde intérieur*\]*.*
+Grâce à ce *Welt* \[*monde*\], il y a l’*Umwelt* \[*environnement*\] et puis il y a l’*Innenwelt* \[*monde intérieur*\].
 
 <!-- id: s22-10-0088 -->
 
@@ -528,7 +528,7 @@ Il est quand même curieux que même Descartes...
 
 <!-- id: s22-10-0129 -->
 
-> sa *Regula decima* \[« *Règle 10* », *cf. supra*\]*,* à savoir celle que je vous ai pointée ...même lui, concernant...
+> sa *Regula decima* \[« *Règle 10* », *cf. supra*\], à savoir celle que je vous ai pointée ...même lui, concernant...
 
 <!-- id: s22-10-0130 -->
 

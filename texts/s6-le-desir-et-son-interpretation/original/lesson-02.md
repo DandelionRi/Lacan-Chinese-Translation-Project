@@ -184,7 +184,7 @@ Les procès donc sont simultanés dans ces quatre *trajets* : D – Δ – I –
 
 > \[*Niveau* 1 : D → A... *et* Δ → A → s(A) → I,
 >
-> *Niveau* 2 : S(A) →(S**◊**D**),** *et* A → *d* → (S**◊**D**)** → S(A) → *s*(A)\]
+> *Niveau* 2 : S(A) →(S◊D), *et* A → *d* → (S◊D) → S(A) → *s*(A)\]
 
 <!-- id: s6-02-0045 -->
 
@@ -552,7 +552,7 @@ On ne peut au premier abord que s’étonner que vous ne le reconnaissiez pas, c
 
 <!-- id: s6-02-0134 -->
 
-Je parle tout simplement, comme admission des prémisses que nous situons ici au niveau du code. La formule S**◊***a* le sujet en tant que marqué par le signifiant en présence de sa demande comme donnant le matériel, le code de ce discours véritable qui est le véritable discours de l’être à ce niveau.
+Je parle tout simplement, comme admission des prémisses que nous situons ici au niveau du code. La formule S◊*a* le sujet en tant que marqué par le signifiant en présence de sa demande comme donnant le matériel, le code de ce discours véritable qui est le véritable discours de l’être à ce niveau.
 
 <!-- id: s6-02-0135 -->
 
@@ -612,7 +612,7 @@ Vous pouvez remarquer que dans la forme complète du schéma, vous avez ici une 
 
 <!-- id: s6-02-0149 -->
 
-- et S en face de *petit(a)* \[S**◊***a*\] signifie – je l’ai déjà dit, donc je le répète – *le fantasme*.
+- et S en face de *petit(a)* \[S◊*a*\] signifie – je l’ai déjà dit, donc je le répète – *le fantasme*.
 
 <!-- id: s6-02-0150 -->
 

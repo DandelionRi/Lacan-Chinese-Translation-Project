@@ -96,7 +96,7 @@ Ce qu’il s’agit donc d’introduire aujourd’hui, et d’autant plus rapide
 
 <!-- id: s14-21-0023 -->
 
-> dont ce n’est pas ici, à cette heure, ni la pre­mière fois que j’introduits le terme …*dans quelque chose* que je nomme comme étant *la jouissance,* j’entends comme dès longtemps introduite et nommément dans mon séminai­re sur *L*’*Éthique* \[1959-60\]*.*Il est en effet exigible que ce terme de *jouissance* soit proféré et proprement comme *distinct du plaisir*, comme en constituant *l’au-delà*.
+> dont ce n’est pas ici, à cette heure, ni la pre­mière fois que j’introduits le terme …*dans quelque chose* que je nomme comme étant *la jouissance,* j’entends comme dès longtemps introduite et nommément dans mon séminai­re sur *L*’*Éthique* \[1959-60\].Il est en effet exigible que ce terme de *jouissance* soit proféré et proprement comme *distinct du plaisir*, comme en constituant *l’au-delà*.
 
 <!-- id: s14-21-0024 -->
 
@@ -306,7 +306,7 @@ Nous sommes ramenés à la question de la loi primordiale, de ce qui institue la
 
 <!-- id: s14-21-0075 -->
 
-Pour mesurer ce qu’il en est concernant ses effets sur la jouissance, il convient de poser, au niveau de ce terme, un certain nombre de principes. À savoir que si nous avons introduit *la jouissance*, c’est sous le mode - logique - de ce qu’ARISTOTE appelle une οὐσία \[ousia\], une *substance*, c’est-à-dire *quelque chose*, très précisément *qui ne peut être*… c’est ainsi qu’il s’exprime dans son livre des *Catégories* *...qui ne peut être* ni attribué à un sujet, ni mis dans aucun sujet. C’est *quelque chose* qui n’est pas susceptible de « *plus ou de moins* », qui ne s’introduit dans aucun comparatif, dans aucun signe « *plus petit ou plus grand* »*,* voire « *plus petit ou égal* »*.*
+Pour mesurer ce qu’il en est concernant ses effets sur la jouissance, il convient de poser, au niveau de ce terme, un certain nombre de principes. À savoir que si nous avons introduit *la jouissance*, c’est sous le mode - logique - de ce qu’ARISTOTE appelle une οὐσία \[ousia\], une *substance*, c’est-à-dire *quelque chose*, très précisément *qui ne peut être*… c’est ainsi qu’il s’exprime dans son livre des *Catégories...qui ne peut être* ni attribué à un sujet, ni mis dans aucun sujet. C’est *quelque chose* qui n’est pas susceptible de « *plus ou de moins* », qui ne s’introduit dans aucun comparatif, dans aucun signe « *plus petit ou plus grand* », voire « *plus petit ou égal* ».
 
 <!-- id: s14-21-0076 -->
 
@@ -548,7 +548,7 @@ Et s’il est vrai que *quelque chose du réel de la jouissance ne peut subsiste
 
 <!-- id: s14-21-0135 -->
 
-Or, le pervers… le pervers, eh bien, c’est cela qu’il est : la perversion est à la recherche de ce point de perspec­tive, pour autant qu’il peut faire surgir l’accent de *la jouissance*. Mais il le recherche d’une façon expérimentale*.*
+Or, le pervers… le pervers, eh bien, c’est cela qu’il est : la perversion est à la recherche de ce point de perspec­tive, pour autant qu’il peut faire surgir l’accent de *la jouissance*. Mais il le recherche d’une façon expérimentale.
 
 <!-- id: s14-21-0136 -->
 

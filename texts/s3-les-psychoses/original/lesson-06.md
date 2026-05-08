@@ -66,7 +66,8 @@ Et j’en viens à indiquer, après avoir brièvement rappelé ce que nous faiso
 
 <!-- id: s3-06-0016 -->
 
-> \[Lecture du texte « *[La chose freudienne](http://staferla.free.fr/Lacan/la_chose_freudienne.htm) *»*,* in *Écrits*, pp. 401-436\]
+> \[Lecture du texte « *[La chose freudienne](http://staferla.free.fr/Lacan/la_chose_freudienne.htm) *», in *Écrits*, pp. 401-436\]
+
 ## Notes
 
 [^14]: Cf. le long métrage de Robert Descharnes sur Salvador Dali : « *L'aventure prodigieuse de la dentellière et du rhinocéros* » (1954)»,

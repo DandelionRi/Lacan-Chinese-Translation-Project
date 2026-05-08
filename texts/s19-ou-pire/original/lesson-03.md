@@ -168,23 +168,23 @@ Nous aurons peut-être cette année, puisque j’ai annoncé que j’aurais à f
 
 <!-- id: s19-03-0041 -->
 
-### Le remarquable, dans le développement auquel tout à l’heure je me suis référé, de l’énonciation logicienne, 
+### Le remarquable, dans le développement auquel tout à l’heure je me suis référé, de l’énonciation logicienne,
 
 <!-- id: s19-03-0042 -->
 
-### où peut-être d’aucuns se seront aperçu qu’il ne s’agit de rien d’autre que du « [*théorème de Gödel*](http://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_d%27incompl%C3%A9tude_de_G%C3%B6del) » concer­nant l’arithmétique, 
+### où peut-être d’aucuns se seront aperçu qu’il ne s’agit de rien d’autre que du « [*théorème de Gödel*](http://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_d%27incompl%C3%A9tude_de_G%C3%B6del) » concer­nant l’arithmétique,
 
 <!-- id: s19-03-0043 -->
 
-### c’est que ce n’est pas à partir des *valeurs de vérité* que Gödel procède à sa démonstration... 
+### c’est que ce n’est pas à partir des *valeurs de vérité* que Gödel procède à sa démonstration...
 
 <!-- id: s19-03-0044 -->
 
-### qu’il y aura toujours dans le champ de *l’arithmétique* quelque chose d’énonçable 
+### qu’il y aura toujours dans le champ de *l’arithmétique* quelque chose d’énonçable
 
 <!-- id: s19-03-0045 -->
 
-### dans les termes propres qu’elle comporte, qui ne sera pas à la portée 
+### dans les termes propres qu’elle comporte, qui ne sera pas à la portée
 
 <!-- id: s19-03-0046 -->
 
@@ -192,7 +192,7 @@ Nous aurons peut-être cette année, puisque j’ai annoncé que j’aurais à f
 
 <!-- id: s19-03-0047 -->
 
-### ...ce n’est pas à partir de *la vérité,* c’est à partir de la notion de *dérivation*. 
+### ...ce n’est pas à partir de *la vérité,* c’est à partir de la notion de *dérivation*.
 
 <!-- id: s19-03-0048 -->
 
@@ -248,7 +248,7 @@ J’ai souvent fait remarquer qu’il ne peut le faire qu’à se réduire dans 
 
 <!-- id: s19-03-0061 -->
 
-### ...je propose d’y trou­ver *le modèle* de ce qui nous importe, à savoir *de ce que livre l’explora­tion de l’inconscient* qui loin d’être... 
+### ...je propose d’y trou­ver *le modèle* de ce qui nous importe, à savoir *de ce que livre l’explora­tion de l’inconscient* qui loin d’être...
 
 <!-- id: s19-03-0062 -->
 
@@ -256,11 +256,11 @@ J’ai souvent fait remarquer qu’il ne peut le faire qu’à se réduire dans 
 
 <!-- id: s19-03-0063 -->
 
-### ...loin d’être un sym­bolisme sexuel universel, est très précisément ce que j’ai tout à l’heure rappelé de *la castration*, 
+### ...loin d’être un sym­bolisme sexuel universel, est très précisément ce que j’ai tout à l’heure rappelé de *la castration*,
 
 <!-- id: s19-03-0064 -->
 
-### à souligner seulement qu’il est exigible qu’elle ne se réduise pas à l’*anecdote* d’une parole entendue. 
+### à souligner seulement qu’il est exigible qu’elle ne se réduise pas à l’*anecdote* d’une parole entendue.
 
 <!-- id: s19-03-0065 -->
 
@@ -358,7 +358,7 @@ Dans la ligne de *l’exploration logique du réel*, le logicien a commencé par
 
 <!-- id: s19-03-0088 -->
 
-La logique n’a commencé qu’à avoir su, *dans le langage*, isoler la fonction de ce qu’on appelle les *prosdiorismes*, qui ne sont rien d’autre que le « *Un* »*,* le « *quelque* »*,* le « *tous *» et *la négation de ces propositions*.
+La logique n’a commencé qu’à avoir su, *dans le langage*, isoler la fonction de ce qu’on appelle les *prosdiorismes*, qui ne sont rien d’autre que le « *Un* », le « *quelque* », le « *tous *» et *la négation de ces propositions*.
 
 <!-- id: s19-03-0089 -->
 
@@ -454,7 +454,7 @@ Il me semble que ceci est fait pour nous faire toucher la béance qu’il y a du
 
 <!-- id: s19-03-0112 -->
 
-C’est du même coup *mettre en question ceci qui est différent*, qui est l’usage de la lettre E également inversée : **∃**, « *il existe* ».
+C’est du même coup *mettre en question ceci qui est différent*, qui est l’usage de la lettre E également inversée : ∃, « *il existe* ».
 
 <!-- id: s19-03-0113 -->
 
@@ -546,7 +546,7 @@ C’est à savoir que rien ne peut approprier ce « *tous* » à ce « *pas 
 
 <!-- id: s19-03-0135 -->
 
-### ...ce qu’il faut c’est que malgré ce « *tous* » de la *fonction phallique* en quoi tient la dénotation de l’homme, 
+### ...ce qu’il faut c’est que malgré ce « *tous* » de la *fonction phallique* en quoi tient la dénotation de l’homme,
 
 <!-- id: s19-03-0136 -->
 
@@ -554,11 +554,11 @@ C’est à savoir que rien ne peut approprier ce « *tous* » à ce « *pas 
 
 <!-- id: s19-03-0137 -->
 
-### et « *il existe* » là veut dire *il existe* exactement comme dans la solution d’une équation mathématique 
+### et « *il existe* » là veut dire *il existe* exactement comme dans la solution d’une équation mathématique
 
 <!-- id: s19-03-0138 -->
 
-...il existe « *au moins un* »*,* il existe au moins un pour qui la vérité de sa dénotation *ne tient pas dans la fonction phallique*.
+...il existe « *au moins un* », il existe au moins un pour qui la vérité de sa dénotation *ne tient pas dans la fonction phallique*.
 
 <!-- id: s19-03-0139 -->
 
@@ -622,7 +622,7 @@ Qu’est-ce qui existe après tout ?
 
 <!-- id: s19-03-0154 -->
 
-Est-ce qu’on s’est même jamais aperçu qu’à côté du fragile, du futile, de l’inessentiel, que constitue l’« *il existe* »*,* l’« *il n’existe pas* » lui, veut dire quelque chose ?
+Est-ce qu’on s’est même jamais aperçu qu’à côté du fragile, du futile, de l’inessentiel, que constitue l’« *il existe* », l’« *il n’existe pas* » lui, veut dire quelque chose ?
 
 <!-- id: s19-03-0155 -->
 
@@ -742,7 +742,7 @@ Quant à dire que dans tout ce qu’a écrit Freud sur l’inconscient, la logiq
 
 <!-- id: s19-03-0184 -->
 
-> « *je l’aime elle, je ne l’aime pas lui* »*,* toutes les façons qu’il y a de nier le « *je l’ai­me lui *»*,*
+> « *je l’aime elle, je ne l’aime pas lui* », toutes les façons qu’il y a de nier le « *je l’ai­me lui *»,
 >
 > par exemple, c’est-à-dire par des voies grammaticales ...pour dire que l’inconscient n’est pas explorable par les voies d’une logique.
 

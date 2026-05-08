@@ -51,7 +51,7 @@ vous rappellent la connexion dès longtemps dénotée du stade anal à la scopto
 
 <!-- id: s10-23-0009 -->
 
-Il n’en reste pas moins que toutes *conjointes* que soient, deux à deux, les formes stadiques *un*-*deux*, *quatre*-*cinq*,
+Il n’en reste pas moins que toutes *conjointes* que soient, deux à deux, les formes stadiques *un-deux*, *quatre-cinq*,
 l’ensemble en est orienté selon cette flèche montante, puis descendante.
 
 <!-- id: s10-23-0010 -->
@@ -154,7 +154,7 @@ Il est en effet un peu à part au premier abord, parmi les autres de ses modes 
 
 <!-- id: s10-23-0031 -->
 
-- la valeur anticipatrice de l’image spéculaire à la prématuration néo-natale du système nerveux, tous ces faits anatomiques... que je vous ai rappelés ces der­niers temps, les uns après les autres, pour leur montrer en quoi ils se conjoignent à la *fonction de (a),* *...*tous ces faits anatomiques... dont vous pou­vez voir, à leur seule énumération, combien la place est dispersée sur l’arbre des déterminations organismiques ...ne prennent chez l’homme leur valeur de *destin*, comme dit Freud, que pour venir... cela je vous l’ai montré pour chacun ...venir bloquer une place-clé sur un échiquier dont les *cases* se structurent de la *constitution subjectivante*, telle qu’elle résulte de la dominance du « *sujet qui parle* » sur le « *sujet qui comprend* », sur le sujet de l’*insight,* dont nous connaissons, sous la forme du chimpanzé, les limites.
+- la valeur anticipatrice de l’image spéculaire à la prématuration néo-natale du système nerveux, tous ces faits anatomiques... que je vous ai rappelés ces der­niers temps, les uns après les autres, pour leur montrer en quoi ils se conjoignent à la *fonction de (a),...*tous ces faits anatomiques... dont vous pou­vez voir, à leur seule énumération, combien la place est dispersée sur l’arbre des déterminations organismiques ...ne prennent chez l’homme leur valeur de *destin*, comme dit Freud, que pour venir... cela je vous l’ai montré pour chacun ...venir bloquer une place-clé sur un échiquier dont les *cases* se structurent de la *constitution subjectivante*, telle qu’elle résulte de la dominance du « *sujet qui parle* » sur le « *sujet qui comprend* », sur le sujet de l’*insight,* dont nous connaissons, sous la forme du chimpanzé, les limites.
 
 <!-- id: s10-23-0032 -->
 
@@ -193,8 +193,7 @@ je dis « *paradoxales »* quant à leur naturel supposé
 
 C’est ainsi que cette critique s’avère, dans ce que je vous ai montré, être *la cause du désir.*
 Est-ce payer trop cher que de devoir conjoindre à cette révélation que *la notion de cause se trouve*, de ce fait, *y révéler son origine *? Évidemment, ça serait faire du *psychologisme*...
-avec toutes les conséquences absurdes que ceci a, concernant la légalité de la *Raison*
-*...*que de le réduire à *un recours*, à *un développement* de faits quelconques.
+avec toutes les conséquences absurdes que ceci a, concernant la légalité de la *Raison...*que de le réduire à *un recours*, à *un développement* de faits quelconques.
 
 <!-- id: s10-23-0038 -->
 
@@ -272,8 +271,7 @@ véritablement pour lui qui ont été illuminantes
 
 Ce sont des observations...
 j’ai été les rechercher dans leur texte original,
-des deux numéros justement qui précèdent la publication de cet article, dans le *Jahrbuch*
-*...*ce sont des cas évidemment sensationnels, encore que nous en avons vues depuis, d’autres.
+des deux numéros justement qui précèdent la publication de cet article, dans le *Jahrbuch...*ce sont des cas évidemment sensationnels, encore que nous en avons vues depuis, d’autres.
 
 <!-- id: s10-23-0050 -->
 
@@ -379,12 +377,12 @@ Il y a toute une économie bien sûr, de la fonction de l’excrément, économi
 
 Ceci n’est pas non plus absent du champ humain... et j’ai vainement cherché dans ma bibliothèque...
 pour vous le montrer ici, pour vous lancer sur cette piste - je le retrouverai, il s’est perdu, comme l’excrément
-...un petit livre admirable comme beaucoup d’autres de mon ami Aldous Huxley qui s’appelle *Adonis et l’alphabet* [^165]*.*
+...un petit livre admirable comme beaucoup d’autres de mon ami Aldous Huxley qui s’appelle *Adonis et l’alphabet* [^165].
 
 <!-- id: s10-23-0068 -->
 
 À l’intérieur de ce contenu prometteur, vous trouverez un superbe article sur l’organisation usinière,
-dans une ville de l’ouest américain, de la récupération*,* au niveau urbaniste, de *l’excrément*.
+dans une ville de l’ouest américain, de la récupération, au niveau urbaniste, de *l’excrément*.
 
 <!-- id: s10-23-0069 -->
 
@@ -463,7 +461,7 @@ j’entends d’une façon qui nous satisfasse
 s’il ne nous fallait pas, pour le com­prendre, le mettre...
 ce qui est la donnée de fait de la compréhension analy­tique
 ...le mettre en connexion avec les autres formes de *petit(a)*,
-avec le fait que l’ἄγαλμα*,* en soi, n’est pas concevable sans sa relation au *phallus*, *à son absence et à* *l’angoisse phallique* comme telle.
+avec le fait que l’ἄγαλμα, en soi, n’est pas concevable sans sa relation au *phallus*, *à son absence et à* *l’angoisse phallique* comme telle.
 
 <!-- id: s10-23-0081 -->
 
@@ -552,7 +550,7 @@ c’est à la fois lui, et ça ne doit pas être lui, ou tout au moins, et même
 <!-- id: s10-23-0096 -->
 
 Eh ben nous progressons, les satisfactions se dessinent,
-c’est à savoir que nous pourrions bien voir là toute l’origine de l’ambivalence obsessionnelle*,*
+c’est à savoir que nous pourrions bien voir là toute l’origine de l’ambivalence obsessionnelle,
 et d’une certaine façon, c’est en effet là *quelque chose* que nous pourrions voir s’inscrire dans une formule
 dont nous reconnaîtrions la structure \[*a* ◊ S\] : *(a)* est là *la cause* *de cette ambivalence*, de ce « *oui et non* » :
 
@@ -590,8 +588,7 @@ de la relation du *désir*, et nommé­ment celle du *désir sexuel*.
 En fait, nous savons déjà pourquoi *le désir sexuel* ne le balaie pas, loin de là,
 c’est que cet objet vient, par sa duplicité même, à pouvoir symboliser merveilleusement - au moins par un de ses temps –
 ce dont il s’agira à l’avè­nement du stade *phallique*, à savoir de quelque chose qu’il s’agit justement de symboliser, à savoir du *phallus*, en tant que *sa disparition*, son ἀφάνιςις \[aphanisis\], pour employer le terme de Jones...
-le terme que Jones applique au *désir* et qui ne s’applique qu’au *phallus*
-*...*que son ἀφάνιςις est le truchement des rap­ports, chez l’homme, entre les sexes.
+le terme que Jones applique au *désir* et qui ne s’applique qu’au *phallus...*que son ἀφάνιςις est le truchement des rap­ports, chez l’homme, entre les sexes.
 
 <!-- id: s10-23-0103 -->
 
@@ -943,7 +940,7 @@ Il ne la nie, ni ne l’affirme : il est dirigé vers là.
 
 <!-- id: s10-23-0161 -->
 
-L’athée de la tragédie *L’Athée* [^168] *-* je fais allusion à la tragédie élisabéthaine - l’athée en tant que *combattant*, en tant que *révolutionnaire*, ce n’est pas celui qui nie Dieu dans sa fonction de toute-puissance, c’est celui qui s’af­firme comme ne servant aucun dieu.
+L’athée de la tragédie *L’Athée* [^168] - je fais allusion à la tragédie élisabéthaine - l’athée en tant que *combattant*, en tant que *révolutionnaire*, ce n’est pas celui qui nie Dieu dans sa fonction de toute-puissance, c’est celui qui s’af­firme comme ne servant aucun dieu.
 Et c’est là sa valeur dramatique essen­tielle, celle qui depuis toujours, donne sa passion à la question de l’athéis­me.
 Je m’excuse de cette petite digression qui, vous le pensez bien, n’est que préparatoire.
 
@@ -975,6 +972,7 @@ il nous reste enco­re...
 <!-- id: s10-23-0166 -->
 
 - avec l’angoisse qui la détermine.
+
 ## Notes
 
 [^163]: Sphère céleste la plus élevée.

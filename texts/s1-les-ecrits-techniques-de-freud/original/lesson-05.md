@@ -42,7 +42,7 @@ alors que dans le texte allemand, c’est :
 
 <!-- id: s1-05-0010 -->
 
-\[*Es ist unleugbar, dass die Bezwingung der Übertragungs­phänomene dem Psychoanalytiker die grössten Schwierigkeiten bereitet, aber man darf nicht vergessen,* *dass gerade sie uns den unschätzbaren Dienst erweisen, die verborgenen und vergessenen Liebesregungen der Kranken aktuell und manifest zu machen,* *denn schliesslich kann niemand in absentia oder in effigie erschlagen werden**.***\]
+\[*Es ist unleugbar, dass die Bezwingung der Übertragungs­phänomene dem Psychoanalytiker die grössten Schwierigkeiten bereitet, aber man darf nicht vergessen,* *dass gerade sie uns den unschätzbaren Dienst erweisen, die verborgenen und vergessenen Liebesregungen der Kranken aktuell und manifest zu machen,* *denn schliesslich kann niemand in absentia oder in effigie erschlagen werden.*\]
 
 <!-- id: s1-05-0011 -->
 
@@ -254,7 +254,7 @@ Eh bien, je crois que c’est là quelque chose sur lequel nous ne saurions nous
 
 <!-- id: s1-05-0061 -->
 
-Il s’agit en quelque sorte, en retenant ce point*,* il s’agit pour nous d’essayer d’établir ce qu’on appelle une perspective, une sorte de perception d’une pro­fondeur de séparation de plusieurs plans, et de voir que ce que nous sommes habitués, par certains maniements, certaines notions : nos *« étiquettes »,* à poser d’une façon massive et rigoureuse, comme le *Ça* et le *Moi*, pour tout dire, par exemple, eh bien, peut-être que ça n’est peut-être pas simplement lié à une sorte de paire contrastée ?
+Il s’agit en quelque sorte, en retenant ce point, il s’agit pour nous d’essayer d’établir ce qu’on appelle une perspective, une sorte de perception d’une pro­fondeur de séparation de plusieurs plans, et de voir que ce que nous sommes habitués, par certains maniements, certaines notions : nos *« étiquettes »,* à poser d’une façon massive et rigoureuse, comme le *Ça* et le *Moi*, pour tout dire, par exemple, eh bien, peut-être que ça n’est peut-être pas simplement lié à une sorte de paire contrastée ?
 
 <!-- id: s1-05-0062 -->
 
@@ -580,7 +580,7 @@ Mais d’un autre côté, cette *parole*…
 
 <!-- id: s1-05-0140 -->
 
-Ou comme l’écrit très curieusement à la fin d’un article qui est une des choses à la fois les plus mauvaises qui soient, mais si innocente et candide, l’article de STERBA[^11] qui s’appelle « *Le destin*,*das Schicksal »*, qui centre toute l’expérience analytique autour de ce dédoublement de l’*ego*, dont une moitié va venir à notre aide, contre l’autre qui est en sens contraire. À la fin, il ne peut plus s’en sortir. Tout est là de *ce qui vient à la parole, ce qui est poussé vers la parole*.
+Ou comme l’écrit très curieusement à la fin d’un article qui est une des choses à la fois les plus mauvaises qui soient, mais si innocente et candide, l’article de STERBA[^11] qui s’appelle « *Le destin,das Schicksal »*, qui centre toute l’expérience analytique autour de ce dédoublement de l’*ego*, dont une moitié va venir à notre aide, contre l’autre qui est en sens contraire. À la fin, il ne peut plus s’en sortir. Tout est là de *ce qui vient à la parole, ce qui est poussé vers la parole*.
 
 <!-- id: s1-05-0141 -->
 
@@ -801,6 +801,7 @@ Mit alten diesen Erörterungen haben wir aber bisher nur eine Seite des Übertra
 <!-- id: s1-05-0195 -->
 
 In der Aufspürung der dem Bewußten abhanden gekommenen Libido ist man in den Bereich des Unbewußten eingedrungen. Die Reaktionen, die man erzielt, bringen nun manches von den Charakteren unbewußter Vorgänge mit ans Licht, wie wir sie durch das Studium der Träume kennengelernt haben. Die unbewußten Regungen wollen nicht erinnert werden, wie die Kur es wünscht, sondern sie streben danach, sich zu reproduzieren, entsprechend der Zeitlosigkeit und der Halluzinationsfähigkeit des Unbewußten. Der Kranke spricht ähnlich wie im Traume den Ergebnissen der Erweckung seiner unbewußten Regungen Gegenwärtigkeit und Realität zu; er will seine Leidenschaften agieren, ohne auf die reale Situation Rücksicht zu nehmen. Der Arzt will ihn dazu nötigen, diese Gefühlsregungen in den Zusammenhang der Behandlung und in den seiner Lebensgeschichte einzureihen, sie der denkenden Betrachtung unterzuordnen und nach ihrem psychischen Werte zu erkennen. Dieser Kampf zwischen Arzt und Patienten, zwischen Intellekt und Triebleben, zwischen Erkennen und Agierenwollen spielt sich fast ausschließlich an den Übertragungsphänomenen ab. Auf diesem Felde muß der Sieg gewonnen werden, dessen Ausdruck die dauernde Genesung von der Neurose ist. Es ist unleugbar, daß die Bezwingung der Übertragungsphänomene dem Psychoanalytiker die größten Schwierigkeiten bereitet, aber man darf nicht vergessen, daß gerade sie uns den unschätzbaren Dienst erweisen, die verborgenen und vergessenen Liebesregungen der Kranken aktuell und manifest zu machen, denn schließlich kann niemand *in absentia* oder *in effigie* erschlagen werden.
+
 ## Notes
 
 [^8]: S. Freud : [*Zur Dynamik der Übertragung*](#Dynamique), « *La dynamique du transfert* », in *La technique psychanalytique*, PUF 1953, p. 50.

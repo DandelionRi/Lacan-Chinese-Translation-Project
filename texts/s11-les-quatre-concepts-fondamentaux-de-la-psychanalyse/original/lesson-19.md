@@ -74,8 +74,8 @@ J’ai scandé que FREUD distingue bien ce niveau - il le distingue par exemple 
 
 <!-- id: s11-19-0014 -->
 
-Et c’est ainsi que ce qui est de l’ordre de l’*Unlust,* s’y inscrit comme *non*-*moi*, comme négation du *moi*, comme écornage du *moi*.
-Le *non*-*moi* ne se confond pas avec ce qui l’entoure, la vastitude du *réel*, le *non*-*moi* se distingue comme *corps étranger, fremde Objekt* :
+Et c’est ainsi que ce qui est de l’ordre de l’*Unlust,* s’y inscrit comme *non-moi*, comme négation du *moi*, comme écornage du *moi*.
+Le *non-moi* ne se confond pas avec ce qui l’entoure, la vastitude du *réel*, le *non-moi* se distingue comme *corps étranger, fremde Objekt* :
 il est là, situé dans la lunule \[Unlust\] que ces deux petits cercles à la EULER constituent.
 
 <!-- id: s11-19-0015 -->
@@ -162,7 +162,7 @@ ce qu’apporte de *création de sens* le fait de désigner celui qui est là en
 *La dimension de songe, ouverte par cette métaphore* n’est rien moins que ce qui nous apparaît dans *l’image terminale*, celle de cette faucille d’or négligemment jetée dans le champ des étoiles, c’est-à-dire *la dimension cachée* dans ce poème, et plus cachée que vous ne le pen­sez.
 Parce qu’il ne suffit point que je fasse là, surgir la serpe dont JUPITER se sert pour inonder le monde du sang de CHRONOS :
 *la dimension de la castration* dont il s’agit est *dans la perspective biblique* d’un bien autre ordre et justement joue là, présente de tous
-les échos de l’histoire et jusque des invocations de BOOZ au Seigneur : « *Comment surgira*-*t*-*il de moi, vieil homme, une descendance ?* »
+les échos de l’histoire et jusque des invocations de BOOZ au Seigneur : « *Comment surgira-t-il de moi, vieil homme, une descendance ?* »
 
 <!-- id: s11-19-0031 -->
 
@@ -170,26 +170,26 @@ Or, je ne sais pas si vous l’avez remarqué...
 
 <!-- id: s11-19-0032 -->
 
-> *vous le sauriez beaucoup mieux si j’avais pu faire cette année ce que je me destinais à faire sur les Noms*-*du*-*Père*
+> *vous le sauriez beaucoup mieux si j’avais pu faire cette année ce que je me destinais à faire sur les Noms-du-Père*
 > ...je ne sais pas si vous avez remarqué que Le Seigneur au nom imprononçable est précisément celui qui veille à l’enfantement
-> \- *de qui ?* - *des femmes bréhaignes* \[stériles\] *et des hommes hors d’âge*. Le caractère fondamentalement *transbiologique* - si j’ose m’exprimer ainsi - de la paternité introduite par *l’ordre de la tradition du* *destin du Peuple Élu*, a quelque chose qui là, est justement ce qui est, si je puis dire, originellement refoulé, et qui ressurgit toujours dans cette sorte d’ambiguïté qui est celle de *la boiterie, de l’achoppement et du symp­tôme*, de la δυστυχία \[dustuchia\]*,* de la *non*-*rencontre,* avec le sens qui demeure caché.
+> \- *de qui ?* - *des femmes bréhaignes* \[stériles\] *et des hommes hors d’âge*. Le caractère fondamentalement *transbiologique* - si j’ose m’exprimer ainsi - de la paternité introduite par *l’ordre de la tradition du* *destin du Peuple Élu*, a quelque chose qui là, est justement ce qui est, si je puis dire, originellement refoulé, et qui ressurgit toujours dans cette sorte d’ambiguïté qui est celle de *la boiterie, de l’achoppement et du symp­tôme*, de la δυστυχία \[dustuchia\], de la *non-rencontre,* avec le sens qui demeure caché.
 
 <!-- id: s11-19-0033 -->
 
-C’est là cette sorte de dimension que nous retrouvons toujours et qui, si nous voulons la formaliser - comme s’y efforçait l’auteur dont je par­lais tout à l’heure *-* mérite d’être manié avec plus de prudence qu’il ne l’a fait effectivement, se fiant en quelque sorte
+C’est là cette sorte de dimension que nous retrouvons toujours et qui, si nous voulons la formaliser - comme s’y efforçait l’auteur dont je par­lais tout à l’heure - mérite d’être manié avec plus de prudence qu’il ne l’a fait effectivement, se fiant en quelque sorte
 au *formalisme de fraction* qui résulte de marquer le lien qu’il y a *du signifiant au signifié* par une barre intermédiaire. Cette barre, il n’est pas absolument *illégitime* de considérer qu’à certains moments et dans un certain mode de rapports, elle marque, elle permet de désigner, de situer, dans ce rapport du signi­fiant au signifié, l’indication d’une valeur qui est proprement ce qu’ex­prime son usage
 au titre de fraction, au sens mathématique du terme.
 
 <!-- id: s11-19-0034 -->
 
 Et bien sûr, comme ce n’est pas le seul, et qu’il y a du *signifiant* au *signifié* un autre rapport, qui est celui d’*effet de sens* - précisément
-au moment où il s’agit, dans la métaphore, de marquer l’*effet de sens*[^92] *-* on ne peut pas absolument prendre sans précaution,
+au moment où il s’agit, dans la métaphore, de marquer l’*effet de sens*[^92] - on ne peut pas absolument prendre sans précaution,
 et d’une façon si hasardeuse qu’on l’a fait, la manipulation, au titre de *transformation fractionnaire*, qui serait en effet permise
 *s’il s’agissait d’un rapport de proportion*.
 
 <!-- id: s11-19-0035 -->
 
-Bien sûr, de ce que A/B... de ce qui résulte de la multiplication A/B . C/D*,* on peut transformer ce produit, quand il s’agit
+Bien sûr, de ce que A/B... de ce qui résulte de la multiplication A/B . C/D, on peut transformer ce produit, quand il s’agit
 de la fraction, par *une formule à quatre étages* qui serait par exemple : A/B / D/C. C’est ce qu’on a fait, en disant que ce qui fait
 le poids, dans l’inconscient, d’une articulation du signifiant dernier qui vient à incarner *la métapho­re*, avec le sens nouveau,
 comme je l’ai dit, qui est créé par l’usage de *la métapho­re,* qu’à cela devait répondre *je ne sais quel épinglage*, *de l’un à l’autre*
@@ -218,13 +218,13 @@ est venu à la place d’un autre signifiant constituer *l’effet de métaphore
 Eh bien justement, de vou­loir en faire, de vouloir en conserver la possibilité d’un maniement du type *maniement fractionnel*,
 impliquera de mettre au-dessous de la barre principale, au dénominateur, le signifiant disparu, le signifiant refoulé,
 au dénominateur de la valeur qui va apparaître, en dessous, *unterdrückt.* Et loin qu’on puisse dire que « *l’interprétation* - comme on l’a écrit - *est ouverte à tout sens* » puisqu’il ne s’agirait que de la liaison d’un signifiant à un signifiant et par conséquent d’une espèce de liaison folle, il est tout à fait inexact de dire que « *l’interprétation est ouverte à tout sens* ». C’est concéder, je dirais à nos objecteurs,
-à ceux qui parlent le plus souvent contre les caractères incertains de l’interprétation analytique*,* leur concé­der qu’en effet
+à ceux qui parlent le plus souvent contre les caractères incertains de l’interprétation analytique, leur concé­der qu’en effet
 toutes les interprétations sont possibles, ce qui est pro­prement absurde.
 
 <!-- id: s11-19-0040 -->
 
 Ce n’est pas parce que j’ai dit que *l’effet de l’interpré­tation* - car je l’ai dit dans mon dernier ou avant-dernier discours *- est d’isoler,*
-*de réduire, dans le sujet un cœur*, un *Kern* pour s’exprimer comme FREUD, *de non*-*sens,* que *l’interprétation* est elle-même un *non*-*sens*.
+*de réduire, dans le sujet un cœur*, un *Kern* pour s’exprimer comme FREUD, *de non-sens,* que *l’interprétation* est elle-même un *non-sens*.
 L’interprétation est un signifié, une signification qui n’est pas n’im­porte laquelle, qui vient ici à la place du *s* et renverse justement
 le rap­port qui fait que *le signifiant,* dans le langage *a pour effet* *le signifié,* elle - l’interprétation significative - *a pour effet* de faire surgir
 *un signifiant irréductible*.
@@ -232,7 +232,7 @@ le rap­port qui fait que *le signifiant,* dans le langage *a pour effet* *le si
 <!-- id: s11-19-0041 -->
 
 C’est en interprétant au niveau de ce *s*, qui n’est pas ouvert à tous les sens et qui ne peut être n’importe quoi, qui ne peut être qu’une *signification seulement approchée* sans doute, car ce qui est là riche et complexe quand il s’agit de l’inconscient du sujet,
-est destiné à évoquer, à faire surgir, des éléments *signifiants irréductibles*, *non*-*sensical,* faits de *non*-*sens*, que le travail de LECLAIRE
+est destiné à évoquer, à faire surgir, des éléments *signifiants irréductibles*, *non-sensical,* faits de *non-sens*, que le travail de LECLAIRE
 a si particulièrement bien illustré.
 
 <!-- id: s11-19-0042 -->
@@ -279,7 +279,7 @@ au numérateur.
 <!-- id: s11-19-0050 -->
 
 Observez bien alors ce qui se passe. Dans ce moment inaugurant, inaugural, dont je vous prie de considérer *la nécessité*, *disons*
-\- si vous voulez bien - *logique*, où *le sujet* comme X ne se constitue que de l’*Urverdrängung*, de la *chute* nécessaire de ce *premier signifiant* autour duquel il se constitue, *parce qu’il ne pourrait y subsister qu’avec la représentation d’un signifiant pour un autre, c’est*-*à*-*dire pas pour un sujet.*
+\- si vous voulez bien - *logique*, où *le sujet* comme X ne se constitue que de l’*Urverdrängung*, de la *chute* nécessaire de ce *premier signifiant* autour duquel il se constitue, *parce qu’il ne pourrait y subsister qu’avec la représentation d’un signifiant pour un autre, c’est-à-dire pas pour un sujet.*
 
 <!-- id: s11-19-0051 -->
 
@@ -368,7 +368,7 @@ dans ce sens que *l’amour* intervient *dans sa fonction* - ici révélée comm
 
 L’effet d’aliénation, où s’articule essentiellement l’effet que nous sommes dans le champ *du rapport du sujet à l’Autre*,
 est ici absolument manifeste. Mais alors, il convient ici de pointer ce qui est toujours éludé, à savoir ce que FREUD articule
-\- non pas *excuse* mais *raison* du transfert - que *rien ne saurait être atteint* *in absentia, in effigie* [^94]*.*
+\- non pas *excuse* mais *raison* du transfert - que *rien ne saurait être atteint* *in absentia, in effigie* [^94].
 Ce qui veut dire que *le transfert* n’est pas - de sa nature - *l’ombre de quelque chose qui eût été auparavant vécu.*
 
 <!-- id: s11-19-0067 -->
@@ -428,22 +428,22 @@ non pas du *maître antique*, dont nous avons quelque portrait et nommément cel
 
 <!-- id: s11-19-0079 -->
 
-Il vient demander à SOCRATE quelque chose dont il ne sait pas ce que c’est, mais qu’il appelle ἄγαλμα \[agalma\] *-* chacun sait l’usage que dans un temps j’en ai fait, je le reprendrai - cet ἄγαλμα*,* ce mystère qui, sans doute, dans la brume qui entoure
+Il vient demander à SOCRATE quelque chose dont il ne sait pas ce que c’est, mais qu’il appelle ἄγαλμα \[agalma\] - chacun sait l’usage que dans un temps j’en ai fait, je le reprendrai - cet ἄγαλμα, ce mystère qui, sans doute, dans la brume qui entoure
 le regard d’ALCIBIADE, représente quelque chose d’au-delà de tous les biens. Comment voir autrement qu’une première ébauche de la technique du repérage du transfert, dans le fait que SOCRATE lui réponde…
 
 <!-- id: s11-19-0080 -->
 
-- non pas, là dans l’âge adulte, ce qu’il lui disait quand il était jeune : « *Occupe*-*toi de ton âme* »,
+- non pas, là dans l’âge adulte, ce qu’il lui disait quand il était jeune : « *Occupe-toi de ton âme* »,
 
 <!-- id: s11-19-0081 -->
 
-- mais devant l’homme floride et endurci : « *Occupe*-*toi de ton désir, occupe*-*toi de tes oignons* ».
+- mais devant l’homme floride et endurci : « *Occupe-toi de ton désir, occupe-toi de tes oignons* ».
 
 <!-- id: s11-19-0082 -->
 
 Tes oignons dans l’occasion et c’est un comble d’ironie de la part de PLATON, de les avoir désignés par un homme à la fois futile et absurde, bouffon. Je crois avoir été le premier à remarquer que les vers qu’il lui met dans la bouche concernant la nature
 de l’amour, sont l’indication même de cette futilité confinant à une sorte d’allure bouffonne qui fait de cet AGATHON
-l’objet sans doute le moins propre à retenir le désir d’un maître. Et aussi bien qu’il s’appelle AGATHON, c’est-à-dire du nom auquel PLATON a donné la valeur souveraine, est là *une note* - *peut*-*être involontaire mais incontes­table* - *d’ironie* qui se surajoute.
+l’objet sans doute le moins propre à retenir le désir d’un maître. Et aussi bien qu’il s’appelle AGATHON, c’est-à-dire du nom auquel PLATON a donné la valeur souveraine, est là *une note* - *peut-être involontaire mais incontes­table* - *d’ironie* qui se surajoute.
 
 <!-- id: s11-19-0083 -->
 
@@ -542,7 +542,7 @@ et *pulsion de mort* est vraie pour autant qu’elle manifeste *deux aspects de 
 <!-- id: s11-19-0101 -->
 
 Et si vous le voulez, pour pointer aujourd’hui, devant vous, une formule que je vous ai ici écrite, je dirais que c’est ici, au niveau
-des *significations*, dans l’inconscient, que toutes les *pulsions sexuelles* s’articulent, mais pour autant qu’en tant que *pulsions*, ce qu’elles font surgir comme signifiant bien sûr, et rien que comme *signifiant* - car peut-on dire sans précaution qu’il y a un « *être*-*pour*-*la*-*mort* » -
+des *significations*, dans l’inconscient, que toutes les *pulsions sexuelles* s’articulent, mais pour autant qu’en tant que *pulsions*, ce qu’elles font surgir comme signifiant bien sûr, et rien que comme *signifiant* - car peut-on dire sans précaution qu’il y a un « *être-pour-la-mort* » -
 comme *signifiant* à proprement parler : la mort.
 
 <!-- id: s11-19-0102 -->
@@ -667,6 +667,7 @@ Si l’on dit que l’analyste lui-même, dans ses fonctions présentes - non se
 <!-- id: s11-19-0127 -->
 
 - et ici *une belle occasion à analyser*.
+
 ## Notes
 
 [^91]: J. Laplanche et S. Leclaire, « *L’inconscient : une étude psychanalytique* », in *L’inconscient*, VI<sup>ème</sup> Colloque de Bonneval (1960), Paris, Desclée de Brouwer, 1966 ;
@@ -682,7 +683,7 @@ Si l’on dit que l’analyste lui-même, dans ses fonctions présentes - non se
 
 [^94]: Sigmund Freud : « *La dynamique du transfert* », in *La technique psychanalytique*, Paris, PUF, 1977 p. 60 : « ...*enfin, rappelons-nous que nul ne peut être tué*
 
-    *« in absentia » ou « in effigie »* » : *« denn schließlich kann niemand in absentia oder in effigie erschlagen werden*.* » (phrase conclusive de l’article). Cf. supra p. 27*
+    *« in absentia » ou « in effigie »* » : *« denn schließlich kann niemand in absentia oder in effigie erschlagen werden. » (phrase conclusive de l’article). Cf. supra p. 27*
 
 
 [^95]: Ectopie : anomalie de situation d'un organe qui ne se trouve pas à sa vraie place.

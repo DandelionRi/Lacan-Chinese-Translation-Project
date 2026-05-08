@@ -42,7 +42,7 @@ Néanmoins, nous ne pouvons absolument éliminer ceci - qui n’est pas moins *p
 
 <!-- id: s8-20-0010 -->
 
-*Étrange*, ai-je dit de cette *tragédie* - dont assurément je n’ai pas devant vous pu épuiser dans mon commentaire toutes les ressources - *étrange donc cette contradiction de plus*, sur laquelle nous ne nous sommes pas arrêtés, qui est qu’il n’est pas mis en doute que ce soit des flammes de l’enfer, de la damnation éternelle, que ce père témoigne. Néanmoins, c’est *en sceptique, en élève de* MONTAIGNE, a-t-on dit[^244] que cet HAMLET s’interroge : « *to be or not to be... dormir, rêver peut-être*... »[^245]* *: cet *au-delà de la vie* nous délivre-t-il de cette vie maudite, de cet « *océan d’humiliation et de servitude* » qu’est la vie ?
+*Étrange*, ai-je dit de cette *tragédie* - dont assurément je n’ai pas devant vous pu épuiser dans mon commentaire toutes les ressources - *étrange donc cette contradiction de plus*, sur laquelle nous ne nous sommes pas arrêtés, qui est qu’il n’est pas mis en doute que ce soit des flammes de l’enfer, de la damnation éternelle, que ce père témoigne. Néanmoins, c’est *en sceptique, en élève de* MONTAIGNE, a-t-on dit[^244] que cet HAMLET s’interroge : « *to be or not to be... dormir, rêver peut-être*... »[^245]: cet *au-delà de la vie* nous délivre-t-il de cette vie maudite, de cet « *océan d’humiliation et de servitude* » qu’est la vie ?
 
 <!-- id: s8-20-0011 -->
 
@@ -98,7 +98,7 @@ Et aussi bien nous ne pouvons croire que ce soit un hasard que dans la tragédie
 
 <!-- id: s8-20-0024 -->
 
-« Cherchez le père humilié », comme on dit dans les cartes postales devinettes « cherchez le voleur » ou bien le gendarme. *Qui est le père humilié ?* Est-ce que c’est le Pape pour autant - toujours « PIE » qu’il est - qu’il y en a deux dans la pièce, dans l’espace de la trilogie : le premier, fugitif, moins que fugitif encore, enlevé, au point que là aussi l’ambiguïté portant toujours sur les termes des titres on peut se demander si ce n’est pas lui *L’otage.* Et puis le PIE de la fin, du troisième drame, le PIE qui se confesse, scène éminemment touchante et bien faite pour exploiter toute la thématique d’un certain sentiment proprement chrétien et catholique, celui qui est *Serviteur des serviteurs* [^248]*,* celui qui se fait *plus petit que les petits*, bref cette scène que je vous lirai dans *Le père humilié,* où il va se confesser à un petit moine qui n’est lui–même qu’un gardeur d’oies, ou de cochons, peu importe, et bien entendu, qui porte en lui le ministère de la plus profonde et de la plus simple sagesse.
+« Cherchez le père humilié », comme on dit dans les cartes postales devinettes « cherchez le voleur » ou bien le gendarme. *Qui est le père humilié ?* Est-ce que c’est le Pape pour autant - toujours « PIE » qu’il est - qu’il y en a deux dans la pièce, dans l’espace de la trilogie : le premier, fugitif, moins que fugitif encore, enlevé, au point que là aussi l’ambiguïté portant toujours sur les termes des titres on peut se demander si ce n’est pas lui *L’otage.* Et puis le PIE de la fin, du troisième drame, le PIE qui se confesse, scène éminemment touchante et bien faite pour exploiter toute la thématique d’un certain sentiment proprement chrétien et catholique, celui qui est *Serviteur des serviteurs* [^248], celui qui se fait *plus petit que les petits*, bref cette scène que je vous lirai dans *Le père humilié,* où il va se confesser à un petit moine qui n’est lui–même qu’un gardeur d’oies, ou de cochons, peu importe, et bien entendu, qui porte en lui le ministère de la plus profonde et de la plus simple sagesse.
 
 <!-- id: s8-20-0025 -->
 
@@ -154,7 +154,7 @@ Que l’occasion ne soit pas perdue de vous glisser ici une petite *amusette*, u
 
 <!-- id: s8-20-0038 -->
 
-Louis de COÛFONTAINE est encore - *du moins le croit-on* - sur la terre d’Algérie, et LUMÎR la personne qui revient à la maison de Toussaint, son père, vient lui réclamer quelque argent qui a été prêté par elle. C’est cette histoire qui a fait si joliment s’esbaudir les deux auteurs de livres de pastiches célèbres : pastichant CLAUDEL, c’est cette scène de la réclamation auprès du vieux Toussaint qui a servi de thème au célèbre « *À la manière de... »*[^249]*.* C’est à ce propos qu’est commentée pour la suite des générations la fameuse réplique bien digne, plus vraie que CLAUDEL lui-même, imputée au personnage parodique alors qu’on lui réclame de rendre cette somme dont il aurait spolié une malheureuse : « *il* *n’y a pas de petites économies* ».
+Louis de COÛFONTAINE est encore - *du moins le croit-on* - sur la terre d’Algérie, et LUMÎR la personne qui revient à la maison de Toussaint, son père, vient lui réclamer quelque argent qui a été prêté par elle. C’est cette histoire qui a fait si joliment s’esbaudir les deux auteurs de livres de pastiches célèbres : pastichant CLAUDEL, c’est cette scène de la réclamation auprès du vieux Toussaint qui a servi de thème au célèbre « *À la manière de... »*[^249]. C’est à ce propos qu’est commentée pour la suite des générations la fameuse réplique bien digne, plus vraie que CLAUDEL lui-même, imputée au personnage parodique alors qu’on lui réclame de rendre cette somme dont il aurait spolié une malheureuse : « *il* *n’y a pas de petites économies* ».
 
 <!-- id: s8-20-0039 -->
 
@@ -250,7 +250,7 @@ Car, à la vérité, c’est une scène qui mérite dans la littérature univers
 
 <!-- id: s8-20-0062 -->
 
-Le fils adjure le père de lui donner ces fameux vingt mille francs, dont il sait - et pour cause puisque toute l’affaire il l’a tramée depuis longtemps par l’intermédiaire de SICHEL *-* qu’il les a dans sa poche, qu’ils font une bosse sur lui, de les lui laisser, de les lui céder pour lui permettre en somme :
+Le fils adjure le père de lui donner ces fameux vingt mille francs, dont il sait - et pour cause puisque toute l’affaire il l’a tramée depuis longtemps par l’intermédiaire de SICHEL - qu’il les a dans sa poche, qu’ils font une bosse sur lui, de les lui laisser, de les lui céder pour lui permettre en somme :
 
 <!-- id: s8-20-0063 -->
 
@@ -270,7 +270,7 @@ Le fils adjure le père de lui donner ces fameux vingt mille francs, dont il sai
 
 <!-- id: s8-20-0067 -->
 
-- 
+-
 
 <!-- id: s8-20-0068 -->
 

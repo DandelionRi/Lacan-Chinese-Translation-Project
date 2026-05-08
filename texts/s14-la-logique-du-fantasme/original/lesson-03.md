@@ -106,7 +106,7 @@ Si j’énonçais cette notion devant vous, la dernière fois, presque en passan
 
 <!-- id: s14-03-0025 -->
 
-### *X dans la salle : « on n’entend pas ! »* 
+### *X dans la salle : « on n’entend pas ! »*
 
 <!-- id: s14-03-0026 -->
 
@@ -114,7 +114,7 @@ Si j’énonçais cette notion devant vous, la dernière fois, presque en passan
 
 <!-- id: s14-03-0027 -->
 
-Quoi ? Qui est-ce qui n’entend pas ? Il y a combien de temps que vous n’entendez rien ? \[Rires\] …Dans des endroits plus inattendus encore, vous pourrez peut-être trouver sur ces différents thèmes, jusques et y compris ces petites *indications-amorces* jamais trop tôt venues, sur certains thèmes que j’aurai à développer par la suite. Et par exemple sur la fonction du *préconscient* dont *-* chose curieuse - on ne sem­ble pas s’occuper depuis *un bon bout de temps*...
+Quoi ? Qui est-ce qui n’entend pas ? Il y a combien de temps que vous n’entendez rien ? \[Rires\] …Dans des endroits plus inattendus encore, vous pourrez peut-être trouver sur ces différents thèmes, jusques et y compris ces petites *indications-amorces* jamais trop tôt venues, sur certains thèmes que j’aurai à développer par la suite. Et par exemple sur la fonction du *préconscient* dont - chose curieuse - on ne sem­ble pas s’occuper depuis *un bon bout de temps*...
 
 <!-- id: s14-03-0028 -->
 
@@ -150,7 +150,7 @@ Voilà, enfin on verra la suite de tout ça… Avant de donner la parole à Jacq
 
 <!-- id: s14-03-0036 -->
 
-*Elisa* est, dans une pièce bien connue : « *Pygmalion »* [^10]*,* la personne à qui on apprend le « *beau parler* »…
+*Elisa* est, dans une pièce bien connue : « *Pygmalion »* [^10], la personne à qui on apprend le « *beau parler* »…
 
 <!-- id: s14-03-0037 -->
 
@@ -272,7 +272,7 @@ Par-là, BOOLE s’efforce d’établir que les lois de la pensée sont soumises
 
 <!-- id: s14-03-0066 -->
 
-BOOLE, pour faire retour à ce que la logique délaisse de son histoire, nous fera connaître ce qu’elle méconnaît des conditions de son exercice, nous révélant par-là même certaines des lois de la logique qui en ces lieux opèrent. Logique qui, vous le savez, s’élève sur *la logique logicienne*. Cette logique, logique du signifiant, Jean-Claude MILNER et moi-même avons eu l’occasion d’en présenter, à propos du *Sophiste* de PLATON et des *Grundlagen*[^12]*,* quelques éléments.
+BOOLE, pour faire retour à ce que la logique délaisse de son histoire, nous fera connaître ce qu’elle méconnaît des conditions de son exercice, nous révélant par-là même certaines des lois de la logique qui en ces lieux opèrent. Logique qui, vous le savez, s’élève sur *la logique logicienne*. Cette logique, logique du signifiant, Jean-Claude MILNER et moi-même avons eu l’occasion d’en présenter, à propos du *Sophiste* de PLATON et des *Grundlagen*[^12], quelques éléments.
 
 <!-- id: s14-03-0067 -->
 
@@ -316,7 +316,7 @@ Disons qu’il y a *trois catégories de signes* à mettre en place :
 
 <!-- id: s14-03-0077 -->
 
-- *secundo* : il y a les signes d’opération : le « *+* », le « **-** » le « X », qui ont pour fonction de représenter les opérations de l’entendement par lesquelles nos représentations sont combinées et reformées en de nouvelles représentations
+- *secundo* : il y a les signes d’opération : le « *+* », le « *-* » le « X », qui ont pour fonction de représenter les opérations de l’entendement par lesquelles nos représentations sont combinées et reformées en de nouvelles représentations
 
 <!-- id: s14-03-0078 -->
 
@@ -336,7 +336,7 @@ On nommera cette classe X.
 
 <!-- id: s14-03-0082 -->
 
-On dira que la combinai­son X x Y - on peut écrire X.Y - représente la classe d’objets à laquelle les noms et les propriétés de X et Y sont simultanément applicables : l’intersection de X.Y**.**
+On dira que la combinai­son X x Y - on peut écrire X.Y - représente la classe d’objets à laquelle les noms et les propriétés de X et Y sont simultanément applicables : l’intersection de X.Y.
 
 <!-- id: s14-03-0083 -->
 
@@ -424,7 +424,7 @@ On ne doit pas croire pour autant que tous les X que l’on aura en logique, dan
 
 <!-- id: s14-03-0104 -->
 
-Examinons les propriétés arithmétiques du 0. 
+Examinons les propriétés arithmétiques du 0.
 
 <!-- id: s14-03-0105 -->
 

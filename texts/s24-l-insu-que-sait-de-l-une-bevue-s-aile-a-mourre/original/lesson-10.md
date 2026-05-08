@@ -42,7 +42,7 @@ Dans le cas de l’im­pératif, c’est celui qui écoute qui, de ce fait devie
 
 <!-- id: s24-10-0010 -->
 
-Je voudrais attirer l’attention sur quelque chose : il n’y a en psychanalyse que des « *je voudrais* »*.*
+Je voudrais attirer l’attention sur quelque chose : il n’y a en psychanalyse que des « *je voudrais* ».
 
 <!-- id: s24-10-0011 -->
 
@@ -100,7 +100,7 @@ C’est comme ça qu’il s’exprime formellement, à savoir qu’à mesure que
 
 <!-- id: s24-10-0024 -->
 
-Ce que Freud désigne de - pardonnez-moi ici l’équivoque – *l’obre-scène,* c’est aussi bien, je dis, ce qu’il appelle *l’autre scène,* celle que *le langage* occupe de ce qu’on appelle *sa structure*, *structure élémentaire* qui se résume à celle *de la* *parenté* [^9]*.*
+Ce que Freud désigne de - pardonnez-moi ici l’équivoque – *l’obre-scène,* c’est aussi bien, je dis, ce qu’il appelle *l’autre scène,* celle que *le langage* occupe de ce qu’on appelle *sa structure*, *structure élémentaire* qui se résume à celle *de la* *parenté* [^9].
 
 <!-- id: s24-10-0025 -->
 
@@ -258,7 +258,7 @@ Pour dire les choses : la raison répète le *sinthome*.
 
 <!-- id: s24-10-0063 -->
 
-Et le fait qu’aujourd’hui j’aie à me présenter devant vous avec ce qu’on appelle un *sinthome physique*, n’empêche pas qu’à juste titre vous pouvez vous demander si ça n’est pas intentionnel, si par exemple je n’ai pas abondé dans une telle connerie de comportement*,* que *mon symptôme,* tout physique qu’il soit, soit quand même quelque chose qui soit par moi voulu.
+Et le fait qu’aujourd’hui j’aie à me présenter devant vous avec ce qu’on appelle un *sinthome physique*, n’empêche pas qu’à juste titre vous pouvez vous demander si ça n’est pas intentionnel, si par exemple je n’ai pas abondé dans une telle connerie de comportement, que *mon symptôme,* tout physique qu’il soit, soit quand même quelque chose qui soit par moi voulu.
 
 <!-- id: s24-10-0064 -->
 
@@ -286,7 +286,7 @@ Quand j’ai écrit mon petit machin là, pour vous jaspiner, j’ai fait un lap
 
 <!-- id: s24-10-0070 -->
 
-ce « *comme moi »* n’était pas spécialement bienveillant, il s’agissait de ce que j’appelle­rais *la débilité mentale* ...j’ai fait un lapsus, j’ai - à la place de « *comme moi* » *-* écrit « *comme ça* »*.*
+ce « *comme moi »* n’était pas spécialement bienveillant, il s’agissait de ce que j’appelle­rais *la débilité mentale* ...j’ai fait un lapsus, j’ai - à la place de « *comme moi* » - écrit « *comme ça* ».
 
 <!-- id: s24-10-0071 -->
 

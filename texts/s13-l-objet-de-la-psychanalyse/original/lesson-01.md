@@ -26,7 +26,7 @@ Mais pour savoir ce qu’il en est de sa praxis ou seulement pouvoir la diriger 
 
 <!-- id: s13-01-0006 -->
 
-Réduction qui constitue proprement son objet et où l’épistémologie qui s’efforce à la définir en chaque cas, ou en tous, est loin d’avoir - *à nos yeux au moins* - rempli sa tâche. Car je ne sache pas qu’elle ait *pleinement rendu compte*, par ce moyen de la définition de l’objet, de cette mutation décisive qui, par la voie de la physique, a fondé *La Science* au sens moderne dès lors pris pour sens absolu : position que justifie un changement de style radical dans 
+Réduction qui constitue proprement son objet et où l’épistémologie qui s’efforce à la définir en chaque cas, ou en tous, est loin d’avoir - *à nos yeux au moins* - rempli sa tâche. Car je ne sache pas qu’elle ait *pleinement rendu compte*, par ce moyen de la définition de l’objet, de cette mutation décisive qui, par la voie de la physique, a fondé *La Science* au sens moderne dès lors pris pour sens absolu : position que justifie un changement de style radical dans
 
 <!-- id: s13-01-0007 -->
 
@@ -98,7 +98,7 @@ Nous disons que contrairement à ce qui se brode d’une prétendue rupture de F
 
 <!-- id: s13-01-0024 -->
 
-> si on veut bien le désigner dans son allégeance aux idéaux d’un [BRÜCKE](http://fr.wikipedia.org/wiki/Ernst_Wilhelm_von_Br%C3%BCcke)*,* eux-mêmes transmis du pacte
+> si on veut bien le désigner dans son allégeance aux idéaux d’un [BRÜCKE](http://fr.wikipedia.org/wiki/Ernst_Wilhelm_von_Br%C3%BCcke), eux-mêmes transmis du pacte
 >
 > où un [HELMHOLTZ](http://fr.wikipedia.org/wiki/Hermann_Ludwig_von_Helmholtz) et un [DU BOIS REYMOND](http://www.bibmath.net/bios/index.php3?action=affiche&quoi=duboisreymond) s’était voués à faire rentrer la physiologie et les fonctions de la pensée considérées comme y incluses dans les termes mathématiquement déterminés de la thermodynamique parvenue à son presque achèvement de leur temps …qui a conduit FREUD, comme ses écrits nous le démontrent, à ouvrir la voie qui porte à jamais son nom.
 
@@ -406,7 +406,7 @@ Singulièrement DESCARTES suit la démarche de le préserver du Dieu trompeur, e
 
 <!-- id: s13-01-0100 -->
 
-*Cette communauté de sort entre l’ego* et Dieu, ici masquée, est la même que profère de façon déchirante *le contemporain de* DESCARTES, [Angelus SILESIUS](http://fr.wikipedia.org/wiki/Angelus_Silesius) en ses adjurations mystiques, et qui leur impose - à ses adjurations - la forme du distique*.*
+*Cette communauté de sort entre l’ego* et Dieu, ici masquée, est la même que profère de façon déchirante *le contemporain de* DESCARTES, [Angelus SILESIUS](http://fr.wikipedia.org/wiki/Angelus_Silesius) en ses adjurations mystiques, et qui leur impose - à ses adjurations - la forme du distique.
 
 <!-- id: s13-01-0101 -->
 
@@ -500,7 +500,7 @@ Mais il y est crucial que ces moyens ne sachent pas élargir ce sujet. Leur bén
 
 <!-- id: s13-01-0123 -->
 
-Mais il n’y a pas d’autre vrai sur le vrai à couvrir ce point vif, que des *noms propres*, celui de FREUD ou bien le mien, ou alors ces *berquinades de nourrice* dont on ravale un témoignage désormais ineffaçable : à savoir *une vérité* dont il est du sort de tous *de refuser l’horrible* si pas plutôt *de l’écraser* quand il est irrefusable, *c’est à dire quand on est psychanalyste*, sous cette *meule de moulin,* dont j’ai pris à l’occasion la métaphore, pour rappeler d’une autre bouche que *les pierres* quand il faut, *savent crier aussi* [^22]. 
+Mais il n’y a pas d’autre vrai sur le vrai à couvrir ce point vif, que des *noms propres*, celui de FREUD ou bien le mien, ou alors ces *berquinades de nourrice* dont on ravale un témoignage désormais ineffaçable : à savoir *une vérité* dont il est du sort de tous *de refuser l’horrible* si pas plutôt *de l’écraser* quand il est irrefusable, *c’est à dire quand on est psychanalyste*, sous cette *meule de moulin,* dont j’ai pris à l’occasion la métaphore, pour rappeler d’une autre bouche que *les pierres* quand il faut, *savent crier aussi* [^22].
 
 <!-- id: s13-01-0124 -->
 

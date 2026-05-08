@@ -220,7 +220,7 @@ Et c’est très précisément *pour autant* que la psychanalyse - telle qu’el
 
 <!-- id: s12-22-0054 -->
 
-Qu’à cet égard, la *vérité* entre dans un certain dramatisme, qui est celui dont indique suffisamment la limite, à préciser que *cette vérité*, celui-là même qui peut, en un certain point, la révéler, est en droit de la suspendre, voire de la refuser - c’est là quelque chose qui non seulement n’a rien d’original, mais qui, dans la psychanalyse même, trouve au maximum, sa justification. Je vous dis, ce en quoi le fait qu’au cours des âges, cette position, par maints penseurs, a été effectivement adoptée, adoptée comme *un parti pris* et *un parti pris* avoué : ils l’ont écrit noir sur blanc.  
+Qu’à cet égard, la *vérité* entre dans un certain dramatisme, qui est celui dont indique suffisamment la limite, à préciser que *cette vérité*, celui-là même qui peut, en un certain point, la révéler, est en droit de la suspendre, voire de la refuser - c’est là quelque chose qui non seulement n’a rien d’original, mais qui, dans la psychanalyse même, trouve au maximum, sa justification. Je vous dis, ce en quoi le fait qu’au cours des âges, cette position, par maints penseurs, a été effectivement adoptée, adoptée comme *un parti pris* et *un parti pris* avoué : ils l’ont écrit noir sur blanc.
 
 <!-- id: s12-22-0055 -->
 
@@ -236,7 +236,7 @@ Cette *dialectique*, j’ai dit, se justifie, prend sa forme pour autant que la 
 
 <!-- id: s12-22-0058 -->
 
-*Est-ce que cette formule*, dont l’introduction dans le savoir représente un moment structural - nous allons encore y revenir - des rapports de la vérité ou du savoir... ET ( *!* ) du savoir , *est-ce que cette formule aurait anticipé* ? A-t-elle ou non quelque *valeur de vérité* ?
+*Est-ce que cette formule*, dont l’introduction dans le savoir représente un moment structural - nous allons encore y revenir - des rapports de la vérité ou du savoir... ET ( ! ) du savoir , *est-ce que cette formule aurait anticipé* ? A-t-elle ou non quelque *valeur de vérité* ?
 
 <!-- id: s12-22-0059 -->
 
@@ -276,7 +276,7 @@ au moins quand il est lui-même son propre commentateur ...*s’appuie, c’est 
 
 <!-- id: s12-22-0068 -->
 
-Mais qu’est-ce que - pour nous, au point où nous en sommes de l’efficience de la science - qu’est-ce que vaut cette évidence de l’idée claire et simple, ce *simplex intuitus* dont DESCARTES lui-même fait état ? Assurément, il subit - pour nous - l’effet de contrecoup de tout le développement de la science, de celui qui s’est produit depuis la démarche cartésienne, qui est fait pour nous faire réviser cette prévalence de l’idée simple à \[*?*\] l’intuition.
+Mais qu’est-ce que - pour nous, au point où nous en sommes de l’efficience de la science - qu’est-ce que vaut cette évidence de l’idée claire et simple, ce *simplex intuitus* dont DESCARTES lui-même fait état ? Assurément, il subit - pour nous - l’effet de contrecoup de tout le développement de la science, de celui qui s’est produit depuis la démarche cartésienne, qui est fait pour nous faire réviser cette prévalence de l’idée simple à \[?\] l’intuition.
 
 <!-- id: s12-22-0069 -->
 
@@ -500,7 +500,7 @@ Car bien sûr - reportez–vous au texte et vous le verrez - ils ne prennent pas
 
 <!-- id: s12-22-0124 -->
 
-Mais cette dyade, ARISTOTE tente de la faire surgir d’un rapport triadique qui est celui : de l’« *Un* », du « *grand* »*,* et du « *petit* ».
+Mais cette dyade, ARISTOTE tente de la faire surgir d’un rapport triadique qui est celui : de l’« *Un* », du « *grand* », et du « *petit* ».
 
 <!-- id: s12-22-0125 -->
 

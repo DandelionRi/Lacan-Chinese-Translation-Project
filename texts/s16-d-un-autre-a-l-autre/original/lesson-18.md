@@ -48,7 +48,7 @@ Il est difficile de ne pas s’apercevoir que même *à l’intérieur de la myt
 
 <!-- id: s16-18-0011 -->
 
-*La question est celle*-*ci* « *Ce savoir en progrès, est*-*il quelque part déjà là ? ».*
+*La question est celle-ci* « *Ce savoir en progrès, est-il quelque part déjà là ? ».*
 
 <!-- id: s16-18-0012 -->
 
@@ -172,7 +172,7 @@ Si c’est si simple, comment a-t-on pu même s’y arrêter ? Et pour nourrir c
 
 <!-- id: s16-18-0041 -->
 
-Il n’y a même pas besoin de recourir à quelque chose qui est tout de même assez frappant, au texte d’ARISTOTE dans son petit *Traité de la Sensation* [^70]*,* pour s’apercevoir du style avec lequel il aborde ce qu’il en est de *la vue*, de *l’œil*.
+Il n’y a même pas besoin de recourir à quelque chose qui est tout de même assez frappant, au texte d’ARISTOTE dans son petit *Traité de la Sensation* [^70], pour s’apercevoir du style avec lequel il aborde ce qu’il en est de *la vue*, de *l’œil*.
 
 <!-- id: s16-18-0042 -->
 
@@ -272,7 +272,7 @@ Qu’est-ce que c’est que ce *dedans* qui semble rendre complètement énigmat
 
 <!-- id: s16-18-0066 -->
 
-Est-ce qu’à sa façon, par rapport à ce qui fait l’essence de la monnaie, ça n’est pas *un dedans* tout à fait *en*-*dehors*, en-dehors de ce qui fait l’essence de la monnaie ?
+Est-ce qu’à sa façon, par rapport à ce qui fait l’essence de la monnaie, ça n’est pas *un dedans* tout à fait *en-dehors*, en-dehors de ce qui fait l’essence de la monnaie ?
 
 <!-- id: s16-18-0067 -->
 
@@ -280,7 +280,7 @@ Ces remarques n’ont d’intérêt que d’introduire *ce qu’il en est de la 
 
 <!-- id: s16-18-0068 -->
 
-Et si on ne sait pas ce qu’elle est quand on se la garde, c’est tout de même bien que *son essence* doit être ailleurs, c’est-à­-dire déjà *au*-*dehors*, sans qu’on ait besoin de faire *de la projection* pour dire que la pensée s’y promène.
+Et si on ne sait pas ce qu’elle est quand on se la garde, c’est tout de même bien que *son essence* doit être ailleurs, c’est-à­-dire déjà *au-dehors*, sans qu’on ait besoin de faire *de la projection* pour dire que la pensée s’y promène.
 
 <!-- id: s16-18-0069 -->
 
@@ -400,7 +400,7 @@ Ce n’est pas si bête, c’est une certaine façon, pour le coup, de bien *plo
 
 <!-- id: s16-18-0098 -->
 
-Car je vous le demande : *qu’est*-*ce que suppose ce terme de projection*…
+Car je vous le demande : *qu’est-ce que suppose ce terme de projection*…
 
 <!-- id: s16-18-0099 -->
 
@@ -624,7 +624,7 @@ Ceci a un grand intérêt d’ordonnance topologique car c’est aussi montrer q
 
 <!-- id: s16-18-0151 -->
 
-- et celui du *désir* \[*d* → S **◊** *a*\] en tant qu’il s’articule par rapport au champ dominé par *l’objet(a),* …que le sort de la névrose se joue.
+- et celui du *désir* \[*d* → S ◊ *a*\] en tant qu’il s’articule par rapport au champ dominé par *l’objet(a),* …que le sort de la névrose se joue.
 
 <!-- id: s16-18-0152 -->
 
@@ -652,7 +652,7 @@ Si pour le pervers, il faut qu’il y ait une femme « *non châtrée* », ou 
 
 <!-- id: s16-18-0158 -->
 
-C’est lui qui pose tous les problèmes de l’*identification*, c’est lui avec lequel il faut, au niveau de la névrose, en finir, pour que la structure se révèle de ce qu’il s’agit de résoudre, à savoir la structure tout court, le *signifiant* du A : S(A)**.**
+C’est lui qui pose tous les problèmes de l’*identification*, c’est lui avec lequel il faut, au niveau de la névrose, en finir, pour que la structure se révèle de ce qu’il s’agit de résoudre, à savoir la structure tout court, le *signifiant* du A : S(A).
 
 ## Notes
 

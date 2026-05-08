@@ -90,7 +90,7 @@ Le logico-positivisme fait bien penser, je dirai par le contraste et l’accolem
 
 <!-- id: s12-18-0022 -->
 
-« *Le mot me manque* ». « *Le mot me manque* » avait avant FREUD sa *valeur de dévoilement*. « *Le mot me manque* » comportait, de sa seule composition d’artifice précieux, l’ouverture d’un *chemin de vérité* qui devait trouver avec FREUD, son achèvement en savoir. 
+« *Le mot me manque* ». « *Le mot me manque* » avait avant FREUD sa *valeur de dévoilement*. « *Le mot me manque* » comportait, de sa seule composition d’artifice précieux, l’ouverture d’un *chemin de vérité* qui devait trouver avec FREUD, son achèvement en savoir.
 
 <!-- id: s12-18-0023 -->
 
@@ -194,7 +194,7 @@ Première condition : alternance, mais qui d’une façon spéciale nous attest
 
 <!-- id: s12-18-0048 -->
 
-Il y faudrait donc quelque variation, *et pour tout dire*, la forme dont un MORSE[^143] nous donne l’indication… à savoir l’existence de *dactyles* [^144] ou de *spondées* [^145]*,* pour que, au premier temps, nous sachions bien qu’*un signifiant* ne vaut dans ce cas *que pour* *d’autres signifiants*.
+Il y faudrait donc quelque variation, *et pour tout dire*, la forme dont un MORSE[^143] nous donne l’indication… à savoir l’existence de *dactyles* [^144] ou de *spondées* [^145], pour que, au premier temps, nous sachions bien qu’*un signifiant* ne vaut dans ce cas *que pour* *d’autres signifiants*.
 
 <!-- id: s12-18-0049 -->
 
@@ -254,7 +254,7 @@ La question est pour nous d’élaborer un statut tel, à ce *sujet*, que nous n
 
 <!-- id: s12-18-0063 -->
 
-Ce que toute la dialectique, celle qui part de PLATON, a forgé pour nous, et ceci c’est la somme des textes majeurs concernant l’élaboration d’une pensée de savoir dans notre tradition, qui l’atteste. Je vous en rappelle de temps en temps les points d’articulation essentiels*,* je vous en rappellerai ou indiquerai - selon mes auditeurs - ici pour la première fois *le texte vraiment fondamental :* *c’est Le Sophiste de* PLATON auquel je vous prie de vous reporter.
+Ce que toute la dialectique, celle qui part de PLATON, a forgé pour nous, et ceci c’est la somme des textes majeurs concernant l’élaboration d’une pensée de savoir dans notre tradition, qui l’atteste. Je vous en rappelle de temps en temps les points d’articulation essentiels, je vous en rappellerai ou indiquerai - selon mes auditeurs - ici pour la première fois *le texte vraiment fondamental :* *c’est Le Sophiste de* PLATON auquel je vous prie de vous reporter.
 
 <!-- id: s12-18-0064 -->
 
@@ -360,7 +360,7 @@ Dans le *Traité des animaux* d’ARISTOTE, *ça m’a fait faire des choses qui
 
 <!-- id: s12-18-0089 -->
 
-Et la communauté du terme σπερμά \[sperma\], cette sorte de liquide qui se répand et d’où repart l’attribution à égalité au mâle et à la femelle du σπερμά \[sperma\]*,* à la seule différence que la femelle se le répand en elle-même et que le mâle le répand au dehors, est une distinction phénoménologiquement assez valable, mais peut-être qui nous paraît bien propre à nous donner l’idée de l’embarras où l’on a pu être en effet pendant des siècles sur ce qu’il en est essentiellement, simplement de la reproduction.
+Et la communauté du terme σπερμά \[sperma\], cette sorte de liquide qui se répand et d’où repart l’attribution à égalité au mâle et à la femelle du σπερμά \[sperma\], à la seule différence que la femelle se le répand en elle-même et que le mâle le répand au dehors, est une distinction phénoménologiquement assez valable, mais peut-être qui nous paraît bien propre à nous donner l’idée de l’embarras où l’on a pu être en effet pendant des siècles sur ce qu’il en est essentiellement, simplement de la reproduction.
 
 <!-- id: s12-18-0090 -->
 
@@ -392,7 +392,7 @@ Il y a quelque chose d’étrange, *c’est que sur le sexe nous en savons* - *j
 
 <!-- id: s12-18-0097 -->
 
-Il y a une chose qui frappe simplement à l’examen de ce qui se passe au niveau des animaux qu’on appelle *protistes* \[*Être vivant unicellulaire, soit animal (protozoaire), soit végétal (protophyte)*\] ou *circonvoisins*, c’est une chose que tout naturaliste non seulement sait, mais peut articuler *en clair*. Je ne vais pas vous *citer les auteurs* mais presque tous*,* qui se sont penchés *sur les problèmes de la sexualité,* l’ont dit et s’en sont aperçus, depuis que *nous en savons un peu plus grâce au microscope*.
+Il y a une chose qui frappe simplement à l’examen de ce qui se passe au niveau des animaux qu’on appelle *protistes* \[*Être vivant unicellulaire, soit animal (protozoaire), soit végétal (protophyte)*\] ou *circonvoisins*, c’est une chose que tout naturaliste non seulement sait, mais peut articuler *en clair*. Je ne vais pas vous *citer les auteurs* mais presque tous, qui se sont penchés *sur les problèmes de la sexualité,* l’ont dit et s’en sont aperçus, depuis que *nous en savons un peu plus grâce au microscope*.
 
 <!-- id: s12-18-0098 -->
 

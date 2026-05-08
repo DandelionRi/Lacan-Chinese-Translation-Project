@@ -42,6 +42,7 @@ IDS_RE = re.compile(r"<!--\s*ids:\s*([^>]+?)\s*-->")
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 LESSON_RE = re.compile(r"lesson-(\d+)\.md$")
 NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
+INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
 
 
 @dataclass
@@ -260,7 +261,7 @@ def render_translation_entry(entry: TranslationEntry) -> str:
 
     out: list[str] = []
     for kind, lines in split_translation_chunks(entry.content):
-        text = "\n".join(lines).strip()
+        text = render_translation_inline_markup("\n".join(lines).strip())
         if not text:
             continue
         if kind == "note":
@@ -271,6 +272,11 @@ def render_translation_entry(entry: TranslationEntry) -> str:
             out.append(text)
         out.append("")
     return "\n".join(out).strip()
+
+
+def render_translation_inline_markup(text: str) -> str:
+    """Keep translation emphasis from leaking as literal Markdown markers."""
+    return INLINE_STRONG_RE.sub(r"<strong>\1</strong>", text)
 
 
 def render_original_blocks(blocks: list[Paragraph]) -> str:

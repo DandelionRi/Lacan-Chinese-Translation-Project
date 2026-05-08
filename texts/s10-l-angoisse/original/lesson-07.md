@@ -14,7 +14,7 @@ Freud précise qu’il s’agit d’introduire quelque chose qui n’a - dit-il 
 
 Mais on nous a traduit dans le français inintelligible dont vous allez pouvoir juger :
 « *Mais il ne peut vrai­ment être question que de conceptions.* - Un point ! –
-*En effet, il s’agit de trouver les idées abstraites justes, qui appliquées à la matière brute de l’observation y appor­teront ordre et clarté* [^44] »*.* Il n’y a pas de point en allemand, là où je vous l’ai signalé, et il n’y a aucune énigme dans la phrase.
+*En effet, il s’agit de trouver les idées abstraites justes, qui appliquées à la matière brute de l’observation y appor­teront ordre et clarté* [^44] ». Il n’y a pas de point en allemand, là où je vous l’ai signalé, et il n’y a aucune énigme dans la phrase.
 
 <!-- id: s10-07-0003 -->
 
@@ -103,7 +103,7 @@ d’avoir voulu faire trop de part à certaines « *évidences* » et spécialem
 
 <!-- id: s10-07-0018 -->
 
-De tenir pour évidente l’indépendance, la séparation des dimensions de l’espace d’avec celle du temps, s’est trouvé*,*
+De tenir pour évidente l’indépendance, la séparation des dimensions de l’espace d’avec celle du temps, s’est trouvé,
 à l’épreuve, dans l’élaboration de l’objet scienti­fique, se heurter à ce quelque chose
 que l’on traduit bien impropre­ment par « crise de la raison scientifique » \[*cf. Physique quantique*\].
 
@@ -164,12 +164,12 @@ Nous avons notre mot à dire puisque notre expérience pose et institue
 
 <!-- id: s10-07-0031 -->
 
-- qu’aucune *Durchsichtigkeit,* comme citant le terme de Freud, qui se fonde purement et simplement sur l’intuition de la conscience, ne peut être tenu pour originelle, pour valable, et donc ne peut constituer le départ d’aucune *esthétique transcendentale*, pour la simple raison que *le sujet* ne saurait, d’aucune façon, être situé d’une façon exhaustive dans la conscien­ce*,* *puisqu’il est d’abord et primitivement, inconscient*.
+- qu’aucune *Durchsichtigkeit,* comme citant le terme de Freud, qui se fonde purement et simplement sur l’intuition de la conscience, ne peut être tenu pour originelle, pour valable, et donc ne peut constituer le départ d’aucune *esthétique transcendentale*, pour la simple raison que *le sujet* ne saurait, d’aucune façon, être situé d’une façon exhaustive dans la conscien­ce, *puisqu’il est d’abord et primitivement, inconscient*.
 
 <!-- id: s10-07-0032 -->
 
 À ceci j’ajoute que *s’il est d’abord et primitivement inconscient,* c’est en raison de ceci :
-qu’il nous faut *d’abord et primitivement,* *dans sa constitution de sujet*, tenir pour antérieure à cette constitution*,*
+qu’il nous faut *d’abord et primitivement,* *dans sa constitution de sujet*, tenir pour antérieure à cette constitution,
 une certaine incidence qui est celle du *signifiant*.
 Le problème est de *l’entrée du signifiant dans le réel* et de voir comment, de ceci, naît le sujet.
 
@@ -270,7 +270,7 @@ Comme j’ai pris soin ici de vous l’écrire - *pourquoi pas ça entre autre* 
 
 <!-- id: s10-07-0053 -->
 
-« *Elle n’est pas sans objet* »*.* \[**24’ 14’’**\]
+« *Elle n’est pas sans objet* ». \[**24’ 14’’**\]
 
 <!-- id: s10-07-0054 -->
 
@@ -279,8 +279,8 @@ Ce n’est pas à proprement parler *l’objet* *<u>de</u>* l’angoisse.
 
 <!-- id: s10-07-0055 -->
 
-Dans ce « *pas sans* »*,* vous reconnaissez la formule que j’ai déjà prise depuis concernant le rapport du *sujet* au *phallus* :
-« *il n’est pas sans l’avoir *»*.* Ce rapport de « *n’être pas sans avoir* »*,* ne veut pas dire qu’on sache de quel objet il s’agit.
+Dans ce « *pas sans* », vous reconnaissez la formule que j’ai déjà prise depuis concernant le rapport du *sujet* au *phallus* :
+« *il n’est pas sans l’avoir *». Ce rapport de « *n’être pas sans avoir* », ne veut pas dire qu’on sache de quel objet il s’agit.
 Quand je dis : « *il n’est pas sans ressources* », « *il n’est pas sans ruse* »,
 ça veut justement dire que ses ressources sont obscures, au moins pour moi, et que sa ruse n’est pas commune.
 
@@ -732,7 +732,7 @@ l’un dans le champ de ce qu’on appelle, proprement chez le mâle « *comple
 
 <!-- id: s10-07-0145 -->
 
-- et l’autre sur le « *Penisneid* »*,*
+- et l’autre sur le « *Penisneid* »,
 
 <!-- id: s10-07-0146 -->
 
@@ -905,7 +905,7 @@ Vous savez d’autre part que je vous ai dit que dans le *cross-cap*, quand par 
 <!-- id: s10-07-0177 -->
 
 > qui n’a d’autre condition que de *se rejoindre elle-même* après avoir inclus en elle le point troué du *cross-cap*
-> ...quand, dis-je, vous isolez une part du *cross-cap*, il reste une *bande de Mœbius* \[b\]*.* La par­tie résiduelle, la voici \[a\].
+> ...quand, dis-je, vous isolez une part du *cross-cap*, il reste une *bande de Mœbius* \[b\]. La par­tie résiduelle, la voici \[a\].
 
 <!-- id: s10-07-0178 -->
 
@@ -1002,6 +1002,7 @@ son mode ordinaire d’apparition est d’apparaître sous la forme de deux *pha
 <!-- id: s10-07-0197 -->
 
 Voilà assez pour aujourd’hui.
+
 ## Notes
 
 [^43]: S. Freud : *[Nouvelles conférences](http://classiques.uqac.ca/classiques/freud_sigmund/nouvelles_conferences/Nouv_conf_psychalyse.pdf) d'introduction à la psychanalyse*, trad. Anne Bermann, Gallimard 1984. 4<sup>ème</sup> des *Nouvelles conférences* : *L'angoisse et la vie instinctuelle*

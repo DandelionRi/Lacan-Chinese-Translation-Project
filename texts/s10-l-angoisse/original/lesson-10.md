@@ -12,7 +12,7 @@ L’angoisse, nous enseigne-t-on depuis toujours, *est une crainte sans objet*.
 
 <!-- id: s10-10-0002 -->
 
-Car à la vérité, ce que j’énonce pour vous, je le formule ainsi : « *Elle n’est pas sans objet* »*.*
+Car à la vérité, ce que j’énonce pour vous, je le formule ainsi : « *Elle n’est pas sans objet* ».
 Ce qui n’est pas dire par là que cet objet soit accessible par la même voie que tous les autres.
 
 <!-- id: s10-10-0003 -->
@@ -114,8 +114,7 @@ car c’est là le problème
 
 Car bien sûr, il y a des trous qui pourront... sur lesquels nous pourrons ainsi opérer,
 et il suffit que nous dessi­nions notre cercle de la façon suivante : \[a\]...
-*si je dessine, c’est pour ne pas autrement m’exprimer*
-*...ou de celles-ci :* \[b, c\], pour voir que *ils ne peuvent pas venir à zéro*, *qu’il y a des structures qui ne comportent pas le comblement du trou*.
+*si je dessine, c’est pour ne pas autrement m’exprimer...ou de celles-ci :* \[b, c\], pour voir que *ils ne peuvent pas venir à zéro*, *qu’il y a des structures qui ne comportent pas le comblement du trou*.
 
 <!-- id: s10-10-0018 -->
 
@@ -209,7 +208,7 @@ que le rapport à l’Autre...
 <!-- id: s10-10-0037 -->
 
 *Ce point d’où surgit qu’il y a du signifiant est celui, qui* en un sens, *ne saurait être signifié*.
-C’est là ce que veut dire, ce que j’appelle : *le point* « *manque de signifiant* »*.*
+C’est là ce que veut dire, ce que j’appelle : *le point* « *manque de signifiant* ».
 
 <!-- id: s10-10-0038 -->
 
@@ -226,7 +225,7 @@ Et pour vous le faire sentir, je me référerai à des définitions que je vous 
 
 <!-- id: s10-10-0040 -->
 
-« *Rien ne manque qui ne soit de l’ordre symbolique. Mais la privation, elle, c’est quelque chose de réel* »*.*
+« *Rien ne manque qui ne soit de l’ordre symbolique. Mais la privation, elle, c’est quelque chose de réel* ».
 
 <!-- id: s10-10-0041 -->
 
@@ -481,7 +480,7 @@ sur ce qui concerne *le maniement* de cette relation transférentielle, celle qu
 Et c’est ce qu’explique suffisamment la remarque que je vous ai faite de ce qui distingue
 la position du sujet par rapport à ce *(a)*,
 et la constitution même comme telle de son désir,
-c’est que - pour dire les choses sommairement - s’il s’agit *du pervers* ou *du psychotique*, la relation du *fantasme* S **◊** *a* s’institue ainsi :
+c’est que - pour dire les choses sommairement - s’il s’agit *du pervers* ou *du psychotique*, la relation du *fantasme* S ◊ *a* s’institue ainsi :
 
 <!-- id: s10-10-0087 -->
 
@@ -545,7 +544,7 @@ Et voila pourquoi, quelqu’un comme Margaret Little...
 > prise parmi d’autres, et je vous l’ai dit, vraiment à la façon dont on peut se bander les yeux
 >
 > et placer en travers des pages pour faire de la divination, un couteau
-> ...Margaret Little dans son article sur *« La réponse totale de l’analyste aux besoins de son patient »,* de Mai-Août l957*, partie* III-IV *du volume* 38*,* poursuit le discours auquel je m’étais déjà arrêté à un point de mon séminaire où cet article n’avait pas enco­re paru.
+> ...Margaret Little dans son article sur *« La réponse totale de l’analyste aux besoins de son patient »,* de Mai-Août l957*, partie* III-IV *du volume* 38, poursuit le discours auquel je m’étais déjà arrêté à un point de mon séminaire où cet article n’avait pas enco­re paru.
 
 <!-- id: s10-10-0098 -->
 
@@ -589,7 +588,7 @@ Ce n’est pas là définition suffisante du deuil.
 
 <!-- id: s10-10-0105 -->
 
-Nous ne sommes en deuil que de quelqu’un dont nous pouvons nous dire « *j’étais son manque* »*,*
+Nous ne sommes en deuil que de quelqu’un dont nous pouvons nous dire « *j’étais son manque* »,
 nous sommes en deuil de personnes que nous avons, ou bien, ou mal, traitées,
 mais vis-à-vis de qui « *nous ne savions pas* » que nous remplissions cette fonction *d’être à la place de son manque*.
 
@@ -643,8 +642,7 @@ Elle ne veut - vous le verrez - considérer que dès lors que « *<u>La répons
 <!-- id: s10-10-0115 -->
 
 C’est donc avec cette classe...
-cet *<u>immense total</u>,* comme elle dit, *de sa posi­tion d’analyste*
-*...*qu’elle entend devant nous répondre, et répondre honnête­ment sur ce qu’elle conçoit qu’est la réponse de l’analyste.
+cet *<u>immense total</u>,* comme elle dit, *de sa posi­tion d’analyste...*qu’elle entend devant nous répondre, et répondre honnête­ment sur ce qu’elle conçoit qu’est la réponse de l’analyste.
 
 <!-- id: s10-10-0116 -->
 
@@ -686,7 +684,7 @@ Comme elle semble admettre le plus large éventail des cas dont elle se charge, 
 
 <!-- id: s10-10-0124 -->
 
-- Mais entre les deux, les sujets qu’elle définit comme une tierce classe, *névroses de caractère* ou *personnalité réactionnelle*, comme on voudra, ce qu’Alexander définit comme « *neurotic character »* encore*,* bref, tout ce autour de quoi s’élaborent de si problématiques *imitations* classificatoires, alors qu’en réalité il ne s’agit pas d’une espèce de sujet, mais d’une zone du rapport : celle que je définis ici comme *acting-out.*
+- Mais entre les deux, les sujets qu’elle définit comme une tierce classe, *névroses de caractère* ou *personnalité réactionnelle*, comme on voudra, ce qu’Alexander définit comme « *neurotic character »* encore, bref, tout ce autour de quoi s’élaborent de si problématiques *imitations* classificatoires, alors qu’en réalité il ne s’agit pas d’une espèce de sujet, mais d’une zone du rapport : celle que je définis ici comme *acting-out.*
 
 <!-- id: s10-10-0125 -->
 
@@ -741,7 +739,7 @@ Rien ne fonctionne...
 <!-- id: s10-10-0134 -->
 
 Un tout petit quelque chose commence à se déclencher quand littéralement l’analyste...
-vous le verrez*,* c’est très sensible dans le texte
+vous le verrez, c’est très sensible dans le texte
 ...avoue devant le sujet qu’« *elle y perd son latin* » et que, la voir comme ça, *ça lui fait de la peine à elle, l’analyste*.
 
 <!-- id: s10-10-0135 -->
@@ -850,7 +848,7 @@ elle ne sait, bien entendu, pas lequel
 
 <!-- id: s10-10-0149 -->
 
-- entre dans le champ d’induction où elle peut avoir quelque effet, le sujet se livre très régulièrement à un vol, *à un vol qui*, comme tous les vols de kleptomane, *n’a aucune signification d’intérêt* particulier, qui veut sim­plement dire : « *je vous montre un objet, un objet que j’ai là ravi par la force ou par la ruse,* *un objet qui veut dire qu’il y a quelque part un autre objet, le mien, le (a),* *celui qui mériterait qu’on le considère, qu’on le laisse un instant s’isoler* »*.*
+- entre dans le champ d’induction où elle peut avoir quelque effet, le sujet se livre très régulièrement à un vol, *à un vol qui*, comme tous les vols de kleptomane, *n’a aucune signification d’intérêt* particulier, qui veut sim­plement dire : « *je vous montre un objet, un objet que j’ai là ravi par la force ou par la ruse,* *un objet qui veut dire qu’il y a quelque part un autre objet, le mien, le (a),* *celui qui mériterait qu’on le considère, qu’on le laisse un instant s’isoler* ».
 
 <!-- id: s10-10-0150 -->
 
@@ -928,6 +926,7 @@ Je crois avoir obtenu d’eux - il s’agit respectivement de Granoff et de Perr
 
 Je vous donne donc rendez-vous pour les entendre, le 20 Février, ici, c’est-à-dire dans exactement trois semaines,
 après quoi je reprendrai, le 27, la suite de mes énoncés.
+
 ## Notes
 
 [^74]: Cf. Margaret Little : *Le contre-transfert et la réponse qu’y apporte le patient* (1951) p.91, et *« R » La réponse totale de l’analyste aux besoins du patient* (1956),

@@ -477,7 +477,7 @@ qu’on nous représente *debout sur ses pattes de derrière et hennissant*.
 <!-- id: s5-06-0090 -->
 
 Ceci a comporté véritablement à l’époque…
-c’est-à-dire *quelque part entre* ECHNOS II et ECHNOS III \[*?*\], lors de l’arrivée des Achéens sur chevaux
+c’est-à-dire *quelque part entre* ECHNOS II et ECHNOS III \[?\], lors de l’arrivée des Achéens sur chevaux
 …un progrès énorme - c’est-à-dire que ces gens avaient tout d’un coup, par rapport au cheval attelé à des chars
 une supériorité tactique extraordinaire - jusqu’à la guerre de 1914 où ce cheval disparaît derrière d’autres instruments qui l’ont rendu pratiquement hors d’usage. Donc de l’époque achéenne à la guerre de 1914, ce cheval est effectivement *quelque chose* d’absolument essentiel à ces rapports, ou à ce *commerce inter-humain* qui s’appelle la guerre.
 
@@ -902,6 +902,6 @@ va directement résonner dans l’inconscient.
 
 ## Notes
 
-[^14]: S. Freud : [*De**r Witz und seine Beziehung zum Unbewußten*, V : *Di**e Motive des Witzes.* *Der Witz als sozialer Vorgang* ](http://staferla.free.fr/Freud/freud.htm): *« Zweitens gewinnen wir das*
+[^14]: S. Freud : [*Der Witz und seine Beziehung zum Unbewußten*, V : *Die Motive des Witzes.* *Der Witz als sozialer Vorgang* ](http://staferla.free.fr/Freud/freud.htm): *« Zweitens gewinnen wir das*
 
     *Verständnis für die Eigentümlichkeit des Witzes, seine volle Wirkung auf den Hörer nur zu äußern, wenn er ihm neu ist, ihm als Überraschung entgegentritt.* »

@@ -270,7 +270,7 @@ En d’autres termes, *la machine*, elle, se maintient, dessine une certaine cou
 
 <!-- id: s2-07-0066 -->
 
-Il y a une question qu’il faut poser tout de suite, parce que, si nous avons vu quelque chose qui s’est passé entre HEGEL et FREUD, nous ne pouvons pas en admettre un ressort, une articulation essentielle, la première en évidence, sous cette forme humoristique* *: « *Que quand on sort un lapin d’un chapeau c’est qu’on l’y a préalablement mis.* » Cette formulation depuis quelque temps était le dernier mot de la métaphysique. Elle a un nom pour les physiciens, c’est « *le premier principe de la thermo-dynamique* ». Autrement dit la conservation de l’énergie. Autrement dit : pour qu’il y ait quelque chose à la fin, il faut qu’il y ait eu au moins autant au commencement.
+Il y a une question qu’il faut poser tout de suite, parce que, si nous avons vu quelque chose qui s’est passé entre HEGEL et FREUD, nous ne pouvons pas en admettre un ressort, une articulation essentielle, la première en évidence, sous cette forme humoristique: « *Que quand on sort un lapin d’un chapeau c’est qu’on l’y a préalablement mis.* » Cette formulation depuis quelque temps était le dernier mot de la métaphysique. Elle a un nom pour les physiciens, c’est « *le premier principe de la thermo-dynamique* ». Autrement dit la conservation de l’énergie. Autrement dit : pour qu’il y ait quelque chose à la fin, il faut qu’il y ait eu au moins autant au commencement.
 
 <!-- id: s2-07-0067 -->
 
@@ -316,7 +316,7 @@ Je crois que *l’organicisme com­mun* est une stupidité, mais qu’il y en a 
 
 <!-- id: s2-07-0077 -->
 
-…à propos de l’aventure de M. Julius Robert VON MAYER, que je pense que ça n’est pas du tout sans effet sur le malheureux indi­vidu qui a été chargé *par je ne sais quoi*… le *saint* LANGAGE*,* comme disait M. VALÉRY \[Cf. [Paul Valéry : *Charmes*, *La Pythie*](http://www.poesies.net/paulvalerycharmes.txt) (*dernière strophe*)\] …d’être celui qui fait survivre le grand E, cela ne se passe peut-être pas sans dommage.
+…à propos de l’aventure de M. Julius Robert VON MAYER, que je pense que ça n’est pas du tout sans effet sur le malheureux indi­vidu qui a été chargé *par je ne sais quoi*… le *saint* LANGAGE, comme disait M. VALÉRY \[Cf. [Paul Valéry : *Charmes*, *La Pythie*](http://www.poesies.net/paulvalerycharmes.txt) (*dernière strophe*)\] …d’être celui qui fait survivre le grand E, cela ne se passe peut-être pas sans dommage.
 
 <!-- id: s2-07-0078 -->
 
@@ -456,7 +456,7 @@ C’est tout de même assez frappant, assez curieux de voir que ceci se traduit 
 
 <!-- id: s2-07-0111 -->
 
-C’est comme ça qu’on nous fait, en général, la genèse de ce qu’on appelle l’apprentissage humain. Alors on nous dit *le principe du plaisir s’oppose au principe de réalité*. Dans cette pers­pective, ceci prend évidemment un autre sens. Le *principe de réalité*, en fin de compte, c’est le terme frappant, singulier, ça consiste en ce que le jeu dure*,* c’est-à-dire que le plaisir se renouvelle, c’est-à-dire que le combat ne finisse pas faute de combattants. Le *principe de réalité* consiste à nous ménager nos plaisirs, ces plaisirs dont la tendance et la fin c’est précisément d’arriver à la cessation.
+C’est comme ça qu’on nous fait, en général, la genèse de ce qu’on appelle l’apprentissage humain. Alors on nous dit *le principe du plaisir s’oppose au principe de réalité*. Dans cette pers­pective, ceci prend évidemment un autre sens. Le *principe de réalité*, en fin de compte, c’est le terme frappant, singulier, ça consiste en ce que le jeu dure, c’est-à-dire que le plaisir se renouvelle, c’est-à-dire que le combat ne finisse pas faute de combattants. Le *principe de réalité* consiste à nous ménager nos plaisirs, ces plaisirs dont la tendance et la fin c’est précisément d’arriver à la cessation.
 
 <!-- id: s2-07-0112 -->
 

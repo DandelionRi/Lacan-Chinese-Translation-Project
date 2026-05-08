@@ -22,7 +22,7 @@ D’où *le problème des pots* ! *Le problème du pot de miel* étant une rémi
 
 <!-- id: s7-02-0005 -->
 
-Et plus spécialement, c’est de nous apercevoir aussi que le problème moral, *éthique*, de notre *praxis* est étroitement attenant de *quelque chose* que nous pouvions entrevoir depuis quelque temps : c’est que cette insatisfaction profonde où nous laisse toute psychologie, y compris celle que nous avons déjà fondée grâce à l’analyse, tient peut-être à *quelque chose*, jus­tement à ceci qu’elle n’est qu’*un masque* - un alibi quelquefois - de cette ten­tative de pénétrer le problème de notre propre action qui est l’essence, le fondement même de toute réflexion éthique*.*
+Et plus spécialement, c’est de nous apercevoir aussi que le problème moral, *éthique*, de notre *praxis* est étroitement attenant de *quelque chose* que nous pouvions entrevoir depuis quelque temps : c’est que cette insatisfaction profonde où nous laisse toute psychologie, y compris celle que nous avons déjà fondée grâce à l’analyse, tient peut-être à *quelque chose*, jus­tement à ceci qu’elle n’est qu’*un masque* - un alibi quelquefois - de cette ten­tative de pénétrer le problème de notre propre action qui est l’essence, le fondement même de toute réflexion éthique.
 
 <!-- id: s7-02-0006 -->
 
@@ -180,7 +180,7 @@ Comment dans le sujet peut être - d’une part - obtenue l’adéquation qui le
 
 <!-- id: s7-02-0042 -->
 
-Et le problème, qui est en somme perpétuellement repris et posé à l’intérieur de l’*éthique aristotélicienne*, est celui-ci : celui qui possède cette science, et bien entendu puisque celui qui est là, auquel s’adresse ARISTOTE : l’élève, le disciple*,* est censé du fait même qu’il l’écoute, participer à *ce dis­cours de la science*, c’est à lui que ceci s’adresse. *Le discours* est déjà introduit \- l’ορθός λόγος \[orthos logos\] dont il s’agit, le *discours droit*, le discours conforme - dans le problème par le fait même que la question *éthique* est posée.
+Et le problème, qui est en somme perpétuellement repris et posé à l’intérieur de l’*éthique aristotélicienne*, est celui-ci : celui qui possède cette science, et bien entendu puisque celui qui est là, auquel s’adresse ARISTOTE : l’élève, le disciple, est censé du fait même qu’il l’écoute, participer à *ce dis­cours de la science*, c’est à lui que ceci s’adresse. *Le discours* est déjà introduit \- l’ορθός λόγος \[orthos logos\] dont il s’agit, le *discours droit*, le discours conforme - dans le problème par le fait même que la question *éthique* est posée.
 
 <!-- id: s7-02-0043 -->
 
@@ -262,7 +262,7 @@ La question, si je puis dire, ne se pose pas dans ces termes. Je dirai, jusqu’
 
 <!-- id: s7-02-0062 -->
 
-Car en fin de compte, si vrai que ce soit, il y a une autre position, une autre tension entre *la pensée* à laquelle nous avons affaire *dans l’inconscient,* et celle que nous qualifions, Dieu sait pourquoi, de pensée adulte. Précisément ce que nous démontrons, et ce que nous voyons, et ce que nous touchons sans cesse du doigt, c’est qu’elle est plutôt en perte de vitesse par rapport à cette fameuse « *pensée de l’enfant* » dont nous nous servons pour juger notre adulte comme, je ne dirai pas du tout de repoussoir, mais comme *de point de référence, de point de perspective, où ses inachèvements, voire ses dégradations*, viendraient confluer, et aboutir. Il y a là même, d’une façon perpétuelle, une sorte de contradiction dans l’usage que nous faisons de cette référence*.*
+Car en fin de compte, si vrai que ce soit, il y a une autre position, une autre tension entre *la pensée* à laquelle nous avons affaire *dans l’inconscient,* et celle que nous qualifions, Dieu sait pourquoi, de pensée adulte. Précisément ce que nous démontrons, et ce que nous voyons, et ce que nous touchons sans cesse du doigt, c’est qu’elle est plutôt en perte de vitesse par rapport à cette fameuse « *pensée de l’enfant* » dont nous nous servons pour juger notre adulte comme, je ne dirai pas du tout de repoussoir, mais comme *de point de référence, de point de perspective, où ses inachèvements, voire ses dégradations*, viendraient confluer, et aboutir. Il y a là même, d’une façon perpétuelle, une sorte de contradiction dans l’usage que nous faisons de cette référence.
 
 <!-- id: s7-02-0063 -->
 
@@ -286,7 +286,7 @@ Quand FREUD est en cours de son auto-analyse, il écrit, dans une courte lettre,
 
 <!-- id: s7-02-0067 -->
 
-*Le désagréable* - dit-il - *ce sont die Stimmungen* »*.*
+*Le désagréable* - dit-il - *ce sont die Stimmungen* ».
 
 <!-- id: s7-02-0068 -->
 
@@ -314,11 +314,11 @@ Il ajoute d’ailleurs dans la même ligne :
 
 <!-- id: s7-02-0074 -->
 
-Je vous signale en passant qu’à cette occasion, dans un petit livre récent, dont je ne peux tout de même pas dire que je recommande la lecture, car c’est un livre très singulièrement discordant, presque insi­dieux, à la limite diffamatoire, d’Erich FROMM, qui s’appelle « *Sigmund Freud ‘s Mission »*[^6]*,* où des questions insinuantes - des questions qui ne sont certes pas du tout dépourvues d’intérêt - sont posées concernant la spéci­ficité, les traits spéciaux de la personnalité de FREUD, dans un sens très évi­demment toujours diminuant et dévalorisant. Il est dit que, pas plus que d’*autres*, Sigmund FREUD, dans cette recherche de la réalité dont il s’agit, ne trouve un guide sûr dans « *his* *sexual background »,* en extrayant cette phrase de son texte pour nous en faire conclure qu’à l’âge de quarante ans, FREUD est déjà impuissant.
+Je vous signale en passant qu’à cette occasion, dans un petit livre récent, dont je ne peux tout de même pas dire que je recommande la lecture, car c’est un livre très singulièrement discordant, presque insi­dieux, à la limite diffamatoire, d’Erich FROMM, qui s’appelle « *Sigmund Freud ‘s Mission »*[^6], où des questions insinuantes - des questions qui ne sont certes pas du tout dépourvues d’intérêt - sont posées concernant la spéci­ficité, les traits spéciaux de la personnalité de FREUD, dans un sens très évi­demment toujours diminuant et dévalorisant. Il est dit que, pas plus que d’*autres*, Sigmund FREUD, dans cette recherche de la réalité dont il s’agit, ne trouve un guide sûr dans « *his* *sexual background »,* en extrayant cette phrase de son texte pour nous en faire conclure qu’à l’âge de quarante ans, FREUD est déjà impuissant.
 
 <!-- id: s7-02-0075 -->
 
-Nous voici donc en mesure d’interroger, d’articuler ce que FREUD en 1895*,* puisque le sort des choses fait que nous est venu en mains le texte concernant sa conception fondamentale de la structure psychique, que nous est venu en mains cette *Esquisse* qu’il avait pensé intituler *Une psy­chologie à l’usage des neurologues,* mais comme il ne l’a jamais publié, le brouillon est resté annexé au paquet des lettres de FLIESS, et nous avons ces textes grâce à la récupération de ces collections.
+Nous voici donc en mesure d’interroger, d’articuler ce que FREUD en 1895, puisque le sort des choses fait que nous est venu en mains le texte concernant sa conception fondamentale de la structure psychique, que nous est venu en mains cette *Esquisse* qu’il avait pensé intituler *Une psy­chologie à l’usage des neurologues,* mais comme il ne l’a jamais publié, le brouillon est resté annexé au paquet des lettres de FLIESS, et nous avons ces textes grâce à la récupération de ces collections.
 
 <!-- id: s7-02-0076 -->
 
@@ -330,7 +330,7 @@ Assurément, dans cette opposition du *principe de plaisir* au *principe de réa
 
 <!-- id: s7-02-0078 -->
 
-- 1895*,* l’*Entwurf,* 1900, le chapitre VII de la *Traumdeutung,* avec la réarticulation, pour la première fois publique, des *processus* dits *primaires* et *secondaires* comme tels, comme étant, l’un gouverné par *le principe du* *plaisir*, l’autre par *le principe de réalité*,
+- 1895, l’*Entwurf,* 1900, le chapitre VII de la *Traumdeutung,* avec la réarticulation, pour la première fois publique, des *processus* dits *primaires* et *secondaires* comme tels, comme étant, l’un gouverné par *le principe du* *plaisir*, l’autre par *le principe de réalité*,
 
 <!-- id: s7-02-0079 -->
 
@@ -354,7 +354,7 @@ C’est étroitement limité à cet appareil neuronique que le fonctionnement de
 
 <!-- id: s7-02-0084 -->
 
-Assurément il l’a fait sous la forme de ce quelque chose qui vraiment représentait pour lui les exigences d’une cohérence de lui-même avec lui-même, devant lui-même, mais qui ne présente tout de même aucun des traits, ou du moins en apparence de réfé­rence à l’effet clinique qui, sans aucun doute, pour lui représente tout le poids des exigences auxquelles il a affaire. Mais là il s’entretient avec lui-même ou avec FLIESS, ce qui dans l’occasion est bien près de revenir au même*.* Ce dont il s’agit, c’est qu’il se donne une représentation probable, cohérente, une *hypothèse de travail* pour répondre à quelque chose dont tout le point concret, expérimental, est ici masqué, éludé.
+Assurément il l’a fait sous la forme de ce quelque chose qui vraiment représentait pour lui les exigences d’une cohérence de lui-même avec lui-même, devant lui-même, mais qui ne présente tout de même aucun des traits, ou du moins en apparence de réfé­rence à l’effet clinique qui, sans aucun doute, pour lui représente tout le poids des exigences auxquelles il a affaire. Mais là il s’entretient avec lui-même ou avec FLIESS, ce qui dans l’occasion est bien près de revenir au même. Ce dont il s’agit, c’est qu’il se donne une représentation probable, cohérente, une *hypothèse de travail* pour répondre à quelque chose dont tout le point concret, expérimental, est ici masqué, éludé.
 
 <!-- id: s7-02-0085 -->
 
@@ -388,7 +388,7 @@ Et ce qui donne son poids, sa justifi­cation à la mise au premier plan de *la 
 
 <!-- id: s7-02-0092 -->
 
-C’est quelque chose qui pour lui, correspond, je dirai, à l’expérience vécue la plus immédiate, celle du poids précisément de l’iner­tie que lui opposent, au niveau des symptômes, des choses dont il sent le caractère irréversible. C’est là, désignant sa première pénétration dans l’obscurité vers cette *Wirklichkeit,* qui est ce autour de quoi il porte sa question c’est là qu’est le ressort et le relief, et l’action de toute cette construction dont, à son aridité près. Là aussi je vous demande d’en faire la relecture, non pas en vous disant avec les *annotateurs*, *commentateurs* et *connotateurs* qui l’ont publié, si ceci est plus ou moins près de la pensée purement *psychologique* ou *physiologique*, ou si ceci se rapporte à HERBART, à FECHNER ou à quelqu’un d’autre*,* mais de vous apercevoir que nous sommes, sous cette forme froide, abstraite, scolastique, compliquée, devant un texte derrière lequel se ressent une *expérience* et que cette expérience est, de son fonds, de sa nature, une expérience d’ordre moral.
+C’est quelque chose qui pour lui, correspond, je dirai, à l’expérience vécue la plus immédiate, celle du poids précisément de l’iner­tie que lui opposent, au niveau des symptômes, des choses dont il sent le caractère irréversible. C’est là, désignant sa première pénétration dans l’obscurité vers cette *Wirklichkeit,* qui est ce autour de quoi il porte sa question c’est là qu’est le ressort et le relief, et l’action de toute cette construction dont, à son aridité près. Là aussi je vous demande d’en faire la relecture, non pas en vous disant avec les *annotateurs*, *commentateurs* et *connotateurs* qui l’ont publié, si ceci est plus ou moins près de la pensée purement *psychologique* ou *physiologique*, ou si ceci se rapporte à HERBART, à FECHNER ou à quelqu’un d’autre, mais de vous apercevoir que nous sommes, sous cette forme froide, abstraite, scolastique, compliquée, devant un texte derrière lequel se ressent une *expérience* et que cette expérience est, de son fonds, de sa nature, une expérience d’ordre moral.
 
 <!-- id: s7-02-0093 -->
 

@@ -72,7 +72,7 @@ Il y a quelque chose de plus *profond*, de plus *dynamiquement significatif* pou
 
 <!-- id: s7-10-0017 -->
 
-Là-dessus, vous auriez bien tort de vous fier à des oppositions sommaires et de penser *que l’histoire a connu des virages sensationnels* *-* que le passage de l’âge théocratique à cette « *forme* *humaniste* » comme on s’exprime, aux *formes dites de* « *libération de l’individu* » et de la réalité - que *la conception du monde* soit ici quelque chose de décisif. Il ne s’agit pas dans cette occasion, de quoi que ce soit qui ressemble à une *Weltanschauung* quelconque qui serait la mienne, et que j’essaierais de vous communiquer. Je ne suis ici qu’à titre d’indicateur et de bibliographe, pour vous aider à vous repérer dans ce qu’on peut trouver sur ce sujet de plus sérieux comme repères à partir de gens qui, chacun dans leur spécialité, sont doués de quelques capacités de réflexion.
+Là-dessus, vous auriez bien tort de vous fier à des oppositions sommaires et de penser *que l’histoire a connu des virages sensationnels* - que le passage de l’âge théocratique à cette « *forme* *humaniste* » comme on s’exprime, aux *formes dites de* « *libération de l’individu* » et de la réalité - que *la conception du monde* soit ici quelque chose de décisif. Il ne s’agit pas dans cette occasion, de quoi que ce soit qui ressemble à une *Weltanschauung* quelconque qui serait la mienne, et que j’essaierais de vous communiquer. Je ne suis ici qu’à titre d’indicateur et de bibliographe, pour vous aider à vous repérer dans ce qu’on peut trouver sur ce sujet de plus sérieux comme repères à partir de gens qui, chacun dans leur spécialité, sont doués de quelques capacités de réflexion.
 
 <!-- id: s7-10-0018 -->
 

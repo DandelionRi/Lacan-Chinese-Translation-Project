@@ -70,7 +70,7 @@ Or justement la notion même du déterminisme c’est *que la loi soit sans inte
 
 <!-- id: s2-24-0017 -->
 
-Eh bien, on comprend dès lors que pour autant que cette sorte d’expérimen­tation exemplaire pouvait suggérer à mon interlocuteur que quelque chose en fin de compte aurait été saisi - Dieu sait que l’esprit glisse facilement en ces matières *-* qui réintroduirait le déterminisme, non pas tout à fait dans le *jeu de pair ou impair*, car c’est bien là ce qui inquiète et qui inquiétait l’esprit de mon interlo­cuteur, mais jusqu’au *jeu de pile ou face*, auquel plus ou moins intuitivement il identifiait le *jeu de pair ou impair *: s’il y a du déterminisme dans le jeu de *pile ou face,* où allons-nous ? Plus aucun déterminisme véritable n’est possible. Cette *question* ouvre pour nous celle de savoir ce qu’est alors ce déterminis­me que nous, analystes, supposons fondamentalement à la racine même de notre *technique* :
+Eh bien, on comprend dès lors que pour autant que cette sorte d’expérimen­tation exemplaire pouvait suggérer à mon interlocuteur que quelque chose en fin de compte aurait été saisi - Dieu sait que l’esprit glisse facilement en ces matières - qui réintroduirait le déterminisme, non pas tout à fait dans le *jeu de pair ou impair*, car c’est bien là ce qui inquiète et qui inquiétait l’esprit de mon interlo­cuteur, mais jusqu’au *jeu de pile ou face*, auquel plus ou moins intuitivement il identifiait le *jeu de pair ou impair *: s’il y a du déterminisme dans le jeu de *pile ou face,* où allons-nous ? Plus aucun déterminisme véritable n’est possible. Cette *question* ouvre pour nous celle de savoir ce qu’est alors ce déterminis­me que nous, analystes, supposons fondamentalement à la racine même de notre *technique* :
 
 <!-- id: s2-24-0018 -->
 
@@ -382,7 +382,7 @@ Il ne faut pas qu’une porte soit « *ouverte ou fermée* » ! Il faut qu’
 
 <!-- id: s2-24-0093 -->
 
-Cette oscillation est la scansion, et la scansion est la base sur laquelle vous allez pouvoir inscrire indéfiniment l’action ordonnée par une série de montages qui ne seront plus, c’est le cas de le dire, *que des jeux d’enfants* \[Cf. Fort-Da\]*.* Toutes les *combi­naisons* sont possibles *d’ouverture et de fermeture*, ainsi pouvez-vous par exemple faire toutes les opérations qui consistent en celle-ci, par exemple : 0 0 1 1. Voilà quatre cas, qui peuvent être :
+Cette oscillation est la scansion, et la scansion est la base sur laquelle vous allez pouvoir inscrire indéfiniment l’action ordonnée par une série de montages qui ne seront plus, c’est le cas de le dire, *que des jeux d’enfants* \[Cf. Fort-Da\]. Toutes les *combi­naisons* sont possibles *d’ouverture et de fermeture*, ainsi pouvez-vous par exemple faire toutes les opérations qui consistent en celle-ci, par exemple : 0 0 1 1. Voilà quatre cas, qui peuvent être :
 
 <!-- id: s2-24-0094 -->
 
@@ -735,6 +735,7 @@ Si c’était dans une machine, ça serait tout simplement tombé, ça ne revend
 <!-- id: s2-24-0170 -->
 
 Nous ne pouvons en séparer ni la psychanalyse, ni la cybernétique. *Cette fin est que le non-être vienne à être, qu’il soit, parce qu’il a parlé.*
+
 ## Notes
 
 [^57]: J.F. Regnard (1655-1709) cité par Littré : « *Mais, ma foi, si jamais chez nous vous revenez, Je vous fais de la porte un masque sur le nez* » in *Ménechmes*, II, 5.

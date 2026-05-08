@@ -216,7 +216,7 @@ Sigle de l’inconscient philippéen, l’enseigne de la licorne nous présente 
 
 <!-- id: s12-07-0051 -->
 
-Le nœud le plus sensible de cette chaîne, condensée en la « *licorne* » est au niveau du «* plage-soif *»*.*
+Le nœud le plus sensible de cette chaîne, condensée en la « *licorne* » est au niveau du «* plage-soif *».
 
 <!-- id: s12-07-0052 -->
 
@@ -264,7 +264,7 @@ Avec la plus parfaite rigueur d’une non-logique de type primaire, avec la plus
 
 <!-- id: s12-07-0063 -->
 
-Je peux d’abord tenter de signaler l’émoi - émoi distingué, différence exquise - qui se retrouve à travers cette formule : ce serait quelque chose comme la maîtrise d’une création, l’accomplissement d’une réversion, une séquence « *rien du tout*-*quelque chose* » (plutôt que *disparu*-*réapparu*) une sorte de formule magique qui fait apparaître « concrètement ». Cette incantation est-elle déjà conjuratoire ? C’est possible. Mais prenons ce fantasme élément par élément, ainsi que <span class="smallcaps">FREUD</span> faisait des rêves.
+Je peux d’abord tenter de signaler l’émoi - émoi distingué, différence exquise - qui se retrouve à travers cette formule : ce serait quelque chose comme la maîtrise d’une création, l’accomplissement d’une réversion, une séquence « *rien du tout-quelque chose* » (plutôt que *disparu-réapparu*) une sorte de formule magique qui fait apparaître « concrètement ». Cette incantation est-elle déjà conjuratoire ? C’est possible. Mais prenons ce fantasme élément par élément, ainsi que <span class="smallcaps">FREUD</span> faisait des rêves.
 
 <!-- id: s12-07-0064 -->
 
@@ -874,7 +874,7 @@ Pour se donner ce nombre zéro FREGE forge le concept de « *non-identique à s
 
 <!-- id: s12-07-0214 -->
 
-> et il laisse apparaître les concepts contradictoires reçus dans la logique traditionnelle : *le cercle carré*, ou *la montagne d’or* …à n’importe quel concept sous lequel ne tombe aucun objet, à ce concept est attribué le nom zéro*.*
+> et il laisse apparaître les concepts contradictoires reçus dans la logique traditionnelle : *le cercle carré*, ou *la montagne d’or* …à n’importe quel concept sous lequel ne tombe aucun objet, à ce concept est attribué le nom zéro.
 
 <!-- id: s12-07-0215 -->
 
@@ -906,7 +906,7 @@ L’opération « *successeur* » est définie simplement comme suit : on dit
 
 <!-- id: s12-07-0222 -->
 
-Ça c’est une définition purement formelle qui met simplement en évidence que le nombre du concept qui suit, par rapport au nombre qui le précède, le nombre qui le précède a pour objet le concept précédent à condition que ce ne soit pas l’objet tombé sous le concept précédent. Cette définition est purement formelle et je dis que FREGE la fonde en donnant immédiatement après… après il passe à la définition du 1. Il va dire : « *comment vais-je donner la définition du* 1 *?* » La définition du 1 elle est assez simple, elle consiste à se donner un concept égal à *zéro<span class="smallcaps">. </span>*Quel objet tombe sous ce concept ? Sous ce concept tombe l’objet *zéro*.
+Ça c’est une définition purement formelle qui met simplement en évidence que le nombre du concept qui suit, par rapport au nombre qui le précède, le nombre qui le précède a pour objet le concept précédent à condition que ce ne soit pas l’objet tombé sous le concept précédent. Cette définition est purement formelle et je dis que FREGE la fonde en donnant immédiatement après… après il passe à la définition du 1. Il va dire : « *comment vais-je donner la définition du* 1 ? » La définition du 1 elle est assez simple, elle consiste à se donner un concept égal à *zéro<span class="smallcaps">. </span>*Quel objet tombe sous ce concept ? Sous ce concept tombe l’objet *zéro*.
 
 <!-- id: s12-07-0223 -->
 

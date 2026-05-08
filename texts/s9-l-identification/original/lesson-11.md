@@ -38,7 +38,7 @@ Rappelez-vous là-dessus ce que je vous ai enseigné il y a deux ans de cette *r
 
 <!-- id: s9-11-0009 -->
 
-La fonction où se fonde le désir, pour notre expérience rend manifeste qu’elle n’a rien à faire avec ce que KANT[^92] *distingue* comme le *Wohl* en l’opposant au *Gut* et au bien, disons avec *le bien-être*, avec *l’utile*. Cela nous mène à nous apercevoir que *cela va plus loin *: que cette fonction du désir, elle n’a rien à faire dirai-je, en général avec ce que KANT appelle - pour le reléguer au second rang dans les règles de la conduite *-* le *pathologique* [^93]*.*
+La fonction où se fonde le désir, pour notre expérience rend manifeste qu’elle n’a rien à faire avec ce que KANT[^92] *distingue* comme le *Wohl* en l’opposant au *Gut* et au bien, disons avec *le bien-être*, avec *l’utile*. Cela nous mène à nous apercevoir que *cela va plus loin *: que cette fonction du désir, elle n’a rien à faire dirai-je, en général avec ce que KANT appelle - pour le reléguer au second rang dans les règles de la conduite - le *pathologique* [^93].
 
 <!-- id: s9-11-0010 -->
 
@@ -94,7 +94,7 @@ Je m’excuse avec toute l’humilité qu’on voudra auprès de ceux qui, des t
 
 <!-- id: s9-11-0023 -->
 
-Dès lors, n’ai-je pas le droit de m’en tenir pour un instant à ceci, qui pour quiconque simplement aura lu une ou deux fois avec une attention éclairée ladite *Critique de la Raison pure*[^95]*,* ceci, d’ailleurs qui n’est contesté par aucun *commentateur*, que les catégories dite *de la Raison pure* exi­gent assurément pour fonctionner comme telles le fondement de ce qui s’appelle intuition pure, laquelle se présente comme la forme normative, je vais plus loin : obligatoire, de toutes les appréhensions sensibles : je dis de toutes, quelles qu’elles soient.
+Dès lors, n’ai-je pas le droit de m’en tenir pour un instant à ceci, qui pour quiconque simplement aura lu une ou deux fois avec une attention éclairée ladite *Critique de la Raison pure*[^95], ceci, d’ailleurs qui n’est contesté par aucun *commentateur*, que les catégories dite *de la Raison pure* exi­gent assurément pour fonctionner comme telles le fondement de ce qui s’appelle intuition pure, laquelle se présente comme la forme normative, je vais plus loin : obligatoire, de toutes les appréhensions sensibles : je dis de toutes, quelles qu’elles soient.
 
 <!-- id: s9-11-0024 -->
 
@@ -106,7 +106,7 @@ Dès lors, tout se trouve suspendu au principe de cette fonction dite *synthéti
 
 <!-- id: s9-11-0026 -->
 
-Le schème kantien, on peut arriver à le réduire à la *Beharrlichkeit* [^96]*,* à la permanence, à la tenue dirai-je, vide, mais *la tenue possible de quoi que ce soit dans le temps*. Cette intuition pure en droit est absolument exigée dans KANT pour le fonc­tionnement catégoriel, mais après tout, l’existence d’un corps, en tant qu’il est le fondement de la *Sinnlichkeit,* de la *sensorialité*, n’est pas exigible du tout. Sans doute, pour ce qu’on peut appeler valablement d’un rapport à la réalité, ça ne nous mènera pas loin puisque, comme le souligne KANT, l’usage de ces catégo­ries de l’entendement ne concernera que ce qu’il appellera des *concepts vides*.
+Le schème kantien, on peut arriver à le réduire à la *Beharrlichkeit* [^96], à la permanence, à la tenue dirai-je, vide, mais *la tenue possible de quoi que ce soit dans le temps*. Cette intuition pure en droit est absolument exigée dans KANT pour le fonc­tionnement catégoriel, mais après tout, l’existence d’un corps, en tant qu’il est le fondement de la *Sinnlichkeit,* de la *sensorialité*, n’est pas exigible du tout. Sans doute, pour ce qu’on peut appeler valablement d’un rapport à la réalité, ça ne nous mènera pas loin puisque, comme le souligne KANT, l’usage de ces catégo­ries de l’entendement ne concernera que ce qu’il appellera des *concepts vides*.
 
 <!-- id: s9-11-0027 -->
 
@@ -126,7 +126,7 @@ Quand il nous donne, comme exemple d’une *évidence* qui n’a même pas besoi
 
 <!-- id: s9-11-0031 -->
 
-Quand il nous donne, dans *ce tableau des Nichts,* des « *riens* »*,* comme exemple du « leerer *Gegenstand ohne Begriff* »*,* de *l’objet vide sans concept, l’exemple* suivant qui est assez énorme : *l’illustration d’une figure rectiligne qui n’aurait que deux côtés*. Voilà quelque chose qui peut sembler, peut-être à KANT, et sans doute pas à tout le monde à son époque, *comme l’exemple même de l’objet inexistant, et par dessus le marché impensable*. Mais le moindre usage, je dirai même d’une expérience de géomètre tout à fait élémentaire, la recherche d’un tracé que décrit un point lié à une roulante, ce qu’on appelle *une cycloïde de Pascal,* vous mon­trera qu’une figure rectiligne, pour autant qu’elle met proprement en cause la permanence du contact de deux lignes ou de deux côtés, est quelque chose qui est véritablement primordial, essentiel à toute espèce de compréhension géomé­trique, qu’il y a bel et bien là articulation conceptuelle, et même objet tout à fait définissable.
+Quand il nous donne, dans *ce tableau des Nichts,* des « *riens* », comme exemple du « leerer *Gegenstand ohne Begriff* », de *l’objet vide sans concept, l’exemple* suivant qui est assez énorme : *l’illustration d’une figure rectiligne qui n’aurait que deux côtés*. Voilà quelque chose qui peut sembler, peut-être à KANT, et sans doute pas à tout le monde à son époque, *comme l’exemple même de l’objet inexistant, et par dessus le marché impensable*. Mais le moindre usage, je dirai même d’une expérience de géomètre tout à fait élémentaire, la recherche d’un tracé que décrit un point lié à une roulante, ce qu’on appelle *une cycloïde de Pascal,* vous mon­trera qu’une figure rectiligne, pour autant qu’elle met proprement en cause la permanence du contact de deux lignes ou de deux côtés, est quelque chose qui est véritablement primordial, essentiel à toute espèce de compréhension géomé­trique, qu’il y a bel et bien là articulation conceptuelle, et même objet tout à fait définissable.
 
 <!-- id: s9-11-0032 -->
 
@@ -298,11 +298,11 @@ C’est parce qu’il y a un sujet qui se marque lui-même, ou non, du *trait un
 
 <!-- id: s9-11-0074 -->
 
-Bien sûr il y a un vide, et c’est de là que va partir le sujet : *leerer Gegenstand ohne Begriff*. Des quatre défini­tions du *rien* que donne KANT, et que nous reprendrons la prochaine fois, c’est la seule qui se tient avec rigueur, il y a là un *rien*. Observez que dans le tableau que je vous ai donné des trois termes *castration-frustration-privation* [^101]*,* la contre-par­tie, l’agent possible, le sujet à proprement parler *imaginaire* d’où peut découler la privation, l’énonciation de la privation, c’est le sujet de la toute-puissance ima­ginaire, c’est-à-dire de l’image inversée de l’impuissance.
+Bien sûr il y a un vide, et c’est de là que va partir le sujet : *leerer Gegenstand ohne Begriff*. Des quatre défini­tions du *rien* que donne KANT, et que nous reprendrons la prochaine fois, c’est la seule qui se tient avec rigueur, il y a là un *rien*. Observez que dans le tableau que je vous ai donné des trois termes *castration-frustration-privation* [^101], la contre-par­tie, l’agent possible, le sujet à proprement parler *imaginaire* d’où peut découler la privation, l’énonciation de la privation, c’est le sujet de la toute-puissance ima­ginaire, c’est-à-dire de l’image inversée de l’impuissance.
 
 <!-- id: s9-11-0075 -->
 
-*Ens rationis, leerer Begriff ohne Gegenstand, concept vide sans objet*, pur concept de la possibilité, voici le cadre où se situe et apparaît [*l’ens privativum*](http://www.itereva.pf/disciplines/philo/Enseignement%20de%20la%20philosophie/Bulletins/Bulletin3/rien.htm) [^102]*.* KANT, sans doute, ne manque pas d’ironiser sur l’usage purement formel de la formule qui semble aller de soi : tout réel est possible. Qui dira le contraire ? Forcément !
+*Ens rationis, leerer Begriff ohne Gegenstand, concept vide sans objet*, pur concept de la possibilité, voici le cadre où se situe et apparaît [*l’ens privativum*](http://www.itereva.pf/disciplines/philo/Enseignement%20de%20la%20philosophie/Bulletins/Bulletin3/rien.htm) [^102]. KANT, sans doute, ne manque pas d’ironiser sur l’usage purement formel de la formule qui semble aller de soi : tout réel est possible. Qui dira le contraire ? Forcément !
 
 <!-- id: s9-11-0076 -->
 
@@ -310,7 +310,7 @@ Et il fait le pas plus loin en *nous faisant remarquer* que donc quelque *réel*
 
 <!-- id: s9-11-0077 -->
 
-Le –1 constitutif de l’*ens privativum,* nous le voyons ainsi lié à la structure la plus primitive de notre expérience de l’inconscient, pour autant qu’elle est celle, non pas de l’interdit, ni du « *dit que non* »*,* mais du « *non-dit* »*,* du point où le sujet n’est plus là pour dire s’il n’est plus maître de cette identification au 1, ou de cette absence soudaine du 1 qui pourrait le marquer.
+Le –1 constitutif de l’*ens privativum,* nous le voyons ainsi lié à la structure la plus primitive de notre expérience de l’inconscient, pour autant qu’elle est celle, non pas de l’interdit, ni du « *dit que non* », mais du « *non-dit* », du point où le sujet n’est plus là pour dire s’il n’est plus maître de cette identification au 1, ou de cette absence soudaine du 1 qui pourrait le marquer.
 
 <!-- id: s9-11-0078 -->
 

@@ -6,7 +6,7 @@
 
 <!-- id: s15-03-0001 -->
 
-Au début d’un article sur *le contre-transfert* publié en 1960, un bon psychanalyste auquel nous ferons une certaine place aujourd’hui *-* le D<sup>r</sup> D.W. WINNICOTT [^17] *-* écrit que le mot de « *contre-transfert* » doit être rapporté à son usage original et à ce propos, pour l’opposer, fait état du mot « *self* »*.*
+Au début d’un article sur *le contre-transfert* publié en 1960, un bon psychanalyste auquel nous ferons une certaine place aujourd’hui - le D<sup>r</sup> D.W. WINNICOTT [^17] - écrit que le mot de « *contre-transfert* » doit être rapporté à son usage original et à ce propos, pour l’opposer, fait état du mot « *self* ».
 
 <!-- id: s15-03-0002 -->
 
@@ -14,7 +14,7 @@ Au début d’un article sur *le contre-transfert* publié en 1960, un bon psych
 
 <!-- id: s15-03-0003 -->
 
-C’est une remarque *-* mon Dieu *-* qui a bien son intérêt à voir sous une plume qui ne se distingue pas par une référence spéciale au langage, comme vous allez le voir. Le trait m’a paru *piquant* et le sera encore plus de ce que j’aurai à évoquer devant vous aujourd’hui de *cet* *auteur.*
+C’est une remarque - mon Dieu - qui a bien son intérêt à voir sous une plume qui ne se distingue pas par une référence spéciale au langage, comme vous allez le voir. Le trait m’a paru *piquant* et le sera encore plus de ce que j’aurai à évoquer devant vous aujourd’hui de *cet* *auteur.*
 
 <!-- id: s15-03-0004 -->
 
@@ -254,7 +254,7 @@ et la réplique suivante :
 
 <!-- id: s15-03-0063 -->
 
-Ἆρ’ οὖν οὐ τὴν ἐπιστήμην, ἣν νῦν οὗτος ἔχει, ἤτοι ἔλαβέν ποτε ἢ ἀεὶ εἶχεν 
+Ἆρ’ οὖν οὐ τὴν ἐπιστήμην, ἣν νῦν οὗτος ἔχει, ἤτοι ἔλαβέν ποτε ἢ ἀεὶ εἶχεν
 
 <!-- id: s15-03-0064 -->
 
@@ -470,7 +470,7 @@ Puis il y a l’autre imagination possible : au lieu de nous apercevoir qu’il 
 
 <!-- id: s15-03-0116 -->
 
-*vous savez qu’il y a des encres qu’on appelle sympathiques* *...le dessin apparaît.* » Il y a alors *fonction* - comme on dit quand il s’agit d’une plaque sensible - *de révélation* [^26].
+*vous savez qu’il y a des encres qu’on appelle sympathiques...le dessin apparaît.* » Il y a alors *fonction* - comme on dit quand il s’agit d’une plaque sensible - *de révélation* [^26].
 
 <!-- id: s15-03-0117 -->
 
@@ -672,7 +672,7 @@ Dans toute la mesure où *l’acte psychanalytique* est méconnu, dans cette mê
 [^22]: Ce « *murmure de Sainte-Anne* », il y est fait allusion dans « *La science et la vérité* » (in *Écrits*, p. 867). Lacan y rappelle la façon dont fut reçu son discours de « *La Chose freudienne* » (*Écrits,* p. 401-436 ou séance du 1<sup>er</sup> Déc.1966 du séminaire *L’objet*…) et notamment le malentendu qui se fit jour dans son auditoire d’alors, lorsqu’il prêta sa voix à supporter ces mots intolérables : « *Moi, la vérité, je parle*… » (p. 409). Intitulé « *La chose parle d’elle-même* » (où l’on pourra reconnaître le fameux « *ça parle* » évoqué ici plus haut), ce discours ne sera pas reçu pour ce qu’il était : une prosopopée. Lacan mesure l’ampleur du malentendu aux propos touchants d’un auditeur : « *Pourquoi*, colporta quelqu’un, et ce thème court encore, *pourquoi ne dit-il pas le vrai sur le vrai ?* » (p. 867).
 
 
-[^23]: [Platon : *Ménon*](http://remacle.org/bloodwolf/philosophes/platon/cousin/menon.htm), Belles Lettres, 1985. Ou Platon : *Œuvres complètes*, Gallimard, 1950, Pléiade, p.513. Ou Platon : *Œuvres complètes,* Flammarion, 2011*.*
+[^23]: [Platon : *Ménon*](http://remacle.org/bloodwolf/philosophes/platon/cousin/menon.htm), Belles Lettres, 1985. Ou Platon : *Œuvres complètes*, Gallimard, 1950, Pléiade, p.513. Ou Platon : *Œuvres complètes,* Flammarion, 2011.
 
 
 [^24]: Dans la première séance (17 Nov.) du séminaire 1954-55 : *Le moi dans la théorie de Freud*... Lacan commente le *Ménon* en se référant à la conférence faite

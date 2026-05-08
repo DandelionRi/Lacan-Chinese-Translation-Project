@@ -85,7 +85,7 @@ Qu’importe ! Ce n’est pas hasard si c’est là que nous devons chercher not
 
 <!-- id: s12-11-0013 -->
 
-Mais il reste *- et je le souligne :* témoigné de la façon la plus éclatante - tout ce qui s’est construit de plus récemment, et dont vous devez bien avoir l’idée de la dimension du foisonnement fabuleux qu’il représente depuis environ un siècle, qu’on saisit là ce qui déjà est saisissable au niveau d’EUCLIDE, c’est que c’est par la voie de l’exigence logique qui fait que, de l’opération quelle qu’elle soit, de la construction mathématique, *tout doit être dit* et *d’une façon qui résiste à la contradiction*. 
+Mais il reste *- et je le souligne :* témoigné de la façon la plus éclatante - tout ce qui s’est construit de plus récemment, et dont vous devez bien avoir l’idée de la dimension du foisonnement fabuleux qu’il représente depuis environ un siècle, qu’on saisit là ce qui déjà est saisissable au niveau d’EUCLIDE, c’est que c’est par la voie de l’exigence logique qui fait que, de l’opération quelle qu’elle soit, de la construction mathématique, *tout doit être dit* et *d’une façon qui résiste à la contradiction*.
 
 <!-- id: s12-11-0014 -->
 
@@ -319,7 +319,7 @@ qui est une surface parfaitement orientable, une simple rondelle, dont le bord e
 
 <!-- id: s12-11-0071 -->
 
-*C’est une surface orientable* qui a un endroit et un envers et dont il suffit que vous y fassiez la couture - favorisée par cette disposition - d’un bord à l’autre, pour voir que vous y créez effectivement*,* que vous créez à l’aide de cette forme, une *bande de Mœbius*:
+*C’est une surface orientable* qui a un endroit et un envers et dont il suffit que vous y fassiez la couture - favorisée par cette disposition - d’un bord à l’autre, pour voir que vous y créez effectivement, que vous créez à l’aide de cette forme, une *bande de Mœbius*:
 
 <!-- id: s12-11-0072 -->
 
@@ -359,7 +359,7 @@ Cette impasse qui nous mène à parler d’un *au-delà du principe de plaisir*,
 
 <!-- id: s12-11-0080 -->
 
-Observez comment, au contraire, et c’est peut-être là une voie autre que celle qu’on appelle purement dialectique, pour le concevoir*,* comment au contraire, ce n’est pas seulement parce qu’un cercle limite, définit *deux champs qui s’opposent* - le bien et le mal, le plaisir et le déplaisir, le juste et l’injuste - que la liaison de l’un à l’autre s’établit.
+Observez comment, au contraire, et c’est peut-être là une voie autre que celle qu’on appelle purement dialectique, pour le concevoir, comment au contraire, ce n’est pas seulement parce qu’un cercle limite, définit *deux champs qui s’opposent* - le bien et le mal, le plaisir et le déplaisir, le juste et l’injuste - que la liaison de l’un à l’autre s’établit.
 
 <!-- id: s12-11-0081 -->
 
@@ -535,7 +535,7 @@ Je commencerai la prochaine fois en vous parlant du *cri* parce que je ne peux p
 
 <!-- id: s12-11-0123 -->
 
-Eh bien, si cette personne avait mieux cherché et *repéré dans mon graphe, la formule, le schéma, l’articulation, qui conjoint le* S *avec* *le* D, en les joignant par *le poinçon* \[**◊**\] *conjonction-disjonction*, *inclusion-exclusion*, il se serait peut-être aperçu que si c’est justement en corrélation à la demande que là apparaît pour la première fois le S, ça n’est peut-être pas tout à fait sans rapport avec cette fonction du silence, mais à vrai dire on aime mieux en parler dans certains endroits *en termes émotionnels ou d’effusion.*
+Eh bien, si cette personne avait mieux cherché et *repéré dans mon graphe, la formule, le schéma, l’articulation, qui conjoint le* S *avec* *le* D, en les joignant par *le poinçon* \[◊\] *conjonction-disjonction*, *inclusion-exclusion*, il se serait peut-être aperçu que si c’est justement en corrélation à la demande que là apparaît pour la première fois le S, ça n’est peut-être pas tout à fait sans rapport avec cette fonction du silence, mais à vrai dire on aime mieux en parler dans certains endroits *en termes émotionnels ou d’effusion.*
 
 <!-- id: s12-11-0124 -->
 
@@ -651,7 +651,7 @@ Le *mot* mit fin à tout débat, et le groupe tituba au large sans plus s’inqu
 
 [^77]: John W. Milnor, médaille Fields 1962, fondateur de la topologie différentielle.
 
-    John. W. Milnor : *Morse Theory***,** Princeton University Press, 1963.
+    John. W. Milnor : *Morse Theory**,* Princeton University Press, 1963.
 
 
 [^78]: E. Husserl <span class="smallcaps">:</span> *L'origine de la géométrie*, Paris, PUF, 1999.
@@ -690,10 +690,10 @@ Le *mot* mit fin à tout débat, et le groupe tituba au large sans plus s’inqu
     \[*Dans le monde, lorsque tous les hommes ont su apprécier la beauté (morale), alors la laideur (du vice) a paru. Lorsque tous les hommes ont su apprécier le bien, alors le mal a paru. C'est pourquoi l'être et le non-être naissent l'un de l'autre. Le difficile et le facile se produisent mutuellement. Le long et le court se donnent mutuellement leur forme. Le haut et le bas montrent mutuellement leur inégalité. Les tons et la voix s'accordent mutuellement. L'antériorité et la postériorité sont la conséquence l'une de l'autre.* *De là vient que le saint homme fait son occupation du non-agir. Il fait consister ses instructions dans le silence. Alors tous les êtres se mettent en mouvement, et il ne leur refuse rien. Il les produit et ne se les approprie pas. Il les perfectionne et ne compte pas sur eux.*\](Trad. : Julien)
 
 
-[^85]: Rudolph Loewenstein<span class="smallcaps"> : « </span>*Remarques sur le tact dans la technique psychanalytique* », [Revue Française de Psychanalyse*,* 1930, vol. 4, n°2*,*](http://gallica.bnf.fr/ark:/12148/bpt6k54444458.image.langEN) *pp.* 266-275*.*
+[^85]: Rudolph Loewenstein<span class="smallcaps"> : « </span>*Remarques sur le tact dans la technique psychanalytique* », [Revue Française de Psychanalyse, 1930, vol. 4, n°2,](http://gallica.bnf.fr/ark:/12148/bpt6k54444458.image.langEN) *pp.* 266-275.
 
 
-[^86]: [<span class="smallcaps">Aristote :</span> *De l'âme*](http://remacle.org/bloodwolf/philosophes/Aristote/tableame.htm)*,* Paris, Belles lettres, 2002, 408b.
+[^86]: [<span class="smallcaps">Aristote :</span> *De l'âme*](http://remacle.org/bloodwolf/philosophes/Aristote/tableame.htm), Paris, Belles lettres, 2002, 408b.
 
 
 [^87]: [<span class="smallcaps">Quintilien :</span> *De l'institution oratoire*](http://bcs.fltr.ucl.ac.be/Quint/quint1Plan.html) , Paris, Belles lettres, 2000.

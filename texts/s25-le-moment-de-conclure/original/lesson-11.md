@@ -194,7 +194,7 @@ Ce ne sera plus vrai à partir de ces bandes-là où les bords se tiennent par e
 
 <!-- id: s25-11-0048 -->
 
-Alors ça, c’est la mise à plat de *la bande à* **1** *demi*-*torsion*. Alors là je dessine :
+Alors ça, c’est la mise à plat de *la bande à* **1** *demi-torsion*. Alors là je dessine :
 
 <!-- id: s25-11-0049 -->
 
@@ -230,7 +230,7 @@ Bon, on ne va pas entrer là-dedans...
 
 <!-- id: s25-11-0057 -->
 
-\[**2**\] Bon alors, ce qui se passe à *la bande à* **2** *demi*-*torsions*, c’est-à-dire à une torsion, c’est-à-dire une *bande à deux bords*.
+\[**2**\] Bon alors, ce qui se passe à *la bande à* **2** *demi-torsions*, c’est-à-dire à une torsion, c’est-à-dire une *bande à deux bords*.
 
 <!-- id: s25-11-0058 -->
 
@@ -262,7 +262,7 @@ Mais pour rendre ces figures plus lisibles...
 
 <!-- id: s25-11-0065 -->
 
-\[**3**\] Alors quand on passe à *la bande à* **3** *demi*-*torsions*, c’est-à-dire que là, le dessin du bord de la bande, c’est ça.
+\[**3**\] Alors quand on passe à *la bande à* **3** *demi-torsions*, c’est-à-dire que là, le dessin du bord de la bande, c’est ça.
 
 <!-- id: s25-11-0066 -->
 
@@ -274,7 +274,7 @@ Je peux encore *mettre à plat* cette figure-là, cette bande-là, bon c’est p
 
 <!-- id: s25-11-0068 -->
 
-\[**4**\] *La bande à* **4** *demi*-*torsions*, c’est-à-dire à deux torsions, elle noue ses deux bords de cette manière-là, c’est-à­-dire comme ça, c’est le deuxième nœud, et on pourrait dire également que c’est le tore à deux trous. Et celle-là, je peux encore l’aplatir.
+\[**4**\] *La bande à* **4** *demi-torsions*, c’est-à-dire à deux torsions, elle noue ses deux bords de cette manière-là, c’est-à­-dire comme ça, c’est le deuxième nœud, et on pourrait dire également que c’est le tore à deux trous. Et celle-là, je peux encore l’aplatir.
 
 <!-- id: s25-11-0069 -->
 
@@ -298,7 +298,7 @@ Et cette figure-­là est identique à elle-même si on la retourne.
 
 <!-- id: s25-11-0074 -->
 
-Là je n’ai pas dessiné la bande à **5** *demi*-*torsions*, mais il est évident qu’elle ne va pas faire un polygone régulier pavant l’espace, ça il n’y aura plus moyen. Mais si on retournait à celle à **6**, on pourrait encore refaire un figure régulière pavant l’espace.
+Là je n’ai pas dessiné la bande à **5** *demi-torsions*, mais il est évident qu’elle ne va pas faire un polygone régulier pavant l’espace, ça il n’y aura plus moyen. Mais si on retournait à celle à **6**, on pourrait encore refaire un figure régulière pavant l’espace.
 
 <!-- id: s25-11-0075 -->
 

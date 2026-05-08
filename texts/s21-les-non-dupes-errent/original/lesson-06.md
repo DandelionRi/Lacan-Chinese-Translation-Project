@@ -250,7 +250,7 @@ Il est vrai que cet *ordre*, on s’y embrouillait un tant soit peu les pattes, 
 
 <!-- id: s21-06-0061 -->
 
-L’ordre **1**,**2**,**3** ben, il y en a un qui vient le premier et ce n’est pas par hasard...
+L’ordre **1,2,3** ben, il y en a un qui vient le premier et ce n’est pas par hasard...
 
 <!-- id: s21-06-0062 -->
 
@@ -460,7 +460,7 @@ Il s’agit de le *débusquer* de cette position de *supposition* qui en fin de 
 
 <!-- id: s21-06-0113 -->
 
-Tout ce qu’ils ont de *Réel* c’est que ça fasse 3*.*
+Tout ce qu’ils ont de *Réel* c’est que ça fasse 3.
 
 <!-- id: s21-06-0114 -->
 
@@ -532,7 +532,7 @@ Car s’il y a quelque chose à quoi nous initie *l’expérience analytique*, c
 
 <!-- id: s21-06-0131 -->
 
-Comment même, pouvez vous ne pas apercevoir que ce type qui se dit « *je pense donc je suis *»*,* c’est un mauvais rêve ?
+Comment même, pouvez vous ne pas apercevoir que ce type qui se dit « *je pense donc je suis *», c’est un mauvais rêve ?
 
 <!-- id: s21-06-0132 -->
 
@@ -598,7 +598,7 @@ Il y avait autrefois un... un garçon de bureau qui poussait des cris après cha
 
 <!-- id: s21-06-0147 -->
 
-Ce personnage est bien connu, on lui a même confié le soin d’un *Vocabulaire*...[^13]*.*
+Ce personnage est bien connu, on lui a même confié le soin d’un *Vocabulaire*...[^13].
 
 <!-- id: s21-06-0148 -->
 
@@ -654,7 +654,7 @@ Même Aristote n’a pas osé moufeter ça ! Comment est-ce qu’il aurait fait,
 
 <!-- id: s21-06-0161 -->
 
-Dire : « *aucun homme n’est femme* »*,* ça, ça aurait été vachement culotté, surtout à son époque !
+Dire : « *aucun homme n’est femme* », ça, ça aurait été vachement culotté, surtout à son époque !
 
 <!-- id: s21-06-0162 -->
 
@@ -906,7 +906,7 @@ Dans le meilleur cas - hein : dans le meilleur cas - il se peut que ça n’en 
 
 <!-- id: s21-06-0224 -->
 
-Il suffit que vous imaginiez que le **1**,**2**,**3** se raboute au **2**,**3**,**1**.
+Il suffit que vous imaginiez que le **1,2,3** se raboute au **2,3,1**.
 
 <!-- id: s21-06-0225 -->
 
@@ -922,7 +922,7 @@ Je veux dire que tout se continue dans tout, et après tout ça n’en reste pas
 
 <!-- id: s21-06-0228 -->
 
-- et si 2 des brins se rejoignent, eh bien ça fera quelque chose qui se nouera*,* ou ne se nouera pas*,* au 3<sup>ème</sup>, la ques­tion n’est pas là.
+- et si 2 des brins se rejoignent, eh bien ça fera quelque chose qui se nouera, ou ne se nouera pas, au 3<sup>ème</sup>, la ques­tion n’est pas là.
 
 <!-- id: s21-06-0229 -->
 

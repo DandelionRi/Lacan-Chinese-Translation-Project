@@ -12,7 +12,7 @@ en me fondant sur les difficultés qu’il impose à l’analyste.
 <!-- id: s11-11-0002 -->
 
 J’ai pris - à moi offert par la rencontre - le hasard du dernier article publié dans l’organe le plus officiel de la psychanalyse,
-*l’International Journal of Psycho-analysis,* l’article de SZASZ qui va jusqu’à *mettre en cause* l’utilisation dans l’analyse de *la notion de transfert* comme ouvrant la porte à une effectuation du *rôle de l’analyste* dont le carac­tère serait, en elle*-*même, d’être en somme sans contrôle, puisqu’en rai­son des repères - j’ose le croire, eux*-*mêmes problématiques - que prend SZASZ pour en discuter, à savoir les repères du *logico-positivisme*, ce qui consiste à interroger directement l’effet de sens du signifiant comme étant quelque chose qui se détermine de l’extérieur, que son emploi en rapport avec telle ou telle réalité supposait être des données.
+*l’International Journal of Psycho-analysis,* l’article de SZASZ qui va jusqu’à *mettre en cause* l’utilisation dans l’analyse de *la notion de transfert* comme ouvrant la porte à une effectuation du *rôle de l’analyste* dont le carac­tère serait, en elle-même, d’être en somme sans contrôle, puisqu’en rai­son des repères - j’ose le croire, eux-mêmes problématiques - que prend SZASZ pour en discuter, à savoir les repères du *logico-positivisme*, ce qui consiste à interroger directement l’effet de sens du signifiant comme étant quelque chose qui se détermine de l’extérieur, que son emploi en rapport avec telle ou telle réalité supposait être des données.
 
 <!-- id: s11-11-0003 -->
 
@@ -24,7 +24,7 @@ un bout pour savoir ce qui convient, à prendre des exemples exemplaires, et pou
 
 <!-- id: s11-11-0004 -->
 
-Prenant comme exemple le cas où une de ses patientes, dans un rêve qu’on appelle « *de transfert* », c’est*-*à*-*dire de réalisations amoureuses avec son analyste - en l’occasion lui, SPITZ - le voit pour­vu d’une chevelure aussi blonde qu’abondante,
+Prenant comme exemple le cas où une de ses patientes, dans un rêve qu’on appelle « *de transfert* », c’est-à-dire de réalisations amoureuses avec son analyste - en l’occasion lui, SPITZ - le voit pour­vu d’une chevelure aussi blonde qu’abondante,
 ce qui à toute person­ne qui a entrevu le crâne en œuf du personnage, et il est assez connu pour être célèbre, apparaîtra bien évidemment un point sur lequel l’analyste pourra montrer au sujet à quelles distorsions les effets de l’inconscient l’ont poussé.
 Mais assurément, quand il s’agira de qualifier une conduite du patient comme étant, à l’endroit de l’analyste, à visée désobligeante :
 
@@ -37,12 +37,12 @@ Mais assurément, quand il s’agira de qualifier une conduite du patient comme 
 
 Ce qui nous rejette vers ce pôle à la fois manifestement mythique et idéalisant, de ce que SZASZ appelle « *l’intégrité de l’analyste* »,
 ce dont nous nous demandons ce que cela peut bien vou­loir dire si ce n’est le rappel à la dimension de *la vérité* !
-Je ne puis donc situer l’article de SZASZ que dans cette perspective où lui*-*même ne peut le considérer comme opérant qu’à titre proprement, non point *heuristique*, mais *éristique*, qu’au titre de nous manifester, dans la réflexion en impasse d’un analyste,
+Je ne puis donc situer l’article de SZASZ que dans cette perspective où lui-même ne peut le considérer comme opérant qu’à titre proprement, non point *heuristique*, mais *éristique*, qu’au titre de nous manifester, dans la réflexion en impasse d’un analyste,
 la présence d’une véritable crise de conscience dans la fonction analytique, dans la fonction de l’analyste.
 
 <!-- id: s11-11-0007 -->
 
-Cette crise de conscience, voilà qui d’une certaine façon, dirais-je, ne nous intéresse que de façon tout à fait *latérale*, si nous*-*mêmes avons le sentiment, pouvons trouver :
+Cette crise de conscience, voilà qui d’une certaine façon, dirais-je, ne nous intéresse que de façon tout à fait *latérale*, si nous-mêmes avons le sentiment, pouvons trouver :
 
 <!-- id: s11-11-0008 -->
 
@@ -84,11 +84,11 @@ il peut, il doit, il est essentiellement situé à la dimension de « *se trompe
 <!-- id: s11-11-0016 -->
 
 Que même, comme le remarque à très juste titre *un analyste* dont je prendrai à plusieurs reprises aujourd’hui le repère, pour marquer chez lui aussi une certaine courbe, une certaine évolution de sa pensée concernant *le transfert*, c’est NUNBERG, NUNBERG dans l’année 1951,*volume* XXXII de l’*International Journal of Psychoanalysis.* C’est un article qu’il intitule... Non ! C’est plus tôt : en 1926,
-dans le *volume* VII, c’est un article qu’il intitule *The will to recovery*[^64]*,* c’est*-*à*-*dire « *la volonté* », non pas à proprement parler « *de guérison* » : *reco­very* c’est *restauration*, *retour* *-* *le mot est fort bien choisi*.
+dans le *volume* VII, c’est un article qu’il intitule *The will to recovery*[^64], c’est-à-dire « *la volonté* », non pas à proprement parler « *de guérison* » : *reco­very* c’est *restauration*, *retour* - *le mot est fort bien choisi*.
 
 <!-- id: s11-11-0017 -->
 
-Et il s’in­terroge sur ce qui peut, en somme, motiver chez le patient, chez le patient dont chacun sait que son *symptôme* *-* *la théorie nous le dit* *-* son *symptôme* est fait pour lui apporter *certaines satisfactions, sinon satis­faction, assurément* *-* *la chose est doctrinée* *-* *du plaisir,* qu’est*-*ce qui peut en fin de compte pousser le patient à venir recourir à l’analyste, à demander quelque chose qu’il appelle, lui, *la santé* ?
+Et il s’in­terroge sur ce qui peut, en somme, motiver chez le patient, chez le patient dont chacun sait que son *symptôme* - *la théorie nous le dit* - son *symptôme* est fait pour lui apporter *certaines satisfactions, sinon satis­faction, assurément* - *la chose est doctrinée* - *du plaisir,* qu’est-ce qui peut en fin de compte pousser le patient à venir recourir à l’analyste, à demander quelque chose qu’il appelle, lui, *la santé* ?
 
 <!-- id: s11-11-0018 -->
 
@@ -121,7 +121,7 @@ nous pouvons ne pas faire d’erreur du côté d’aucune substantification, de 
 <!-- id: s11-11-0023 -->
 
 À prendre les choses, à les centrer sur le schéma à quatre coins de notre graphe, distinguant sciemment *le plan de l’énonciation*
-du *plan de l’énoncé*, à l’illustrer à l’occasion de ce qu’une pensée logicienne trop formelle y introduit d’absurdité, en marquant par exemple *l’impasse*, voire *le paradoxe*, en voyant une antinomie de la raison dans *l’énoncé* du « *je mens* », alors que chacun sait qu’il n’y a point la moindre anti­nomie*,* qu’il est tout à fait *faux* de reprendre, *de répondre à ce* « *je mens* » que : « *si tu dis « je mens » c’est que tu dis*
+du *plan de l’énoncé*, à l’illustrer à l’occasion de ce qu’une pensée logicienne trop formelle y introduit d’absurdité, en marquant par exemple *l’impasse*, voire *le paradoxe*, en voyant une antinomie de la raison dans *l’énoncé* du « *je mens* », alors que chacun sait qu’il n’y a point la moindre anti­nomie, qu’il est tout à fait *faux* de reprendre, *de répondre à ce* « *je mens* » que : « *si tu dis « je mens » c’est que tu dis*
 *la vérité et donc tu ne mens pas* », et ainsi de suite - il est tout à fait clair que le « *je mens* » ce n’est pas seulement ce qui fait sens, malgré son absurdité, qu’il est sou­tenable, il est parfaitement valable.
 
 <!-- id: s11-11-0024 -->
@@ -138,7 +138,7 @@ ce moment-là formule l’énoncé est en train de mentir, qu’il a menti peu a
 <!-- id: s11-11-0026 -->
 
 Il n’y a pas à aller très loin de nous pour en illustrer l’exemple. L’historiette juive - rendue célèbre - du train que l’un des deux partenaires de l’histoire affirme à l’autre qu’il va prendre : « *Je vais à Lemberg* » lui dit-il, à quoi l’autre lui répond :
-« *Pourquoi me dis*-*tu que tu vas à Lemberg puisque tu y vas vraiment ? Et que si tu me le dis, c’est que c’est pour que je croie que tu vas à Cracovie.* »
+« *Pourquoi me dis-tu que tu vas à Lemberg puisque tu y vas vraiment ? Et que si tu me le dis, c’est que c’est pour que je croie que tu vas à Cracovie.* »
 
 <!-- id: s11-11-0027 -->
 
@@ -282,8 +282,8 @@ Car ce que j’ai appelé « *isolat psychologique* », loin d’être la vieill
 <!-- id: s11-11-0056 -->
 
 > car la *« monade leibnizienne »* par exemple, n’est point isolée, elle est centre de connaissance, elle est ce qui dans le cos­mos est ce centre d’où quelque chose que nous appellerons - selon les inflexions - contemplation ou harmonie, viendra à s’exercer, elle n’est point séparable d’une *cosmologie*
-> ...l’« *isolat psychologique* » institué dans le concept du *moi* , tel qu’il vient par une déviation - déviation qui je pense, n’est qu’un détour *-*
-> dans la pensée psychanalytique, vient à jouer comme sujet, si l’on peut dire « *en détresse* » *dans le rapport à une réa­lité*, dont il va s’agir pour l’instant, pour nous, de repérer comment même elle est conçue dans l’analyse, est quelque chose qu’il convient aussi ici de situer pour en voir, par rapport à ce que l’analyse effective­ment profile à son horizon comme ouverture*,* pour en voir le paradoxe.
+> ...l’« *isolat psychologique* » institué dans le concept du *moi* , tel qu’il vient par une déviation - déviation qui je pense, n’est qu’un détour -
+> dans la pensée psychanalytique, vient à jouer comme sujet, si l’on peut dire « *en détresse* » *dans le rapport à une réa­lité*, dont il va s’agir pour l’instant, pour nous, de repérer comment même elle est conçue dans l’analyse, est quelque chose qu’il convient aussi ici de situer pour en voir, par rapport à ce que l’analyse effective­ment profile à son horizon comme ouverture, pour en voir le paradoxe.
 
 <!-- id: s11-11-0057 -->
 
@@ -362,7 +362,7 @@ de *refermé* à l’intérieur, où nous avons, nous, à pénétrer du dehors. 
 <!-- id: s11-11-0072 -->
 
 Je le souligne, à propos des derniers éléments que je vous ai appor­tés autour de la pulsion scopique que ce schéma rend clair :
-*que là d’où le sujet se voit*, à savoir où se forme cette *image réelle et inversée* de son propre corps \[*il n’en voit que* *i’(a), image virtuelle au miroir plan de i(a), image réelle produite par le miroir concave*\] qui est donné dans le schéma du *moi* - je vous prie de vous reporter à ce schéma et à ce texte et au rôle du miroir concave, *que là d’où le sujet se voit* \[*i’(a)*\]*, ce n’est pas là d’où* *il se regarde* \[**I**\]*.*
+*que là d’où le sujet se voit*, à savoir où se forme cette *image réelle et inversée* de son propre corps \[*il n’en voit que* *i’(a), image virtuelle au miroir plan de i(a), image réelle produite par le miroir concave*\] qui est donné dans le schéma du *moi* - je vous prie de vous reporter à ce schéma et à ce texte et au rôle du miroir concave, *que là d’où le sujet se voit* \[*i’(a)*\]*, ce n’est pas là d’où* *il se regarde* \[**I**\].
 
 <!-- id: s11-11-0073 -->
 
@@ -501,7 +501,7 @@ avec une certaine façon de considérer le transfert. Si vous ne prenez pas le t
 Quant aux remarques que vous avez faites, c’est amusant. Il faut, dans tout ce qui est de la topologie, il faut toujours se garder
 très sévèrement de ce qui lui donne fonction de *Gestalt.* Ce qui ce veut pas dire que cer­taines *Gestalt,* certaines formes vivantes,
 ne nous donnent pas quelque­fois, si je puis dire, la sensation d’être une espèce d’effort du biologique, pour en l’espace - et notre espace *réel* quoi qu’en pense KANT, qui a bel et bien trois dimensions - essayer de forger quelque chose qui ressemble
-à *ces torsions de ces objets topologiques fondamentaux* que je vous ai développés dans l’année du *séminaire sur l’Identification*, à savoir par exemple, celle de cette *mitre* \[*cross-cap*\] dont vous vous souvenez sûrement que c’est *une surface* rejetée dans l’espace à trois dimensions, *qui se recoupe elle*-*même*, ce qui ne veut rien dire d’autre d’ailleurs.
+à *ces torsions de ces objets topologiques fondamentaux* que je vous ai développés dans l’année du *séminaire sur l’Identification*, à savoir par exemple, celle de cette *mitre* \[*cross-cap*\] dont vous vous souvenez sûrement que c’est *une surface* rejetée dans l’espace à trois dimensions, *qui se recoupe elle-même*, ce qui ne veut rien dire d’autre d’ailleurs.
 
 <!-- id: s11-11-0101 -->
 
@@ -549,6 +549,7 @@ vient à opérer sur la masse amorphe.
 C’est un sché­ma qui vaut ce qu’il vaut, qui est tout aussi limité dans sa portée que le mien d’une certaine façon.
 Mais vous pouvez remarquer quand même la différence, c’est que, si j’avais voulu y mettre le *moi* quelque part,
 c’est le *i(a)* que j’aurais mis... Or c’est le *(a) * !
+
 ## Notes
 
 [^64]:

@@ -86,7 +86,7 @@ Et peut-être à « *remonter* » un certain *discours...*
 
 <!-- id: s20-02-0021 -->
 
-Et pourtant il ne se peut pas - vu l’expérience - qu’à propos du *discours analytique* quelque chose ne soit pas interrogé*,* qui est à savoir s’il ne tient pas *essentiellement de s’en supporter* de cette dimension de *« la bêtise ».*
+Et pourtant il ne se peut pas - vu l’expérience - qu’à propos du *discours analytique* quelque chose ne soit pas interrogé, qui est à savoir s’il ne tient pas *essentiellement de s’en supporter* de cette dimension de *« la bêtise ».*
 
 <!-- id: s20-02-0022 -->
 
@@ -142,7 +142,7 @@ Au nom de quoi le dirais-je ? Comment sortir de *la bêtise* ?
 
 <!-- id: s20-02-0034 -->
 
-Il n’en est pas moins vrai qu’il y a quelque chose, un statut à donner de ce qu’il en est de ce neuf *discours* \[*le discours analytique*\]* *: de son approche de *la bêtise*, quelque *chose* s’en renouvelle \[*à suspendre le sens* : **S<sub>1</sub> ◊** **S<sub>2</sub>**, « *quelque « <u>Chose</u> » s’en renouvelle* » \].
+Il n’en est pas moins vrai qu’il y a quelque chose, un statut à donner de ce qu’il en est de ce neuf *discours* \[*le discours analytique*\]: de son approche de *la bêtise*, quelque *chose* s’en renouvelle \[*à suspendre le sens* : **S<sub>1</sub> ◊ S<sub>2</sub>**, « *quelque « <u>Chose</u> » s’en renouvelle* » \].
 
 <!-- id: s20-02-0035 -->
 
@@ -532,7 +532,7 @@ Ce que je viens là d’isoler à partir de deux discours, on va le retrouver co
 
 <!-- id: s20-02-0130 -->
 
-*Ce qui fait l’ordinal* - on vous l’a déjà dit - *c’est quelque chose de l’ordre d’un nom de nom*, et on va voir plus précisément de quoi il retourne*,* en ce sens que *l’ordinal c’est un nom*, mais si c’est un nom, la fonction de ce mot c’est de nommer quelque chose qui n’est pas justement son propre nom.
+*Ce qui fait l’ordinal* - on vous l’a déjà dit - *c’est quelque chose de l’ordre d’un nom de nom*, et on va voir plus précisément de quoi il retourne, en ce sens que *l’ordinal c’est un nom*, mais si c’est un nom, la fonction de ce mot c’est de nommer quelque chose qui n’est pas justement son propre nom.
 
 <!-- id: s20-02-0131 -->
 
@@ -798,7 +798,7 @@ C’est ici, entre **2** et **3**, qu’il y a comme *une barre de clivage*, ce 
 
 <!-- id: s20-02-0196 -->
 
-- si le **3** déjà est la désignation de ce qui s’est passé, *d’un passage*-*écrasement*, entre le **0** et le **1**, et du **0** et du **1** au **2**,
+- si le **3** déjà est la désignation de ce qui s’est passé, *d’un passage-écrasement*, entre le **0** et le **1**, et du **0** et du **1** au **2**,
 
 <!-- id: s20-02-0197 -->
 
@@ -1030,7 +1030,7 @@ Le passage d’un ensemble à l’ensemble de ses parties, c’est donc la déba
 
 <!-- id: s20-02-0253 -->
 
-Mais cette débandade prend des formes singulières, dès lors qu’elle n’a lieu, qu’il ne se produit d’éparpillement que pour reformer un nouveau *« tout »*, que pour se ré*-*écraser immédiatement dans un nouveau *« tout »*, c’est-à-dire pour que ce qui s’éparpille se reconsolide, mais de manière qui ne revient pas au point de départ mais suivant une progression, se consolide dans autre chose qui cette fois forme *un ensemble compact*.
+Mais cette débandade prend des formes singulières, dès lors qu’elle n’a lieu, qu’il ne se produit d’éparpillement que pour reformer un nouveau *« tout »*, que pour se ré-écraser immédiatement dans un nouveau *« tout »*, c’est-à-dire pour que ce qui s’éparpille se reconsolide, mais de manière qui ne revient pas au point de départ mais suivant une progression, se consolide dans autre chose qui cette fois forme *un ensemble compact*.
 
 <!-- id: s20-02-0254 -->
 
@@ -1156,7 +1156,7 @@ La première opération est donc celle-ci. Maintenant le phénomène essentiel d
 
 > quoique je ne pointe pas que ce soit précisément un changement de système,
 >
-> mais ce qui fait qu’il y a interprétation ...c’est qu’une fois qu’on a un message formé uniquement en *a* et en *b* par la transcription à partir de chacune des lettres dans ce tableau, on va retranscrire dans l’alphabet originel latin, en prenant non pas chaque groupe de 5 *a* ou de 5 *b*, parce que ce serait proprement ré*-*effectuer ce découpage qu’il s’agit de masquer, on va prendre chaque *a* et chaque *b* séparément, et à chaque *a* et chaque *b*...
+> mais ce qui fait qu’il y a interprétation ...c’est qu’une fois qu’on a un message formé uniquement en *a* et en *b* par la transcription à partir de chacune des lettres dans ce tableau, on va retranscrire dans l’alphabet originel latin, en prenant non pas chaque groupe de 5 *a* ou de 5 *b*, parce que ce serait proprement ré-effectuer ce découpage qu’il s’agit de masquer, on va prendre chaque *a* et chaque *b* séparément, et à chaque *a* et chaque *b*...
 
 <!-- id: s20-02-0285 -->
 
@@ -1658,7 +1658,7 @@ D’une part un prédicat s’appuie *sur le 1<sup>er</sup> prédicat tenant lie
 
 <!-- id: s20-02-0408 -->
 
-Et d’autre part *le premier prédicat*-*substance* rapporté en cette relation *au second* qui acquiert une extension, il disparaît en tant que substance, pour ne devenir qu’un élément dans l’extension du prédicat second et lui conférer le relais de cette fonction de substance. La substance est une fonction que celui-ci transmettra *à un troisième* prédicat etc.
+Et d’autre part *le premier prédicat-substance* rapporté en cette relation *au second* qui acquiert une extension, il disparaît en tant que substance, pour ne devenir qu’un élément dans l’extension du prédicat second et lui conférer le relais de cette fonction de substance. La substance est une fonction que celui-ci transmettra *à un troisième* prédicat etc.
 
 <!-- id: s20-02-0409 -->
 
@@ -1702,7 +1702,7 @@ Je termine sur quelque chose qui nous amènerait un peu plus loin, mais je n’a
 
 <!-- id: s20-02-0419 -->
 
-Lacan 
+Lacan
 
 <!-- id: s20-02-0420 -->
 

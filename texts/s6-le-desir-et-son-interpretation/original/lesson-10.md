@@ -520,7 +520,7 @@ Ce rapprochement comme tel, affectons-le à l’ordre *symbolique*.
 
 <!-- id: s6-10-0122 -->
 
-Ce qui peut avoir plus de *symbolique*, ce sont les lignes de caractères chinois, parce que c’est quelque chose qui est là, qui nous désigne qu’en tous cas cet élément-là dans le rêve est un élément qui a une valeur signifiante, que dans cette sorte d’adaptation, d’adéquation, d’accommodement du désir en tant qu’il se fait quelque part par rapport à *un fantasme* \[S**◊***a*\] *qui est entre* *le signifiant de l’Autre* \[S(A)\] *et le signifié de l’Autre* \[*s*(A)\] car c’est cela la définition du fantasme en tant que le désir a à s’accommoder à lui.
+Ce qui peut avoir plus de *symbolique*, ce sont les lignes de caractères chinois, parce que c’est quelque chose qui est là, qui nous désigne qu’en tous cas cet élément-là dans le rêve est un élément qui a une valeur signifiante, que dans cette sorte d’adaptation, d’adéquation, d’accommodement du désir en tant qu’il se fait quelque part par rapport à *un fantasme* \[S◊*a*\] *qui est entre* *le signifiant de l’Autre* \[S(A)\] *et le signifié de l’Autre* \[*s*(A)\] car c’est cela la définition du fantasme en tant que le désir a à s’accommoder à lui.
 
 <!-- id: s6-10-0123 -->
 

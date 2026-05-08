@@ -42,7 +42,7 @@ Je dis que *ces élé­ments sont plus importants que tout,* en effet c’est ç
 
 <!-- id: s1-08-0010 -->
 
-Et c’est bien là le mérite de cet exposé de M<sup>lle</sup> GÉLINIER la dernière fois, *d’avoir mis en valeur ce qui*, dans ce texte, *ne se comprend pas.* C’est en quoi la méthode de commentaire de textes se révèle féconde. Quand nous commentons un texte, c’est comme quand nous faisons une analyse. Combien de fois je l’ai fait observer à ceux que je contrôle*.* Ils disent : « *J’ai cru comprendre qu’il voulait dire* *ceci, et cela*… ». C’est une des choses dont nous devons le plus nous garder* *
+Et c’est bien là le mérite de cet exposé de M<sup>lle</sup> GÉLINIER la dernière fois, *d’avoir mis en valeur ce qui*, dans ce texte, *ne se comprend pas.* C’est en quoi la méthode de commentaire de textes se révèle féconde. Quand nous commentons un texte, c’est comme quand nous faisons une analyse. Combien de fois je l’ai fait observer à ceux que je contrôle. Ils disent : « *J’ai cru comprendre qu’il voulait dire* *ceci, et cela*… ». C’est une des choses dont nous devons le plus nous garder* *
 
 <!-- id: s1-08-0011 -->
 
@@ -102,7 +102,7 @@ L’optique pourrait aussi dire son mot, et à la vérité si je lui faisais dir
 
 <!-- id: s1-08-0025 -->
 
-Là perception \[P\], et ici motricité \[M\], et à l’intérieur il va mettre les différentes couches qui se distingueront du niveau perceptif, à savoir de l’impression ins­tantanée, par une série d’impressions diverses : S, S’, S’’... Ce qui veut dire à la fois image, souvenir, qui nous permettent de situer à un certain niveau les traces enregistrées et ultérieurement refoulées dans l’inconscient. Ceci est un très joli schéma, que nous reprendrons, il nous rendra service. Mais je voudrais vous faire remarquer ceci : qu’il est accompagné d’un commentaire qui, lui, est extrêmement significatif. Il ne semble pas avoir jamais beaucoup attiré l’œil de quiconque, encore qu’il ait été repris sous une autre forme dans la quasi dernière œuvre de FREUD, dans *l’abrégé*, dans l’*Abriss*. Je vous le lis dans la *Traumdeutung*** **[^17] :
+Là perception \[P\], et ici motricité \[M\], et à l’intérieur il va mettre les différentes couches qui se distingueront du niveau perceptif, à savoir de l’impression ins­tantanée, par une série d’impressions diverses : S, S’, S’’... Ce qui veut dire à la fois image, souvenir, qui nous permettent de situer à un certain niveau les traces enregistrées et ultérieurement refoulées dans l’inconscient. Ceci est un très joli schéma, que nous reprendrons, il nous rendra service. Mais je voudrais vous faire remarquer ceci : qu’il est accompagné d’un commentaire qui, lui, est extrêmement significatif. Il ne semble pas avoir jamais beaucoup attiré l’œil de quiconque, encore qu’il ait été repris sous une autre forme dans la quasi dernière œuvre de FREUD, dans *l’abrégé*, dans l’*Abriss*. Je vous le lis dans la *Traumdeutung* [^17] :
 
 <!-- id: s1-08-0026 -->
 
@@ -352,7 +352,7 @@ M<sup>lle</sup> GÉLINIER nous le raconte, et nous le résume. Pourquoi ne pas p
 
 <!-- id: s1-08-0086 -->
 
-Quel ins­trument de mesure ? On omet souvent de le préciser. Ce qu’on appelle *un développement affectif* de 15 à 18 mois reste encore plus flou que l’image d’une de mes fleurs dans l’expérience que je viens de vous produire. Un vocabulaire très limité, et plus que limité*,* *incorrect* :
+Quel ins­trument de mesure ? On omet souvent de le préciser. Ce qu’on appelle *un développement affectif* de 15 à 18 mois reste encore plus flou que l’image d’une de mes fleurs dans l’expérience que je viens de vous produire. Un vocabulaire très limité, et plus que limité, *incorrect* :
 
 <!-- id: s1-08-0087 -->
 
@@ -424,7 +424,7 @@ Là, il est clair qu’*à l’origine l’équation symbolique* que nous redéc
 
 <!-- id: s1-08-0104 -->
 
-Vous suivez ? Oui, à peu près ? Alors, à ce moment-là, nous voyons bien qu’il y a une certaine ébauche d’*imaginification*, si je puis dire, du monde extérieur* *: nous l’avons là, littéra­lement prête à affleurer, mais elle n’est en quelque sorte que préparée.
+Vous suivez ? Oui, à peu près ? Alors, à ce moment-là, nous voyons bien qu’il y a une certaine ébauche d’*imaginification*, si je puis dire, du monde extérieur: nous l’avons là, littéra­lement prête à affleurer, mais elle n’est en quelque sorte que préparée.
 
 <!-- id: s1-08-0105 -->
 
@@ -659,6 +659,7 @@ Ce que je vous ai donné aujourd’hui a la valeur d’une élaboration théoriq
 <!-- id: s1-08-0162 -->
 
 Il y a une autre face du transfert, plus connue, le transfert dans l’*imaginaire*. Vous verrez à quoi nous serviront les considérations exposées aujourd’hui.
+
 ## Notes
 
 [^16]:

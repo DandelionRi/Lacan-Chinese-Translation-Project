@@ -222,7 +222,7 @@ Ce qui se dit à partir de l’inconscient participe de l’équivoque, de l’�
 
 <!-- id: s24-04-0055 -->
 
-Je me suis aperçu, comme ça, un peu sur le tard, et à propos de quelque chose qui est paru dans *Lexique et grammaire* ou bien *Langue* *Française* [^3]**,** revue trimestrielle, c’est un petit article que je vous conseille de regarder de près, parce qu’il est de quelqu’un pour qui j’ai beaucoup d’estime, il est de Jean-Claude Milner.
+Je me suis aperçu, comme ça, un peu sur le tard, et à propos de quelque chose qui est paru dans *Lexique et grammaire* ou bien *Langue* *Française* [^3], revue trimestrielle, c’est un petit article que je vous conseille de regarder de près, parce qu’il est de quelqu’un pour qui j’ai beaucoup d’estime, il est de Jean-Claude Milner.
 
 <!-- id: s24-04-0056 -->
 
@@ -376,7 +376,7 @@ Il y a un livre qui y est paru, d’un nommé Nicolas Abraham et d’une nommée
 
 <!-- id: s24-04-0093 -->
 
-Ça s’appelle *Cryptonymie,* ce qui indique assez l’équivoque, à savoir que le nom y est caché, et ça s’appelle *Le Verbier de l’Homme aux loups* [^5]*.*
+Ça s’appelle *Cryptonymie,* ce qui indique assez l’équivoque, à savoir que le nom y est caché, et ça s’appelle *Le Verbier de l’Homme aux loups* [^5].
 
 <!-- id: s24-04-0094 -->
 

@@ -6,7 +6,7 @@
 
 <!-- id: s16-13-0001 -->
 
-### Je vous ai laissés la dernière fois sur une formule équilibrée selon la *proportion* - appelons-la *harmonique* - que j’ai développée devant vous sous ce terme, que : 
+### Je vous ai laissés la dernière fois sur une formule équilibrée selon la *proportion* - appelons-la *harmonique* - que j’ai développée devant vous sous ce terme, que :
 
 <!-- id: s16-13-0002 -->
 
@@ -280,7 +280,7 @@ Il est certain qu’ici, justement, nous nous trouvons *au carrefour* où, tout 
 
 <!-- id: s16-13-0067 -->
 
-Là-dessus, chacun sait que j’apporte quelque chose qui est aussi un όργανον \[organon\]*,* justement celui qui pourrait servir à passer cette frontière et que certains épinglent comme la logique du signifiant. C’est vrai, je suis arrivé là-dessus à faire quelques énoncés, et qui se sont trouvés vivement stimuler des esprits, lesquels rien ne préparait, venant de *la psychanalyse*, mais qui s’en sont trouvés stimulés, venant d’ailleurs.
+Là-dessus, chacun sait que j’apporte quelque chose qui est aussi un όργανον \[organon\], justement celui qui pourrait servir à passer cette frontière et que certains épinglent comme la logique du signifiant. C’est vrai, je suis arrivé là-dessus à faire quelques énoncés, et qui se sont trouvés vivement stimuler des esprits, lesquels rien ne préparait, venant de *la psychanalyse*, mais qui s’en sont trouvés stimulés, venant d’ailleurs.
 
 <!-- id: s16-13-0068 -->
 
@@ -316,7 +316,7 @@ On finira bien…
 
 <!-- id: s16-13-0076 -->
 
-### Et, qui sait, *quelqu’un autour de moi l’a suggéré il y a quelques jours,* il y aura peut-être, malgré moi, un jour en *mathématiques* quelque chose qui s’appellera « *le théorème de Lacan* » ! Ce n’est certainement pas que je l’aurai cherché, car j’ai d’autres chats à fouetter, mais c’est justement comme ça que les choses arrivent. À force de vouloir considérer comme clos - et c’est bien là 
+### Et, qui sait, *quelqu’un autour de moi l’a suggéré il y a quelques jours,* il y aura peut-être, malgré moi, un jour en *mathématiques* quelque chose qui s’appellera « *le théorème de Lacan* » ! Ce n’est certainement pas que je l’aurai cherché, car j’ai d’autres chats à fouetter, mais c’est justement comme ça que les choses arrivent. À force de vouloir considérer comme clos - et c’est bien là
 
 <!-- id: s16-13-0077 -->
 
@@ -332,7 +332,7 @@ Ce n’est pas la même chose d’énoncer une formule en commençant par un bou
 
 <!-- id: s16-13-0080 -->
 
-C’est pour ça que la vérité… ce qui évidemment met *en porte*-*à*-*faux* le débat *d’une certaine* - et seulement de celle-là - *logique,* *de la logique de Frege* pour autant qu’elle part sur les béquilles de deux valeurs - aussi bien notables - 1 ou 0, *vérité* ou *erreur*.
+C’est pour ça que la vérité… ce qui évidemment met *en porte-à-faux* le débat *d’une certaine* - et seulement de celle-là - *logique,* *de la logique de Frege* pour autant qu’elle part sur les béquilles de deux valeurs - aussi bien notables - 1 ou 0, *vérité* ou *erreur*.
 
 <!-- id: s16-13-0081 -->
 
@@ -348,7 +348,7 @@ Du fait qu’il ne puisse pas avancer autre chose que le recours à ces entités
 
 <!-- id: s16-13-0084 -->
 
-Que la vérité soit désir de savoir et rien d’autre n’est évidemment fait *que pour nous faire mettre en question précisément ceci : s’il y en avait une - vérité - avant* ? Chacun sait que c’est là le sens du *laisser-être heideggerien*. Est-ce qu’il y a quelque chose à *laisser*-*être* ?
+Que la vérité soit désir de savoir et rien d’autre n’est évidemment fait *que pour nous faire mettre en question précisément ceci : s’il y en avait une - vérité - avant* ? Chacun sait que c’est là le sens du *laisser-être heideggerien*. Est-ce qu’il y a quelque chose à *laisser-être* ?
 
 <!-- id: s16-13-0085 -->
 
@@ -356,7 +356,7 @@ C’est en ce sens que *la psychanalyse* apporte quelque chose.
 
 <!-- id: s16-13-0086 -->
 
-Elle est pour dire qu’il y a quelque chose, en effet, qu’on pourrait *laisser*-*être*.
+Elle est pour dire qu’il y a quelque chose, en effet, qu’on pourrait *laisser-être*.
 
 <!-- id: s16-13-0087 -->
 
@@ -474,7 +474,7 @@ Comment peut-il se faire… c’est de là qu’il faut prendre *la question, no
 
 > *am, an, vous* connaissez déjà l’*an sich,* ce n’est pas du tout pareil que le « en » français, quand on traduit
 >
-> l’*an sich* par l’« *en soi *»*,* ce n’est pas ça du tout, c’est bien pour ça que mon « *en-Je* » quand il s’agit du *(a)*, fait aussi ambiguïté, j’aimerais l’appeler « *a-je* », en y mettant une apostrophe, l’« *a-je* »,
+> l’*an sich* par l’« *en soi *», ce n’est pas ça du tout, c’est bien pour ça que mon « *en-Je* » quand il s’agit du *(a)*, fait aussi ambiguïté, j’aimerais l’appeler « *a-je* », en y mettant une apostrophe, l’« *a-je* »,
 >
 > et vous verriez tout de suite ainsi où nous glissons, c’est là le bon usage des langues en exercice …mais pour reprendre ce dont il s’agit, quand FREUD articule la sublimation, il nous souligne que *si elle a rapport avec l’objet*, c’est par l’intermédiaire de quelque chose qu’il exploite au niveau où il l’introduit et qu’il appelle *l’idéalisation*, mais que dans son essence elle est *mit dem Trieb : avec la pulsion*.
 
@@ -537,4 +537,4 @@ Je vous laisse là-dessus pour aujourd’hui, et je vous donne rendez-­vous la 
 [^58]: Georg Simmel : « *La tragédie de la culture et autres essais* », Rivages, 1988.
 
 
-[^59]: Cf. le « *proton*-*pseudos* hystérique » : « *Esquisse d'une psychologie scientifique* », Freud, 1895.
+[^59]: Cf. le « *proton-pseudos* hystérique » : « *Esquisse d'une psychologie scientifique* », Freud, 1895.

@@ -264,7 +264,7 @@ VALABREGA - Mais ce qui est intéressant, c’est que *Entfremdung* c’est… L
 
 <!-- id: s13-23-0065 -->
 
-VALABREGA 
+VALABREGA
 
 <!-- id: s13-23-0066 -->
 
@@ -602,7 +602,7 @@ Nous pensons que le terme de *dévoilement*, de *déchirement*, *d’ouverture* 
 
 <!-- id: s13-23-0149 -->
 
-Mais ce que je veux dire, c’est que dans ce souvenir-écran, du fait même que l’on voit comme transperçant la surface, la couleur jaune et liant cette couleur jaune exactement à ce qui vient après dans l’analyse du souvenir du lion jaune, c’est-à-dire le problème du *Reise*-*reissen*. Je pense qu’est lié à l’évocation de la couleur jaune et à cette prégnance de la couleur jaune, pour FREUD disons très consciemment le pro­blème de… enfin au moment où il décrit ce souvenir étrange, je ne pense pas du tout que la dimension de la déchirure en tant que telle ou de la rupture chez FREUD soit explicite, et je pense qu’au jaune est nécessairement liée cette dimen­sion de *passage à travers* ou de transgression, bref ce qui évoque à propos de la transparence de… LACAN - Je souhaiterais simplement que ceci fut écrit par vous, cher Serge.
+Mais ce que je veux dire, c’est que dans ce souvenir-écran, du fait même que l’on voit comme transperçant la surface, la couleur jaune et liant cette couleur jaune exactement à ce qui vient après dans l’analyse du souvenir du lion jaune, c’est-à-dire le problème du *Reise-reissen*. Je pense qu’est lié à l’évocation de la couleur jaune et à cette prégnance de la couleur jaune, pour FREUD disons très consciemment le pro­blème de… enfin au moment où il décrit ce souvenir étrange, je ne pense pas du tout que la dimension de la déchirure en tant que telle ou de la rupture chez FREUD soit explicite, et je pense qu’au jaune est nécessairement liée cette dimen­sion de *passage à travers* ou de transgression, bref ce qui évoque à propos de la transparence de… LACAN - Je souhaiterais simplement que ceci fut écrit par vous, cher Serge.
 
 <!-- id: s13-23-0150 -->
 

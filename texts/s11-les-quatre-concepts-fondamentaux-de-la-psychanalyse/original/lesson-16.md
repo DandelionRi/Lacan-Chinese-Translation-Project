@@ -74,7 +74,7 @@ Que ce soit *la pulsion* - *la pulsion partielle* - qui l’y oriente, qui l’y
 
 <!-- id: s11-16-0015 -->
 
-- *qui se déduit d’autre chose que de la sexualité elle*-*même*,
+- *qui se déduit d’autre chose que de la sexualité elle-même*,
 
 <!-- id: s11-16-0016 -->
 
@@ -109,16 +109,16 @@ du fait : qu’il n’est qu’un vivant sexué, et qu’il n’est plus immort
 <!-- id: s11-16-0023 -->
 
 C’est ceci à quoi s’attache, et qu’il nous fait saisir, que *la pulsion* - la seule : *la pulsion partielle* - a cette face foncière, au principe même de ce qu’il la fait servir à induire le vivant par un leurre, dans sa réalisation sexuelle, c’est au départ qu’elle est *pulsion*
-*-* pulsion que FREUD a appelé « *pulsion de mort* » *-* qu’elle représente en elle*-*même la part de la mort dans le vivant sexué.
+- pulsion que FREUD a appelé « *pulsion de mort* » - qu’elle représente en elle-même la part de la mort dans le vivant sexué.
 
 <!-- id: s11-16-0024 -->
 
-C’est pour cela que défiant, peut*-*être pour la première fois dans l’his­toire, ce *mythe* pourvu d’un si grand prestige - que j’ai évoqué sous le chef où PLATON le met - d’ARISTOPHANE, j’y ai substitué la dernière fois, ce *mythe* fait pour incarner *cette part manquante*,
+C’est pour cela que défiant, peut-être pour la première fois dans l’his­toire, ce *mythe* pourvu d’un si grand prestige - que j’ai évoqué sous le chef où PLATON le met - d’ARISTOPHANE, j’y ai substitué la dernière fois, ce *mythe* fait pour incarner *cette part manquante*,
 *ce mythe* que j’ai appelé celui *de la lamelle*, qui a cette importance nouvelle, dont nous verrons à l’usage ce qu’il nous apportera d’appui, de désigner *la libido* comme *à concevoir*, non pas sous la forme d’un champ de forces mais *sous la forme d’un organe*.
 
 <!-- id: s11-16-0025 -->
 
-*La libido* est l’organe essentiel à comprendre de la nature de la pulsion. Si cet organe n’est que « *la part perdue de l’être* » dans cette spécification qu’il est un être sexué qui assure... est*-*ce *un organe irréel* ? J’aurais*, de plus d’une façon,* à vous montrer à ce sujet que l’*irréel* ici n’est point *imaginaire*, que l’*irréel* se définit de *s’articuler au* *réel* d’une façon, certes qui nous échappe, et c’est justement ce qui nécessite que sa représenta­tion soit *mythique*, comme nous la faisons. Et je puis tout de suite vous désigner que, de ce qu’il soit *irréel*, cela n’empêche même pas un organe de s’incarner, et je vais vous en donner tout de suite la matérialisation.
+*La libido* est l’organe essentiel à comprendre de la nature de la pulsion. Si cet organe n’est que « *la part perdue de l’être* » dans cette spécification qu’il est un être sexué qui assure... est-ce *un organe irréel* ? J’aurais*, de plus d’une façon,* à vous montrer à ce sujet que l’*irréel* ici n’est point *imaginaire*, que l’*irréel* se définit de *s’articuler au* *réel* d’une façon, certes qui nous échappe, et c’est justement ce qui nécessite que sa représenta­tion soit *mythique*, comme nous la faisons. Et je puis tout de suite vous désigner que, de ce qu’il soit *irréel*, cela n’empêche même pas un organe de s’incarner, et je vais vous en donner tout de suite la matérialisation.
 
 <!-- id: s11-16-0026 -->
 
@@ -137,12 +137,12 @@ Bel et bien *cette entaille*, à s’incarner au point de proliférer sous la fo
 <!-- id: s11-16-0029 -->
 
 Dans ce rapport, dans ce rapport foncier de *la pulsion*, le mouvement est essentiel par quoi l’élan, la flèche qui part vers la cible,
-ne remplit sa fonction qu’à réellement en émaner, pour sur le sujet revenir. *Le pervers*, en ce sens est celui qui, en court*-*circuit,
+ne remplit sa fonction qu’à réellement en émaner, pour sur le sujet revenir. *Le pervers*, en ce sens est celui qui, en court-circuit,
 plus directement qu’aucun autre y réussit son coup, en intégrant le plus profondément sa fonction de sujet à son existence de *désir*.
 
 <!-- id: s11-16-0030 -->
 
-C’est là tout autre chose que la variation d’ambivalence qui fait pas­ser du champ de la haine à celui de l’amour *-* et inversement *-* l’objet, selon ou non qu’il profite au bien*-*être du sujet : ce n’est pas lorsque l’objet n’est pas bon à sa *visée,* qu’on devient masochiste,
+C’est là tout autre chose que la variation d’ambivalence qui fait pas­ser du champ de la haine à celui de l’amour - et inversement - l’objet, selon ou non qu’il profite au bien-être du sujet : ce n’est pas lorsque l’objet n’est pas bon à sa *visée,* qu’on devient masochiste,
 ce n’est pas parce que son père la déçoit, que la petite malade de FREUD, dite « *l’homosexuelle* », devient homosexuelle, elle aurait pu prendre un amant, c’est autre chose qui se manifeste chaque fois que nous sommes dans la dialectique de *la pulsion*.
 
 <!-- id: s11-16-0031 -->
@@ -182,7 +182,7 @@ c’est qu’elle nous rappelle que les faits de la psychologie humaine ne sau­
 
 <!-- id: s11-16-0038 -->
 
-- au sujet de ce qu’il a vu lui*-*même apparaître au champ de l’Autre,
+- au sujet de ce qu’il a vu lui-même apparaître au champ de l’Autre,
 
 <!-- id: s11-16-0039 -->
 
@@ -195,7 +195,7 @@ Vous sentez bien qu’aujourd’hui, je m’avance ici, je vous ramène sur le t
 <!-- id: s11-16-0041 -->
 
 Car *le signe*, s’il est vrai comme on dit, nous pouvons nous tenir à *cette définition qu’il est* « *ce qui représente quelque chose pour quelqu’un* »,
-toute son ambiguïté tient à ceci, que ce « *quelqu’un* » ça peut être beaucoup de choses* *:
+toute son ambiguïté tient à ceci, que ce « *quelqu’un* » ça peut être beaucoup de choses:
 
 <!-- id: s11-16-0042 -->
 
@@ -229,7 +229,7 @@ c’est, *c’est ce que j’avais mis au tableau la dernière fois, et que j’
 <!-- id: s11-16-0049 -->
 
 Là est propre­ment *la pulsation temporelle* où s’institue ce qui est la *caractéristique* de départ *de l’inconscient* comme tel : cette fermeture.
-Ce que des analystes *-* *l’un d’entre eux tout au moins* *-* a senti à un autre niveau, pour le faire surgir, *essayer de le signifier*, dans un terme
+Ce que des analystes - *l’un d’entre eux tout au moins* - a senti à un autre niveau, pour le faire surgir, *essayer de le signifier*, dans un terme
 qui fut alors nouveau et d’ailleurs qui n’a jamais été exploité dans le champ de l’analyse, l’ἀϕάνι*σ*ις \[aphanisis\], *la disparition*.
 Ce que JONES - qui l’a inventée - a pris pour ce quelque chose, si je puis dire d’assez absurde : la crainte de voir disparaître le désir, est à situer *d’une façon plus radicale* à ce niveau où je vous le mets *le sujet* : dans son champ de sujet se manifeste, dans ce mouvement d’ἀϕάνι*σ*ις \[aphanisis\] que j’ai appelé *létal*, et d’une autre façon en un point même, *le fading du sujet*.
 
@@ -274,11 +274,11 @@ dans mon *graphe* précisément. Précisément parce qu’il est nécessaire à 
 
 <!-- id: s11-16-0057 -->
 
-- il est impossible de ne pas l’intégrer, par exemple, au *fantasme* lui-même, c’est le S **◊** *a*,
+- il est impossible de ne pas l’intégrer, par exemple, au *fantasme* lui-même, c’est le S ◊ *a*,
 
 <!-- id: s11-16-0058 -->
 
-- il n’est pas possible de ne pas l’intégrer aussi à *ce nœud radical*, où se conjoint *la demande* et *la pulsion*, celui que désigne le S **◊** D, et qu’on pourrait appeler *le cri*.
+- il n’est pas possible de ne pas l’intégrer aussi à *ce nœud radical*, où se conjoint *la demande* et *la pulsion*, celui que désigne le S ◊ D, et qu’on pourrait appeler *le cri*.
 
 <!-- id: s11-16-0059 -->
 
@@ -300,7 +300,7 @@ où j’entends un instant vous sus­pendre.
 <!-- id: s11-16-0063 -->
 
 Vous trouverez peut-être d’ailleurs, en fin de compte, que ce sont là des choses assez *bêta*, mais la logique ça l’est toujours un peu : si on ne va pas jusqu’à la racine du *bébette*, on est infailliblement préci­pité dans la connerie comme il est facile d’en donner
-des exemples. Les prétendues *antinomies de la raison*, vous savez : « *Le catalogue de tous les catalogues qui ne se comprennent pas eux*-*mêmes* »
+des exemples. Les prétendues *antinomies de la raison*, vous savez : « *Le catalogue de tous les catalogues qui ne se comprennent pas eux-mêmes* »
 Et on arrive à une impasse, ce qui donne - on ne sait pourquoi - aux logiciens des ver­tiges.
 
 <!-- id: s11-16-0064 -->
@@ -326,7 +326,7 @@ Est-ce que par exemple ça voudrait dire ce dont je parais bien être le tenant,
 
 L’aliénation consiste dans ce *vel* qui - si le mot « *condamné* » n’appelle pas d’objections de votre part, je le reprends - le *condamne*
 à n’apparaître comme *sujet* *<u>que</u>* dans cette *division*, que je viens - me semble-t-il - suffi­samment d’articuler, en disant que
-s’il apparaît d’un côté comme *sens produit par le signifiant*, de l’autre, il apparaît comme ἀϕάνι*σ*ις \[aphanisis\] [^84]*.*
+s’il apparaît d’un côté comme *sens produit par le signifiant*, de l’autre, il apparaît comme ἀϕάνι*σ*ις \[aphanisis\] [^84].
 
 <!-- id: s11-16-0069 -->
 
@@ -385,7 +385,7 @@ En d’autres termes : *il est de la fonction, de la nature de ce sens*, tel qu
 
 *Ceci*, je vous l’ai dit, *a une implication tout à fait directe* dans ceci qui n’est que trop inaperçu : que *l’interprétation n’a point son dernier res­sort*
 \- et quand je vais vous le dire vous verrez que c’est une éviden­ce, seulement *c’est une évidence qu’on ne voit pas - n’a point son dernier ressort en ceci qu’elle nous livre les significations de la voie où chemine le psychique que nous avons devant nous.* Elle a cette portée, mais elle n’est
-que de prélude. *L’interprétation ne vise pas tellement le sens, que de cerner, que de réduire les signifiants dans leur non*-*sens*,
+que de prélude. *L’interprétation ne vise pas tellement le sens, que de cerner, que de réduire les signifiants dans leur non-sens*,
 et nous pouvons retrouver les guides, les déterminants de toute la condui­te du sujet.
 
 <!-- id: s11-16-0081 -->
@@ -429,7 +429,7 @@ la voie de *l’esclava­ge.* « *La liberté ou la vie* » :
 <!-- id: s11-16-0089 -->
 
 Nous allons en trouver le contrôle dans quelque chose d’un peu particulier, c’est de faire intervenir, dans un de ces champs,
-la mort elle-même. Par exemple, ça va être : « *la liberté ou la mort* »*.* Eh bien là il se produit - justement parce que *la mort* entre en jeu,
+la mort elle-même. Par exemple, ça va être : « *la liberté ou la mort* ». Eh bien là il se produit - justement parce que *la mort* entre en jeu,
 *quelque chose d’une structure un petit peu différente* : *c’est très exactement qu’on peut dire que dans les deux cas, j’aurai les deux*.
 
 <!-- id: s11-16-0090 -->
@@ -442,7 +442,7 @@ C’est pourquoi, depuis, il a fallu réviser certains principes. Vous choisisse
 
 <!-- id: s11-16-0092 -->
 
-Chose curieuse, dans les conditions où on vous dit « *la liberté ou la mort* »*,* la seule preuve de la liberté que vous puissiez faire,
+Chose curieuse, dans les conditions où on vous dit « *la liberté ou la mort* », la seule preuve de la liberté que vous puissiez faire,
 dans les conditions où on vous l’indique, c’est justement de choisir *la mort*, car là vous démontrez que vous avez *la liberté* du choix. Cette répartition toute différente des résultats - en ce moment d’ailleurs qui est aussi *un moment hégélien*, car c’est ce qu’on appelle
 le moment dit de *« la Terreur » -* cette répartition toute différente, est destinée à vous mettre en évidence ce que j’ai appelé,
 l’essentiel du *vel alié­nant *: *le facteur léthal*.
@@ -454,7 +454,7 @@ ce sera pour vous y démontrer *une torsion* essentielle.
 
 <!-- id: s11-16-0094 -->
 
-De même que *ce temps est fondé sur la sous-structure de la réunion*, l’autre est fondé sur *la sous*-*structure de* ce qu’on appelle - dans la même *logique des ensembles* si vous voulez, ou de la *logique symbolique -* non plus la réunion mais *l’intersection ou le produit*. *L’intersection ou le produit de deux ensembles*, vient justement à se situer dans cette même *lunule* où vous retrouvez la forme de la béance, du bord.
+De même que *ce temps est fondé sur la sous-structure de la réunion*, l’autre est fondé sur *la sous-structure de* ce qu’on appelle - dans la même *logique des ensembles* si vous voulez, ou de la *logique symbolique -* non plus la réunion mais *l’intersection ou le produit*. *L’intersection ou le produit de deux ensembles*, vient justement à se situer dans cette même *lunule* où vous retrouvez la forme de la béance, du bord.
 Cette *intersection ou produit de deux ensembles* est constitué par ceux qui appartiennent, *les éléments qui appartiennent aux deux ensembles*.
 
 <!-- id: s11-16-0095 -->
@@ -475,24 +475,24 @@ Comment, dès ce niveau, le sujet a « *à se procurer* », car - j’y revien
 
 <!-- id: s11-16-0098 -->
 
-Le mot « *parturition* » lui-même, ainsi se trouve s’originer dans un mot qui, dans sa racine ne veut rien dire d’autre que « *pro­curer un enfant au mari* », opération juridique et - disons-le - même sociale. Ce n’est donc pas ici pour faire ressurgir sinon pour la motiver, cette extraordinaire *saltation symbolique* qui fait que nous sommes si contents d’introduire dans *les fantasmes* du sujet ce terme qui fait rêver : de « *se pondre lui*-*même* », c’est bien d’autre chose qu’il s’agit dans ce *sepa­rare,* dans cette séparation.
+Le mot « *parturition* » lui-même, ainsi se trouve s’originer dans un mot qui, dans sa racine ne veut rien dire d’autre que « *pro­curer un enfant au mari* », opération juridique et - disons-le - même sociale. Ce n’est donc pas ici pour faire ressurgir sinon pour la motiver, cette extraordinaire *saltation symbolique* qui fait que nous sommes si contents d’introduire dans *les fantasmes* du sujet ce terme qui fait rêver : de « *se pondre lui-même* », c’est bien d’autre chose qu’il s’agit dans ce *sepa­rare,* dans cette séparation.
 
 <!-- id: s11-16-0099 -->
 
 J’essaierai de vous montrer la prochaine fois comment, à l’instar de ce que nous a montré de radicalement différent cette fonction du *vel aliénant*, par rapport aux autres *vel* jusqu’ici définis, un usage est à faire de cette notion de l’*intersection*, comme pouvant
-nous montrer com­ment *elle surgit du recouvrement de deux manques* : c’est en tant qu’un *manque* va être, par le sujet, rencontré dans l’Autre et dans cette intima­tion même qu’il lui fait par son discours, à savoir les intervalles de son discours, à savoir ceci qui surgit dans l’expérience de l’enfant et y est radicalement repérable, qui est essentiellement ceci : « *Il me dit ça, mais qu’est*-*ce qu’il veut ?* »
+nous montrer com­ment *elle surgit du recouvrement de deux manques* : c’est en tant qu’un *manque* va être, par le sujet, rencontré dans l’Autre et dans cette intima­tion même qu’il lui fait par son discours, à savoir les intervalles de son discours, à savoir ceci qui surgit dans l’expérience de l’enfant et y est radicalement repérable, qui est essentiellement ceci : « *Il me dit ça, mais qu’est-ce qu’il veut ?* »
 
 <!-- id: s11-16-0100 -->
 
 Dans ces intervalles coupant les signifiants et qui font partie de la structure même du signifiant, là est le gîte de ce que,
 en d’autres registres de mon développement j’ai appelé *la métonymie*. C’est là que *rampe*, c’est là que *glisse*, c’est là que *fuit*, tel le furet, ce que nous appelons *le désir*. Le désir de l’Autre par le sujet, dès qu’il surgit, est appréhendé dans ce qui ne colle pas,
-dans les manques du discours de l’Autre. Et tous les « *pourquoi ?* » de l’enfant s’adressent moins, comme on le croit, à cette sorte d’avidité de *la raison des choses*, qu’ils ne constituent une mise à l’épreuve de l’adulte, un « *pourquoi est*-*ce que tu me dis ça ?* »
+dans les manques du discours de l’Autre. Et tous les « *pourquoi ?* » de l’enfant s’adressent moins, comme on le croit, à cette sorte d’avidité de *la raison des choses*, qu’ils ne constituent une mise à l’épreuve de l’adulte, un « *pourquoi est-ce que tu me dis ça ?* »
 toujours renouvelé, toujours ressuscité de ce qui est le fond de ce « *pourquoi ?* », *à savoir de l’énigme du désir de l’adulte*.
 
 <!-- id: s11-16-0101 -->
 
 Or, à répondre à cette prise, *le sujet* tel GRIBOUILLE, va apporter la réponse du manque antécédent de sa propre disparition,
-qu’il vient ici situer *au point du manque aperçu dans l’Autre*. Le premier objet qu’il propose à ce désir parental dont l’objet est inconnu, c’est ceci, sa propre perte « *Peut*-*il me perdre ?* ». « *Me perdre* », *le fantasme* de sa mort, de sa disparition, est le premier *objet* que *le sujet* dans cette dialectique, a à mettre en jeu, et qu’il met en effet : nous le savons par mille faits, ne serait-ce que par, par exemple, l’anorexie mentale. Et aussi bien nous savons que *le fantasme de sa mort* est agité communément par l’enfant dans ses rapports d’amour avec ses parents.
+qu’il vient ici situer *au point du manque aperçu dans l’Autre*. Le premier objet qu’il propose à ce désir parental dont l’objet est inconnu, c’est ceci, sa propre perte « *Peut-il me perdre ?* ». « *Me perdre* », *le fantasme* de sa mort, de sa disparition, est le premier *objet* que *le sujet* dans cette dialectique, a à mettre en jeu, et qu’il met en effet : nous le savons par mille faits, ne serait-ce que par, par exemple, l’anorexie mentale. Et aussi bien nous savons que *le fantasme de sa mort* est agité communément par l’enfant dans ses rapports d’amour avec ses parents.
 
 <!-- id: s11-16-0102 -->
 
@@ -510,7 +510,7 @@ cette dialectique passe par ceci qui est essentiel à retenir :
 
 <!-- id: s11-16-0105 -->
 
-Je pense avoir suffisamment accentué les deux éléments essentiels que j’ai tenté d’avancer aujourd’hui, dans cette nouvelle, fondamentale, opé­ration logique : la *non*-*réciprocité* d’abord, et cet élément de *torsion* *dans le retour* qui fait que ce à quoi on revient, c’est à une utilisation déplacée de ce qui s’était formé d’abord.
+Je pense avoir suffisamment accentué les deux éléments essentiels que j’ai tenté d’avancer aujourd’hui, dans cette nouvelle, fondamentale, opé­ration logique : la *non-réciprocité* d’abord, et cet élément de *torsion* *dans le retour* qui fait que ce à quoi on revient, c’est à une utilisation déplacée de ce qui s’était formé d’abord.
 
 <!-- id: s11-16-0106 -->
 
@@ -610,7 +610,7 @@ LACAN
 <!-- id: s11-16-0127 -->
 
 C’est très bien ce que vous venez de dire là, parce que c’est juste ce que venait tout de suite de me dire GREEN.
-Il s’est approché en me serrant la pince, au moins moralement, et il m’a dit : « *Mort du struc­turalisme, vous êtes le fils de* HEGEL*.* »
+Il s’est approché en me serrant la pince, au moins moralement, et il m’a dit : « *Mort du struc­turalisme, vous êtes le fils de* HEGEL. »
 Je ne suis pas d’accord !
 
 <!-- id: s11-16-0128 -->
@@ -623,6 +623,7 @@ de *mettre* là-dessus *quelques points sur les i*.
 <!-- id: s11-16-0129 -->
 
 André GREEN - *Les fils tuent les pères*.
+
 ## Notes
 
 [^83]: Cf. Thomas d’Aquin : *Somme théologique* (op. cit) : *« amare nil aliud est quam velle bonum alicui* » (*aimer n’est rien d’autre que vouloir le bien de l’autre*).

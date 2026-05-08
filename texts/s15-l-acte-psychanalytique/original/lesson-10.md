@@ -544,7 +544,7 @@ Est-ce que vous apercevez aussi ceci, c’est que FREUD a bien remarqué quand i
 
 <!-- id: s15-10-0133 -->
 
-> c’est-à-dire justement du champ tel qu’il s’agit dans l’analyse, la libido désir …il n’y en aurait que de masculine, dit-il, de *libido*. Cela devrait nous *mettre la puce à l’oreille* et nous montrer précisément ce que j’ai déjà accentué, que ce dont il s’agit, c’est le rapport de *subjectivation* concernant la chose du sexe, mais pour autant que cette *subjectivation* aboutit au rapport logiquement défini par S**◊***a*, ici tout le monde est égal.
+> c’est-à-dire justement du champ tel qu’il s’agit dans l’analyse, la libido désir …il n’y en aurait que de masculine, dit-il, de *libido*. Cela devrait nous *mettre la puce à l’oreille* et nous montrer précisément ce que j’ai déjà accentué, que ce dont il s’agit, c’est le rapport de *subjectivation* concernant la chose du sexe, mais pour autant que cette *subjectivation* aboutit au rapport logiquement défini par S◊*a*, ici tout le monde est égal.
 
 <!-- id: s15-10-0134 -->
 
@@ -580,7 +580,7 @@ Ce n’est pas une raison, et c’est là ce qui est à regarder de près, parce
 
 <!-- id: s15-10-0142 -->
 
-Pour être complet, au passage, et avant de continuer, j’ajouterai que vous remarquerez qu’il y a dans le texte de FREUD un troisième terme, celui de *Moïse et le monothéisme*[^78]*,* que FREUD n’hésite pas…
+Pour être complet, au passage, et avant de continuer, j’ajouterai que vous remarquerez qu’il y a dans le texte de FREUD un troisième terme, celui de *Moïse et le monothéisme*[^78], que FREUD n’hésite pas…
 
 <!-- id: s15-10-0143 -->
 

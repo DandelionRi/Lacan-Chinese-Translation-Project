@@ -484,7 +484,7 @@ Pour les sourds, je rappelle que *Le discours du Maître* c’est ça :
 
 <!-- id: s21-07-0119 -->
 
-- et ici rien du tout \[**◊**\].
+- et ici rien du tout \[◊\].
 
 <!-- id: s21-07-0120 -->
 
@@ -492,7 +492,7 @@ Pour les sourds, je rappelle que *Le discours du Maître* c’est ça :
 
 <!-- id: s21-07-0121 -->
 
-Ce sur quoi repose *Le discours du Maître*, c’est ce que j’ai appelé **S<sub>1</sub>**, S *indice* 1*,* autrement dit, le commandement, l’impératif.
+Ce sur quoi repose *Le discours du Maître*, c’est ce que j’ai appelé **S<sub>1</sub>**, S *indice* 1, autrement dit, le commandement, l’impératif.
 
 <!-- id: s21-07-0122 -->
 
@@ -584,7 +584,7 @@ Il y aura tout de même quelque chose qui s’imprimera, c’est-à-dire non pas
 
 <!-- id: s21-07-0144 -->
 
-> parce que le **3** est toujours voilé par quelque côté, le **3** se dérobe, le **3** c’est le support ...il y aura **S<sub>2</sub>**, S *indice* 2*,* deux S, deux signifiants grand S qui s’imprimeront et qui donneront, selon la voie du pur hasard...
+> parce que le **3** est toujours voilé par quelque côté, le **3** se dérobe, le **3** c’est le support ...il y aura **S<sub>2</sub>**, S *indice* 2, deux S, deux signifiants grand S qui s’imprimeront et qui donneront, selon la voie du pur hasard...
 
 <!-- id: s21-07-0145 -->
 
@@ -678,7 +678,7 @@ Je parle bien sûr là de ce qui s’obtient par la bonne voie, par le *dis­cou
 
 <!-- id: s21-07-0167 -->
 
-Dans les autres discours, c’est beaucoup plus aisé à obtenir : dans *le discours du maître*, voire - pourquoi pas ? - dans *le discours universitaire*. 
+Dans les autres discours, c’est beaucoup plus aisé à obtenir : dans *le discours du maître*, voire - pourquoi pas ? - dans *le discours universitaire*.
 
 <!-- id: s21-07-0168 -->
 
@@ -742,7 +742,7 @@ Ce que je veux simplement vous faire remarquer, c’est
 
 <!-- id: s21-07-0183 -->
 
-- en la reconstituant à la place même où elle se situe*,* je ne ferme là, bien loin de là, aucun « *système du monde »*, bien au contraire.
+- en la reconstituant à la place même où elle se situe, je ne ferme là, bien loin de là, aucun « *système du monde »*, bien au contraire.
 
 <!-- id: s21-07-0184 -->
 
@@ -766,7 +766,7 @@ Cette distinction que je viens de vous *articuler* aujourd’hui, entre le *dire
 
 <!-- id: s21-07-0189 -->
 
-La distinction est quelque part - je peux vous montrer où - quelque part dans les *Premiers Analytiques* [^15] : 1-37*, là, ouais *1-37*.*
+La distinction est quelque part - je peux vous montrer où - quelque part dans les *Premiers Analytiques* [^15] : 1-37*, là, ouais *1-37.
 
 <!-- id: s21-07-0190 -->
 
@@ -784,7 +784,7 @@ La distinction est quelque part - je peux vous montrer où - quelque part dans l
 
 > « *il faut aussi opérer l’échange des termes de valeur identique, mots pour mots, locutions pour locutions, mot et locution l’un pour l’autre,*
 >
-> *et toujours préférer un mot à une locution pour faciliter ainsi l’exposition des termes*. » \[*Aristote, Organon* III, *Trad. Tricot, Vrin,* 2001*,* p*.* 181\]
+> *et toujours préférer un mot à une locution pour faciliter ainsi l’exposition des termes*. » \[*Aristote, Organon* III, *Trad. Tricot, Vrin,* 2001, p. 181\]
 
 <!-- id: s21-07-0193 -->
 
@@ -848,7 +848,7 @@ Nous sommes forcés de *supposer*, enfin, les choses les plus folles : l’*es­
 
 <!-- id: s21-07-0207 -->
 
-Dans Aristote, il appelle ça l’ὑποχείμενον \[upokeimenon\] quelque­fois, mais là, dans ce cas-là c’est quelque chose qu’on ne peut traduire en latin que par « *suspicabile* »*,* c’est τό ὑποληπτόν \[to upolepton\] : *le soupçon­nable*.
+Dans Aristote, il appelle ça l’ὑποχείμενον \[upokeimenon\] quelque­fois, mais là, dans ce cas-là c’est quelque chose qu’on ne peut traduire en latin que par « *suspicabile* », c’est τό ὑποληπτόν \[to upolepton\] : *le soupçon­nable*.
 
 <!-- id: s21-07-0208 -->
 
@@ -928,7 +928,7 @@ Il y a une histoire par là...
 
 <!-- id: s21-07-0227 -->
 
-> il faudra que je vous retrouve ça, je vais vous le retrouver tout de suite au 68a*,* page des manuscrits toujours ...il y a quelque chose d’*inouï*. \[Aristote : Organon III : Les premiers analytiques. Trad. Tricot, Vrin 2001, 68a, pp. 310-311.\]
+> il faudra que je vous retrouve ça, je vais vous le retrouver tout de suite au 68a, page des manuscrits toujours ...il y a quelque chose d’*inouï*. \[Aristote : Organon III : Les premiers analytiques. Trad. Tricot, Vrin 2001, 68a, pp. 310-311.\]
 
 <!-- id: s21-07-0228 -->
 
@@ -972,7 +972,7 @@ Quoi qu’il en soit dans ce chapitre, ce tout petit chapitre qui est bien instr
 
 <!-- id: s21-07-0238 -->
 
-C’est pas « *préférer à »* - hein ! - c’est A*,* le A écrit ...*savoir que l’aimé soit disposé à lui accorder ses faveurs*... - ça se dit συν εἶναι \[sun einai\] : « *aller ensemble* »,
+C’est pas « *préférer à »* - hein ! - c’est A, le A écrit ...*savoir que l’aimé soit disposé à lui accorder ses faveurs*... - ça se dit συν εἶναι \[sun einai\] : « *aller ensemble* »,
 
 <!-- id: s21-07-0239 -->
 
@@ -1020,7 +1020,7 @@ Il s’agit pour lui de démontrer ceci...
 
 <!-- id: s21-07-0250 -->
 
-> après ce passage concernant toute *la conversion*, et tout à fait spécialement *la conversion des prédicats qui concernent tout être* ...il s’agit que si on part de ceci - n’est-ce pas ? - que la conjonction de cet A avec ce Γ \[A- Γ \]... c’est-à-dire être aimé par le partenaire \[A\], partenaire qui ne vous accorde pas ses faveurs \[Γ\] ...si on pose que ceci est préférable à la combinaison contraire \[Δ- B\], n’est-ce pas, à savoir : qu’il vous accorde ses faveurs \[Δ\] sans vous aimer pour autant \[B\], ...il démontre que si on pose ceci - c’est l’objet de sa démonstration - il en résulte que la fin de l’amour : A, c’est quelque chose, si on la pose ici, n’est-ce pas, il en résulte - ce qui semble en effet, inévitable à admettre - *que le* συν εἶναι \[sun einai\] *vaut moins que le* χαρίζεσθαι \[karisesthai \]*,* à savoir *cette bonne disposition* qui témoigne *d’être aimé.*
+> après ce passage concernant toute *la conversion*, et tout à fait spécialement *la conversion des prédicats qui concernent tout être* ...il s’agit que si on part de ceci - n’est-ce pas ? - que la conjonction de cet A avec ce Γ \[A- Γ \]... c’est-à-dire être aimé par le partenaire \[A\], partenaire qui ne vous accorde pas ses faveurs \[Γ\] ...si on pose que ceci est préférable à la combinaison contraire \[Δ- B\], n’est-ce pas, à savoir : qu’il vous accorde ses faveurs \[Δ\] sans vous aimer pour autant \[B\], ...il démontre que si on pose ceci - c’est l’objet de sa démonstration - il en résulte que la fin de l’amour : A, c’est quelque chose, si on la pose ici, n’est-ce pas, il en résulte - ce qui semble en effet, inévitable à admettre - *que le* συν εἶναι \[sun einai\] *vaut moins que le* χαρίζεσθαι \[karisesthai \], à savoir *cette bonne disposition* qui témoigne *d’être aimé.*
 
 <!-- id: s21-07-0251 -->
 
@@ -1060,7 +1060,7 @@ J’annonce, si je puis dire le thème de mon *prochain séminaire  *: pour ce 
 
 <!-- id: s21-07-0260 -->
 
-> j’entends, ce qui s’accroche, ce qui se situe dans la catégorie de l’*Imaginaire* *...pour L’homme, l’amour ça va sans dire. L’amour ça va sans dire parce qu’il lui suffit de sa jouissan­ce*, \[*cf. début de « Encore »* \] et c’est d’ailleurs très exactement pour ça qu’il n’y comprend *rien*.
+> j’entends, ce qui s’accroche, ce qui se situe dans la catégorie de l’*Imaginaire...pour L’homme, l’amour ça va sans dire. L’amour ça va sans dire parce qu’il lui suffit de sa jouissan­ce*, \[*cf. début de « Encore »* \] et c’est d’ailleurs très exactement pour ça qu’il n’y comprend *rien*.
 
 <!-- id: s21-07-0261 -->
 

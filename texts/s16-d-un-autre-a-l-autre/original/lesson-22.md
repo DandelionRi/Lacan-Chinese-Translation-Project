@@ -42,7 +42,7 @@ Tout de même, nous nous trouvons, après ce que j’ai avancé la dernière foi
 
 <!-- id: s16-22-0010 -->
 
-> au moins pour ceux qui sont au fait de ce sur quoi j’ai terminé la dernière fois …il me semble qu’il n’est pas vain ici de rappeler que je l’ai poussé en avant dans le champ du *pari de Pascal*, que c’est tout au moins la voie que j’ai choisie cette année pour l’introduire, l’introduire comme étant au champ de l’Autre, comme définissant *un certain jeu*, précisément *l’enjeu*, avec le jeu de mots que je fais autour de ce terme « *en je* »*.*
+> au moins pour ceux qui sont au fait de ce sur quoi j’ai terminé la dernière fois …il me semble qu’il n’est pas vain ici de rappeler que je l’ai poussé en avant dans le champ du *pari de Pascal*, que c’est tout au moins la voie que j’ai choisie cette année pour l’introduire, l’introduire comme étant au champ de l’Autre, comme définissant *un certain jeu*, précisément *l’enjeu*, avec le jeu de mots que je fais autour de ce terme « *en je* ».
 
 <!-- id: s16-22-0011 -->
 
@@ -312,7 +312,7 @@ Le psychanalyste donc…
 
 <!-- id: s16-22-0076 -->
 
-> en tant qu’il induit, qu’il incite le sujet, le névrosé en l’occasion, sur ce chemin où il l’invite à la rencontre d’un *sujet supposé savoir* …le psychanalyste… *s’il est vrai qu’il sait ce que c’est qu’une psychanalyse* …comment peut-il - cet acte - y procéder, sachant ce qu’il en est de ce que, au terme de l’opération et de son *en*-*soi* même, lui, l’analyste, il va représenter l’évacuation de *l’objet(a)*. De cette incitation au savoir, qui doit mener à *la vérité* et qui en représente la béance, il choit à devenir lui-même la fiction rejetée.
+> en tant qu’il induit, qu’il incite le sujet, le névrosé en l’occasion, sur ce chemin où il l’invite à la rencontre d’un *sujet supposé savoir* …le psychanalyste… *s’il est vrai qu’il sait ce que c’est qu’une psychanalyse* …comment peut-il - cet acte - y procéder, sachant ce qu’il en est de ce que, au terme de l’opération et de son *en-soi* même, lui, l’analyste, il va représenter l’évacuation de *l’objet(a)*. De cette incitation au savoir, qui doit mener à *la vérité* et qui en représente la béance, il choit à devenir lui-même la fiction rejetée.
 
 <!-- id: s16-22-0077 -->
 
@@ -340,7 +340,7 @@ C’est bien là que nous nous trouvons portés quand nous essayons d’articule
 
 <!-- id: s16-22-0083 -->
 
-C’est autour de l’énigme, de l’interrogation qui y reste d’un acte qui ne peut s’initier *-* pour celui-là même qui l’inaugure *–* que d’*un voilage* de ce qui sera pour lui - je dis : celui qui inaugure cet acte et nommément *le psychanalyste -* son terme, et non pas seulement son terme mais à proprement parler *sa fin*, pour autant que c’est le terme qui détermine *rétroactivement* le sens de tout le processus, que c’en est proprement *la cause finale*.
+C’est autour de l’énigme, de l’interrogation qui y reste d’un acte qui ne peut s’initier - pour celui-là même qui l’inaugure *–* que d’*un voilage* de ce qui sera pour lui - je dis : celui qui inaugure cet acte et nommément *le psychanalyste -* son terme, et non pas seulement son terme mais à proprement parler *sa fin*, pour autant que c’est le terme qui détermine *rétroactivement* le sens de tout le processus, que c’en est proprement *la cause finale*.
 
 <!-- id: s16-22-0084 -->
 
@@ -360,7 +360,7 @@ Comme je vous l’ai dit, c’est ce qui a pu me dispenser…
 
 <!-- id: s16-22-0088 -->
 
-Avant d’en indiquer peut*-*être un peu plus, rappelons bien ce qui résulte de cette façon de poser…
+Avant d’en indiquer peut-être un peu plus, rappelons bien ce qui résulte de cette façon de poser…
 
 <!-- id: s16-22-0089 -->
 
@@ -444,7 +444,7 @@ Cette division du « *spectateur* » et du « *chœur* » où se modèle et 
 
 <!-- id: s16-22-0108 -->
 
-Si le passage à l’acte est *-* dans la règle *-* de l’analyse ce qu’il est demandé à celui qui y entre d’éviter, c’est justement pour privilégier cette place de *l’acting out* dont l’analyste à lui tout seul prend et garde la charge.
+Si le passage à l’acte est - dans la règle - de l’analyse ce qu’il est demandé à celui qui y entre d’éviter, c’est justement pour privilégier cette place de *l’acting out* dont l’analyste à lui tout seul prend et garde la charge.
 
 <!-- id: s16-22-0109 -->
 
@@ -516,7 +516,7 @@ Et des *scapegoats* qui font antichambre pour le devenir. C’est singulier.
 
 <!-- id: s16-22-0126 -->
 
-Cette dérision facile n’aurait pas d’autre raison d’être si, dans des textes que je viens de recevoir pour un prochain congrès qu’on aura le front de tenir à Rome, il n’y avait pas là déjà des textes *-* je veux dire déjà publiés *-* exemplaires.
+Cette dérision facile n’aurait pas d’autre raison d’être si, dans des textes que je viens de recevoir pour un prochain congrès qu’on aura le front de tenir à Rome, il n’y avait pas là déjà des textes - je veux dire déjà publiés - exemplaires.
 
 <!-- id: s16-22-0127 -->
 

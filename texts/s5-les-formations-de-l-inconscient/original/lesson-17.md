@@ -143,7 +143,7 @@ dans l’individu, dans le sujet lui-même, l’origine, le sens de cette craint
 de *déplacements*, de *trans­positions* dans l’articulation de cette crainte de la castration qui ne font à peu près - je vais
 me résumer - que s’étager ainsi : cette trace de la castration, qui est d’abord en relation avec l’objet du père,
 la crainte du père, nous sommes d’abord amenés à la considérer dans son incidence et à nous apercevoir
-de son rapport avec une tendance*,* un *désir* du sujet : celui de son intégrité corporelle. Et c’est autour de la notion
+de son rapport avec une tendance, un *désir* du sujet : celui de son intégrité corporelle. Et c’est autour de la notion
 de crainte narcissique que celle de *la crainte de la castration* va être promue.
 
 <!-- id: s5-17-0029 -->
@@ -168,7 +168,7 @@ c’est ce qui va être craint comme avant *la castration*.
 <!-- id: s5-17-0033 -->
 
 Au dernier terme, c’est celui auquel nous sommes arrivés pro­gressivement et je ne vous referai pas aujourd’hui la liste des auteurs que nous trou­vons mais, pour le dernier, vous savez que c’est Mélanie KLEIN, ce qui est à l’origine
-de *la crainte de la castration*, c’est le *phallus* lui-même*,* caché au fond de l’organe maternel, et perçu par l’enfant,
+de *la crainte de la castration*, c’est le *phallus* lui-même, caché au fond de l’organe maternel, et perçu par l’enfant,
 tout à fait aux origines, comme le *phallus* paternel, comme ayant son siège à l’intérieur du corps maternel.
 C’est lui qui est redouté par l’enfant et par le sujet.
 
@@ -180,7 +180,7 @@ le dernier pas soit franchi, il faut en somme que l’organe paternel, à l’in
 <!-- id: s5-17-0035 -->
 
 Et tout revient, au dernier terme, à une sorte de *pur reflet de l’organe phallique*, considéré comme le *support d’une tendance pri­mitive* qui est celle *de la pure et simple agression*, le *complexe de castration* s’isolant, en somme, se réduisant à l’isolement d’une pulsion agressive primordiale partielle, en même temps déconnectée, semble-t-il dès lors. Et en effet, c’est bien tout l’effort des auteurs, ce qu’ils ont eu la plus grande peine, à partir de ce moment à réintégrer : ce qui concerne
-*le complexe de castration* dans son contexte de complexe*,* à savoir de cela d’où il est parti, et qui profondément motivait son caractère central dans l’économie subjective dont il s’agissait à l’origine de l’exploration des *névroses*.
+*le complexe de castration* dans son contexte de complexe, à savoir de cela d’où il est parti, et qui profondément motivait son caractère central dans l’économie subjective dont il s’agissait à l’origine de l’exploration des *névroses*.
 Et bien entendu, on sait à quels efforts les auteurs seront conduits pour restituer quand même, resituer à sa place,
 ce qui apparaît en fin de compte, quand nous regardons les choses, comme un pur, simple et vain tour sur lui-même d’un système, d’un ensemble de concepts.
 
@@ -341,7 +341,7 @@ Et bien entendu, que voyons nous *foisonner au premier chef* ? La contribution p
 
 le matériel ethnologique. Peu importe qu’il soit plus ou moins désuet maintenant, cela n’a aucune importance.
 Le fait que ce soit *la fonction de la phobie*, avec le thème du *totem*, qui soit là le point où il se retrouve, où il se satisfait, où il voit se conjuguer *les signes* dont il suit la trace, tout cela nous montre bien que ceci est absolument indiscernable d’un progrès qui met au premier plan cette fonction du signifiant. *La phobie c’est un symptôme où vient au premier plan*
-*-* d’une façon isolée, et promu comme tel *-* *le signifiant*. Je passais l’année dernière à vous l’expliquer, à vous montrer
+- d’une façon isolée, et promu comme tel - *le signifiant*. Je passais l’année dernière à vous l’expliquer, à vous montrer
 *à quel point le signifiant d’une phobie est quelque chose qui a trente six mille significations pour le sujet*. C’est le point clé :
 *c’est le signifiant qui manque pour que les significations puissent se tenir -* au moins pour un temps - *un peu tran­quilles*.
 
@@ -424,7 +424,7 @@ Ce qui n’empêche pas que c’est un des événements tout à fait capitaux de
 
 effecti­vement *toute l’inspiration du travail critique, ethnologique, littéraire, anthropolo­gique*, en est profondément transformée. Qu’est-ce que cela veut dire, si ce n’est que FREUD y conjugue deux choses : *il conjugue le désir avec le signifiant.*
 Il les conjugue comme on dit qu’on conjugue un verbe. Il fait entrer la catégorie de cette *conjugaison* au sein
-d’une pensée qui jusqu’à lui**,** concernant l’homme, reste une pensée que j’appellerai *une pensée académisante*, désignant par là une certaine filiation philosophique antique qui, depuis *le pla­tonisme* jusqu’aux *sectes stoïciennes* et *épicuriennes* et, passant à travers *le christia­nisme*, tend profondément :
+d’une pensée qui jusqu’à lui, concernant l’homme, reste une pensée que j’appellerai *une pensée académisante*, désignant par là une certaine filiation philosophique antique qui, depuis *le pla­tonisme* jusqu’aux *sectes stoïciennes* et *épicuriennes* et, passant à travers *le christia­nisme*, tend profondément :
 
 <!-- id: s5-17-0089 -->
 
@@ -546,7 +546,7 @@ comme tel, mais *avec la parole, c’est à savoir, la demande*.
 
 est celle qui concerne le problème que j’es­saie d’articuler aujourd’hui devant vous, c’est à savoir qu’elle essaie d’articuler en une chaîne repère, comme les précédentes, ceci : le Δ c’est précisément ce sur quoi nous nous interrogeons, à savoir ce ressort même par quoi le sujet humain est mis dans un certain rapport au signifiant,
 ceci dans son essence de *sujet*, de sujet total, de sujet dans son caractère complètement ouvert, problématique, énigmatique, et c’est ce qu’exprime cette formule. Vous voyez ici le sujet de nouveau revenir dans son rapport
-avec le fait que son *désir* passe par la *demande* \[S **◊** D\], qu’il le *parle*, et que cela a certains effets, c’est simple­ment
+avec le fait que son *désir* passe par la *demande* \[S ◊ D\], qu’il le *parle*, et que cela a certains effets, c’est simple­ment
 
 <!-- id: s5-17-0117 -->
 
@@ -646,7 +646,7 @@ on entre dans toutes sortes de complications. Et c’est pour cela qu’au dépa
 
 <!-- id: s5-17-0135 -->
 
-ce terme d*’*ἀϕάνι*σ*ις \[aphanisis\]*,*qu’il a cherché dans le dictionnaire grec - il faut bien dire qu’il ne se pré­sente pas comme un mot des plus employés chez les auteurs - et qui veut dire *dis­parition*. Disparition de quoi ?
+ce terme d*’*ἀϕάνι*σ*ις \[aphanisis\],qu’il a cherché dans le dictionnaire grec - il faut bien dire qu’il ne se pré­sente pas comme un mot des plus employés chez les auteurs - et qui veut dire *dis­parition*. Disparition de quoi ?
 
 <!-- id: s5-17-0136 -->
 
@@ -675,7 +675,7 @@ Donc le problème est de savoir ce qui, dans ce rapport de son être à lui-mêm
 <!-- id: s5-17-0140 -->
 
 C’est là qu’est le problème, et avant de chercher à l’engendrer, à l’imaginer par une reconstitution génétique fondée sur des références qui sont ce que j’appellerai « *des références fondamentales de l’obscurantisme moderne »*, à savoir des formules comme celle-ci, qui sont, à mon avis, excessivement plus imbéciles que tout ce que vous pouvez trouver
-dans ces petits livres qu’on vous apprend sous le terme d’ins­truction religieuse ou de catéchisme, à savoir : « *l’ontogenèse reproduit la phylogénèse* »*.*
+dans ces petits livres qu’on vous apprend sous le terme d’ins­truction religieuse ou de catéchisme, à savoir : « *l’ontogenèse reproduit la phylogénèse* ».
 
 <!-- id: s5-17-0141 -->
 
@@ -706,7 +706,7 @@ C’est tout ce que cela veut dire.
 
 <!-- id: s5-17-0146 -->
 
-Pour que la demande, si l’on peut dire, existe, *ait une chance*, soit quelque chose, il faut qu’il y ait donc *un cer­tain rapport* entre A en tant que *lieu de la parole*, et ce *désir* tel qu’il est structuré : S **◊** *a*, tel qu’il est structuré dans la première ligne.
+Pour que la demande, si l’on peut dire, existe, *ait une chance*, soit quelque chose, il faut qu’il y ait donc *un cer­tain rapport* entre A en tant que *lieu de la parole*, et ce *désir* tel qu’il est structuré : S ◊ *a*, tel qu’il est structuré dans la première ligne.
 
 <!-- id: s5-17-0147 -->
 
@@ -718,11 +718,11 @@ Ce que *la composition* de ces lignes implique est ceci :
 
 <!-- id: s5-17-0149 -->
 
-- de même que l’*identifi­cation narcissique*, à savoir ce qui constitue le *moi* du sujet, se fait dans un certain rapport dont nous avons vu toutes les variations, toutes les différences, toutes les nuances de *prestige*, de *prestance*, de *domination*, dans un certain rapport avec *l’image de l’autre* : *i(a),* il y a là le correspondant, le corrélatif de ce qui, de l’autre côté du *point de révolution* de ce tableau, à savoir la ligne *d’équivalence double* \[<img src="assets/image79.png" style="width:0.12083in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S5\Sans titre.bmp" />\]qui est là au centre, met en rapport cette possibilité même de *l’existence d’un moi* avec le caractère fondamentalement désirant et *lié aux avatars du désir* qui est ici articulé dans la première partie de la ligne \[S **◊** *a*\],
+- de même que l’*identifi­cation narcissique*, à savoir ce qui constitue le *moi* du sujet, se fait dans un certain rapport dont nous avons vu toutes les variations, toutes les différences, toutes les nuances de *prestige*, de *prestance*, de *domination*, dans un certain rapport avec *l’image de l’autre* : *i(a),* il y a là le correspondant, le corrélatif de ce qui, de l’autre côté du *point de révolution* de ce tableau, à savoir la ligne *d’équivalence double* \[<img src="assets/image79.png" style="width:0.12083in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S5\Sans titre.bmp" />\]qui est là au centre, met en rapport cette possibilité même de *l’existence d’un moi* avec le caractère fondamentalement désirant et *lié aux avatars du désir* qui est ici articulé dans la première partie de la ligne \[S ◊ *a*\],
 
 <!-- id: s5-17-0150 -->
 
-- de même *toute identification* qui soit *identification aux insignes de l’Autre* : *s*(A), c’est-à-dire du tiers en tant que tel, *dépend* - de quoi ? - *de la demande*, de la demande et des rapports de l’Autre au *désir *: A **◊** *d*.
+- de même *toute identification* qui soit *identification aux insignes de l’Autre* : *s*(A), c’est-à-dire du tiers en tant que tel, *dépend* - de quoi ? - *de la demande*, de la demande et des rapports de l’Autre au *désir *: A ◊ *d*.
 
 <!-- id: s5-17-0151 -->
 

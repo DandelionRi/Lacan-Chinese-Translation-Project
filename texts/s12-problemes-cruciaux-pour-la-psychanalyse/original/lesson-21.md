@@ -212,7 +212,7 @@ Soit : le champ de l’analyse comme champ de *la parole libre*. Le sujet analy
 
 <!-- id: s12-21-0051 -->
 
-Et s’il devient - et LECLAIRE est, bien sûr, là tout à fait d’accord là-dessus *-* disons un sujet se supposant savoir, c’est-à-dire s’il type sa position de *point de la certitude*, pour donner à son savoir un contenu, il se fait, par là, soi-disant adéquat au réel, modèle de *l’identification* de l’analysé, et par là, il suture, c’est-à-dire : il suture le manque par quoi il est sujet désirant.
+Et s’il devient - et LECLAIRE est, bien sûr, là tout à fait d’accord là-dessus - disons un sujet se supposant savoir, c’est-à-dire s’il type sa position de *point de la certitude*, pour donner à son savoir un contenu, il se fait, par là, soi-disant adéquat au réel, modèle de *l’identification* de l’analysé, et par là, il suture, c’est-à-dire : il suture le manque par quoi il est sujet désirant.
 
 <!-- id: s12-21-0052 -->
 
@@ -240,7 +240,7 @@ Peut-être est-ce qu’il désire n’avoir en face de lui que les paroles de se
 
 <!-- id: s12-21-0058 -->
 
-J’en reviens donc au second point, tout ceci, je m’en excuse, allant rapidement. Je cite LECLAIRE : « *La réalité, pour l’analyste, c’est d’envisager la chose en tant qu’elle n’est pas une* \[...\]*.*
+J’en reviens donc au second point, tout ceci, je m’en excuse, allant rapidement. Je cite LECLAIRE : « *La réalité, pour l’analyste, c’est d’envisager la chose en tant qu’elle n’est pas une* \[...\].
 
 <!-- id: s12-21-0059 -->
 
@@ -276,7 +276,7 @@ Ainsi voit-on dans la suite du texte de LECLAIRE, *L’homme aux loups* avec ce 
 
 <!-- id: s12-21-0067 -->
 
-*Le signifiant « est identique à soi »* \[1\] *c’est celui du « non-identique à soi » qui se nomme sujet ou manque* \[0\]*.*
+*Le signifiant « est identique à soi »* \[1\] *c’est celui du « non-identique à soi » qui se nomme sujet ou manque* \[0\].
 
 <!-- id: s12-21-0068 -->
 
@@ -658,7 +658,7 @@ Dans la suite du dialogue, le sophiste apparaît dès lors aux points où il se 
 
 <!-- id: s12-21-0161 -->
 
-Non per­tinente au niveau linguistique, l’insertion possible dans le jeu des partenaires est essen­tielle ici à détacher du « *il* » du partenaire, un autre « *il* » aux propriétés différentes. Or, qu’il opère la distinction, PLATON nous en donne un indice lorsqu’en [246e](http://remacle.org/bloodwolf/philosophes/platon/cousin/sophiste2.htm) : abordant la réfutation de deux écoles philosophiques opposées, il demande à THÉÉTÈTE de procéder à un montage qui les rendra présentes : « *Demande-leur de te répondre... et de ce qu’ils diront, fais-toi l’interprète.* - ... τὸ λεχθὲν παρ’ αὐτῶν ἀϕερμήνευε*.* »
+Non per­tinente au niveau linguistique, l’insertion possible dans le jeu des partenaires est essen­tielle ici à détacher du « *il* » du partenaire, un autre « *il* » aux propriétés différentes. Or, qu’il opère la distinction, PLATON nous en donne un indice lorsqu’en [246e](http://remacle.org/bloodwolf/philosophes/platon/cousin/sophiste2.htm) : abordant la réfutation de deux écoles philosophiques opposées, il demande à THÉÉTÈTE de procéder à un montage qui les rendra présentes : « *Demande-leur de te répondre... et de ce qu’ils diront, fais-toi l’interprète.* - ... τὸ λεχθὲν παρ’ αὐτῶν ἀϕερμήνευε. »
 
 <!-- id: s12-21-0162 -->
 
@@ -868,7 +868,7 @@ KAUFMANN
 
 <!-- id: s12-21-0213 -->
 
-Je me suis fait une petite idée à propos du problème *nom*-*verbe* et du problème du *fantasme*. J’attache une grande importance à un terme qui se trouve, je ne sais trop où, dans le texte, c’est παραϕέρειν \[paraferein\].
+Je me suis fait une petite idée à propos du problème *nom-verbe* et du problème du *fantasme*. J’attache une grande importance à un terme qui se trouve, je ne sais trop où, dans le texte, c’est παραϕέρειν \[paraferein\].
 
 <!-- id: s12-21-0214 -->
 

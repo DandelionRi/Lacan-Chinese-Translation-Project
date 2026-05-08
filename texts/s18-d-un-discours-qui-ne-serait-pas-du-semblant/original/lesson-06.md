@@ -34,7 +34,7 @@ dans l’autre amphi ...ça ressemblait un peu trop au plus grand nombre de cas 
 
 <!-- id: s18-06-0008 -->
 
-Parce qu’on est *coincé* \[*Rires*\] dans une *boi*-*boîte*.
+Parce qu’on est *coincé* \[*Rires*\] dans une *boi-boîte*.
 
 <!-- id: s18-06-0009 -->
 
@@ -138,11 +138,11 @@ Qu’il soit tout à fait frappant que tout ce qui y est pêchable, si je puis d
 
 <!-- id: s18-06-0034 -->
 
-Alors la remarque que je fais, sur ce fameux homme : « *who dares all things, those unbecoming as well as those beco­ming a man* »[^47]*,* il est bien certain que si j’insiste à ce moment là pour dire que de ne pas le traduire littéralement...
+Alors la remarque que je fais, sur ce fameux homme : « *who dares all things, those unbecoming as well as those beco­ming a man* »[^47], il est bien certain que si j’insiste à ce moment là pour dire que de ne pas le traduire littéralement...
 
 <!-- id: s18-06-0035 -->
 
-« *ce qui est indigne aussi bien que ce qui est digne d’un homme* » ...montre que c’est dans son bloc que le côté indicible, honteux, qui ne se dit pas, quant à ce qui concerne un homme, enfin est bien là - pour tout dire le *phallus* - et qu’il est clair que ramener ça, en le fragmentant en deux : « *ce qui est digne d’un homme aussi bien que ce qui est indigne de lui* » il est clair que ce que sur quoi j’insiste ici, que c’est pas la même chose de dire : « *the rob­ber’s knowledge of the loser’s knowledge of the robber* »*,* « *la connaissance qu’a le voleur de la connaissance qu’a le volé de son voleur* » ...que cet élément de « *savoir qu’il sait* », à savoir : savoir imposé d’un certain fantasme*,* que ce soit justement : « *l’homme qui ose tout* », c’est là - comme tout de suite le dit Dupin - la clé de la situation.
+« *ce qui est indigne aussi bien que ce qui est digne d’un homme* » ...montre que c’est dans son bloc que le côté indicible, honteux, qui ne se dit pas, quant à ce qui concerne un homme, enfin est bien là - pour tout dire le *phallus* - et qu’il est clair que ramener ça, en le fragmentant en deux : « *ce qui est digne d’un homme aussi bien que ce qui est indigne de lui* » il est clair que ce que sur quoi j’insiste ici, que c’est pas la même chose de dire : « *the rob­ber’s knowledge of the loser’s knowledge of the robber* », « *la connaissance qu’a le voleur de la connaissance qu’a le volé de son voleur* » ...que cet élément de « *savoir qu’il sait* », à savoir : savoir imposé d’un certain fantasme, que ce soit justement : « *l’homme qui ose tout* », c’est là - comme tout de suite le dit Dupin - la clé de la situation.
 
 <!-- id: s18-06-0036 -->
 
@@ -316,7 +316,7 @@ comme je vais essayer de vous le pousser un peu plus loin *...*ce qu’on appell
 
 <!-- id: s18-06-0078 -->
 
-> je veux dire *lettres grecques* ou *lettres ger­maniques*... *plusieurs lots alphabétiques* *...toute manipulation dont avance dans la réduction logistique dans le raisonnement mathématique nécessite ce support.*
+> je veux dire *lettres grecques* ou *lettres ger­maniques*... *plusieurs lots alphabétiques...toute manipulation dont avance dans la réduction logistique dans le raisonnement mathématique nécessite ce support.*
 
 <!-- id: s18-06-0079 -->
 
@@ -422,7 +422,7 @@ L’État et la police, ben pour quelqu’un qui a un tout petit peu réfléchi*
 
 <!-- id: s18-06-0104 -->
 
-Voilà le discours du Maître, comme vous vous en souvenez peut-être, carac­térisé par ceci que des 6 arêtes du tétraèdre*,* une est rompue.
+Voilà le discours du Maître, comme vous vous en souvenez peut-être, carac­térisé par ceci que des 6 arêtes du tétraèdre, une est rompue.
 
 <!-- id: s18-06-0105 -->
 
@@ -650,7 +650,7 @@ Le propre d’un mythe qui est écrit...
 
 <!-- id: s18-06-0157 -->
 
-> comme l’a fait remarquer déjà Claude Lévi-Strauss, ...c’est que de l’écrire*,* il n’a qu’une seule forme, alors que le propre du mythe... comme c’est toute l’œuvre de Lévi-Strauss de le démontrer, ...c’est d’en avoir une très très grande quantité, c’est ça qui le constitue comme mythe, et non comme mythe écrit.
+> comme l’a fait remarquer déjà Claude Lévi-Strauss, ...c’est que de l’écrire, il n’a qu’une seule forme, alors que le propre du mythe... comme c’est toute l’œuvre de Lévi-Strauss de le démontrer, ...c’est d’en avoir une très très grande quantité, c’est ça qui le constitue comme mythe, et non comme mythe écrit.
 
 <!-- id: s18-06-0158 -->
 
@@ -812,7 +812,7 @@ Ce n’est que par là que se structure...
 
 <!-- id: s18-06-0197 -->
 
-> qu’est rejoint dans le discours, ce qui seul peut y apporter la Loi ...ce qu’il en est de la jouissance sexuelle*.*
+> qu’est rejoint dans le discours, ce qui seul peut y apporter la Loi ...ce qu’il en est de la jouissance sexuelle.
 
 <!-- id: s18-06-0198 -->
 
@@ -940,15 +940,15 @@ M’engueulez pas parce que vous n’allez plus m’entendre, je vais d’abord 
 
 <!-- id: s18-06-0229 -->
 
-L’*universelle*, je disais l’*universelle affirmative* va maintenant *s’écrire de cette notation inverbalisable* :**∀**, puisque c’est un A renversé. Je dis « A *renversé* », enfin *c’est pas du discours, c’est de l’écrit*. Mais c’est un signal - comme vous allez le voir *-* pour jaspiner :
+L’*universelle*, je disais l’*universelle affirmative* va maintenant *s’écrire de cette notation inverbalisable* :∀, puisque c’est un A renversé. Je dis « A *renversé* », enfin *c’est pas du discours, c’est de l’écrit*. Mais c’est un signal - comme vous allez le voir - pour jaspiner :
 
 <!-- id: s18-06-0230 -->
 
-- ;. F(x)** **: *universelle affirmative*,
+- ;. F(x) : *universelle affirmative*,
 
 <!-- id: s18-06-0231 -->
 
-- :. F(x)** **: *particulière affirmative*.
+- :. F(x) : *particulière affirmative*.
 
 <!-- id: s18-06-0232 -->
 
@@ -984,7 +984,7 @@ Ce que j’avance, c’est que dans cette façon d’écrire justement, tout tie
 
 <!-- id: s18-06-0240 -->
 
-> c’est le signe de l’A renversé : **∀** ...qu’il satisfait à ce qui est écrit : F(x), qu’il n’y est pas déplacé.
+> c’est le signe de l’A renversé : ∀ ...qu’il satisfait à ce qui est écrit : F(x), qu’il n’y est pas déplacé.
 
 <!-- id: s18-06-0241 -->
 

@@ -77,7 +77,7 @@ De toute façon qu’importe ! Nous voici maintenant dans l’entreprise, et qu
 <div class="paragraph-id">s8-06-0004</div>
 <div class="translation-block">
 
-在此我还要再次声明，请务必听清我的意思：严格来讲，**这绝非是要将它重新置于历史之中！**你们很清楚，那根本不是我们的注释方法；而且，正是为了它能使我们听见什么，我们才会去探究一种话语——哪怕这种话语是在一个极为遥远的时代被发表的，在那个时代，我们如今所要听见的东西还根本不曾显露。
+在此我还要再次声明，请务必听清我的意思：严格来讲，<strong>这绝非是要将它重新置于历史之中！</strong>你们很清楚，那根本不是我们的注释方法；而且，正是为了它能使我们听见什么，我们才会去探究一种话语——哪怕这种话语是在一个极为遥远的时代被发表的，在那个时代，我们如今所要听见的东西还根本不曾显露。
 
 </div>
 <details class="original-block" open>
@@ -96,7 +96,7 @@ Et là encore, que je me fasse bien entendre : il ne s’agit pas à proprement
 <div class="paragraph-id">s8-06-0005</div>
 <div class="translation-block">
 
-但是，关于《会饮篇》，我们不可能不指涉某种东西，即话语与历史的关系，换言之：问题不在于话语如何位于历史之中，而是历史本身如何产生于**话语进入实在界的某种特定模式**。同样地，我必须在此提醒各位，在我们所处的《会饮篇》这一时刻，即在关于宇宙的具体话语诞生后的第二个世纪，我的意思是，我们绝不能忘记公元前六世纪的那场哲学繁盛，它是如此奇特，且因那一时期在其他文明中回响的、或是以其他模式呈现的某种“地球合唱”而显得如此独一无二，尽管它们之间并无表面上的关联。但让我们暂且把这一点搁置一旁。
+但是，关于《会饮篇》，我们不可能不指涉某种东西，即话语与历史的关系，换言之：问题不在于话语如何位于历史之中，而是历史本身如何产生于<strong>话语进入实在界的某种特定模式</strong>。同样地，我必须在此提醒各位，在我们所处的《会饮篇》这一时刻，即在关于宇宙的具体话语诞生后的第二个世纪，我的意思是，我们绝不能忘记公元前六世纪的那场哲学繁盛，它是如此奇特，且因那一时期在其他文明中回响的、或是以其他模式呈现的某种“地球合唱”而显得如此独一无二，尽管它们之间并无表面上的关联。但让我们暂且把这一点搁置一旁。
 
 </div>
 <details class="original-block" open>
@@ -161,7 +161,7 @@ Et en un sens, *il n’y aura jamais d’univers que de discours*. Tout ce que n
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0008">
 
-Souvenez-vous du mode d’opérer de ZÉNON *le dialecticien,* quand pour défendre son maître PARMÉNIDE, il propose les arguments sophistiques qui doivent jeter l’adversaire dans un embarras sans issue. Donc à l’arrière-plan de ce *Banquet,* de *ce discours de* PLATON, et dans le reste de son œuvre nous avons cette tentative, *grandiose* dans son *innocence*, cet espoir qui habite les premiers philosophes dits « *physiciens* » de trouver, sous la garantie du discours *-* qui est en somme toute leur instrumentation d’expérience - la prise dernière sur le réel.
+Souvenez-vous du mode d’opérer de ZÉNON *le dialecticien,* quand pour défendre son maître PARMÉNIDE, il propose les arguments sophistiques qui doivent jeter l’adversaire dans un embarras sans issue. Donc à l’arrière-plan de ce *Banquet,* de *ce discours de* PLATON, et dans le reste de son œuvre nous avons cette tentative, *grandiose* dans son *innocence*, cet espoir qui habite les premiers philosophes dits « *physiciens* » de trouver, sous la garantie du discours - qui est en somme toute leur instrumentation d’expérience - la prise dernière sur le réel.
 
 </div>
 
@@ -199,7 +199,7 @@ Je vous demande pardon si je l’évite. Ce n’est pas ici un discours sur la p
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0010">
 
-Dites-vous bien que *la* θεωρια \[theôria\] dont le terme naît à la même époque - si *contemplative* qu’elle puisse s’affirmer et elle n’est pas seulement *contemplative,* la πρᾶξις \[praxis\] d’où elle sort, la *pratique orphique,* le montre assez[^66] - *n’est pas*, comme notre emploi du mot « *théorie* » l’implique, *l’abstraction de cette* πρᾶξις \[praxis\]*,* ni sa référence générale, *ni le modèle*, de quelque façon qu’on puisse l’imaginer de ce qui serait son application, *elle est,* à son apparition, *cette* πρᾶξις *même *: *la* θεωρια \[theôria\] *est elle-même l’exercice du pouvoir* *de* το πρᾶγμα \[to pragma\]*, la grande affaire.*
+Dites-vous bien que *la* θεωρια \[theôria\] dont le terme naît à la même époque - si *contemplative* qu’elle puisse s’affirmer et elle n’est pas seulement *contemplative,* la πρᾶξις \[praxis\] d’où elle sort, la *pratique orphique,* le montre assez[^66] - *n’est pas*, comme notre emploi du mot « *théorie* » l’implique, *l’abstraction de cette* πρᾶξις \[praxis\], ni sa référence générale, *ni le modèle*, de quelque façon qu’on puisse l’imaginer de ce qui serait son application, *elle est,* à son apparition, *cette* πρᾶξις *même *: *la* θεωρια \[theôria\] *est elle-même l’exercice du pouvoir* *de* το πρᾶγμα \[to pragma\]*, la grande affaire.*
 
 </div>
 
@@ -237,7 +237,7 @@ L’un des *maîtres* de cette époque que je choisis, le seul, pour le citer :
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0012">
 
-Tout ceci, vous allez le voir, reste très proche de PLATON, aussi bien ce n’est pas par hasard que ce soit, prise à lui, à une époque beaucoup plus rationaliste, que tout naturellement nous empruntions la référence du το πρᾶγμα \[to pragma\]*.* Mais SOCRATE ? Il serait bien singulier que toute la tradition historique se soit trompée en disant qu’il apporte sur ce fond quelque chose d’*original*, une *rupture*, une *opposition*. SOCRATE s’en explique - pour autant que nous puissions faire foi à PLATON là où il nous le présente, plus manifestement dans le contexte d’un *témoignage historique* le visant - c’est un mouvement de recul, de lassitude, de dégoût, par rapport aux contradictions manifestées par ces premières tentatives telles que je viens de vous les caractériser.
+Tout ceci, vous allez le voir, reste très proche de PLATON, aussi bien ce n’est pas par hasard que ce soit, prise à lui, à une époque beaucoup plus rationaliste, que tout naturellement nous empruntions la référence du το πρᾶγμα \[to pragma\]. Mais SOCRATE ? Il serait bien singulier que toute la tradition historique se soit trompée en disant qu’il apporte sur ce fond quelque chose d’*original*, une *rupture*, une *opposition*. SOCRATE s’en explique - pour autant que nous puissions faire foi à PLATON là où il nous le présente, plus manifestement dans le contexte d’un *témoignage historique* le visant - c’est un mouvement de recul, de lassitude, de dégoût, par rapport aux contradictions manifestées par ces premières tentatives telles que je viens de vous les caractériser.
 
 </div>
 
@@ -313,7 +313,7 @@ Quand SOCRATE dit que *c’est la vérité, et non pas lui-même, qui réfute so
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0016">
 
-Et là nous en venons à l’ἀτοπία \[atopia\], à *ce côté insituable* de SOCRATE qui est justement la question qui nous intéresse quand nous y flairons quelque chose qui peut nous éclairer sur l’ἀτοπία \[atopia\] qui est exigible de nous \[analystes\]. C’est de cette ἀτοπία \[atopia\]*,* de ce « *nulle part* » de son être qu’il a provoqué certainement - car l’histoire nous l’atteste - cette lignée de recherches dont le sort est lié, de façon très ambiguë, à toute une histoire qu’on peut fragmenter : l’histoire de la conscience, et comme on dit en termes modernes : l’histoire de la religion, morale, politique, à la limite certes, et moindrement l’art.
+Et là nous en venons à l’ἀτοπία \[atopia\], à *ce côté insituable* de SOCRATE qui est justement la question qui nous intéresse quand nous y flairons quelque chose qui peut nous éclairer sur l’ἀτοπία \[atopia\] qui est exigible de nous \[analystes\]. C’est de cette ἀτοπία \[atopia\], de ce « *nulle part* » de son être qu’il a provoqué certainement - car l’histoire nous l’atteste - cette lignée de recherches dont le sort est lié, de façon très ambiguë, à toute une histoire qu’on peut fragmenter : l’histoire de la conscience, et comme on dit en termes modernes : l’histoire de la religion, morale, politique, à la limite certes, et moindrement l’art.
 
 </div>
 
@@ -408,7 +408,7 @@ Il semble tout de même - pour essayer là-dessus de dire des choses - impossibl
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0021">
 
-Et nommément nous ne savons pas, ajoute-t-il, si ce n’est pas une bonne chose[^69]. Évidemment, quand on lit ça... On est tellement habitué à ne lire dans les textes classiques que « *bonnes paroles* » qu’on n’y fait plus attention. Mais c’est frappant quand nous faisons résonner cela dans le contexte des derniers jours de SOCRATE, entouré de ses derniers fidèles, qu’il leur jette ce dernier « *regard un peu en dessous* » que PLATON photographie sur document - *il n’y était pas ! -* et qu’il appelle « ce *regard de taureau* »[^70]*.* Et toute son attitude à son procès... Si l’*Apologie de* SOCRATE nous reproduit exactement ce qu’il a dit devant ses juges il est difficile de penser, à entendre sa défense, qu’il ne voulait pas expressément mourir. En tout cas il répudia expressément, et comme tel, tout pathétique de la situation, provoquant ainsi ses juges habitués aux supplications des accusés, rituelles, classiques.
+Et nommément nous ne savons pas, ajoute-t-il, si ce n’est pas une bonne chose[^69]. Évidemment, quand on lit ça... On est tellement habitué à ne lire dans les textes classiques que « *bonnes paroles* » qu’on n’y fait plus attention. Mais c’est frappant quand nous faisons résonner cela dans le contexte des derniers jours de SOCRATE, entouré de ses derniers fidèles, qu’il leur jette ce dernier « *regard un peu en dessous* » que PLATON photographie sur document - *il n’y était pas ! -* et qu’il appelle « ce *regard de taureau* »[^70]. Et toute son attitude à son procès... Si l’*Apologie de* SOCRATE nous reproduit exactement ce qu’il a dit devant ses juges il est difficile de penser, à entendre sa défense, qu’il ne voulait pas expressément mourir. En tout cas il répudia expressément, et comme tel, tout pathétique de la situation, provoquant ainsi ses juges habitués aux supplications des accusés, rituelles, classiques.
 
 </div>
 
@@ -446,7 +446,7 @@ Donc ce que je vise là en première approche de la nature énigmatique *d’un 
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0023">
 
-SOCRATE, vous le savez, quand NIETZSCHE en a fait la découverte, ça lui a monté à la tête* *: « *La Naissance de la tragédie »,* et *toute œuvre* de NIETZSCHE à la suite, est sortie de là. Le ton dont je vous en parle doit bien marquer quelque personnelle *impatience*. On ne peut pas tout de même ne pas voir *qu’incontestablement* - NIETZSCHE là a mis le doigt dessus, il suffisait d’ouvrir à peu près *un dialogue de* PLATON au hasard - *la profonde incompétence de* SOCRATE chaque fois qu’il touche à ce sujet de la tragédie est quelque chose qui est tangible. Lisez dans le *Gorgias*. La tragédie passe là, exécutée en trois lignes, parmi *les arts de la flatterie,* une *rhétorique* comme une autre, rien de plus à en dire[^71].
+SOCRATE, vous le savez, quand NIETZSCHE en a fait la découverte, ça lui a monté à la tête: « *La Naissance de la tragédie »,* et *toute œuvre* de NIETZSCHE à la suite, est sortie de là. Le ton dont je vous en parle doit bien marquer quelque personnelle *impatience*. On ne peut pas tout de même ne pas voir *qu’incontestablement* - NIETZSCHE là a mis le doigt dessus, il suffisait d’ouvrir à peu près *un dialogue de* PLATON au hasard - *la profonde incompétence de* SOCRATE chaque fois qu’il touche à ce sujet de la tragédie est quelque chose qui est tangible. Lisez dans le *Gorgias*. La tragédie passe là, exécutée en trois lignes, parmi *les arts de la flatterie,* une *rhétorique* comme une autre, rien de plus à en dire[^71].
 
 </div>
 
@@ -465,7 +465,7 @@ SOCRATE, vous le savez, quand NIETZSCHE en a fait la découverte, ça lui a mont
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0024">
 
-Nul *tragique*, nul « *sentiment tragique* » - comme on s’exprime de nos jours - ne soutient cette ἀτοπία \[atopia\] de SOCRATE. Seulement un « *démon* »*,* le δαίμων \[daimôn\] - ne l’oublions pas, car il nous en parle sans cesse *-* qui l’hallucine, semble-t-il pour lui permettre de survivre dans cet espace, il l’avertit des trous où il pourrait tomber : « *Ne fais pas cela*... ».
+Nul *tragique*, nul « *sentiment tragique* » - comme on s’exprime de nos jours - ne soutient cette ἀτοπία \[atopia\] de SOCRATE. Seulement un « *démon* », le δαίμων \[daimôn\] - ne l’oublions pas, car il nous en parle sans cesse - qui l’hallucine, semble-t-il pour lui permettre de survivre dans cet espace, il l’avertit des trous où il pourrait tomber : « *Ne fais pas cela*... ».
 
 </div>
 
@@ -923,7 +923,7 @@ C’est que *le désir chrétien*, qui a si peu à faire avec toutes ces aventur
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0048">
 
-Mais c’est justement cela qui nous ramène à la question du *transfert* et à ce caractère délirant d’une telle reprise du discours dans un autre contexte, qui lui est à proprement parler contradictoire. Qu’est-ce qu’il y a là dedans, si ce n’est que *le fantasme platonicien* *-* dont nous allons nous approcher d’aussi près que possible : ne croyez pas que ce soit là des considérations simplement générales - *s’affirme déjà comme un phénomène de transfert*.
+Mais c’est justement cela qui nous ramène à la question du *transfert* et à ce caractère délirant d’une telle reprise du discours dans un autre contexte, qui lui est à proprement parler contradictoire. Qu’est-ce qu’il y a là dedans, si ce n’est que *le fantasme platonicien* - dont nous allons nous approcher d’aussi près que possible : ne croyez pas que ce soit là des considérations simplement générales - *s’affirme déjà comme un phénomène de transfert*.
 
 </div>
 
@@ -999,7 +999,7 @@ Car déjà dans SOCRATE il y a *toutes les figures du cynique*. Cela prouve en t
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0052">
 
-Et ce n’est pas ailleurs qu’il faut chercher *la raison* de ceci que dans *Le Banquet,* le seul qui parle comme il convient de l’amour, c’est « *un pitre* » - vous allez voir ce que j’entends par ce terme - car ARISTOPHANE pour PLATON n’est pas autre chose : un *poète comique* pour lui c’est « *un pitre* ». Et on voit très bien comment ce monsieur très distant, croyez-moi, de la foule**,** cet homme, cet obscène ARISTOPHANE, dont je n’ai pas à vous rappeler ce que vous pouvez trouver, à ouvrir la moindre de ses comédies. La moindre des choses que vous puissiez voir surgir sur la scène, c’est celle par exemple où le parent d’EURIPIDE qui va se déguiser en femme pour s’exposer au sort d’ORPHÉE, c’est-à-dire être déchiqueté par l’assemblée des femmes à la place d’EURIPIDE dans ce déguisement... on nous fait assister sur la scène au brûlage des poils du cul parce que les femmes, comme encore aujourd’hui en Orient, s’épilent. Et je vous passe tous les autres détails[^73].
+Et ce n’est pas ailleurs qu’il faut chercher *la raison* de ceci que dans *Le Banquet,* le seul qui parle comme il convient de l’amour, c’est « *un pitre* » - vous allez voir ce que j’entends par ce terme - car ARISTOPHANE pour PLATON n’est pas autre chose : un *poète comique* pour lui c’est « *un pitre* ». Et on voit très bien comment ce monsieur très distant, croyez-moi, de la foule, cet homme, cet obscène ARISTOPHANE, dont je n’ai pas à vous rappeler ce que vous pouvez trouver, à ouvrir la moindre de ses comédies. La moindre des choses que vous puissiez voir surgir sur la scène, c’est celle par exemple où le parent d’EURIPIDE qui va se déguiser en femme pour s’exposer au sort d’ORPHÉE, c’est-à-dire être déchiqueté par l’assemblée des femmes à la place d’EURIPIDE dans ce déguisement... on nous fait assister sur la scène au brûlage des poils du cul parce que les femmes, comme encore aujourd’hui en Orient, s’épilent. Et je vous passe tous les autres détails[^73].
 
 </div>
 
@@ -1189,7 +1189,7 @@ Mais de quoi ARISTOPHANE fait-il rire ? Car il est clair qu’il fait rire et q
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0062">
 
-Dieu merci, au temps de PLATON, nous n’en sommes pas encore là, à cet étrange ARISTOPHANE près, mais c’est un bouffon, nous en sommes bien plutôt à une observation en quelque sorte zoologique d’êtres imaginaires, qui prend sa valeur de ce qu’ils évoquent de ce qui peut être pris assurément au sens dérisoire dans les êtres réels. Car c’est bien** ** de cela qu’il s’agit dans ces êtres coupés en deux tels un œuf dur \[[190e](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\], un de ces êtres bizarres comme nous en trouvons sur les fonds de sable \[[191d](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\], *une plie, une sole,* *un carrelet* là évoqués, qui ont l’air d’avoir tout ce qu’il faut : deux yeux, tous les organes pairs, mais qui sont aplatis d’une telle manière qu’ils semblent être la moitié d’un être complet.
+Dieu merci, au temps de PLATON, nous n’en sommes pas encore là, à cet étrange ARISTOPHANE près, mais c’est un bouffon, nous en sommes bien plutôt à une observation en quelque sorte zoologique d’êtres imaginaires, qui prend sa valeur de ce qu’ils évoquent de ce qui peut être pris assurément au sens dérisoire dans les êtres réels. Car c’est bien  de cela qu’il s’agit dans ces êtres coupés en deux tels un œuf dur \[[190e](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\], un de ces êtres bizarres comme nous en trouvons sur les fonds de sable \[[191d](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\], *une plie, une sole,* *un carrelet* là évoqués, qui ont l’air d’avoir tout ce qu’il faut : deux yeux, tous les organes pairs, mais qui sont aplatis d’une telle manière qu’ils semblent être la moitié d’un être complet.
 
 </div>
 
@@ -1512,7 +1512,7 @@ Ce σϕαῖρος \[sphairos\] hante la pensée antique. Il est la forme que pr
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0079">
 
-Il est *très singulier* que nous ayons vu réémerger sous la plume de FREUD cette idée de *l’amour comme puissance unifiante* pure et simple, et si l’on peut dire, *à l’attraction sans limites,* pour l’opposer à THANATOS*,* alors que nous avons corrélativement - et vous le sentez bien : d’une *façon discordante* - une notion tellement différente et tellement plus féconde dans « *l’ambivalence amour-haine* ». Cette sphère nous la retrouvons partout. Je vous parlais l’autre jour de PHILOLAOS : il admet la même sphère au centre d’un monde où la terre a une position excentrique. Déjà au temps de PYTHAGORE on le soupçonnait depuis très longtemps que la terre était excentrique, mais ce n’est pas le soleil qui occupe le centre, c’est un feu central sphérique à quoi, nous, la face de la terre habitée, nous tournons toujours le dos. Nous sommes par rapport à ce feu comme la lune est par rapport à notre terre et c’est pour cela que nous ne le sentons pas. Et il semble que ce soit pour que nous ne soyons pas, malgré tout, brûlés par *le rayonnement central*, que le dénommé PHILOLAOS a inventé - cette *élucubration* qui a fait casser la tête déjà aux gens de l’Antiquité, à ARISTOTE lui-même - ἀντίχθων \[anti-chtôn\] l’*anti-terre*.
+Il est *très singulier* que nous ayons vu réémerger sous la plume de FREUD cette idée de *l’amour comme puissance unifiante* pure et simple, et si l’on peut dire, *à l’attraction sans limites,* pour l’opposer à THANATOS, alors que nous avons corrélativement - et vous le sentez bien : d’une *façon discordante* - une notion tellement différente et tellement plus féconde dans « *l’ambivalence amour-haine* ». Cette sphère nous la retrouvons partout. Je vous parlais l’autre jour de PHILOLAOS : il admet la même sphère au centre d’un monde où la terre a une position excentrique. Déjà au temps de PYTHAGORE on le soupçonnait depuis très longtemps que la terre était excentrique, mais ce n’est pas le soleil qui occupe le centre, c’est un feu central sphérique à quoi, nous, la face de la terre habitée, nous tournons toujours le dos. Nous sommes par rapport à ce feu comme la lune est par rapport à notre terre et c’est pour cela que nous ne le sentons pas. Et il semble que ce soit pour que nous ne soyons pas, malgré tout, brûlés par *le rayonnement central*, que le dénommé PHILOLAOS a inventé - cette *élucubration* qui a fait casser la tête déjà aux gens de l’Antiquité, à ARISTOTE lui-même - ἀντίχθων \[anti-chtôn\] l’*anti-terre*.
 
 </div>
 
@@ -1759,7 +1759,7 @@ Si génial que fût GALILÉE, dans son invention de ce qu’on peut vraiment app
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0092">
 
-J’aurais à vous en dire là-dessus pendant des heures, parce que c’est quand même très amusant de considérer effectivement pourquoi il en est ainsi, à savoir : quelles sont vraiment les propriétés du *mouvement circulaire,* et pourquoi les Grecs en avaient fait *le symbole de la limite*, πεῖραρ \[peirar\] en tant qu’opposé à l’άπείρων \[apeirôn\][^82]. Chose curieuse, c’est justement parce que c’est une des choses les plus faites pour verser dans l’άπείρων \[apeirôn\]*,* c’est pour ça qu’il faudrait que je fasse un petit peu devant vous, *grossir*, *décroître*, *réduire à un point*, *s’infinitiser* cette *sphère*. Vous savez d’ailleurs qu’elle a servi de symbole courant à cette fameuse infinitude. Il y a beaucoup à dire. Pourquoi cette forme a-t-elle des *vertus* *privilégiées* ? Bien sûr, ceci nous plongerait au cœur des problèmes concernant la valeur et la fonction de l’intuition dans la construction mathématique.
+J’aurais à vous en dire là-dessus pendant des heures, parce que c’est quand même très amusant de considérer effectivement pourquoi il en est ainsi, à savoir : quelles sont vraiment les propriétés du *mouvement circulaire,* et pourquoi les Grecs en avaient fait *le symbole de la limite*, πεῖραρ \[peirar\] en tant qu’opposé à l’άπείρων \[apeirôn\][^82]. Chose curieuse, c’est justement parce que c’est une des choses les plus faites pour verser dans l’άπείρων \[apeirôn\], c’est pour ça qu’il faudrait que je fasse un petit peu devant vous, *grossir*, *décroître*, *réduire à un point*, *s’infinitiser* cette *sphère*. Vous savez d’ailleurs qu’elle a servi de symbole courant à cette fameuse infinitude. Il y a beaucoup à dire. Pourquoi cette forme a-t-elle des *vertus* *privilégiées* ? Bien sûr, ceci nous plongerait au cœur des problèmes concernant la valeur et la fonction de l’intuition dans la construction mathématique.
 
 </div>
 
@@ -2025,7 +2025,7 @@ C’est à ce point que nous reprendrons les choses la prochaine fois.
 
 <div class="original-paragraph" data-paragraph-id="s8-06-0106">
 
-**  **
+&nbsp;
 
 </div>
 
@@ -2038,7 +2038,7 @@ C’est à ce point que nous reprendrons les choses la prochaine fois.
 
 ## Notes
 
-[^63]: Cf. *Écrits*, p. 656*,* note 1, et aussi p. 408 : *La Chose parle d’elle-même*...
+[^63]: Cf. *Écrits*, p. 656, note 1, et aussi p. 408 : *La Chose parle d’elle-même*...
 
 
 [^64]: Cf. séance du 9-12-1959 où Lacan oppose « *die Sache »* à *« das Ding ».*
@@ -2051,7 +2051,7 @@ C’est à ce point que nous reprendrons les choses la prochaine fois.
 
     Koestler cite une définition de *theôria : « état de fervente contemplation religieuse dans lequel le spectateur s’identifie au dieu souffrant, meurt de sa mort et ressuscite de sa*
 
-    *nouvelle naissance* ». Arthur Koestler, *Les Somnambules,* Calmann-Lévy, 1960, p. 31*.*
+    *nouvelle naissance* ». Arthur Koestler, *Les Somnambules,* Calmann-Lévy, 1960, p. 31.
 
 
 [^67]: Cf. *La chose freudienne* : « *Moi la vérité, je parle* », in *Écrits*, p. 409.

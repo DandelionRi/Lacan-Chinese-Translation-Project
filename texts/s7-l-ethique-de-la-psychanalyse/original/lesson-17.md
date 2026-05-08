@@ -390,7 +390,7 @@ Je dis ceci pour insister sur le fait que l’œuvre de BERNFELD, ici fait sa te
 
 <!-- id: s7-17-0095 -->
 
-« *Lorsque* FREUD *-* poursuit BERNFELD *- assigne à l’organisme la tendance à s’efforcer vers des états stables, à atteindre des états de repos durable, et lorsqu’il désigne par l’expression de pulsion de mort l’agent exécutif de cette tendance, il semble donc que l’on ne soit pas mal fondé à escompter que les progrès de la biologie et de la physiologie apportent la preuve rigoureuse que cette tendance représente le cas particulier du principe de l’entropie pour les systèmes organiques.* »
+« *Lorsque* FREUD - poursuit BERNFELD *- assigne à l’organisme la tendance à s’efforcer vers des états stables, à atteindre des états de repos durable, et lorsqu’il désigne par l’expression de pulsion de mort l’agent exécutif de cette tendance, il semble donc que l’on ne soit pas mal fondé à escompter que les progrès de la biologie et de la physiologie apportent la preuve rigoureuse que cette tendance représente le cas particulier du principe de l’entropie pour les systèmes organiques.* »
 
 <!-- id: s7-17-0096 -->
 

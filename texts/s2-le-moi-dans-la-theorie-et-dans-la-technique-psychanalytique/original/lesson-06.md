@@ -164,7 +164,7 @@ Pourquoi l’appelle-t-il « *instinct de mort »* ? On a l’impression, quan
 
 <!-- id: s2-06-0040 -->
 
-Octave MANNONI *-* Il aurait mieux fait de l’appeler anti-instinct.
+Octave MANNONI - Il aurait mieux fait de l’appeler anti-instinct.
 
 <!-- id: s2-06-0041 -->
 
@@ -188,7 +188,7 @@ C’est une prodigieuse énigme « *le retour à la matière* », et un peu va
 
 <!-- id: s2-06-0046 -->
 
-LACAN *-* Quelqu’un a-t-il quelque chose d’autre ?
+LACAN - Quelqu’un a-t-il quelque chose d’autre ?
 
 <!-- id: s2-06-0047 -->
 
@@ -264,7 +264,7 @@ Et se repose également du même coup la troisième question que je posai hier s
 
 <!-- id: s2-06-0065 -->
 
-> « *Qu’y a-t-il de nouveau -si nous les met­tons sur le même plan, au même niveau, au même registre - de* HEGEL *à* FREUD *?* »
+> « *Qu’y a-t-il de nouveau -si nous les met­tons sur le même plan, au même niveau, au même registre - de* HEGEL *à* FREUD ? »
 
 <!-- id: s2-06-0066 -->
 
@@ -352,7 +352,7 @@ C’est-à-dire que cela met en question un point tout à fait tranchant, un ver
 
 <!-- id: s2-06-0086 -->
 
-« *L’homme* *-* nous dit-on *-* *est la mesure de toute chose* ». \[Protagoras\]
+« *L’homme* - nous dit-on - *est la mesure de toute chose* ». \[Protagoras\]
 
 <!-- id: s2-06-0087 -->
 
@@ -412,7 +412,7 @@ Les platitudes ont aussi leur grandeur, il y a des platitudes à perte de vue. J
 
 <!-- id: s2-06-0101 -->
 
-Jean HYPPOLITE *-* C’est pour ça que je l’aime, parce qu’il n’est pas à ce niveau : il y a quelque chose de bien énigmatique.
+Jean HYPPOLITE - C’est pour ça que je l’aime, parce qu’il n’est pas à ce niveau : il y a quelque chose de bien énigmatique.
 
 <!-- id: s2-06-0102 -->
 
@@ -536,7 +536,7 @@ LACAN - Quand même, ce *savoir absolu* dans HEGEL même s’incarne dans un dis
 
 <!-- id: s2-06-0132 -->
 
-Jean HYPPOLITE *-* Oui, oui !
+Jean HYPPOLITE - Oui, oui !
 
 <!-- id: s2-06-0133 -->
 
@@ -696,7 +696,7 @@ Il y avait donc des horloges. Elles n’étaient pas encore bien miraculeuses, p
 
 <!-- id: s2-06-0170 -->
 
-Et c’est de là, il suffira d’ouvrir un certain livre qui s’appelle *[De l’homme](http://gallica.bnf.fr/ark:/12148/btv1b86015188.r=Ren%C3%A9+Descartes+de+l%E2%80%99homme.langFR)* [^4]*,* dont je ne sau­rais trop vous conseiller la lecture, il faut l’avoir avec les figures, ça doit faire une assez modeste somme, vous aurez « *De l’homme »* pour pas cher, ce n’est pas un ouvrage des plus estimés, et ça c’est moins cher que le *« Discours de la méthode »* cher aux dentistes, ça vaut la peine de le feuilleter et de bien contrôler que ce que DESCARTES cherche dans l’homme, c’est l’horloge.
+Et c’est de là, il suffira d’ouvrir un certain livre qui s’appelle *[De l’homme](http://gallica.bnf.fr/ark:/12148/btv1b86015188.r=Ren%C3%A9+Descartes+de+l%E2%80%99homme.langFR)* [^4], dont je ne sau­rais trop vous conseiller la lecture, il faut l’avoir avec les figures, ça doit faire une assez modeste somme, vous aurez « *De l’homme »* pour pas cher, ce n’est pas un ouvrage des plus estimés, et ça c’est moins cher que le *« Discours de la méthode »* cher aux dentistes, ça vaut la peine de le feuilleter et de bien contrôler que ce que DESCARTES cherche dans l’homme, c’est l’horloge.
 
 <!-- id: s2-06-0171 -->
 
@@ -816,7 +816,7 @@ Et en essayant de faire cette théorie du fonctionnement du système nerveux, il
 
 <!-- id: s2-06-0200 -->
 
-> je demande à ANZIEU de regarder les *drafts* \[brouillons\] dont je parle* *: *l’Ébauche d’une psychologie,*
+> je demande à ANZIEU de regarder les *drafts* \[brouillons\] dont je parle: *l’Ébauche d’une psychologie,*
 >
 > et de nous faire un compte rendu. Il nous mon­trera cette chose massive : que tout vient aboutir sur le rêve
 
@@ -847,6 +847,7 @@ Ceci bien entendu, au point où je suis arrivé aujourd’hui, je ne peux pas vo
 <!-- id: s2-06-0207 -->
 
 Je vous indique tout de suite, pour quand même ne pas vous laisser complè­tement sur une énigme, que c’est dans ce qu’on appelle de nos jours l’élabora­tion de la dialectique de la communication, telle qu’elle vient au jour, se révèle sur tous les plans dans la science humaine moderne, avec une confusion, comme chaque fois que les choses apparaissent totales et parfaites, mais où nous essaie­rons, avec nos boussoles, et spécialement *la boussole freudienne*, de nous repé­rer.
+
 ## Notes
 
 [^2]: Cf. Jean Hyppolite : « *Phénoménologie de Hegel et psychanalyse* », in *La Psychanalyse* n° 3, PUF 1957, pp. 17-32.

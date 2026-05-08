@@ -438,7 +438,7 @@ Il y a en tout cas une chose certaine, c’est qu’il n’y a pas de psychanaly
 
 <!-- id: s15-09-0108 -->
 
-Le terme de *travail* n’en a jamais été un seul instant *exclu* : dès l’origine de la psychanalyse, le *Durcharbeiten,* le *working*-*through*, c’est bien là la caractéristique à laquelle il faut bien nous référer pour en admettre l’aridité, la sécheresse, le détour, voire parfois l’incertitude de ses bords.
+Le terme de *travail* n’en a jamais été un seul instant *exclu* : dès l’origine de la psychanalyse, le *Durcharbeiten,* le *working-through*, c’est bien là la caractéristique à laquelle il faut bien nous référer pour en admettre l’aridité, la sécheresse, le détour, voire parfois l’incertitude de ses bords.
 
 <!-- id: s15-09-0109 -->
 
@@ -584,7 +584,7 @@ Je vais poursuivre dans quinze jours… au nom même de vacances qu’on donne a
 
     *les négatives particulières*, notées O (quelques hommes ne sont pas peintres).
 
-    Un moyen mnémotechnique pour se souvenir des lettres A, E, I, O : **A**ff**I**rmo , n**E**g**O** (j’affirme et je nie) du carré logique médiéval.
+    Un moyen mnémotechnique pour se souvenir des lettres A, E, I, O : **AffIrmo , nEgO** (j’affirme et je nie) du carré logique médiéval.
 
 
 [^66]: Charles Sanders Peirce : *Collected Papers of Ch. S. Peirce*, vol. II : *Elements of logic*, Book III, chap. I : « *The aristotelician syllogystic* », Cambridge, Massachussets,

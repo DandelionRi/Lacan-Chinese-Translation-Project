@@ -46,7 +46,7 @@ Et pour obtenir cette punition recherchée par *une faute*, nous ne sommes que r
 
 <!-- id: s7-01-0011 -->
 
-- Est-ce la faute plus obscure et plus originelle dont il arrive à poser le terme à la fin de son œuvre* *: *l’instinct de mort*, pour tout dire, pour autant que *l’homme* est, au plus profond de lui-même, ancré dans sa redoutable dialectique ?
+- Est-ce la faute plus obscure et plus originelle dont il arrive à poser le terme à la fin de son œuvre: *l’instinct de mort*, pour tout dire, pour autant que *l’homme* est, au plus profond de lui-même, ancré dans sa redoutable dialectique ?
 
 <!-- id: s7-01-0012 -->
 

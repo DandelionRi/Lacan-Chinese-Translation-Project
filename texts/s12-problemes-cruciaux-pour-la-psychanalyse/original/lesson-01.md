@@ -328,7 +328,7 @@ Et dans cet exercice, *je me suis aperçu de quelque chose* : qu’entre chaque
 
 <!-- id: s12-01-0080 -->
 
-*Colorless... green... ideas... sleep... furiously*. Pourquoi est-ce qu’il faut que je reprenne souffle ? Est-ce que vous avez remarqué que sinon ça fait *ss’gr*… *idea(s’s)leep* : un « *s* » s’enchaîne avec un « *s* », et après ça : *p’furiously*. \[colorle**ss** **gr**een ideas slee**p** **f**uriously.\]
+*Colorless... green... ideas... sleep... furiously*. Pourquoi est-ce qu’il faut que je reprenne souffle ? Est-ce que vous avez remarqué que sinon ça fait *ss’gr*… *idea(s’s)leep* : un « *s* » s’enchaîne avec un « *s* », et après ça : *p’furiously*. \[colorless green ideas sleep furiously.\]
 
 <!-- id: s12-01-0081 -->
 
@@ -336,11 +336,11 @@ Alors j’ai commencé à m’intéresser aux consonnes. Il y a une chose qu’o
 
 <!-- id: s12-01-0082 -->
 
-Et m’apercevant, *faisant le compte de ces consonnes* : le C, les 2 L de *colorless*, le G de *green*, le N, un 3<sup>ème</sup> L, un 4<sup>ème</sup> L, \[**c**o**l**or**l**ess **g**ree**n** ideas s**l**eep furious**l**y.\] il m’est venu à l’esprit ces vers, que j’espère vous adorez autant que moi, qui sont écrits au bas du tableau, et qui emploient très précisément la batterie consonnantique de la phrase forgée : « *Songe, songe, Céphise à cette nuit cruelle qui fut pour tout un peuple une nuit éternelle.* »
+Et m’apercevant, *faisant le compte de ces consonnes* : le C, les 2 L de *colorless*, le G de *green*, le N, un 3<sup>ème</sup> L, un 4<sup>ème</sup> L, \[colorless green ideas sleep furiously.\] il m’est venu à l’esprit ces vers, que j’espère vous adorez autant que moi, qui sont écrits au bas du tableau, et qui emploient très précisément la batterie consonnantique de la phrase forgée : « *Songe, songe, Céphise à cette nuit cruelle qui fut pour tout un peuple une nuit éternelle.* »
 
 <!-- id: s12-01-0083 -->
 
-\[**<u>S</u>**on**ge**, **<u>s</u>**on**ge**, **<u>C</u>**é**phi**se, à ce**tt**e nuit cruelle qui **fut** pour **t**ou**t** un peuple une nuit é**t**ernelle.\]
+\[<u>S</u>onge, <u>s</u>onge, <u>C</u>éphise, à cette nuit cruelle qui **fut** pour **tout** un peuple une nuit éternelle.\]
 
 <!-- id: s12-01-0084 -->
 
@@ -348,15 +348,15 @@ Je ferai facilement le travail inverse de ce que j’ai fait tout à l’heure, 
 
 <!-- id: s12-01-0085 -->
 
-- dans la répercussion d’abord, dans *la répétition de ces quatre* « s » sifflants qui sont soulignés au tableau, \[**S**onge, **s**onge, **C**éphi**se**...\]
+- dans la répercussion d’abord, dans *la répétition de ces quatre* « s » sifflants qui sont soulignés au tableau, \[<u>S</u>onge, <u>s</u>onge, <u>C</u>éphise...\]
 
 <!-- id: s12-01-0086 -->
 
-- dans la répercussion de « Cé**ph**ise » dans « **f**ut » de la seconde ligne,
+- dans la répercussion de « Céphise » dans « **fut** » de la seconde ligne,
 
 <!-- id: s12-01-0087 -->
 
-- à la répercussion du « *t* » quatre fois, du « *n* » de nuit deux fois, de la labiale primitive « *f * » promue dans sa valeur atténuée du « *fut* » et de « *Céphise* »,
+- à la répercussion du « *t* » quatre fois, du « *n* » de nuit deux fois, de la labiale primitive « *f* » promue dans sa valeur atténuée du « *fut* » et de « *Céphise* »,
 
 <!-- id: s12-01-0088 -->
 
@@ -376,7 +376,7 @@ Car à un certain niveau les exigences du sens sont peut–être différentes de
 
 <!-- id: s12-01-0092 -->
 
-Voilà par quoi je me suis décidé à introduire cette idée, histoire de vous en donner le ton : ce que j’appelle « *Problèmes cruciaux pour la psychanalyse* »*.*J’ai parlé l’année dernière des *Fondements de la psychanalyse.*
+Voilà par quoi je me suis décidé à introduire cette idée, histoire de vous en donner le ton : ce que j’appelle « *Problèmes cruciaux pour la psychanalyse* ».J’ai parlé l’année dernière des *Fondements de la psychanalyse.*
 
 <!-- id: s12-01-0093 -->
 
@@ -804,7 +804,7 @@ Avec la paille de la misère pourrissant dans l’acier des canons.
     *épamphithète = adjectif en apposition.*
 
 
-[^7]: Richard Brinsley Butler Sheridan (1751-1816) : *L'école de la médisance*,*The School for scandal*, Aubier, Montaigne 1993, bilingue, acte II, sc.1.
+[^7]: Richard Brinsley Butler Sheridan (1751-1816) : *L'école de la médisance,The School for scandal*, Aubier, Montaigne 1993, bilingue, acte II, sc.1.
 
 
 [^8]: Alfred Tennyson (1809-1892), poète et auteur dramatique anglais.

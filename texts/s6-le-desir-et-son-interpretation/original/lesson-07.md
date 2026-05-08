@@ -62,7 +62,7 @@ Il est en effet clair que :
 
 <!-- id: s6-07-0015 -->
 
-- Et c’est ce pourquoi le rapport du désir au fantasme s’exprime ici \[*d*<sub>→</sub> S**◊***a*)\] dans ce champ intermédiaire entre *les deux lignes structurales* de toute énoncia­tion signifiante \[*entre* *s*(A)<sub>→</sub> A *et* S(A)<sub>→</sub> S**◊**D)\].
+- Et c’est ce pourquoi le rapport du désir au fantasme s’exprime ici \[*d*<sub>→</sub> S◊*a*)\] dans ce champ intermédiaire entre *les deux lignes structurales* de toute énoncia­tion signifiante \[*entre* *s*(A)<sub>→</sub> A *et* S(A)<sub>→</sub> S◊D)\].
 
 <!-- id: s6-07-0016 -->
 
@@ -230,7 +230,7 @@ La tension *a*–*a’*, ce qu’on peut encore sous certains rapports appeler l
 
 <!-- id: s6-07-0057 -->
 
-C’est justement l’*absent* qui comme étant caractéristique du rapport du désir sur le rapport du sujet S, avec les fonctions imaginaires, qui est exprimé dans la for­mule S **◊** *a*, en ce sens que *le désir* comme tel, et par rapport à tout objet pos­sible pour l’homme, pose pour lui la question de son élision subjective.
+C’est justement l’*absent* qui comme étant caractéristique du rapport du désir sur le rapport du sujet S, avec les fonctions imaginaires, qui est exprimé dans la for­mule S ◊ *a*, en ce sens que *le désir* comme tel, et par rapport à tout objet pos­sible pour l’homme, pose pour lui la question de son élision subjective.
 
 <!-- id: s6-07-0058 -->
 
@@ -454,7 +454,7 @@ Mais par contre, respecter, viser, explorer, utiliser ce que déjà on exprime *
 
 <!-- id: s6-07-0112 -->
 
-Et ceci est d’autant plus important à considérer qu’il faut considérer que c’est précisément là, en ce lieu même, que doit se produire ce que nous appelons si aisément « *l’objet achevé* », « *la maturation génitale* », autrement dit tout ce qui constituera - comme s’exprime quelque part *bibliquement* M. JONES - les rapports de l’homme et de la femme, se trouvera - du fait que l’homme est un sujet parlant - marqué des difficultés structurelles qui sont celles qui s’expriment dans ce rapport du S avec le *(a)* \[S**◊***a*\]. Pourquoi ?
+Et ceci est d’autant plus important à considérer qu’il faut considérer que c’est précisément là, en ce lieu même, que doit se produire ce que nous appelons si aisément « *l’objet achevé* », « *la maturation génitale* », autrement dit tout ce qui constituera - comme s’exprime quelque part *bibliquement* M. JONES - les rapports de l’homme et de la femme, se trouvera - du fait que l’homme est un sujet parlant - marqué des difficultés structurelles qui sont celles qui s’expriment dans ce rapport du S avec le *(a)* \[S◊*a*\]. Pourquoi ?
 
 <!-- id: s6-07-0113 -->
 
@@ -528,7 +528,7 @@ Reprenons maintenant, après ces indications générales, le cheminement dans le
 
 <!-- id: s6-07-0130 -->
 
-Prenons un fantasme, le plus banal, le plus commun, celui que FREUD lui-même a étudié, auquel il a accordé une attention spéciale, *le fantasme* « *On bat un enfant* »*.*
+Prenons un fantasme, le plus banal, le plus commun, celui que FREUD lui-même a étudié, auquel il a accordé une attention spéciale, *le fantasme* « *On bat un enfant* ».
 
 <!-- id: s6-07-0131 -->
 
@@ -692,11 +692,11 @@ Suspendons-nous un instant sur ce moment tiers, au point où le sujet a trouvé.
 
 <!-- id: s6-07-0170 -->
 
-Dans le fantasme *On bat un enfant* qu’est-ce qu’il y a ? ce qui bat, c’est « *on* »*,* c’est tout à fait clair, et FREUD y insiste. Il n’y a rien à faire, on lui dit : mais qui bat ? C’est un tel ou un tel ? Le sujet est vraiment évasif. Ce n’est qu’après une certaine *éla­boration* interprétative - quand on aura retrouvé la première phase - qu’on pourra y retrouver une certaine figure ou image paternelle sous cette forme, la forme où le sujet a trouvé son fantasme, en tant que son fantasme sert de support à son désir, à l’accomplissement masturbatoire.
+Dans le fantasme *On bat un enfant* qu’est-ce qu’il y a ? ce qui bat, c’est « *on* », c’est tout à fait clair, et FREUD y insiste. Il n’y a rien à faire, on lui dit : mais qui bat ? C’est un tel ou un tel ? Le sujet est vraiment évasif. Ce n’est qu’après une certaine *éla­boration* interprétative - quand on aura retrouvé la première phase - qu’on pourra y retrouver une certaine figure ou image paternelle sous cette forme, la forme où le sujet a trouvé son fantasme, en tant que son fantasme sert de support à son désir, à l’accomplissement masturbatoire.
 
 <!-- id: s6-07-0171 -->
 
-À ce moment là, le sujet est parfaitement neutralisé. Il est « *on* »*.* Et quant à ce qui est tant battu, ce n’est pas moins difficile à saisir, c’est multiple : *immer nur Buben,* beaucoup d’enfants, des garçons, *nur Mädel* quand il s’agit de la fille, mais pas forcément avec un rapport obligatoire entre le sexe de l’enfant qui fantasme et le sexe de l’image fantasmée.
+À ce moment là, le sujet est parfaitement neutralisé. Il est « *on* ». Et quant à ce qui est tant battu, ce n’est pas moins difficile à saisir, c’est multiple : *immer nur Buben,* beaucoup d’enfants, des garçons, *nur Mädel* quand il s’agit de la fille, mais pas forcément avec un rapport obligatoire entre le sexe de l’enfant qui fantasme et le sexe de l’image fantasmée.
 
 <!-- id: s6-07-0172 -->
 
@@ -882,7 +882,7 @@ Le rapport, l’inter-jeu entre les différents éléments imaginaires et les é
 
 <!-- id: s6-07-0217 -->
 
-Il donne quelque part le schéma des lentilles successives dans lesquelles se réfracte le pas­sage progressif de l’inconscient au préconscient qu’il cherchait dans des réfé­rences analogues - optiques - dit-il précisément. Elles représentent effectivement ce quelque chose qui, dans *le fantasme*, essaye de rejoindre sa place dans *le symbolique*. Ceci par conséquent fait de S**,** autre chose qu’un œil, ce n’est qu’une métaphore. S’il désigne qu’il veut rejoindre sa place dans le *symbolique*, c’est d’une façon *spéculaire*, à savoir par rapport à l’Autre qui, ici, est le grand A. Ce miroir n’est qu’un *miroir symbo­lique*, il ne s’agit pas du miroir devant lequel le petit enfant s’agite.
+Il donne quelque part le schéma des lentilles successives dans lesquelles se réfracte le pas­sage progressif de l’inconscient au préconscient qu’il cherchait dans des réfé­rences analogues - optiques - dit-il précisément. Elles représentent effectivement ce quelque chose qui, dans *le fantasme*, essaye de rejoindre sa place dans *le symbolique*. Ceci par conséquent fait de S, autre chose qu’un œil, ce n’est qu’une métaphore. S’il désigne qu’il veut rejoindre sa place dans le *symbolique*, c’est d’une façon *spéculaire*, à savoir par rapport à l’Autre qui, ici, est le grand A. Ce miroir n’est qu’un *miroir symbo­lique*, il ne s’agit pas du miroir devant lequel le petit enfant s’agite.
 
 <!-- id: s6-07-0218 -->
 

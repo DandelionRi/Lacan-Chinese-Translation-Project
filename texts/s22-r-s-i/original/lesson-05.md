@@ -352,7 +352,7 @@ Sans le *petit (a)*, quelque chose manque à toute théorie possible d’au­cun
 
 <!-- id: s22-05-0087 -->
 
-> *c’est sa condition de n’être que supposable* *...ne connaît quelque chose que d’être lui-même*, en tant que sujet, *causé par un « objet » qui n’est pas* *ce qu’il connaît*, ce qu’il imagine connaître, c’est-à­-dire *qui n’est pas l’Autre comme tel de la connaissance*, *mais qui au contraire - cet « objet », l’objet petit (a) - le raye, cet Autre*.
+> *c’est sa condition de n’être que supposable...ne connaît quelque chose que d’être lui-même*, en tant que sujet, *causé par un « objet » qui n’est pas* *ce qu’il connaît*, ce qu’il imagine connaître, c’est-à­-dire *qui n’est pas l’Autre comme tel de la connaissance*, *mais qui au contraire - cet « objet », l’objet petit (a) - le raye, cet Autre*.
 
 <!-- id: s22-05-0088 -->
 
@@ -368,7 +368,7 @@ L’Autre est ainsi...
 
 <!-- id: s22-05-0091 -->
 
-- et dont l’autre... qu’allons-nous en dire : est-ce *l’Un* du signifiant *?*
+- et dont l’autre... qu’allons-nous en dire : est-ce *l’Un* du signifiant ?
 
 <!-- id: s22-05-0092 -->
 
@@ -544,7 +544,7 @@ C’est à voir, au regard de ce champ où je situe ici *l’inconscient*, c’e
 
 <!-- id: s22-05-0135 -->
 
-- celle qui ici se note d’un bord que j’ai fait bord de page, 
+- celle qui ici se note d’un bord que j’ai fait bord de page,
 
 <!-- id: s22-05-0136 -->
 

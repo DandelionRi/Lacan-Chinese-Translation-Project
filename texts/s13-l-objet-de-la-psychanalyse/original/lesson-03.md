@@ -30,11 +30,11 @@ Je le note parce que, à la différence de cette réserve que je viens de faire,
 
 <!-- id: s13-03-0007 -->
 
-- « *coupures* »  c’est plus près, 
+- « *coupures* »  c’est plus près,
 
 <!-- id: s13-03-0008 -->
 
-- « *signifiants* » c’est ce dont il s’agit, 
+- « *signifiants* » c’est ce dont il s’agit,
 
 <!-- id: s13-03-0009 -->
 
@@ -124,7 +124,7 @@ Ceci est écrit en caractère chinois, je vous le prononcerai, non pas en Japona
 
 <!-- id: s13-03-0029 -->
 
-*Sān* *qiān* *nián* *dài* *jī* *rén* *zhī* 
+*Sān* *qiān* *nián* *dài* *jī* *rén* *zhī*
 
 <!-- id: s13-03-0030 -->
 
@@ -318,7 +318,7 @@ Croyez-moi, à l’heure matinale où il m’arrive de rentrer chez moi, j’ai 
 
 <!-- id: s13-03-0077 -->
 
-Pour revenir à nos Chinois vous savez - *je ne sais pas si c’est vrai mais c’est édifiant* - qu’on n’y met jamais à la poubelle un papier sur lequel a été tracé un caractère. Des gens, *pieux vieillards dit-on,* parce qu’ils n’ont rien d’autre à faire, les collectent pour les brûler sur *un petit autel* *ad hoc*. C’est vrai. *Si non e vero, e bello !* 
+Pour revenir à nos Chinois vous savez - *je ne sais pas si c’est vrai mais c’est édifiant* - qu’on n’y met jamais à la poubelle un papier sur lequel a été tracé un caractère. Des gens, *pieux vieillards dit-on,* parce qu’ils n’ont rien d’autre à faire, les collectent pour les brûler sur *un petit autel* *ad hoc*. C’est vrai. *Si non e vero, e bello !*
 
 <!-- id: s13-03-0078 -->
 

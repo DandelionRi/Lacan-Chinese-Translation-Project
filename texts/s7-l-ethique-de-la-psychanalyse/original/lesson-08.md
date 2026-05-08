@@ -230,7 +230,7 @@ Ils aboutissent - je dois l’indiquer tout de suite, je crois avoir le temps de
 
 <!-- id: s7-08-0056 -->
 
-Je vous y mènerai, en vous priant de vous y arrêter avec moi aux articles spécialement d’Ella SHARPE, dont je suis loin de faire petit état : « *Certains aspects de la sublimation et du délire »* et l’autre article : « *Déterminants inconscients semblables et divergents sous-jacents aux sublimations de l’art pur et de la science pure »* [^23]*.* Cela n’est certes pas un article à la lecture duquel vous perdrez, mais qui je crois, confirmera l’espèce de *réduction* à quoi est amené le problème de *la sublimation* comme tel dans cette direction, cette perspective, et ce que j’ai appelé une certaine puérilité des prétendus résultats qui sont obtenus par cette voie.
+Je vous y mènerai, en vous priant de vous y arrêter avec moi aux articles spécialement d’Ella SHARPE, dont je suis loin de faire petit état : « *Certains aspects de la sublimation et du délire »* et l’autre article : « *Déterminants inconscients semblables et divergents sous-jacents aux sublimations de l’art pur et de la science pure »* [^23]. Cela n’est certes pas un article à la lecture duquel vous perdrez, mais qui je crois, confirmera l’espèce de *réduction* à quoi est amené le problème de *la sublimation* comme tel dans cette direction, cette perspective, et ce que j’ai appelé une certaine puérilité des prétendus résultats qui sont obtenus par cette voie.
 
 <!-- id: s7-08-0057 -->
 

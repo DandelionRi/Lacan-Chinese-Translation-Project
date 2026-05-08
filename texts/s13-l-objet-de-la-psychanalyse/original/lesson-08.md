@@ -86,7 +86,7 @@ Je crois qu’au centre de la préoccupation de CONTÉ, à propos des deux artic
 
 <!-- id: s13-08-0021 -->
 
-- et la deuxième : «** ***Le patient et l’analyste tendent à être tous deux en un, en lequel est tout.* »
+- et la deuxième : « *Le patient et l’analyste tendent à être tous deux en un, en lequel est tout.* »
 
 <!-- id: s13-08-0022 -->
 
@@ -186,7 +186,7 @@ Ne l’oublions pas. Nous n’avons pas à étudier spécialement cette prédica
 
 <!-- id: s13-08-0045 -->
 
-Il faut distinguer ce que nous en disons, des paroles qui se sont dites. Je ne veux rien dire d’autre. « *Ça parle en la séance.* », c’est notre discours sur la parole qui, dans la séance était prononcé. *Nous avons donc à nous demander :  Qui parlait ? Qui parle ?* 
+Il faut distinguer ce que nous en disons, des paroles qui se sont dites. Je ne veux rien dire d’autre. « *Ça parle en la séance.* », c’est notre discours sur la parole qui, dans la séance était prononcé. *Nous avons donc à nous demander :  Qui parlait ? Qui parle ?*
 
 <!-- id: s13-08-0046 -->
 

@@ -393,7 +393,7 @@ Par contre, CAILLOIS met en relief les trois termes qui sont effective­ment les
 <!-- id: s11-08-0073 -->
 
 Je répète : *travesti, camouflage, intimidation. C’est dans ce domaine, en effet, que se présente la dimension par où le sujet a à s’insérer dans le tableau.*
-*Il donne à voir quelque chose en tant que ce quelque chose est distinct de ce qu’on pourrait appeler « un lui*-*même » qui est derrière.*
+*Il donne à voir quelque chose en tant que ce quelque chose est distinct de ce qu’on pourrait appeler « un lui-même » qui est derrière.*
 
 <!-- id: s11-08-0074 -->
 
@@ -410,7 +410,7 @@ il convient de suspendre les décisions de notre esprit avant que d’en avoir b
 
 Enfin le phénomène dit de *l’intimida­tion* comporte, lui aussi, toujours cette sur-value que le sujet essaie d’at­teindre dans son apparence, mais dont, là aussi, il convient de ne pas voir trop vite l’effet comme comportant, disons le mot, une *intersubjectivité*.
 Chaque fois qu’il s’agit de l’*imitation*, gardons-nous de trop vite penser à l’autre qui serait soi-disant *imité*.
-*Ce que le sujet imite fonciè­rement dans l’imitation, c’est une certaine fonction qu’il tend à donner de lui*-*même*.
+*Ce que le sujet imite fonciè­rement dans l’imitation, c’est une certaine fonction qu’il tend à donner de lui-même*.
 
 <!-- id: s11-08-0077 -->
 
@@ -455,7 +455,7 @@ que vous aurez le sentiment de *la présence du regard*.
 
 <!-- id: s11-08-0084 -->
 
-Mais ce n’est là qu’objet de recherche et après tout qu’illusion, peut-être. La fonction du tableau, par rapport à *celui à qui le peintre*, littéra­lement, *donne à voir son tableau, a un rapport avec le regard*. *Ce rapport n’est pas*, comme il semblerait à une première appréhension, d’être « *piège à regard »*. On pourrait croire que tel l’acteur, le peintre vise au « *m’as*-*tu vu* » et *désire être regardé*. Je ne le crois pas.
+Mais ce n’est là qu’objet de recherche et après tout qu’illusion, peut-être. La fonction du tableau, par rapport à *celui à qui le peintre*, littéra­lement, *donne à voir son tableau, a un rapport avec le regard*. *Ce rapport n’est pas*, comme il semblerait à une première appréhension, d’être « *piège à regard »*. On pourrait croire que tel l’acteur, le peintre vise au « *m’as-tu vu* » et *désire être regardé*. Je ne le crois pas.
 
 <!-- id: s11-08-0085 -->
 
@@ -533,12 +533,12 @@ Quand dans l’apologue antique, concernant [ZEUXIS](http://fr.wikipedia.org/wik
 
 <!-- id: s11-08-0100 -->
 
-> « *Alors et maintenant, montre*-*nous - toi - ce que tu as fait derrière ça.*[^51] »
+> « *Alors et maintenant, montre-nous - toi - ce que tu as fait derrière ça.*[^51] »
 
 <!-- id: s11-08-0101 -->
 
 En quoi il est montré que ce dont il s’agit, c’est bien de tromper l’œil, non pas par l’apparence, mais que *c’est par ce qui est donné*
-*à supposer au*-*delà de cette apparence, qu’est le triomphe sur l’œil du regard*.
+*à supposer au-delà de cette apparence, qu’est le triomphe sur l’œil du regard*.
 
 <!-- id: s11-08-0102 -->
 
@@ -559,6 +559,7 @@ Sur cette fonction de l’œil et du regard, nous poursuivrons notre che­min la
 <!-- id: s11-08-0106 -->
 
 <img src="assets/image20.jpeg" style="width:3.14519in;height:2.45688in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S11B\Illustrations\vanitasc.jpg" /> <img src="assets/image21.jpeg" style="width:2.88573in;height:2.45902in" alt="C:\Users\ALAIN\LACAN séminaires\Ressources\Doc S11B\Illustrations\vanitasb.jpg" />
+
 ## Notes
 
 [^50]: [Alain : *Éléments de philosophie*](http://classiques.uqac.ca/classiques/Alain/elements_de_philo/alain_element_de_philo.pdf), Folio-Essais, p. 32-33.

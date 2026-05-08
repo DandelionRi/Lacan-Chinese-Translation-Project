@@ -24,7 +24,7 @@ FLIESS, *le fils du correspondant de* FREUD qui occupe une place honorable, a fa
 <!-- id: s4-23-0004 -->
 
 Manifestement dans Hans, comme il y a des énigmes qui ne sont pas résolues, il s’efforce de les résoudre en apportant en effet au dossier toute une énorme extrapolation qui n’a que le désavantage tout à fait injustifié de supposer résolu
-justement ce qui ne l’est pas. C’est une des choses les plus frappantes que de voir la façon dont il centre les choses d’une façon tout à fait valable sur le fameux dialogue entre le petit Hans et son père, ce que j’appelle « *le grand dialogue* »*,* celui qui culmine quelque part du côté du [21 Avril](#April_21), celui où il s’agit en somme du petit Hans qui lit­téralement invoque son père en lui disant
+justement ce qui ne l’est pas. C’est une des choses les plus frappantes que de voir la façon dont il centre les choses d’une façon tout à fait valable sur le fameux dialogue entre le petit Hans et son père, ce que j’appelle « *le grand dialogue* », celui qui culmine quelque part du côté du [21 Avril](#April_21), celui où il s’agit en somme du petit Hans qui lit­téralement invoque son père en lui disant
 
 <!-- id: s4-23-0005 -->
 
@@ -50,7 +50,7 @@ le fantasme suivant qui est celui d’imaginer que son père vient dans la chamb
 
 Notre auteur insiste avec beaucoup de finesse sur l’usage des mots qui donnent une espèce de style plus « *soutenu* »
 que partout ailleurs, à ce que dit le petit Hans, et dégage bien à ce sujet les insuffisances de la traduction anglaise.
-Ce qui est intéressant, ce ne sont pas tellement ces remarques, qui assurément ont leur valeur, et qui montrent la sensibilité conservée chez les gens de la première génération - si je puis dire - analytique, au relief proprement verbal, à l’accent de certains signifiants, et à leur rôle essentiel, mais ce qui est inté­ressant, c’est évidemment aussi de voir à propos d’une spéculation assez fine sur le rôle du père dans cette occasion, l’intervention du père qui lui–même introduit, et dit-il à juste titre, pour la première fois un mot : « *schimpf*** **» \[schimfen : gronder\] à propos de quoi on traduit : « *Est-ce que je te querelle ? Est-ce que je t’ennuie ?* ».
+Ce qui est intéressant, ce ne sont pas tellement ces remarques, qui assurément ont leur valeur, et qui montrent la sensibilité conservée chez les gens de la première génération - si je puis dire - analytique, au relief proprement verbal, à l’accent de certains signifiants, et à leur rôle essentiel, mais ce qui est inté­ressant, c’est évidemment aussi de voir à propos d’une spéculation assez fine sur le rôle du père dans cette occasion, l’intervention du père qui lui–même introduit, et dit-il à juste titre, pour la première fois un mot : « *schimpf* » \[schimfen : gronder\] à propos de quoi on traduit : « *Est-ce que je te querelle ? Est-ce que je t’ennuie ?* ».
 
 <!-- id: s4-23-0009 -->
 

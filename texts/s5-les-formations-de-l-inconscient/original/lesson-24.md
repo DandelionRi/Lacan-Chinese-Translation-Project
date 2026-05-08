@@ -105,7 +105,7 @@ celle du rapport entre *l’amour pour un objet* et *l’identification* fonciè
 <!-- id: s5-24-0019 -->
 
 Ici, FREUD introduit de la façon la plus claire la distinction et l’opposition qui est celle qu’à la fin d’un de nos derniers séminaires dans lequel j’avais fait allusion au problème de la relation au *phallus* : l’opposition, en somme,
-de *l’être* et de *l’avoir.* C’est ainsi qu’il articule la différence qu’il y a entre* *:
+de *l’être* et de *l’avoir.* C’est ainsi qu’il articule la différence qu’il y a entre:
 
 <!-- id: s5-24-0020 -->
 
@@ -436,7 +436,7 @@ de mon discours dans toute mon existence, puisqu’elle est l’horizon de mes d
 
 <!-- id: s5-24-0088 -->
 
-Ce qui pose juste­ment la question de *savoir ce que veut dire ce* S*,* mais à ce niveau. Autrement dit, de quel *sujet* s’agit-il ?
+Ce qui pose juste­ment la question de *savoir ce que veut dire ce* S, mais à ce niveau. Autrement dit, de quel *sujet* s’agit-il ?
 Il n’y a pas lieu de s’étonner que ceci ne constitue jamais qu’un horizon, à savoir que tout le problème est de savoir
 
 <!-- id: s5-24-0089 -->
@@ -510,7 +510,7 @@ Mais très précisément, la valeur que FREUD dans cer­tains textes lui donne. 
 
 <!-- id: s5-24-0101 -->
 
-\[résistance de transfert\]*,* c’est parce qu’elle est la même chose que le transfert - le transfert au sens où je vous le dis pour l’instant*,* où sans doute ce qu’il s’agit de maintenir c’est l’autre ligne, *la ligne du transfert*, où la ligne de l’articulation
+\[résistance de transfert\], c’est parce qu’elle est la même chose que le transfert - le transfert au sens où je vous le dis pour l’instant, où sans doute ce qu’il s’agit de maintenir c’est l’autre ligne, *la ligne du transfert*, où la ligne de l’articulation
 a une autre exigence que celle que nous lui donnons immé­diatement, en réponse à la demande.
 
 <!-- id: s5-24-0102 -->
@@ -558,7 +558,7 @@ Voilà comment FREUD le situe.
 <!-- id: s5-24-0110 -->
 
 Je vous le montre­rai : la question - encore qu’elle s’articule un peu différemment - est, du point de vue de la relation de la topologie, exactement la même pour *l’obsessionnel*, et pour cause ! En d’autres termes, cette *identification* dont
-il s’agit est celle qui est ici, \[S **◊** *a*\]*,* à savoir le lieu où je vous ai désigné la dernière fois, chez *l’obsessionnel,* le *fantasme*.
+il s’agit est celle qui est ici, \[S ◊ *a*\], à savoir le lieu où je vous ai désigné la dernière fois, chez *l’obsessionnel,* le *fantasme*.
 C’est pour autant qu’il y a un point où le sujet a à établir un certain *rapport imaginaire* avec l’autre, non pas en soi,
 si je puis dire, mais en tant que c’est ce *rapport imaginaire* qui lui apporte une satisfaction.
 
@@ -653,7 +653,7 @@ On nous dit qu’après préparation de ce sujet par une période déjà antéri
 
 <!-- id: s5-24-0131 -->
 
-ne suffit pas, mais il y a une chose certaine, c’est que le texte même du rêve nous montre que le sujet vient se mettre*,* c’est bien le cas de le dire, à la place de l’autre. Il le dit : « *Je suis à votre domicile particulier - je suis couché dans votre lit.* »
+ne suffit pas, mais il y a une chose certaine, c’est que le texte même du rêve nous montre que le sujet vient se mettre, c’est bien le cas de le dire, à la place de l’autre. Il le dit : « *Je suis à votre domicile particulier - je suis couché dans votre lit.* »
 
 <!-- id: s5-24-0132 -->
 
@@ -715,4 +715,4 @@ non seulement la solution correcte mais l’effi­cace solution.
 
 [^60]: Maurice Bouvet <span class="smallcaps">:</span> « *Importance de l'aspect homosexuel du transfert dans le traitement de quatre cas de névrose obsessionnelle masculine »*,
 
-    Revue Française de Psychanalyse, n°3, Juillet-Sept*.* 1948. Repris dans M. Bouvet <span class="smallcaps">:</span> *Œuvres*, Payot 1967.
+    Revue Française de Psychanalyse, n°3, Juillet-Sept. 1948. Repris dans M. Bouvet <span class="smallcaps">:</span> *Œuvres*, Payot 1967.

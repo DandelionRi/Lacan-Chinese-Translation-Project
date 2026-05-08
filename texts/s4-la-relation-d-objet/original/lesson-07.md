@@ -510,7 +510,7 @@ la situation humaine réelle par le fait que c’est au niveau des règles insta
 
 Mais c’est quelque chose qui n’a aucune espèce de cohé­rence inter-biologique individuelle *pour le sujet*. Par contre il s’avère
 que le fantasme du *phallus* à l’intérieur de cette *symbolique du don* au niveau génital, prend sa valeur, et FREUD y insiste.
-Il n’a pas, pour une bonne raison*,* la même valeur pour celui qui possède réellement le *phallus*, c’est-à-dire l’enfant mâle,
+Il n’a pas, pour une bonne raison, la même valeur pour celui qui possède réellement le *phallus*, c’est-à-dire l’enfant mâle,
 et pour l’enfant qui ne le possède pas, c’est-à-dire pour l’enfant femelle.
 
 <!-- id: s4-07-0100 -->

@@ -26,7 +26,7 @@ Donc il se trouve que j’ai dit...
 
 <!-- id: s24-08-0006 -->
 
-Il se trouve que j’ai relu quelque chose - qui est dans le « *Scilicet* 4 » *-* que j’ai appelé, enfin que j’ai intitulé...
+Il se trouve que j’ai relu quelque chose - qui est dans le « *Scilicet* 4 » - que j’ai appelé, enfin que j’ai intitulé...
 
 <!-- id: s24-08-0007 -->
 
@@ -280,7 +280,7 @@ La conséquence voulant dire en l’occasion quoi ?
 
 <!-- id: s24-08-0067 -->
 
-Ça ne peut vouloir dire que conséquence réelle, mais il n’y a pas de consé­quence réelle, puisque le *Réel*, comme je l’ai symbolisé par le nœud borroméen*,* le *Réel* s’évanouit en une poussière de tores parce que, bien sûr, ces deux tores là, à l’intérieur de l’autre, ces deux tores là se dénouent.
+Ça ne peut vouloir dire que conséquence réelle, mais il n’y a pas de consé­quence réelle, puisque le *Réel*, comme je l’ai symbolisé par le nœud borroméen, le *Réel* s’évanouit en une poussière de tores parce que, bien sûr, ces deux tores là, à l’intérieur de l’autre, ces deux tores là se dénouent.
 
 <!-- id: s24-08-0068 -->
 
@@ -316,7 +316,7 @@ Je veux dire que...
 
 <!-- id: s24-08-0076 -->
 
-> « *Je veux dire* » : *si tant est que ce que je dis ait un sens* *...*ce que je veux dire c’est que j’ai lu une thèse, qui, chose bizarre, a été émise en 1943.
+> « *Je veux dire* » : *si tant est que ce que je dis ait un sens...*ce que je veux dire c’est que j’ai lu une thèse, qui, chose bizarre, a été émise en 1943.
 
 <!-- id: s24-08-0077 -->
 
@@ -492,7 +492,7 @@ Ceci comporte qu’on dise que, tout exclu que soit l’universel, *la forclusio
 
 <!-- id: s24-08-0120 -->
 
-« *Il en existe un* » n’est jamais avancé en logique, que de façon cohérente avec une suite : « *il en existe un qui satisfait à la fonction* »*.* La logique de la fonction est en somme ce qui repose sur la logique de l’*Un.*
+« *Il en existe un* » n’est jamais avancé en logique, que de façon cohérente avec une suite : « *il en existe un qui satisfait à la fonction* ». La logique de la fonction est en somme ce qui repose sur la logique de l’*Un.*
 
 <!-- id: s24-08-0121 -->
 
@@ -514,7 +514,7 @@ Mais l’Autre en question, il faut bien l’appeler par son nom :
 
 <!-- id: s24-08-0125 -->
 
-- c’est « *l’Autre que le réel* »*.*
+- c’est « *l’Autre que le réel* ».
 
 <!-- id: s24-08-0126 -->
 
@@ -672,7 +672,7 @@ Il s’y place de cette façon, à savoir un *Savoir*…
 
 <!-- id: s24-08-0163 -->
 
-Jacques-Alain Miller : S *à la place de* S<sub>1</sub>*,* S<sub>1</sub> *à la place de* S<sub>2*,* </sub> S<sub>2</sub> *à la place de* S*.*
+Jacques-Alain Miller : S *à la place de* S<sub>1</sub>, S<sub>1</sub> *à la place de* S<sub>2, </sub> S<sub>2</sub> *à la place de* S.
 
 <!-- id: s24-08-0164 -->
 

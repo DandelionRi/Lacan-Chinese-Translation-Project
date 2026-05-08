@@ -47,7 +47,7 @@ Et bien sûr, de ce même fait, il est dans une position, nous dirons, dont l’
 <!-- id: s5-23-0008 -->
 
 du désir sexuel est vouée à une problématique absolument spéciale. La première est qu’elle a à trouver place
-dans quelque chose qui l’a précédée : la *dialectique de la demande,* en tant que la *demande* demande toujours *quelque chose* qui est *plus* et *au-delà* de la satisfaction à laquelle elle fait appel*.* D’où, si on peut dire, *le caractère ambigu de la place*
+dans quelque chose qui l’a précédée : la *dialectique de la demande,* en tant que la *demande* demande toujours *quelque chose* qui est *plus* et *au-delà* de la satisfaction à laquelle elle fait appel. D’où, si on peut dire, *le caractère ambigu de la place*
 *où doit se situer le désir*, cette place qui est toujours problématique :
 
 <!-- id: s5-23-0009 -->
@@ -187,7 +187,7 @@ Comment, au point où nous en sommes parvenus, pouvons-nous articuler *les fonct
 
 <!-- id: s5-23-0038 -->
 
-Je crois qu’à cet endroit \[S **◊** *a*\] nous devons voir que le schéma ici présenté nous ouvre la possibilité d’articuler,
+Je crois qu’à cet endroit \[S ◊ *a*\] nous devons voir que le schéma ici présenté nous ouvre la possibilité d’articuler,
 de situer la fonction du fantasme. C’est sans doute par une sorte de biais intuitif de cette topologie, que je vous demande de commencer d’abord par vous le représenter.
 
 <!-- id: s5-23-0039 -->
@@ -240,7 +240,7 @@ En fin de compte, je crois que chaque fois que nous parlons de *fantasmes*, *il 
 
 <!-- id: s5-23-0049 -->
 
-La formule S **◊** *a*, S *avec la petite barre*, c’est-à-dire *le sujet* au point le plus arti­culé de sa présentification par rapport à *a,*
+La formule S ◊ *a*, S *avec la petite barre*, c’est-à-dire *le sujet* au point le plus arti­culé de sa présentification par rapport à *a,*
 
 <!-- id: s5-23-0050 -->
 
@@ -311,7 +311,7 @@ d’une façon plus précise, à savoir la situation :
 
 <!-- id: s5-23-0063 -->
 
-- du *fait fantasmatique* : S **◊** *a*.
+- du *fait fantasmatique* : S ◊ *a*.
 
 <!-- id: s5-23-0064 -->
 
@@ -345,13 +345,13 @@ de leur vécu, de leurs occupations mentales.
 C’est bien du rôle économique de ces fantasmes en tant qu’ici articulés et subsistants qu’il s’agit à cette occasion d’essayer de nous don­ner *une formule*. Ces fantasmes, qui ont pour caractère d’être des fantasmes qui, chez les sujets, res­tent à l’état de fantasmes, qui ne sont réalisés que de façon tout à fait exceptionnelle et d’ailleurs, pour le sujet,
 de façon toujours décevante pour autant précisément que nous observons à cette occasion la mécanique
 de ce rapport du sujet au désir, à savoir dans la mesure où il peut essayer, dans les voies qui lui sont proposées,
-de s’en approcher, c’est précisément dans cette mesure que vient à extinction, à amortissement et à disparition l’approche de ses désirs. *L’obsessionnel* est un TANTALE*,* dirais-je, si TANTALE n’était pas une image
+de s’en approcher, c’est précisément dans cette mesure que vient à extinction, à amortissement et à disparition l’approche de ses désirs. *L’obsessionnel* est un TANTALE, dirais-je, si TANTALE n’était pas une image
 qui nous est présentée par l’iconographie infernale antique comme une image avant tout orale.
 
 <!-- id: s5-23-0070 -->
 
 Mais ce n’est pourtant pas pour rien que je vous le présente comme tel, parce que nous verrons que
-cette sous-jacence orale à ce qui constitue le point d’équilibre, le niveau, la situation du fantasme obsessionnel comme tel, il faut bien tout de même qu’elle existe, puisque en fin de compte c’est ce plan qui, sur *le plan fantas­matique*, est rejoint par le thérapeute, par l’analyste lui-même, pour autant que, comme vous l’avez vu, comme j’y ai fait allusion à propos de la ligne thérapeutique qui est tracée dans la série des trois articles : c’est dans une sorte d’absorption fan­tasmatique que certains thérapeutes et une grande partie de la pratique analytique se sont engagés pour trouver la voie dans laquelle un nouveau mode d’équilibration, un certain « *tempérament* »*,* si l’on peut dire,
+cette sous-jacence orale à ce qui constitue le point d’équilibre, le niveau, la situation du fantasme obsessionnel comme tel, il faut bien tout de même qu’elle existe, puisque en fin de compte c’est ce plan qui, sur *le plan fantas­matique*, est rejoint par le thérapeute, par l’analyste lui-même, pour autant que, comme vous l’avez vu, comme j’y ai fait allusion à propos de la ligne thérapeutique qui est tracée dans la série des trois articles : c’est dans une sorte d’absorption fan­tasmatique que certains thérapeutes et une grande partie de la pratique analytique se sont engagés pour trouver la voie dans laquelle un nouveau mode d’équilibration, un certain « *tempérament* », si l’on peut dire,
 est donné à l’accès de *l’obsessionnel* dans cette voie de *la réalisation de son désir*.
 
 <!-- id: s5-23-0071 -->
@@ -397,7 +397,7 @@ pour *l’obsessionnel*, c’est en fin de compte restituer cet Autre avec un gr
 C’est déjà quelque chose qui nous indique à quel point *cette place est essentielle à maintenir pour l’obsessionnel*.
 Je dirai même que c’est bien là que nous voyons la pertinence chez FREUD de *ce qu’il appelle toujours* *Versagung, refus*.
 *Refus -* et *permission*, d’ailleurs, impliquée dans le fond : le pacte de quelque chose qui est refusé, si l’on peut dire,
-sur un fond de promesse - au lieu de parler de « *frustration* »*.* Ce n’est pas au niveau de la *demande* pure et simple que se pose le problème des relations à l’Autre en tant qu’il s’agit d’un sujet au complet. Cela se pose ainsi quand nous faisons un essai de recours au *développement*, quand nous nous imaginons *un petit enfant* plus ou moins impuissant *devant sa mère*, c’est-à-dire quand nous fai­sons nous-mêmes un objet de quelqu’un qui est à la merci de quelqu’un d’autre.
+sur un fond de promesse - au lieu de parler de « *frustration* ». Ce n’est pas au niveau de la *demande* pure et simple que se pose le problème des relations à l’Autre en tant qu’il s’agit d’un sujet au complet. Cela se pose ainsi quand nous faisons un essai de recours au *développement*, quand nous nous imaginons *un petit enfant* plus ou moins impuissant *devant sa mère*, c’est-à-dire quand nous fai­sons nous-mêmes un objet de quelqu’un qui est à la merci de quelqu’un d’autre.
 
 <!-- id: s5-23-0081 -->
 
@@ -540,7 +540,7 @@ Je dirai jus­qu’à un certain point que le terme d’*oblativité…*
 
 <!-- id: s5-23-0109 -->
 
-Pour tout dire, *je crois que le terme d’*«* oblativité *»*,* tel qu’il nous est présenté dans cette perspective moralisante
+Pour tout dire, *je crois que le terme d’*«* oblativité *», tel qu’il nous est présenté dans cette perspective moralisante
 \- on peut le dire sans forcer les termes *- est un fantasme obsessionnel*. Il est tout à fait certain que dans l’analyse,
 
 <!-- id: s5-23-0110 -->
@@ -576,7 +576,7 @@ bref de toutes les manigances de *l’obsessionnel*.
 <!-- id: s5-23-0115 -->
 
 Si c’est pour en arriver à « *doctriner* », à faire une espèce de généralisation de ce qui se manifestait sans doute non sans raison d’une façon beaucoup plus compliquée dans ses *symptômes*, d’en faire une espèce d’extrapolation moralisante,
-et de lui proposer comme fin et issue de ses problèmes ce qu’on appelle « *l’issue oblative* »*,* c’est-à-dire la soumission aux demandes de l’Autre, je crois que ce n’était vraiment pas la peine de faire ce détour.
+et de lui proposer comme fin et issue de ses problèmes ce qu’on appelle « *l’issue oblative* », c’est-à-dire la soumission aux demandes de l’Autre, je crois que ce n’était vraiment pas la peine de faire ce détour.
 
 <!-- id: s5-23-0116 -->
 

@@ -48,7 +48,7 @@ Ces quelques points d’indication que je vais aujourd’hui énoncer devant vou
 
 <!-- id: s14-01-0011 -->
 
-*Logique du fantasme* donc, nous partirons de l’écriture que j’en ai déjà formée, à savoir de la formule : (S**◊***a*)
+*Logique du fantasme* donc, nous partirons de l’écriture que j’en ai déjà formée, à savoir de la formule : (S◊*a*)
 
 <!-- id: s14-01-0012 -->
 
@@ -100,7 +100,7 @@ Chacun, qui après l’a­voir comprise, pourra s’employer à y appliquer la f
 
 <!-- id: s14-01-0024 -->
 
-Le sujet barré, dans son rapport avec cet *objet petit(a),* est joint dans cette formule écrite au tableau (S**◊***a*) par ce *quelque chose*, qui se présente comme *un losange*, que j’ai appelé tout à l’heure *le poinçon,* et qui, à la vérité, est un signe forgé tout exprès pour conjoindre en lui ce qui peut s’en isoler, selon que vous le sépa­rez d’un *trait vertical* ou d’un *trait horizontal.*
+Le sujet barré, dans son rapport avec cet *objet petit(a),* est joint dans cette formule écrite au tableau (S◊*a*) par ce *quelque chose*, qui se présente comme *un losange*, que j’ai appelé tout à l’heure *le poinçon,* et qui, à la vérité, est un signe forgé tout exprès pour conjoindre en lui ce qui peut s’en isoler, selon que vous le sépa­rez d’un *trait vertical* ou d’un *trait horizontal.*
 
 <!-- id: s14-01-0025 -->
 
@@ -128,11 +128,11 @@ il représente un double rapport qui peut se lire au premier abord comme plus gr
 
 <!-- id: s14-01-0031 -->
 
-Qu’est-ce à dire ? Sinon que ce qui se suggère au premier plan de cette conjonction, c’est quelque chose qui logique­ment s’appelle la relation d’*inclusion* ou encore d’*implication*, à condition que nous la fassions réversible et qui s’articule… je vais vite sans doute, mais nous aurons tout le temps de nous étendre et de reprendre ces choses : aujourd’hui je vous l’in­dique, il suffit que nous posions quelques jalons suggestifs …cette relation qui s’articule de l’articu­lation logique, qui s’appelle : « *si et si seulement *»*.*
+Qu’est-ce à dire ? Sinon que ce qui se suggère au premier plan de cette conjonction, c’est quelque chose qui logique­ment s’appelle la relation d’*inclusion* ou encore d’*implication*, à condition que nous la fassions réversible et qui s’articule… je vais vite sans doute, mais nous aurons tout le temps de nous étendre et de reprendre ces choses : aujourd’hui je vous l’in­dique, il suffit que nous posions quelques jalons suggestifs …cette relation qui s’articule de l’articu­lation logique, qui s’appelle : « *si et si seulement *».
 
 <!-- id: s14-01-0032 -->
 
-S barré dans ce sens, à savoir : *le poinçon* étant divi­sé par *la barre verticale*, c’est le sujet barré à ce rapport de « *si et si seulement *» avec le *petit(a) *: (S**◊***a*)
+S barré dans ce sens, à savoir : *le poinçon* étant divi­sé par *la barre verticale*, c’est le sujet barré à ce rapport de « *si et si seulement *» avec le *petit(a) *: (S◊*a*)
 
 <!-- id: s14-01-0033 -->
 
@@ -198,7 +198,7 @@ Alors qu’il n’en est rien, que c’est au niveau de la mère que ces deux in
 
 <!-- id: s14-01-0048 -->
 
-J’avance donc, dans ce qu’il s’agit ici d’énoncer : pour faire du fantasme, il faut du « *prêt à porter *»*.* Qu’est-ce que porte, *qu’est-ce qui porte le fantasme* ? *Ce qui porte le fan­tasme a deux noms*, ceux *qui concernent une seule et même subs­tance*, si vous voulez bien *- ce terme –* le réduire à *cette fonction de la surface* telle que je l’ai, l’année der­nière, articulée…
+J’avance donc, dans ce qu’il s’agit ici d’énoncer : pour faire du fantasme, il faut du « *prêt à porter *». Qu’est-ce que porte, *qu’est-ce qui porte le fantasme* ? *Ce qui porte le fan­tasme a deux noms*, ceux *qui concernent une seule et même subs­tance*, si vous voulez bien *- ce terme –* le réduire à *cette fonction de la surface* telle que je l’ai, l’année der­nière, articulée…
 
 <!-- id: s14-01-0049 -->
 
@@ -546,7 +546,7 @@ Pour ceux qui auraient eu quelque peine à entendre ce que je viens de formuler,
 
 <!-- id: s14-01-0133 -->
 
-Mais, ce dont tout à l’heure je vous ai donné l’énoncé sous cette formule que : *dans l’univers du dis­cours il n’est rien qui contienne tout*, voilà qui à proprement parler nous incite à y être tout spéciale­ment prudents quant au maniement de ce qu’on appelle « *tout* » et « *partie* » et à exiger à l’origine, que nous distin­guions ceci sévèrement - ce sera l’objet de mon prochain cours - l’*Un* de *la totalité…* que justement je viens de réfuter, disant au niveau du discours qu’il n’y a pas d’Univers, ce qui assurément laisse encore plus en sus­pens que nous puissions le supposer n’importe où ail­leurs …distinguer cet *Un* de l’1 *comptable* en tant que de sa nature, il se dérobe et glisse, pour ne pouvoir être l’1 qu’à se répéter au moins une fois et se re­fermant sur lui-même, instaurer à l’origine, le manque dont il s’agit : il s’agit d’instituer le sujet.  
+Mais, ce dont tout à l’heure je vous ai donné l’énoncé sous cette formule que : *dans l’univers du dis­cours il n’est rien qui contienne tout*, voilà qui à proprement parler nous incite à y être tout spéciale­ment prudents quant au maniement de ce qu’on appelle « *tout* » et « *partie* » et à exiger à l’origine, que nous distin­guions ceci sévèrement - ce sera l’objet de mon prochain cours - l’*Un* de *la totalité…* que justement je viens de réfuter, disant au niveau du discours qu’il n’y a pas d’Univers, ce qui assurément laisse encore plus en sus­pens que nous puissions le supposer n’importe où ail­leurs …distinguer cet *Un* de l’1 *comptable* en tant que de sa nature, il se dérobe et glisse, pour ne pouvoir être l’1 qu’à se répéter au moins une fois et se re­fermant sur lui-même, instaurer à l’origine, le manque dont il s’agit : il s’agit d’instituer le sujet.
 
 ## Notes
 

@@ -602,7 +602,7 @@ La chose n’est pas sans séduction ni même sans comporter un certain appel à
 
 <!-- id: s13-17-0149 -->
 
-Je n’y vois qu’une objection, *c’est que rien ne nous indique*, des témoignages de l’histoire, et Dieu sait si ce sont là des nouvelles que l’histoire se charge de transmettre, rien ne nous indique que VELAZQUEZ fut gaucher*.*
+Je n’y vois qu’une objection, *c’est que rien ne nous indique*, des témoignages de l’histoire, et Dieu sait si ce sont là des nouvelles que l’histoire se charge de transmettre, rien ne nous indique que VELAZQUEZ fut gaucher.
 
 <!-- id: s13-17-0150 -->
 

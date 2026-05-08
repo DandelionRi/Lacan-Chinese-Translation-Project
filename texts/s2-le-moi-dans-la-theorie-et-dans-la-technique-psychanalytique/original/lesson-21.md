@@ -56,7 +56,7 @@ Mais la resitua­tion de ces investigations techniques dans la situation génér
 
 <!-- id: s2-21-0013 -->
 
-Bien entendu, la relation d’objet, sous sa plume, n’est pas tout à fait ce qu’est la relation d’objet sous la plume de tel autre. Il faut tâcher de trouver, pour nous orienter, un facteur commun. Il est certain que ce que je vous enseigne ici ce sont des notions - comme je l’ai souvent dit et continue à le répéter - vraiment fondamentales, alphabétiques si je puis dire, qui sont bien plus une rose des vents, une table d’orientation*,* que vraiment une cartographie de ce qui actuellement se pose comme problèmes dans l’analyse. Cela suppose qu’armés de la dite table d’orientation vous essayiez aussi de vous promener, vous, par vos propres moyens, sur la carte. En d’autres termes, cette question dont certaines critiques me sont revenues : on entend tel ou tel dire par exemple que je vous propose ici une théorie qui ne coïncide pas avec ce qu’on peut lire sous tel texte de FREUD.
+Bien entendu, la relation d’objet, sous sa plume, n’est pas tout à fait ce qu’est la relation d’objet sous la plume de tel autre. Il faut tâcher de trouver, pour nous orienter, un facteur commun. Il est certain que ce que je vous enseigne ici ce sont des notions - comme je l’ai souvent dit et continue à le répéter - vraiment fondamentales, alphabétiques si je puis dire, qui sont bien plus une rose des vents, une table d’orientation, que vraiment une cartographie de ce qui actuellement se pose comme problèmes dans l’analyse. Cela suppose qu’armés de la dite table d’orientation vous essayiez aussi de vous promener, vous, par vos propres moyens, sur la carte. En d’autres termes, cette question dont certaines critiques me sont revenues : on entend tel ou tel dire par exemple que je vous propose ici une théorie qui ne coïncide pas avec ce qu’on peut lire sous tel texte de FREUD.
 
 <!-- id: s2-21-0014 -->
 
@@ -72,7 +72,7 @@ Mais quoi qu’il en soit, même à l’intérieur de l’élaboration topique c
 
 <!-- id: s2-21-0017 -->
 
-Ce que veut dire FREUD, si c’est pour s’en tenir à un schéma qui peut avoir mille interprétations, à la vérité il n’était pas besoin de l’immense détour de l’œuvre de FREUD pour en arriver là. Ce qui est important dans ce schéma, c’est justement le caractère tout à fait dépendant de l’organisation de l’*ego* par rap­port à quelque chose qui lui est, du point de vue de l’organisation, complète­ment hétérogène. C’est peut-être cela qui est intéressant à mettre en relief*.* Et je dirai que c’est le danger de tout schéma, et surtout de tout schéma qui tend trop à chosifier les choses, que l’esprit aussitôt s’y précipite pour y voir les images les plus routinières et les plus sommaires.
+Ce que veut dire FREUD, si c’est pour s’en tenir à un schéma qui peut avoir mille interprétations, à la vérité il n’était pas besoin de l’immense détour de l’œuvre de FREUD pour en arriver là. Ce qui est important dans ce schéma, c’est justement le caractère tout à fait dépendant de l’organisation de l’*ego* par rap­port à quelque chose qui lui est, du point de vue de l’organisation, complète­ment hétérogène. C’est peut-être cela qui est intéressant à mettre en relief. Et je dirai que c’est le danger de tout schéma, et surtout de tout schéma qui tend trop à chosifier les choses, que l’esprit aussitôt s’y précipite pour y voir les images les plus routinières et les plus sommaires.
 
 <!-- id: s2-21-0018 -->
 
@@ -90,7 +90,7 @@ Comme point de référence…
 
 <!-- id: s2-21-0021 -->
 
-C’est une lecture qui ne peut pas vous être inaccessible *in Psychoanalytic Studies of the Personality* (1952)*,* et *International Journal* *of Psycho-Analysis, vol.* XXV*,* 1944*,* pp*.*70-93 \[*Endopsychic structure considered in terms of object-relationships*, 1944\]. Il s’agit donc de la structure endopsychique - écrit notre auteur - en termes de *relations d’objet*. Qu’est-ce que ça donne ? Ceci a plus que l’intérêt d’être la théorie particulière d’un auteur. C’est quelque chose qui est simplement exposé où vous reconnaîtrez les traces familières de la façon dont les problèmes sont posés, dont nous rapportons maintenant les cas, dont nous évoquons les incidences et les forces de la réalité psychique, de la façon dont même quelquefois il arrive de résumer un traitement, d’en discuter publi­quement.
+C’est une lecture qui ne peut pas vous être inaccessible *in Psychoanalytic Studies of the Personality* (1952), et *International Journal* *of Psycho-Analysis, vol.* XXV, 1944, pp.70-93 \[*Endopsychic structure considered in terms of object-relationships*, 1944\]. Il s’agit donc de la structure endopsychique - écrit notre auteur - en termes de *relations d’objet*. Qu’est-ce que ça donne ? Ceci a plus que l’intérêt d’être la théorie particulière d’un auteur. C’est quelque chose qui est simplement exposé où vous reconnaîtrez les traces familières de la façon dont les problèmes sont posés, dont nous rapportons maintenant les cas, dont nous évoquons les incidences et les forces de la réalité psychique, de la façon dont même quelquefois il arrive de résumer un traitement, d’en discuter publi­quement.
 
 <!-- id: s2-21-0022 -->
 
@@ -284,7 +284,7 @@ Voici maintenant les éléments qui vont fonctionner. Cette tendance à la répu
 
 <!-- id: s2-21-0066 -->
 
-Ces deux objets primitifs sont un seul et même objet dans la réalité, liés à la division sous ses deux faces*,* bonne et mauvaise, liés à ceci que pour que l’ob­jet en tant qu’il est rejetant soit d’une façon quelconque maîtrisé il faut - et ceci est absolument indispensable - qu’il soit de quelque façon internalisé par le sujet, conçu en tant que vivant par le sujet individuel, par l’*ego*.
+Ces deux objets primitifs sont un seul et même objet dans la réalité, liés à la division sous ses deux faces, bonne et mauvaise, liés à ceci que pour que l’ob­jet en tant qu’il est rejetant soit d’une façon quelconque maîtrisé il faut - et ceci est absolument indispensable - qu’il soit de quelque façon internalisé par le sujet, conçu en tant que vivant par le sujet individuel, par l’*ego*.
 
 <!-- id: s2-21-0067 -->
 
@@ -434,7 +434,7 @@ Ces images, à partir du moment où nous avons affaire ici à une réalité, une
 
 <!-- id: s2-21-0103 -->
 
-Aussi bien ceci n’est-il pas contesté, et toute espèce de théorisation de l’analyse qui se fonde et se rapporte à *-* s’organise autour de - la relation d’objet, consiste-t-elle à dire qu’en fin de compte la réorganisation, la redistribution, la recomposition du monde *imaginaire* du sujet, va se faire selon la norme et le monde de ce qui constitue…
+Aussi bien ceci n’est-il pas contesté, et toute espèce de théorisation de l’analyse qui se fonde et se rapporte à - s’organise autour de - la relation d’objet, consiste-t-elle à dire qu’en fin de compte la réorganisation, la redistribution, la recomposition du monde *imaginaire* du sujet, va se faire selon la norme et le monde de ce qui constitue…
 
 <!-- id: s2-21-0104 -->
 

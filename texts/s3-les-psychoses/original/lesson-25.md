@@ -24,7 +24,7 @@ Je ne sais pas très bien par quel bout commencer, pour finir ce cours. À tout 
 
 <!-- id: s3-25-0005 -->
 
-- Un autre, qui est différent, tout nouveau, et auquel j’aurai peut-être besoin de me référer tout à l’heure*.*
+- Un autre, qui est différent, tout nouveau, et auquel j’aurai peut-être besoin de me référer tout à l’heure.
 
 <!-- id: s3-25-0006 -->
 
@@ -244,7 +244,7 @@ Le sujet est quelque chose qui doit être né dans la seule relation de l’enfa
 
 <!-- id: s3-25-0058 -->
 
-C’est aussi toute l’argumentation d’Ida MACALPINE qu’il n’y a pas de raison de poursuivre ici tous ses détails, ils sont riches, mais après tout ils sont à votre portée : elle a fait une préface et une postface*,* fort bien nourries à l’édition qu’elle a faite en anglais du texte de SCHREBER, où elle expose tous ses thèmes.
+C’est aussi toute l’argumentation d’Ida MACALPINE qu’il n’y a pas de raison de poursuivre ici tous ses détails, ils sont riches, mais après tout ils sont à votre portée : elle a fait une préface et une postface, fort bien nourries à l’édition qu’elle a faite en anglais du texte de SCHREBER, où elle expose tous ses thèmes.
 
 <!-- id: s3-25-0059 -->
 
@@ -308,7 +308,7 @@ Ce n’est pas seulement cette énormité du personnage fantasmatique du père q
 
 <!-- id: s3-25-0074 -->
 
-Mais ce qu’incontestablement FREUD approche beaucoup plus que M<sup>me</sup> Ida MACALPINE, le côté écrasant, prépondérant, énorme, proliférant, végétant des phénomènes d’auditivation verbale, de cette formidable captation du sujet pris dans ce « *monde de la parole* », devenu pour lui, non seulement une perpétuelle co*-*présence…
+Mais ce qu’incontestablement FREUD approche beaucoup plus que M<sup>me</sup> Ida MACALPINE, le côté écrasant, prépondérant, énorme, proliférant, végétant des phénomènes d’auditivation verbale, de cette formidable captation du sujet pris dans ce « *monde de la parole* », devenu pour lui, non seulement une perpétuelle co-présence…
 
 <!-- id: s3-25-0075 -->
 
@@ -358,7 +358,7 @@ J’ai relu à ce propos, parmi d’autres choses, une fois de plus, l’article
 
 <!-- id: s3-25-0086 -->
 
-Est-ce que ceci n’est pas de nature à nous laisser rêveur ? Nous savons bien naturellement que l’intérêt de la mise en jeu des signifiants dans le *symptôme*, est justement sans lien avec ce qui est de l’ordre de la tendance et des relations des plus bizarres. Mais se laisser emporter dans une telle dialectique*,* au point de ne pas s’apercevoir que l’anneau ne saurait être en aucun cas la symbolisation naturelle du sexe féminin, c’est vraiment ne pas comprendre que pour rêver qu’on passe à son doigt un anneau au moment où, comme dans le conte auquel je pense, que vous connaissez tous, tout au moins le thème, qui s’appelle « *L’Anneau de Hans Carvel* » qui est une bonne histoire du Moyen Âge reprise par BALZAC dans ses *Contes Drolatiques* [^38]* *: le brave homme qu’on dépeint fort coloré, et quelque fois on nous dit que c’est un curé, qui se retrouve au milieu de la nuit rêvant d’anneau et le doigt passé là où l’anneau est appelé \[...\] et, sans y répondre, *il faut vraiment avoir, des symbolisations naturelles, des idées les plus étranges*.
+Est-ce que ceci n’est pas de nature à nous laisser rêveur ? Nous savons bien naturellement que l’intérêt de la mise en jeu des signifiants dans le *symptôme*, est justement sans lien avec ce qui est de l’ordre de la tendance et des relations des plus bizarres. Mais se laisser emporter dans une telle dialectique, au point de ne pas s’apercevoir que l’anneau ne saurait être en aucun cas la symbolisation naturelle du sexe féminin, c’est vraiment ne pas comprendre que pour rêver qu’on passe à son doigt un anneau au moment où, comme dans le conte auquel je pense, que vous connaissez tous, tout au moins le thème, qui s’appelle « *L’Anneau de Hans Carvel* » qui est une bonne histoire du Moyen Âge reprise par BALZAC dans ses *Contes Drolatiques* [^38]: le brave homme qu’on dépeint fort coloré, et quelque fois on nous dit que c’est un curé, qui se retrouve au milieu de la nuit rêvant d’anneau et le doigt passé là où l’anneau est appelé \[...\] et, sans y répondre, *il faut vraiment avoir, des symbolisations naturelles, des idées les plus étranges*.
 
 <!-- id: s3-25-0087 -->
 
@@ -662,7 +662,7 @@ Je voudrais pour terminer, passer à un autre genre de style que le mien, et me 
 
 <!-- id: s3-25-0162 -->
 
-M<sup>elle</sup> \[...\] qui nous a fait l’honneur de venir assister à ma dernière conférence cette année ne me contredira pas. Dans *L’Enchanteur pourrissant*, on trouve *l’image fondamentale* de ce que représente dans son essence, en effet, l’analyse. À la fin d’un des chapitres, *L’enchanteur*, qui pourrit dans son tombeau et qui, comme tout bon cadavre, je ne dirai pas bafouille, comme dirait BARRÈS, mais même là *-* comme c’est *un enchanteur* *-* enchante et parle au contraire très bien.
+M<sup>elle</sup> \[...\] qui nous a fait l’honneur de venir assister à ma dernière conférence cette année ne me contredira pas. Dans *L’Enchanteur pourrissant*, on trouve *l’image fondamentale* de ce que représente dans son essence, en effet, l’analyse. À la fin d’un des chapitres, *L’enchanteur*, qui pourrit dans son tombeau et qui, comme tout bon cadavre, je ne dirai pas bafouille, comme dirait BARRÈS, mais même là - comme c’est *un enchanteur* - enchante et parle au contraire très bien.
 
 <!-- id: s3-25-0163 -->
 
@@ -761,6 +761,7 @@ Les oiseaux chanteurs s’éveillèrent, tandis que le vieil hibou savant s’en
 <!-- id: s3-25-0183 -->
 
 « *Celui qui mange n’est plus seul* ».
+
 ## Notes
 
 [^38]: [Balzac : *contes drolatiques*, second dixain, prologue](http://fr.wikisource.org/wiki/Page:Balzac_-_Contes_drolatiques.djvu/248). Cf. aussi [Jean de la Fontaine : *L’anneau d’Hans Carvel*](http://fr.wikisource.org/wiki/L%E2%80%99Anneau_d%E2%80%99Hans_Carvel), *Œuvres complètes*, tome 2, XII ;

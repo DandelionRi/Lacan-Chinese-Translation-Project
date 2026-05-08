@@ -488,7 +488,7 @@ Ce sont des choses que nous voyons aussi bien faire dans des domaines aussi diff
 
 <!-- id: s3-10-0116 -->
 
-Je ne dis pas que ce soit, du point de vue théologique*,* la meilleure façon d’aborder la chose, mais enfin j’ai ouvert un peu par hasard un livre qui essaie de nous parler des dieux d’ÉPICURE. La personne qui introduit la question commence à partir - est-ce d’un point de vue apologétique ? - de la remarque suivante
+Je ne dis pas que ce soit, du point de vue théologique, la meilleure façon d’aborder la chose, mais enfin j’ai ouvert un peu par hasard un livre qui essaie de nous parler des dieux d’ÉPICURE. La personne qui introduit la question commence à partir - est-ce d’un point de vue apologétique ? - de la remarque suivante
 
 <!-- id: s3-10-0117 -->
 
@@ -685,6 +685,7 @@ Ce sont *les voix* qui disent cela. C’est d’une beauté dont je n’ai pas b
 <!-- id: s3-10-0163 -->
 
 Puisque nous nous sommes limités aujourd’hui à la relation de Dieu en tant que sujet parlant et en tant qu’interlocuteur essentiel, nous nous arrêterons là et vous verrez le pas suivant. À savoir ce que nous pouvons entrevoir à partir du moment où nous analysons la structure même de cette personne divine, autrement dit aussi, la relation de tout l’ensemble de la fantasmagorie avec le réel lui-même, pour autant que le sujet en maintient à tout instant la présence et l’accord - au moins à la fin de son délire - d’une façon qui n’a rien de spécialement perturbée dans ce mode de rapport. En d’autres termes, avec *le registre symbolique* tel qu’il se présente ici, avec *le registre imaginaire*, avec *le registre réel*, nous ferons un nouveau progrès qui nous permettra de découvrir je l’espère, la nature de ce dont il s’agit dans le mécanisme lui-même - dans la structure et la constitution elle-même de ce sujet - de l’interlocution délirante.
+
 ## Notes
 
 [^19]: Emmanuel Kant : « *Essai pour introduire en philosophie le concept de grandeur négative* », Paris, Vrin, 1972.

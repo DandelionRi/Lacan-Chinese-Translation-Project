@@ -46,7 +46,7 @@ Dois-je ré-évoquer devant cette salle, où l’on est en somme au restaurant, 
 
 <!-- id: s20-03-0011 -->
 
-\[*la bêtise est celle du* **S<sub>1</sub>** (*signifiant maître du sujet, Produit, Plus-de-jouir » du discours* A), *mais signifiant asémantique, coupé de toute référence au sens et au savoir *: S<sub>1</sub>**◊**S<sub>2</sub>*,* *et qui demande à être nourri de jouissances (jouissances phalliques à répétition visant* S<sub>1</sub> *mais n’atteignant que (a), « jouissances de l’idiot » etc. encore et encore...*\]
+\[*la bêtise est celle du* **S<sub>1</sub>** (*signifiant maître du sujet, Produit, Plus-de-jouir » du discours* A), *mais signifiant asémantique, coupé de toute référence au sens et au savoir *: S<sub>1</sub>◊S<sub>2</sub>, *et qui demande à être nourri de jouissances (jouissances phalliques à répétition visant* S<sub>1</sub> *mais n’atteignant que (a), « jouissances de l’idiot » etc. encore et encore...*\]
 
 <!-- id: s20-03-0012 -->
 
@@ -76,7 +76,7 @@ Mais si je prends tout ce qui s’ensuit du *langage*...
 
 > et nommément de ce qui en résulte dans *cette fondation du sujet*, si renouvelé, si subverti,
 >
-> que *c’est bien là* le statut dont s’assure *tout ce qui* de la bouche de Freud *s’est affirmé comme l’inconscient* ...alors il me faudra forger quelque autre mot pour laisser à Jakobson son domaine réservé, et si vous le voulez j’appellerai ça « *la linguisterie* »*.*
+> que *c’est bien là* le statut dont s’assure *tout ce qui* de la bouche de Freud *s’est affirmé comme l’inconscient* ...alors il me faudra forger quelque autre mot pour laisser à Jakobson son domaine réservé, et si vous le voulez j’appellerai ça « *la linguisterie* ».
 
 <!-- id: s20-03-0019 -->
 
@@ -116,11 +116,11 @@ Mais il est suffisamment clair qu’en ayant posé *ce dire*...
 
 > comme j’en ai depuis avancé d’autres,
 >
-> m’enfin c’est déjà pas mal qu’un certain nombre en restent à celui-là* *: il est important ...*ce dire* après tout n’est pas du champ de *la linguistique*, c’est une porte ouverte sur ceci que vous verrez commenté dans ce qui va paraître, développé dans le prochain numéro de mon bien connu *« a-périodique »* \[*Scilicet n°* 4\]*,* avec pour titre « *L’Étourdit » :* *d.i.t* [^20]. \[*Dans la séance du 21-11-1972 Lacan a rappelé* [*la stricte équivalence de « topol*<span id="Retour_Topologie_structure" class="anchor"></span>*ogie » et « structure*](#Topologie_structure)* »* *développée dans L’étourdit (14-7-1972),* *où il montre que cette topologie (mœbienne) du discours* A *permet de passer  *:
+> m’enfin c’est déjà pas mal qu’un certain nombre en restent à celui-là: il est important ...*ce dire* après tout n’est pas du champ de *la linguistique*, c’est une porte ouverte sur ceci que vous verrez commenté dans ce qui va paraître, développé dans le prochain numéro de mon bien connu *« a-périodique »* \[*Scilicet n°* 4\], avec pour titre « *L’Étourdit » :* *d.i.t* [^20]. \[*Dans la séance du 21-11-1972 Lacan a rappelé* [*la stricte équivalence de « topol*<span id="Retour_Topologie_structure" class="anchor"></span>*ogie » et « structure*](#Topologie_structure)* »* *développée dans L’étourdit (14-7-1972),* *où il montre que cette topologie (mœbienne) du discours* A *permet de passer  *:
 
 <!-- id: s20-03-0028 -->
 
-- *des « discours univoques » à topologie « sphérique » (<sub>→ </sub>*H,U,M* *: *à deux faces, avec un intérieur et un extérieur, un signifiant support de la « distinction » et un signifié, etc.) <sub>→</sub> qui relèvent de la linguistique*
+- *des « discours univoques » à topologie « sphérique » (<sub>→ </sub>*H,U,M: *à deux faces, avec un intérieur et un extérieur, un signifiant support de la « distinction » et un signifié, etc.) <sub>→</sub> qui relèvent de la linguistique*
 
 <!-- id: s20-03-0029 -->
 
@@ -128,7 +128,7 @@ Mais il est suffisamment clair qu’en ayant posé *ce dire*...
 
 <!-- id: s20-03-0030 -->
 
-> *et qui concerne* S<sub>1</sub> *le signifiant sans signifié <sub>→</sub> coupé du savoir *: S<sub>1</sub>**◊** S<sub>2</sub> *<sub>→</sub> asémantique, la « bêtise » de la singularité,* S<sub>1</sub> *<sub>→</sub> qui relève de la linguisterie*\]
+> *et qui concerne* S<sub>1</sub> *le signifiant sans signifié <sub>→</sub> coupé du savoir *: S<sub>1</sub>◊ S<sub>2</sub> *<sub>→</sub> asémantique, la « bêtise » de la singularité,* S<sub>1</sub> *<sub>→</sub> qui relève de la linguisterie*\]
 
 <!-- id: s20-03-0031 -->
 
@@ -182,7 +182,7 @@ c’est ce matin que j’y ai repensé, je crois quand même que c’est l’ann
 
 <!-- id: s20-03-0041 -->
 
-C’est ce texte qui s’appelle « *À une raison »* qui se scande de cette réplique qui en termine chaque verset : *un nouvel amour.* Et puisque je suis censé, la dernière fois, avoir parlé de *l’amour,* pourquoi pas le reprendre à ce niveau*.*
+C’est ce texte qui s’appelle « *À une raison »* qui se scande de cette réplique qui en termine chaque verset : *un nouvel amour.* Et puisque je suis censé, la dernière fois, avoir parlé de *l’amour,* pourquoi pas le reprendre à ce niveau.
 
 <!-- id: s20-03-0042 -->
 
@@ -194,7 +194,7 @@ L’amour c’est...
 
 <!-- id: s20-03-0044 -->
 
-chez Rimbaud, dans ce texte *...*le signe, le signe pointé \[☞\] comme tel de ce qu’on change de *raison* \[ <sub>→</sub> *de discours*\], c’est bien pourquoi c’est à cette *raison* qu’il s’adresse* *: *« À une raison »,* on a changé de discours [^22].
+chez Rimbaud, dans ce texte *...*le signe, le signe pointé \[☞\] comme tel de ce qu’on change de *raison* \[ <sub>→</sub> *de discours*\], c’est bien pourquoi c’est à cette *raison* qu’il s’adresse: *« À une raison »,* on a changé de discours [^22].
 
 <!-- id: s20-03-0045 -->
 
@@ -208,7 +208,7 @@ Je pense que quand même...
 
 <!-- id: s20-03-0047 -->
 
-Je veux vous faire remarquer que ces 4 *discours* ne sont à prendre en aucun cas comme une suite *d’émergences historiques,* qu’il y en ait eu un qui soit venu depuis plus longtemps que les autres, n’est pas là ce qui importe*.*
+Je veux vous faire remarquer que ces 4 *discours* ne sont à prendre en aucun cas comme une suite *d’émergences historiques,* qu’il y en ait eu un qui soit venu depuis plus longtemps que les autres, n’est pas là ce qui importe.
 
 <!-- id: s20-03-0048 -->
 
@@ -244,7 +244,7 @@ Simplement à retenir qu’à appliquer ces catégories, qui ne sont elles-même
 
 <!-- id: s20-03-0054 -->
 
-> *qu*’*il y a émergence du discours analytique à chaque « passage »* *...*de ce que le *discours analytique* permet de pointer comme *franchissement d’un discours à un autre*. \[*chacun des discours* H,U,M *commence par soutenir la possibilité d’un rapport sexuel (jouissance phallique) pour aboutir à l’aporie, à l’impuissance du « Plus-de-jouir »* *à atteindre la Vérité. Le discours* A *interroge la jouissance de l’Autre* (*a* <sub>→</sub> S <sub>→ ↓</sub>S<sub>1</sub> ◊ S<sub>2</sub>), *il y a donc « émergence » du discours* A, *et demande d’amour,* *chaque fois qu’on change de discours quand on vient buter sur la faille, sur l’impuissance du « Plus-de-jouir » à réaliser la jouissance du corps de l’Autre* <sub>→</sub> *quand l’Autre répond « Ce n’est pas ça ! ».*\]
+> *qu*’*il y a émergence du discours analytique à chaque « passage »...*de ce que le *discours analytique* permet de pointer comme *franchissement d’un discours à un autre*. \[*chacun des discours* H,U,M *commence par soutenir la possibilité d’un rapport sexuel (jouissance phallique) pour aboutir à l’aporie, à l’impuissance du « Plus-de-jouir »* *à atteindre la Vérité. Le discours* A *interroge la jouissance de l’Autre* (*a* <sub>→</sub> S <sub>→ ↓</sub>S<sub>1</sub> ◊ S<sub>2</sub>), *il y a donc « émergence » du discours* A, *et demande d’amour,* *chaque fois qu’on change de discours quand on vient buter sur la faille, sur l’impuissance du « Plus-de-jouir » à réaliser la jouissance du corps de l’Autre* <sub>→</sub> *quand l’Autre répond « Ce n’est pas ça ! ».*\]
 
 <!-- id: s20-03-0055 -->
 
@@ -268,7 +268,7 @@ C’est ici que *La logique de Port-Royal,* l’autre jour évoquée \[*Franço
 
 <!-- id: s20-03-0060 -->
 
-avance-t-elle cette logique, et on s’émerveille toujours de ces *dires* qui prennent un poids quelquefois bien longtemps après ...*le signe* c’est ce qui ne se définit que de *la disjonction de* 2 *substances* qui n’auraient aucune « partie commune »*,* ce que de nos jours nous appelons *« intersection »*. Ceci va nous conduire à des réponses, tout à l’heure.
+avance-t-elle cette logique, et on s’émerveille toujours de ces *dires* qui prennent un poids quelquefois bien longtemps après ...*le signe* c’est ce qui ne se définit que de *la disjonction de* 2 *substances* qui n’auraient aucune « partie commune », ce que de nos jours nous appelons *« intersection »*. Ceci va nous conduire à des réponses, tout à l’heure.
 
 <!-- id: s20-03-0061 -->
 
@@ -292,7 +292,7 @@ avance-t-elle cette logique, et on s’émerveille toujours de ces *dires* qui p
 
 <!-- id: s20-03-0065 -->
 
-Changement de discours* *: assurément c’est là qu’il est étonnant que ce que j’articule à partir du *discours psychanalytique,* eh bien *ça bouge, ça noue, ça se traverse*... Personne n’accuse le coup !
+Changement de discours: assurément c’est là qu’il est étonnant que ce que j’articule à partir du *discours psychanalytique,* eh bien *ça bouge, ça noue, ça se traverse*... Personne n’accuse le coup !
 
 <!-- id: s20-03-0066 -->
 
@@ -306,7 +306,7 @@ J’ai beau dire que cette notion de *« discours »* est à prendre comme *li
 
 <!-- id: s20-03-0068 -->
 
-comme tel *fondé sur le langage* et différenciant ses fonctions à propos de cet usage du langage \[*comme lien social*\], il semble donc comme tel n’être pas sans rapport avec ce qui dans *la linguistique* se spécifie *comme grammaire* *...*rien ne semble s’en modifier : cet usage instituant*,* nul ne le soulève, du moins à ce qui apparaît.
+comme tel *fondé sur le langage* et différenciant ses fonctions à propos de cet usage du langage \[*comme lien social*\], il semble donc comme tel n’être pas sans rapport avec ce qui dans *la linguistique* se spécifie *comme grammaire...*rien ne semble s’en modifier : cet usage instituant, nul ne le soulève, du moins à ce qui apparaît.
 
 <!-- id: s20-03-0069 -->
 
@@ -340,7 +340,7 @@ Qu’est-ce à dire, puisqu’aussi bien le succès de cette formule prend sa so
 
 > dans une linguistique qui n’est pas seulement *immanente* mais bel et bien formulée. Bref la notion qui va à s’étendre jusqu’aux fondements mêmes de la pensée scientifique,
 >
-> à s’articuler comme néguentropique ...est-ce qu’il y a là quelque chose qui ne peut pas nous faire poser question, si c’est bien ce que *d’ailleurs *: de ma *linguisterie,* je recueille *-* et légitimement *-* quand je me sers de la fonction du *signifiant* ?
+> à s’articuler comme néguentropique ...est-ce qu’il y a là quelque chose qui ne peut pas nous faire poser question, si c’est bien ce que *d’ailleurs *: de ma *linguisterie,* je recueille - et légitimement - quand je me sers de la fonction du *signifiant* ?
 
 <!-- id: s20-03-0077 -->
 
@@ -352,11 +352,11 @@ Qu’est-ce que <u>le</u> signifiant ?
 
 <!-- id: s20-03-0079 -->
 
-> ce n’est pas moi qui l’ai découvert [^24] *...*jusqu’aux Stoïciens[^25]*,* elle se reflète chez Saint-Augustin [^26], elle est à structurer en termes topologiques.
+> ce n’est pas moi qui l’ai découvert [^24] *...*jusqu’aux Stoïciens[^25], elle se reflète chez Saint-Augustin [^26], elle est à structurer en termes topologiques.
 
 <!-- id: s20-03-0080 -->
 
-En ce qui concerne le langage, *le signifiant* est d’abord qu’il a *effet de signifié*, qu’il importe de ne pas élider qu’entre les deux il y a ce qui s’écrit comme *une barre,* qu’il y a quelque chose *« de barre »* à franchir*.*
+En ce qui concerne le langage, *le signifiant* est d’abord qu’il a *effet de signifié*, qu’il importe de ne pas élider qu’entre les deux il y a ce qui s’écrit comme *une barre,* qu’il y a quelque chose *« de barre »* à franchir.
 
 <!-- id: s20-03-0081 -->
 
@@ -372,7 +372,7 @@ Il est clair que cette façon de topologiser ce qu’il en est du langage, est i
 
 <!-- id: s20-03-0084 -->
 
-Il faut déjà que je m’arrête à poser la question sous cette forme : « *un* » mis avant le terme, est en usage *d’article indéterminé*, c’est-à-dire que déjà il suppose que le signifiant peut être collectivisé, qu’on peut en faire une collection, c’est-à-dire en parler comme de quelque chose qui se totalise*.*
+Il faut déjà que je m’arrête à poser la question sous cette forme : « *un* » mis avant le terme, est en usage *d’article indéterminé*, c’est-à-dire que déjà il suppose que le signifiant peut être collectivisé, qu’on peut en faire une collection, c’est-à-dire en parler comme de quelque chose qui se totalise.
 
 <!-- id: s20-03-0085 -->
 
@@ -384,7 +384,7 @@ Puisque le linguiste sûrement aurait de la peine, me semble-t-il, à expliquer.
 
 <!-- id: s20-03-0087 -->
 
-> parce qu’il n’a pas de prédicat pour la fonder - cette collection - pour la fonder sur un « *le* » ...comme Jakobson l’a fait remarquer, et très nommément hier, ce n’est pas *le mot* qui peut le fonder ce signifiant*,* le mot n’a d’autre point où s’y faire *collection* que le dictionnaire, où il peut être rangé.
+> parce qu’il n’a pas de prédicat pour la fonder - cette collection - pour la fonder sur un « *le* » ...comme Jakobson l’a fait remarquer, et très nommément hier, ce n’est pas *le mot* qui peut le fonder ce signifiant, le mot n’a d’autre point où s’y faire *collection* que le dictionnaire, où il peut être rangé.
 
 <!-- id: s20-03-0088 -->
 
@@ -404,7 +404,7 @@ Pour vous faire sentir que « *le* » *signifiant* dans l’occasion...
 
 > dans cette sorte de dialogue tellement ambigu, qui est celui qui se fait de l’étranger
 >
-> avec une certaine « aire de compétence linguistique » comme on dit ...s’est aperçu en d’autres termes qu’avec ses Malgaches le proverbe avait un poids qui lui a semblé jouer un rôle tout à fait spécifique*.*
+> avec une certaine « aire de compétence linguistique » comme on dit ...s’est aperçu en d’autres termes qu’avec ses Malgaches le proverbe avait un poids qui lui a semblé jouer un rôle tout à fait spécifique.
 
 <!-- id: s20-03-0092 -->
 
@@ -462,7 +462,7 @@ Mais n’oublions pas qu’au départ si l’on s’est attaché - et tellement 
 
 > c’est comme s’exprime - probablement contre son cœur - Saussure.
 >
-> Il avait affaire *-* comme ça arrive n’est-ce pas ? \[*sic*\] *-* à des imbéciles, il pensait bien autre chose,
+> Il avait affaire - comme ça arrive n’est-ce pas ? \[*sic*\] - à des imbéciles, il pensait bien autre chose,
 >
 > *bien plus près du texte du* *Cratyle* [^28]quand on voit ce qu’il a dans ses tiroirs : des histoires d’*anagrammes* [^29] ...ce qui passe pour de *l’arbitraire* c’est que *les effets de signifié*, eux, sont bien plus difficiles à soupeser.
 
@@ -530,7 +530,7 @@ Au niveau de la distinction signifiant-signifié, ce qui caractérise le signifi
 
 <!-- id: s20-03-0121 -->
 
-- c’est que le collimateur ne fonctionne pas*.*
+- c’est que le collimateur ne fonctionne pas.
 
 <!-- id: s20-03-0122 -->
 
@@ -570,7 +570,7 @@ Mais un sourire bête comme chacun sait, y’a qu’à aller dans les cathédral
 
 <!-- id: s20-03-0131 -->
 
-C’est même là la seule justification - vous savez - de la semonce pascalienne [^31]*,* c’est sa seule justification.
+C’est même là la seule justification - vous savez - de la semonce pascalienne [^31], c’est sa seule justification.
 
 <!-- id: s20-03-0132 -->
 
@@ -838,7 +838,7 @@ Qu’elle - cette part - *peut jouir aussi*, ça agrée à l’autre plus ou moi
 
 <!-- id: s20-03-0195 -->
 
-Et même qu’il arrive qu’il se produise quelque chose qui dépasse ce que je viens de décrire, marqué de toute l’ambiguïté signifiante*,* à savoir que le *« jouir du corps »* est un génitif*,* donc selon que vous le faites *objectif* ou *subjectif *:
+Et même qu’il arrive qu’il se produise quelque chose qui dépasse ce que je viens de décrire, marqué de toute l’ambiguïté signifiante, à savoir que le *« jouir du corps »* est un génitif, donc selon que vous le faites *objectif* ou *subjectif *:
 
 <!-- id: s20-03-0196 -->
 
@@ -878,7 +878,7 @@ Le signifiant c’est *la cause de la jouissance *: sans le signifiant comment 
 
 <!-- id: s20-03-0205 -->
 
-Comment, sans le signifiant*,* centrer ce *quelque chose*, qui de la jouissance est *la cause matérielle* ?
+Comment, sans le signifiant, centrer ce *quelque chose*, qui de la jouissance est *la cause matérielle* ?
 
 <!-- id: s20-03-0206 -->
 

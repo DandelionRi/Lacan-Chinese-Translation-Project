@@ -530,7 +530,7 @@ C’est dans ce sens que les sublimations collectives, les sublimations socialem
 
 <!-- id: s7-07-0129 -->
 
-Ce n’est pas simplement pour la sanction qu’elle y apporte, en s’en contentant, que nous devons chercher le ressort de la sublimation. C’est dans le rapport d’une fonction *imaginaire*, et très spécialement celle à propos de laquelle peut nous servir la symbolisation du fantasme : S**◊***a**,*** la forme sous laquelle s’appuie le désir du sujet.
+Ce n’est pas simplement pour la sanction qu’elle y apporte, en s’en contentant, que nous devons chercher le ressort de la sublimation. C’est dans le rapport d’une fonction *imaginaire*, et très spécialement celle à propos de laquelle peut nous servir la symbolisation du fantasme : S◊*a,* la forme sous laquelle s’appuie le désir du sujet.
 
 <!-- id: s7-07-0130 -->
 

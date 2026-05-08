@@ -46,7 +46,7 @@ ce qui est par quoi j’ai défini *la position féminine*
 
 <!-- id: s6-13-0011 -->
 
-…il ne se peut pas qu’à propos de cet « *être et ne pas l’être* » le *phallus*, ne se soit pas élevé en vous l’écho qui véritablement s’impose même à propos de toute cette observation, du « *To be or not to be* »*,* toujours si *énigmatique*, devenu presque un canular, qui nous donne le style de la position d’HAMLET.
+…il ne se peut pas qu’à propos de cet « *être et ne pas l’être* » le *phallus*, ne se soit pas élevé en vous l’écho qui véritablement s’impose même à propos de toute cette observation, du « *To be or not to be* », toujours si *énigmatique*, devenu presque un canular, qui nous donne le style de la position d’HAMLET.
 
 <!-- id: s6-13-0012 -->
 
@@ -58,7 +58,7 @@ Bien sûr nous savons que FREUD y pensait depuis un bout de temps mais c’est p
 
 <!-- id: s6-13-0014 -->
 
-La première apparition du « *complexe d’Œdipe* », c’est dans la *Traumdeutung* en 1900*.* L’observation sur HAMLET à ce moment-là est publiée aussi en 1900 dans la forme où FREUD l’a laissée par la suite, mais en note, et c’est en 1910-1914 que cela passe dans le corps du texte. Je crois que *le thème d’* HAMLET peut nous ser­vir *à renforcer* cette sorte d’élaboration de ce *complexe de castration*. Comment le complexe s’articule-t-il dans le concret, dans le cheminement de l’analyse ? *Le thème d’* HAMLET*,* après FREUD, a été repris maintes fois, je ne ferai probablement pas le tour de *tous les auteurs* qui l’ont repris. Vous savez que *le premier* est JONES.
+La première apparition du « *complexe d’Œdipe* », c’est dans la *Traumdeutung* en 1900. L’observation sur HAMLET à ce moment-là est publiée aussi en 1900 dans la forme où FREUD l’a laissée par la suite, mais en note, et c’est en 1910-1914 que cela passe dans le corps du texte. Je crois que *le thème d’* HAMLET peut nous ser­vir *à renforcer* cette sorte d’élaboration de ce *complexe de castration*. Comment le complexe s’articule-t-il dans le concret, dans le cheminement de l’analyse ? *Le thème d’* HAMLET, après FREUD, a été repris maintes fois, je ne ferai probablement pas le tour de *tous les auteurs* qui l’ont repris. Vous savez que *le premier* est JONES.
 
 <!-- id: s6-13-0015 -->
 
@@ -66,7 +66,7 @@ Ella SHARPE a également avancé sur HAMLET un certain nombre de choses qui ne s
 
 <!-- id: s6-13-0016 -->
 
-Il s’agit aujourd’hui de commencer à défri­cher ce terrain, à nous demander ce que FREUD lui-même a voulu dire en intro­duisant HAMLET*,* et ce que démontre ce qui a pu s’en dire ultérieurement dans les œuvres d’autres auteurs. Voici le texte de FREUD qui vaut la peine d’être lu au début de cette recherche, *je le donne dans la traduction française* [^56].
+Il s’agit aujourd’hui de commencer à défri­cher ce terrain, à nous demander ce que FREUD lui-même a voulu dire en intro­duisant HAMLET, et ce que démontre ce qui a pu s’en dire ultérieurement dans les œuvres d’autres auteurs. Voici le texte de FREUD qui vaut la peine d’être lu au début de cette recherche, *je le donne dans la traduction française* [^56].
 
 <!-- id: s6-13-0017 -->
 
@@ -180,7 +180,7 @@ Car il y a une chose certaine, c’est qu’*une éla­boration symptomatique* c
 
 <!-- id: s6-13-0044 -->
 
-Je termine le peu qui reste du paragraphe de FREUD. Il ne lui en faut pas long pour jeter – de toutes façons – ce qui aura été *le pont sur l’abîme* d’HAMLET*.* À la vérité, c’est tout à fait frappant en effet qu’*Hamlet* soit resté une totale énigme littéraire jusqu’à FREUD. Cela ne veut pas dire qu’il ne l’est pas encore, mais il y a eu *ce pont*.
+Je termine le peu qui reste du paragraphe de FREUD. Il ne lui en faut pas long pour jeter – de toutes façons – ce qui aura été *le pont sur l’abîme* d’HAMLET. À la vérité, c’est tout à fait frappant en effet qu’*Hamlet* soit resté une totale énigme littéraire jusqu’à FREUD. Cela ne veut pas dire qu’il ne l’est pas encore, mais il y a eu *ce pont*.
 
 <!-- id: s6-13-0045 -->
 
@@ -224,7 +224,7 @@ Ce n’est pas en les additionnant les unes aux autres, en en faisant une sorte 
 
 <!-- id: s6-13-0055 -->
 
-Commençons d’épeler ce grand drame d*’*HAMLET*.* Si évocateur qu’ait été le texte de FREUD, il faut bien que je rappelle de quoi il s’agit. Il s’agit d’une pièce qui s’ouvre peu après la mort d’un roi qui fut \- nous dit son fils HAMLET - un roi très admirable, l’idéal du roi comme du père, et qui est mort mystérieusement. La version qui a été donnée de sa mort est qu’il a été piqué par un serpent dans un verger, le « *orchard* » qui est ici interprété par les analystes.
+Commençons d’épeler ce grand drame d*’*HAMLET. Si évocateur qu’ait été le texte de FREUD, il faut bien que je rappelle de quoi il s’agit. Il s’agit d’une pièce qui s’ouvre peu après la mort d’un roi qui fut \- nous dit son fils HAMLET - un roi très admirable, l’idéal du roi comme du père, et qui est mort mystérieusement. La version qui a été donnée de sa mort est qu’il a été piqué par un serpent dans un verger, le « *orchard* » qui est ici interprété par les analystes.
 
 <!-- id: s6-13-0056 -->
 
@@ -240,7 +240,7 @@ Bien plus encore, le père qui apparaît comme *ghost,* « *fantôme* », pour l
 
 <!-- id: s6-13-0059 -->
 
-…qu’on a versé dans son oreille durant son sommeil, un poison nommé mystérieusement « *hebenon* »*.* « *Hebenon* » qui est une sorte de mot formé, forgé, je ne sais s’il se retrouve dans un autre texte. On a essayé de lui donner *des équivalents*, un mot qui est proche et qui désigne, de la façon dont il est ordi­nairement traduit, *la jusquiame*. Il est bien certain que cet attentat *par l’oreille* ne saurait de toute façon satisfaire un toxicologue, ce qui donne par ailleurs matière à beaucoup d’interprétations à l’analyste.
+…qu’on a versé dans son oreille durant son sommeil, un poison nommé mystérieusement « *hebenon* ». « *Hebenon* » qui est une sorte de mot formé, forgé, je ne sais s’il se retrouve dans un autre texte. On a essayé de lui donner *des équivalents*, un mot qui est proche et qui désigne, de la façon dont il est ordi­nairement traduit, *la jusquiame*. Il est bien certain que cet attentat *par l’oreille* ne saurait de toute façon satisfaire un toxicologue, ce qui donne par ailleurs matière à beaucoup d’interprétations à l’analyste.
 
 <!-- id: s6-13-0060 -->
 
@@ -292,7 +292,7 @@ Mais cela, cette référence aux modernes, peut ne pas nous suffire : pourquoi l
 
 <!-- id: s6-13-0072 -->
 
-Première fibre, le père *ici sait* très bien qu’il est mort, mort *selon le vœu* de celui qui voulait prendre sa place, à savoir CLAUDIUS qui est son frère. Le crime est caché assurément pour le centre de la scène, pour le monde de la scène. C’est là un point qui est tout à fait essentiel, sans lequel bien entendu le drame d’*Hamlet* n’aurait même pas lieu de se situer et d’exister. Et c’est ceci qui dans cet article de JONES - lui accessible - *The death of Hamlet’s father* [^58]*,* est mis en relief, à savoir la différence essentielle que SHAKESPEARE a introduite par rapport à la saga primitive, où le massacre de celui qui – dans la saga – porte un nom différent mais qui est le roi, a lieu devant tous au nom d’un prétexte qui regarde en effet ses relations à son épouse.
+Première fibre, le père *ici sait* très bien qu’il est mort, mort *selon le vœu* de celui qui voulait prendre sa place, à savoir CLAUDIUS qui est son frère. Le crime est caché assurément pour le centre de la scène, pour le monde de la scène. C’est là un point qui est tout à fait essentiel, sans lequel bien entendu le drame d’*Hamlet* n’aurait même pas lieu de se situer et d’exister. Et c’est ceci qui dans cet article de JONES - lui accessible - *The death of Hamlet’s father* [^58], est mis en relief, à savoir la différence essentielle que SHAKESPEARE a introduite par rapport à la saga primitive, où le massacre de celui qui – dans la saga – porte un nom différent mais qui est le roi, a lieu devant tous au nom d’un prétexte qui regarde en effet ses relations à son épouse.
 
 <!-- id: s6-13-0073 -->
 
@@ -300,7 +300,7 @@ Ce roi est mas­sacré aussi par son frère, mais tout le monde le sait. Là, da
 
 <!-- id: s6-13-0074 -->
 
-« *There needes no ghost my lord, come from the grave to tell us this.* »*.* \[Horatio, Acte I, Scène 5, 126\]
+« *There needes no ghost my lord, come from the grave to tell us this.* ». \[Horatio, Acte I, Scène 5, 126\]
 
 <!-- id: s6-13-0075 -->
 
@@ -312,7 +312,7 @@ FREUD le cite à plusieurs reprises parce que cela fait proverbe :
 
 <!-- id: s6-13-0077 -->
 
-Et en effet s’il s’agit du thème œdipien, nous en savons, nous, déjà long. Mais il est clair que dans la construction du thème d’HAMLET*,* nous n’en sommes pas encore à le savoir. Et il y a quelque chose de significatif dans le fait que dans la construc­tion de la fable, ce soit le père qui vienne le dire, que le père, lui, le sache. Je crois que c’est là quelque chose de tout à fait essentiel.
+Et en effet s’il s’agit du thème œdipien, nous en savons, nous, déjà long. Mais il est clair que dans la construction du thème d’HAMLET, nous n’en sommes pas encore à le savoir. Et il y a quelque chose de significatif dans le fait que dans la construc­tion de la fable, ce soit le père qui vienne le dire, que le père, lui, le sache. Je crois que c’est là quelque chose de tout à fait essentiel.
 
 <!-- id: s6-13-0078 -->
 

@@ -762,7 +762,7 @@ Et nous avons le schéma :
 <!-- id: s5-08-0154 -->
 
 Et tout ce qui se réalise dans le S dépend de ce qui se pose de signifiants dans le A.
-Le A, s’il est vraiment le lieu du signifiant, doit porter quelque reflet de ce *signifiant essentiel*, que je vous repré­sente là, dans ce *zigzag*, ce que j’ai appelé ailleurs - dans mon article sur *L’instance de la lettre* [^23]*-* le « *schéma L »*.
+Le A, s’il est vraiment le lieu du signifiant, doit porter quelque reflet de ce *signifiant essentiel*, que je vous repré­sente là, dans ce *zigzag*, ce que j’ai appelé ailleurs - dans mon article sur *L’instance de la lettre* [^23]- le « *schéma L »*.
 
 <!-- id: s5-08-0155 -->
 

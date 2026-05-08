@@ -328,7 +328,7 @@ C’est justement sur cette ébauche que nous sommes en train d’appliquer la n
 
 <!-- id: s1-18-0081 -->
 
-Il faut tout de même se rapporter à ceci : l’expérience analytique est partie d’un certain nombre de manifestations cliniques parmi lesquelles *les perversions*, et quand on introduit dans *le pré*-*génital les perversions*, il faut se rappeler ce que ça veut dire. là où on les voit d’une façon claire et dégagée,
+Il faut tout de même se rapporter à ceci : l’expérience analytique est partie d’un certain nombre de manifestations cliniques parmi lesquelles *les perversions*, et quand on introduit dans *le pré-génital les perversions*, il faut se rappeler ce que ça veut dire. là où on les voit d’une façon claire et dégagée,
 
 <!-- id: s1-18-0082 -->
 
@@ -344,7 +344,7 @@ Il faut tout de même se rapporter à ceci : l’expérience analytique est par
 
 <!-- id: s1-18-0085 -->
 
-Eh bien là, il est tout à fait clair que c’est exactement le contraire, à savoir *qu’il n’y a pas une seule forme* *-* pour commencer par là - *de manifestations perverses qui n’implique*, pour être soutenue dans sa structure même, je veux dire à chaque instant de son vécu, *cette relation intersubjective*.
+Eh bien là, il est tout à fait clair que c’est exactement le contraire, à savoir *qu’il n’y a pas une seule forme* - pour commencer par là - *de manifestations perverses qui n’implique*, pour être soutenue dans sa structure même, je veux dire à chaque instant de son vécu, *cette relation intersubjective*.
 
 <!-- id: s1-18-0086 -->
 
@@ -516,7 +516,7 @@ L’*intersubjectivité* est d’abord donnée avec le maximum d’accent dans l
 
 <!-- id: s1-18-0128 -->
 
-La relation est intersubjective, essentiellement. Et, à négliger cette dimen­sion, on tombe dans le registre de cette *relation d’objet* d’où il n’y a pas moyen de sortir, et qui nous amène à des impasses théoriques tout autant que tech­niques*,* comme j’essaie de vous le montrer. Est-ce que j’ai au moins assez bien fermé ce matin une boucle pour que je puisse vous laisser là ? Cela ne veut pas dire qu’il n’y a pas une suite. Ceci se résume, pour ceux qui voudraient un grossier schéma : pour l’enfant il y a d’abord *symbolique* et *réel*, contrairement à tout ce qu’on croit, et que tout ce que nous voyons *se composer, s’enrichir, se diversifier,* dans le registre de *l’imaginaire* doit d’abord partir d’une prédominance essentielle de ces deux pôles.
+La relation est intersubjective, essentiellement. Et, à négliger cette dimen­sion, on tombe dans le registre de cette *relation d’objet* d’où il n’y a pas moyen de sortir, et qui nous amène à des impasses théoriques tout autant que tech­niques, comme j’essaie de vous le montrer. Est-ce que j’ai au moins assez bien fermé ce matin une boucle pour que je puisse vous laisser là ? Cela ne veut pas dire qu’il n’y a pas une suite. Ceci se résume, pour ceux qui voudraient un grossier schéma : pour l’enfant il y a d’abord *symbolique* et *réel*, contrairement à tout ce qu’on croit, et que tout ce que nous voyons *se composer, s’enrichir, se diversifier,* dans le registre de *l’imaginaire* doit d’abord partir d’une prédominance essentielle de ces deux pôles.
 
 <!-- id: s1-18-0129 -->
 
@@ -545,6 +545,7 @@ Je vous le démontrerai la prochaine fois. Dans cet article de FERENCZI, vous ve
 <!-- id: s1-18-0135 -->
 
 C’est tout à fait clair : ce qui est verbalisé d’une façon irruptive dans l’analyse.
+
 ## Notes
 
 [^28]: Bergler : « *Earliest stages* », *International Journal of Psychoanalysis*. XVIII,1937.

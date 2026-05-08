@@ -282,7 +282,7 @@ Il suffirait que je prenne *un des rêves de* FREUD et que je fasse un dessin au
 
 <!-- id: s1-22-0067 -->
 
-Voilà donc où nous sommes amenés, nous, par la découverte freudienne : à voir se manifester ce quelque chose qui est parole, et qui parle, en quelque sorte *à travers* *-* ou même *malgré -* le sujet. Ce quelque chose, il nous le montre et nous le dit non seulement par sa parole, mais par toutes sortes de ses autres manifestations subjectives, et allant aussi loin qu’on peut même le rêver, à savoir par son corps même le sujet émet *une parole* qui comme telle est *parole de vérité*, et *une parole* qu’il ne sait pas même qu’il émet comme signifiante, c’est-à-dire que le sujet en dit toujours plus qu’il ne veut en dire, toujours plus qu’il ne sait en dire.
+Voilà donc où nous sommes amenés, nous, par la découverte freudienne : à voir se manifester ce quelque chose qui est parole, et qui parle, en quelque sorte *à travers* - ou même *malgré -* le sujet. Ce quelque chose, il nous le montre et nous le dit non seulement par sa parole, mais par toutes sortes de ses autres manifestations subjectives, et allant aussi loin qu’on peut même le rêver, à savoir par son corps même le sujet émet *une parole* qui comme telle est *parole de vérité*, et *une parole* qu’il ne sait pas même qu’il émet comme signifiante, c’est-à-dire que le sujet en dit toujours plus qu’il ne veut en dire, toujours plus qu’il ne sait en dire.
 
 <!-- id: s1-22-0068 -->
 

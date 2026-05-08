@@ -86,7 +86,7 @@ Je vais maintenant prier Soury, puisqu’il a la bonté d’être là, de venir 
 
 <!-- id: s25-09-0021 -->
 
-Soury *-* Je l’ai fait passer.
+Soury - Je l’ai fait passer.
 
 <!-- id: s25-09-0022 -->
 
@@ -98,7 +98,7 @@ Vous l’avez fait passer… On peut voir, sur cet objet, la diffé­rence qu’
 
 <!-- id: s25-09-0024 -->
 
-Soury *-* J’y vais ?
+Soury - J’y vais ?
 
 <!-- id: s25-09-0025 -->
 

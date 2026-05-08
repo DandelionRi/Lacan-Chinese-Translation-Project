@@ -70,11 +70,11 @@ Qu’il n’y en ait qu’un, c’est ce qui constitue à proprement parler une 
 
 <!-- id: s17-11-0017 -->
 
-##### Quelqu’un... 
+##### Quelqu’un...
 
 <!-- id: s17-11-0018 -->
 
-##### je me souviens, à Vincennes, alors que j’y paraissais pour la fois 
+##### je me souviens, à Vincennes, alors que j’y paraissais pour la fois
 
 <!-- id: s17-11-0019 -->
 
@@ -82,27 +82,27 @@ Qu’il n’y en ait qu’un, c’est ce qui constitue à proprement parler une 
 
 <!-- id: s17-11-0020 -->
 
-##### ...quelqu’un a cru devoir me crier que... y avait des choses réelles qui occupaient vraiment l’assemblée, 
+##### ...quelqu’un a cru devoir me crier que... y avait des choses réelles qui occupaient vraiment l’assemblée,
 
 <!-- id: s17-11-0021 -->
 
-##### c’est à savoir tel ou tel point qu’on me rappelait, à savoir qu’on se tabassait à tel endroit, 
+##### c’est à savoir tel ou tel point qu’on me rappelait, à savoir qu’on se tabassait à tel endroit,
 
 <!-- id: s17-11-0022 -->
 
-##### plus ou moins loin du lieu où nous étions réunis, que c’est à ça qu’il fallait penser, 
+##### plus ou moins loin du lieu où nous étions réunis, que c’est à ça qu’il fallait penser,
 
 <!-- id: s17-11-0023 -->
 
-##### le tableau noir ça n’avait rien à faire avec ce *réel*. 
+##### le tableau noir ça n’avait rien à faire avec ce *réel*.
 
 <!-- id: s17-11-0024 -->
 
-##### C’est là qu’est *l’erreur*, et j’irai à dire que s’il y a une chance de *saisir quelque chose* qui s’appelle le *réel*, 
+##### C’est là qu’est *l’erreur*, et j’irai à dire que s’il y a une chance de *saisir quelque chose* qui s’appelle le *réel*,
 
 <!-- id: s17-11-0025 -->
 
-##### ce n’est pas ailleurs qu’au tableau noir, et que même ce que je peux avoir à en commenter, ce qui prend forme de parole, 
+##### ce n’est pas ailleurs qu’au tableau noir, et que même ce que je peux avoir à en commenter, ce qui prend forme de parole,
 
 <!-- id: s17-11-0026 -->
 
@@ -118,7 +118,7 @@ Et le préciser me semble possible précisément de ce point qui est le *dis­co
 
 <!-- id: s17-11-0029 -->
 
-C’est très certainement de là que prend *sa valeur exemplaire* *le cogito cartésien,* à condition bien sûr qu’on l’examine qu’on le revoit. C’est ce que peut-être, une fois de plus et rapidement, j’aurai aujourd’hui à faire*.*
+C’est très certainement de là que prend *sa valeur exemplaire* *le cogito cartésien,* à condition bien sûr qu’on l’examine qu’on le revoit. C’est ce que peut-être, une fois de plus et rapidement, j’aurai aujourd’hui à faire.
 
 <!-- id: s17-11-0030 -->
 
@@ -226,7 +226,7 @@ La trace de cette présence première de ce savoir, nous la trouvons même là o
 
 <!-- id: s17-11-0056 -->
 
-N’oublions pas que quand Descartes pose son « *Je pense, donc je suis* »*,* c’est d’avoir soutenu un temps son « *Je pense* » - de quoi ? - d’une mise en question, d’une *mise en doute* *de ce savoir* que j’appelle « *trafiqué* », de ce savoir déjà longuement élaboré de l’immixtion du Maître.
+N’oublions pas que quand Descartes pose son « *Je pense, donc je suis* », c’est d’avoir soutenu un temps son « *Je pense* » - de quoi ? - d’une mise en question, d’une *mise en doute* *de ce savoir* que j’appelle « *trafiqué* », de ce savoir déjà longuement élaboré de l’immixtion du Maître.
 
 <!-- id: s17-11-0057 -->
 
@@ -334,7 +334,7 @@ C’est bien là que ce que nous appréhendons dans le *discours psychana­lytiq
 
 <!-- id: s17-11-0083 -->
 
-*L’identification*-pivot, *l’identification majeure, c’est le trait unaire*, c’est l’être marqué **1***.*
+*L’identification*-pivot, *l’identification majeure, c’est le trait unaire*, c’est l’être marqué **1**.
 
 <!-- id: s17-11-0084 -->
 
@@ -346,7 +346,7 @@ C’est ceci que rappellent les formules ici que j’ai inscrites au tableau.
 
 <!-- id: s17-11-0086 -->
 
-Quelque part s’isole ce quelque chose que *le cogito s*eulement marque, du *trait unaire* lui aussi, qu’on peut supposer au « *Je pense* » pour dire « *donc je suis* »*.*
+Quelque part s’isole ce quelque chose que *le cogito s*eulement marque, du *trait unaire* lui aussi, qu’on peut supposer au « *Je pense* » pour dire « *donc je suis* ».
 
 <!-- id: s17-11-0087 -->
 
@@ -354,7 +354,7 @@ C’est déjà marquer ici *l’effet de division*, d’un « *je suis* » qui 
 
 <!-- id: s17-11-0088 -->
 
-C’est en fonction de cette *position première* du « *Je suis* »*,* d’ailleurs, que peut seulement s’écrire le « *Je pense* »*.*
+C’est en fonction de cette *position première* du « *Je suis* », d’ailleurs, que peut seulement s’écrire le « *Je pense* ».
 
 <!-- id: s17-11-0089 -->
 
@@ -362,7 +362,7 @@ Il y a longtemps, vous vous souvenez comment je l’écris : « *Je pense* : *
 
 <!-- id: s17-11-0090 -->
 
-Il se supporte infiniment mieux de porter sa caractéristique de *savoir*, qui ne va pas au-delà du « *je suis* » marqué du 1*,* du singulier, de l’unique, - de quoi ? - de cet effet qui est « *Je* *pense* »*.*
+Il se supporte infiniment mieux de porter sa caractéristique de *savoir*, qui ne va pas au-delà du « *je suis* » marqué du 1, du singulier, de l’unique, - de quoi ? - de cet effet qui est « *Je* *pense* ».
 
 <!-- id: s17-11-0091 -->
 
@@ -398,7 +398,7 @@ L’effet du langage est rétroactif précisément en ceci que c’est à mesure
 
 <!-- id: s17-11-0099 -->
 
-####### Aussi bien je ne ferai qu’indiquer au passage - nous avons aujourd’hui plus loin à pousser - qu’à seulement l’écrire ainsi : 
+####### Aussi bien je ne ferai qu’indiquer au passage - nous avons aujourd’hui plus loin à pousser - qu’à seulement l’écrire ainsi :
 
 <!-- id: s17-11-0100 -->
 
@@ -414,7 +414,7 @@ Bien sûr qui sait d’où il emprunte sa très stricte définition de la propor
 
 <!-- id: s17-11-0103 -->
 
-Il est curieux, il est intéressant, il est représentatif qu’il ait fallu attendre *la série de Fibon­nacci,* pour que ce qui est donné dans une appréhension de cette *proportion* qui s’appelle « *moyenne proportionnelle »,* et qui est celle même que je réécris là, dont vous savez que j’ai fait usage quand j’ai parlé de *D’un Autre à l’autre* [^47]*.*
+Il est curieux, il est intéressant, il est représentatif qu’il ait fallu attendre *la série de Fibon­nacci,* pour que ce qui est donné dans une appréhension de cette *proportion* qui s’appelle « *moyenne proportionnelle »,* et qui est celle même que je réécris là, dont vous savez que j’ai fait usage quand j’ai parlé de *D’un Autre à l’autre* [^47].
 
 <!-- id: s17-11-0104 -->
 

@@ -15,7 +15,7 @@ et au mode sous lequel j’espère y satisfaire.
 
 Pourtant il me faut d’abord me présenter devant vous - encore que la plupart ici, mais non pas tous, me connaissent -
 car les circonstances font qu’il me paraît approprié d’y introduire la question préalable, à vous présenter ce sujet :
-« *En quoi y suis-je autorisé* *?*  »
+« *En quoi y suis-je autorisé?*  »
 
 <!-- id: s11-01-0003 -->
 
@@ -112,8 +112,7 @@ n’est pas ici anecdotique.
 <!-- id: s11-01-0021 -->
 
 Et c’est bien pourquoi je pense que vous ne verrez de ma part ni recours à l’anecdote, ni polémique d’aucune sorte si je pointe ceci qui est un fait : c’est que mon enseignement - désigné comme tel - a subi de la part d’un organisme...
-qui s’appelle le *Comité exécutif* de cette organisation interna­tionale qui s’appelle l’*International Psycho-analytical Society*
-*...*une censu­re qui n’est point ordinaire. Puisqu’il ne s’agit de rien de moins que de faire de la proscription de cet enseignement…
+qui s’appelle le *Comité exécutif* de cette organisation interna­tionale qui s’appelle l’*International Psycho-analytical Society...*une censu­re qui n’est point ordinaire. Puisqu’il ne s’agit de rien de moins que de faire de la proscription de cet enseignement…
 
 <!-- id: s11-01-0022 -->
 
@@ -223,7 +222,7 @@ de ce qu’on appelle « *l’humour* », qui en cette occasion n’est que *l
 
 Je ne crois pas que cette remarque soit même *hors du champ* de ce que j’apporte *concernant les fondements de la psychanalyse*,
 car « *fonde­ment* » *a plus d’un sens* et je n’aurais point besoin d’évoquer la *Kabbale* pour rappeler qu’il y désigne un des modes
-de la manifestation qui est proprement dans ce registre identifié au *pudendum* [^2]*,* et qu’il serait tout de même extraordinaire
+de la manifestation qui est proprement dans ce registre identifié au *pudendum* [^2], et qu’il serait tout de même extraordinaire
 que dans *un discours analytique* ce soit au *pudendum* que nous nous arrêtions. Les *« fonde­ments »*, ici sans doute prendraient la forme
 de « *dessous* » si ces « *dessous* » n’étaient pas déjà quelque peu à l’air.
 
@@ -382,7 +381,7 @@ qu’est-ce qui nous fait dire que l’al­chimie, après tout, n’est pas une 
 à mes yeux est décisif, c’est que dans l’alchimie, la pureté de l’âme de l’opérateur était, comme telle et de façon dénom­mée,
 un élément *essentiel* en l’affaire. Cette *remarque* n’est pas non plus *accessoire, contingente.* Vous le sentez, puisque peut-être va-t-on soulever qu’il s’agit de quelque chose d’analogue concernant *la présence de l’analyste* dans le *Grand œuvre analytique*
 et que c’est peut-être ça qui est cherché dans notre psychana­lyse didactique.
-\[*la psychanalyse confronte un certain sujet* (S) *et un certain objet* (*a*) *dans un rapport impossible* (**◊**) : S **◊** *a, dispositif où l’analyste(support du a) interroge l’analysant* (S) *sur son désir*\]
+\[*la psychanalyse confronte un certain sujet* (S) *et un certain objet* (*a*) *dans un rapport impossible* (◊) : S ◊ *a, dispositif où l’analyste(support du a) interroge l’analysant* (S) *sur son désir*\]
 
 <!-- id: s11-01-0070 -->
 
@@ -544,6 +543,7 @@ Nommément :
 Je me suis promis, cette année, de mettre un terme fixe à deux heures moins vingt à mon propos. Je le tiendrai, je pense, fidèlement.
 Je me réserve, par ce mode d’interrompre mon exposé en un point fixe, de laisser ensuite, pour tous ceux qui seront en mesure
 de rester ici, n’ayant point à chercher tout de suite ailleurs l’accrochage à une autre occupa­tion, de me poser les questions que leur auront suggéré, ce jour-là les termes de mon exposé.
+
 ## Notes
 
 [^1]: « *Variantes de la cure type* », in l’*Encyclopédie médico-chirurgicale, Psychiatrie, Tome III , Fév.* 1955. Supprimé en 1960. *Écrits* p.323.

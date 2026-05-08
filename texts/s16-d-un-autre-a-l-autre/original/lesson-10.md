@@ -50,7 +50,7 @@ C’est ce que j’ai laissé ouvert, suspendu, mais pourtant avancé en démont
 
 <!-- id: s16-10-0012 -->
 
-### J’ai écrit aussi - à la prendre à son origine - *la série* qui résulte de prendre les choses *dans l’autre sens.* 
+### J’ai écrit aussi - à la prendre à son origine - *la série* qui résulte de prendre les choses *dans l’autre sens.*
 
 <!-- id: s16-10-0013 -->
 
@@ -342,7 +342,7 @@ Alors il vaut bien de dire, puisque comme vous le voyez je viens d’éviter que
 
 <!-- id: s16-10-0083 -->
 
-Non, hein, ça ne fait rien, ils sont restés sourds, et « 0*, c’est* 0 *au regard de l’infini* »  Foutaises ! 
+Non, hein, ça ne fait rien, ils sont restés sourds, et « 0*, c’est* 0 *au regard de l’infini* »  Foutaises !
 
 <!-- id: s16-10-0084 -->
 

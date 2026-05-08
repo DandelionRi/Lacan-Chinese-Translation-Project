@@ -524,7 +524,7 @@ La mathématique grecque montre très bien les points, où même là où elle av
 
 <!-- id: s19b-02-0126 -->
 
-Et que s'il est aisé, à partir du *calcul infinitésimal*, ou pour mieux dire, de sa réduction parfaite, de situer, de classer \- mais après coup *-* ce qu'il en était à la fois des procédés de démonstration de la mathématique grecque et aussi des impasses qui leur étaient à l'avance données comme parfaitement repérables après coup, s'il en est ainsi, nous voyons qu'il n'est absolument pas vrai de parler du *mathème* comme de quelque chose qui d'aucune façon serait détaché de l'exigence véridique.
+Et que s'il est aisé, à partir du *calcul infinitésimal*, ou pour mieux dire, de sa réduction parfaite, de situer, de classer \- mais après coup - ce qu'il en était à la fois des procédés de démonstration de la mathématique grecque et aussi des impasses qui leur étaient à l'avance données comme parfaitement repérables après coup, s'il en est ainsi, nous voyons qu'il n'est absolument pas vrai de parler du *mathème* comme de quelque chose qui d'aucune façon serait détaché de l'exigence véridique.
 
 <!-- id: s19b-02-0127 -->
 
@@ -744,7 +744,7 @@ court sans doute, mais non sans varié­té \...des *jouissances* que l'on quali
 
 <!-- id: s19b-02-0178 -->
 
-Que ceci soit en relation étroite avec cette curieuse *énigme* qui fait 
+Que ceci soit en relation étroite avec cette curieuse *énigme* qui fait
 
 <!-- id: s19b-02-0179 -->
 
@@ -808,7 +808,7 @@ pas des discours historiques, pas de la mythologie,
 >
 > Il n'est jamais si bien, ce discours \[*Disc. U*\], qu'au niveau des savoirs qui ne veulent plus rien *dire* pour personne,
 >
-> puisque *le discours universitaire se constitue de faire du savoir, un semblant* \[*le Disc. U escamote le* (\...) *du Réel*\] \...il s'agit de *discours* qui constituent là d'une façon tangible quelque chose de *réel*. \[*les Disc. H,U,M, escamotent, chacun à sa manière, l'ab-sens* (\...) *du Réel, seul le Disc. A, en suspendant le sens* S**~1~** **◊** S**~2~***, montre :* ☞ *le* (\...), *le bord du trou dans le savoir* \]
+> puisque *le discours universitaire se constitue de faire du savoir, un semblant* \[*le Disc. U escamote le* (\...) *du Réel*\] \...il s'agit de *discours* qui constituent là d'une façon tangible quelque chose de *réel*. \[*les Disc. H,U,M, escamotent, chacun à sa manière, l'ab-sens* (\...) *du Réel, seul le Disc. A, en suspendant le sens* S<sub>1</sub> ◊ S<sub>2</sub>, montre :* ☞ *le* (\...), *le bord du trou dans le savoir* \]
 
 <!-- id: s19b-02-0194 -->
 
@@ -970,7 +970,7 @@ Et qu'il y ait quelque part un brave petit coquin de l'université qui trouve qu
 
 <!-- id: s19b-02-0230 -->
 
-Il s'agit de ce qu'on appelle en mathématique plutôt - chose curieuse, c'est une rencontre - une opération de générateur*.*
+Il s'agit de ce qu'on appelle en mathématique plutôt - chose curieuse, c'est une rencontre - une opération de générateur.
 
 <!-- id: s19b-02-0231 -->
 

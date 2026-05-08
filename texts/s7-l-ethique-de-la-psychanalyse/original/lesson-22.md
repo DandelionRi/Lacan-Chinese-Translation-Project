@@ -152,7 +152,7 @@ Au-delà de cet ordre - qu’il ne nous est déjà pas si facile de penser, d’
 
 <!-- id: s7-22-0037 -->
 
-Ce dont il s’agit, c’est de ce que la pensée désigne comme *le crime* en ce sens, en tant - proprement, pour user de termes qui lui donnent son poids *-* qu’il ne respecte pas *l’ordre naturel*, et que la pensée de SADE peut aller jusqu’à forger *cet excès* *vraiment singulier, inédit*...
+Ce dont il s’agit, c’est de ce que la pensée désigne comme *le crime* en ce sens, en tant - proprement, pour user de termes qui lui donnent son poids - qu’il ne respecte pas *l’ordre naturel*, et que la pensée de SADE peut aller jusqu’à forger *cet excès* *vraiment singulier, inédit*...
 
 <!-- id: s7-22-0038 -->
 

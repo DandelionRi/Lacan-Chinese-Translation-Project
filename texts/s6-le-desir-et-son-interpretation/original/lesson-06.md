@@ -168,7 +168,7 @@ Mais essentiellement, je dirais *dans la position logique des termes,* est-ce qu
 
 <!-- id: s6-06-0041 -->
 
-Nous voici donc amenés à reprendre par l’autre bout, c’est-à-dire par celui qui n’est pas donné dans les rêves, à interroger de plus près ce que veut dire, ce que signifie le désir humain. Et cette *formule*, je veux dire cet *algorithme* : S **◊** *a ,* le S *affronté, mis en présence, mis en face de* *(a)*, de *l’objet*…
+Nous voici donc amenés à reprendre par l’autre bout, c’est-à-dire par celui qui n’est pas donné dans les rêves, à interroger de plus près ce que veut dire, ce que signifie le désir humain. Et cette *formule*, je veux dire cet *algorithme* : S ◊ *a ,* le S *affronté, mis en présence, mis en face de* *(a)*, de *l’objet*…
 
 <!-- id: s6-06-0042 -->
 
@@ -426,7 +426,7 @@ Ce n’est pas tellement tel que le sujet dépend essentiellement : parce qu’i
 
 <!-- id: s6-06-0104 -->
 
-Qu’en tous cas cet évanouissement, ce quelque chose que quelqu’un qui après mon dernier séminaire a appelé, en parlant ensuite avec moi : cette « *ombilication du sujet au niveau de son vouloir* ». Et je recueille très volontiers cette image de ce que j’ai voulu vous faire sentir autour du S en présence de *l’objet(a)*. \[S **◊** *a*\]
+Qu’en tous cas cet évanouissement, ce quelque chose que quelqu’un qui après mon dernier séminaire a appelé, en parlant ensuite avec moi : cette « *ombilication du sujet au niveau de son vouloir* ». Et je recueille très volontiers cette image de ce que j’ai voulu vous faire sentir autour du S en présence de *l’objet(a)*. \[S ◊ *a*\]
 
 <!-- id: s6-06-0105 -->
 
@@ -706,7 +706,7 @@ Nous allons voir en effet que cette *identification à l’image du père* n’e
 
 <!-- id: s6-06-0174 -->
 
-> je veux dire dans les rapports, dans cet affrontement du S avec le *(a)* de *l’objet* \[S **◊** *a*\]
+> je veux dire dans les rapports, dans cet affrontement du S avec le *(a)* de *l’objet* \[S ◊ *a*\]
 
 <!-- id: s6-06-0175 -->
 
@@ -758,7 +758,7 @@ Cette nécessité, ce développement est ce par quoi il vient s’inscrire dans 
 
 <!-- id: s6-06-0187 -->
 
-*i(a)<sub>I</sub>* **◊** *a*(S)
+*i(a)<sub>I</sub>* ◊ *a*(S)
 
 <!-- id: s6-06-0188 -->
 

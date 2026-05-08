@@ -60,7 +60,7 @@ si essentiel, qu’il tient dans le choix des mots de la théorie analytique une
 
 <!-- id: s4-11-0010 -->
 
-Disons-le tout de suite, la triade *frustration*-*agression*-*régression* est stric­tement, si elle est donnée comme cela, est bien loin d’avoir
+Disons-le tout de suite, la triade *frustration-agression-régression* est stric­tement, si elle est donnée comme cela, est bien loin d’avoir
 le caractère séduisant de signification plus ou moins immédiatement compréhensible. Il suffit de s’en approcher un instant
 
 <!-- id: s4-11-0011 -->
@@ -70,7 +70,7 @@ pour s’apercevoir qu’elle n’est pas en elle-même compré­hensible, qu’
 <!-- id: s4-11-0012 -->
 
 Il n’y a aucune raison de ne pas donner n’importe quelle autre suite, c’est tout à fait au hasard que je vous dirais :
-*dépression*-*contrition*, je pourrais en inventer bien d’autres.
+*dépression-contrition*, je pourrais en inventer bien d’autres.
 
 <!-- id: s4-11-0013 -->
 
@@ -296,7 +296,7 @@ que de distinguer le fait qu’au lieu de le taper sur le dos, on lui donne une 
 <!-- id: s4-11-0052 -->
 
 Rappelons bien ceci encore, puisqu’il s’agit pour l’instant d’éclairer les contours. Vous avez peut–être vu sortir une espèce
-de cahier paru en 1939, comme quatrième numéro de l’année de l’*International journal of Psycho*-*Analysis *. Il semble qu’on se soit dit « *Il y a quand même quelque chose dans ce langage* », et il semble que quelques personnes aient été appelées à répondre à la commande. Je me base sur l’article de M. LOEWENSTEIN marqué d’une prudente distance non sans habileté, qui consiste à rappeler
+de cahier paru en 1939, comme quatrième numéro de l’année de l’*International journal of Psycho-Analysis *. Il semble qu’on se soit dit « *Il y a quand même quelque chose dans ce langage* », et il semble que quelques personnes aient été appelées à répondre à la commande. Je me base sur l’article de M. LOEWENSTEIN marqué d’une prudente distance non sans habileté, qui consiste à rappeler
 que M. De SAUSSURE a enseigné qu’il y a un *signifiant* et un *signifié*, bref à montrer qu’on est un peu au courant,
 ceci absolument inarticulé à notre expérience, si ce n’est qu’il faut songer à ce qu’on dit, de sorte que restant à ce niveau d’élaboration, je lui pardonne de ne pas citer mon enseignement, parce que nous en sommes beaucoup plus loin.
 
@@ -341,7 +341,7 @@ Quand je vous ai dit : l’enfant écrase sa déception dans sa saturation et so
 
 <!-- id: s4-11-0060 -->
 
-Il nous faut maintenant faire un *jump***,** car bien entendu nous ferions quelque chose de tout à fait artificiel si nous nous contentions de faire remarquer qu’à partir de maintenant tout va tout seul, à savoir que dans cette ouverture donnée au *signifiant* par l’entrée *imaginaire*, à savoir toutes les relations qui vont maintenant s’établir au *corps propre* par l’intermédiaire de la relation spéculaire, vous voyez très bien comment peut entrer en jeu l’avènement dans le signifiant de toutes appartenances du corps.
+Il nous faut maintenant faire un *jump**,* car bien entendu nous ferions quelque chose de tout à fait artificiel si nous nous contentions de faire remarquer qu’à partir de maintenant tout va tout seul, à savoir que dans cette ouverture donnée au *signifiant* par l’entrée *imaginaire*, à savoir toutes les relations qui vont maintenant s’établir au *corps propre* par l’intermédiaire de la relation spéculaire, vous voyez très bien comment peut entrer en jeu l’avènement dans le signifiant de toutes appartenances du corps.
 
 <!-- id: s4-11-0061 -->
 
@@ -352,7 +352,7 @@ que l’expérience analytique a découverte au niveau du *symbolisme anal*, ce 
 
 <!-- id: s4-11-0062 -->
 
-Je vous ai parlé de *jump***,** c’est parce qu’il s’agit maintenant de voir comment s’introduit dans cette dialectique de *la frustration*,
+Je vous ai parlé de *jump**,* c’est parce qu’il s’agit maintenant de voir comment s’introduit dans cette dialectique de *la frustration*,
 *le phallus*. Là encore défendez-vous des exigences vaines d’une genèse naturelle, et si vous voulez déduire d’une quelconque constitution des organes génitaux, le fait que *le phallus* joue un rôle absolument prévalant dans tout le symbolique génital.
 Simplement vous n’y arriverez jamais : vous vous livrerez aux contorsions que j’espère vous montrer dans leur détail,
 celles de M. JONES pour essayer de donner un commen­taire satisfaisant à la phase phallique telle que FREUD l’a affirmé comme cela tout brutalement, et d’essayer de nous montrer comment il se fait que *le phallus* qu’elle n’a pas,
@@ -469,7 +469,7 @@ comme M. ABRAHAM l’admet implicitement puisqu’il le cite comme exemple
 ...indique que cet *objet symbolique* manque à la petite fille, elle manifeste par là ce manque, et c’est sans doute à ce titre
 qu’elle l’a d’abord donné à celui à qui il ne manque pas, pour montrer ce que celle à qui il manque - la mère - a à en faire,
 et pour bien marquer ce *en quoi elle peut le désirer* - précisément comme l’expérience le prouve - *pour satisfaire celle à qui il manque*,
-car si vous lisez *l’article de* FREUD *sur la sexualité féminine* [^25], vous apprendrez que ce n’est pas simplement de manquer du *phallus* qu’il s’agit quant à la petite fille**,** mais il s’agit bel et bien de le donner ou de donner son équivalent - tout comme si elle était un petit garçon - à sa mère.
+car si vous lisez *l’article de* FREUD *sur la sexualité féminine* [^25], vous apprendrez que ce n’est pas simplement de manquer du *phallus* qu’il s’agit quant à la petite fille, mais il s’agit bel et bien de le donner ou de donner son équivalent - tout comme si elle était un petit garçon - à sa mère.
 
 <!-- id: s4-11-0084 -->
 

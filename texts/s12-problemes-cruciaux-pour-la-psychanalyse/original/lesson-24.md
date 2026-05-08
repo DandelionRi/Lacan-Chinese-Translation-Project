@@ -412,7 +412,7 @@ Et le suivant, l’ayant rencontré dans la rue, elle attend ce qu’il attend, 
 
 <!-- id: s12-24-0099 -->
 
-C’est-à-dire la femme qui a été le témoin de la scène initiale. 
+C’est-à-dire la femme qui a été le témoin de la scène initiale.
 
 <!-- id: s12-24-0100 -->
 
@@ -668,7 +668,7 @@ Mais, ça… nous savons tous qu’aucun secteur de la vie américaine… qu’i
 
 <!-- id: s12-24-0154 -->
 
-LACAN 
+LACAN
 
 <!-- id: s12-24-0155 -->
 

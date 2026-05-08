@@ -8,12 +8,12 @@
 
 Je continue en essayant de vous mener à *la fonction*, dans notre découverte analytique, *de la répétition*. Je tends à vous marquer que
 ce n’est pas là notion facile à concevoir dans l’accession, dans la pratique que nous lui donnons. *Wiederholung* vous ai-je dit, *et déjà assez,* pour accentuer ce qu’elle implique, *dans la référence étymologique de « haler » à nouveau,* de connotation lassante. « *Tirer* » quoi ?
-Peut*-*être, jouant sur l’ambiguïté du mot « *tirer* » en français : « *tirer au sort* », ce *Zwang* \[contrainte\] nous dirigerait alors vers quelque chose comme la carte forcée, et après tout s’il n’y a qu’une seule carte dans le jeu, je ne puis en tirer d’autre !
+Peut-être, jouant sur l’ambiguïté du mot « *tirer* » en français : « *tirer au sort* », ce *Zwang* \[contrainte\] nous dirigerait alors vers quelque chose comme la carte forcée, et après tout s’il n’y a qu’une seule carte dans le jeu, je ne puis en tirer d’autre !
 
 <!-- id: s11-06-0002 -->
 
 Le caractère d’*ensemble* - *au sens mathématique du terme -* qu’a la bat­terie signifiante, qui l’oppose à l’indéfinité du nombre, du nombre entier par exemple, peut nous permettre de concevoir un schéma où cette fonction de la carte forcée tout de suite s’applique.
-Si le sujet est le sujet du signifiant *-* déterminé par lui *-* on peut imagi­ner le réseau synchronique tel qu’il donne, dans la diachronie, des *effets préférentiels*. Et entendez bien qu’il ne s’agit même pas là *d’effets statistiques imprévisibles* mais que c’est la *structure* même
+Si le sujet est le sujet du signifiant - déterminé par lui - on peut imagi­ner le réseau synchronique tel qu’il donne, dans la diachronie, des *effets préférentiels*. Et entendez bien qu’il ne s’agit même pas là *d’effets statistiques imprévisibles* mais que c’est la *structure* même
 de ce réseau qui en implique les retours. *C’est là la notion qu’a pour nous*, à travers l’élucidation de ce que nous appelons les « *stratégies* », *c’est là la figure que prend pour nous* l’αύτόματον \[automaton\] d’ARISTOTE. Et aussi bien, c’est par *automatique* que nous traduisons
 ce *Zwang* de la *Wiederholung, Zwang* : *la compulsion de répétition*.
 
@@ -29,8 +29,8 @@ Je vous donnerai, en son temps, les faits qui suggèrent que dans le fait, dans 
 
 <!-- id: s11-06-0005 -->
 
-Dans l’effet de *remémoration* disons*-*nous - *mémorialisation* insistais*-*je plus précisément - qui consiste pour le sujet à *raconter son histoi­re*,
-il y a là *-* latente *-* ce qui commande à cette *syntaxe*, pour avancer, de se faire de plus en plus serrée par rapport *-* à quoi ? *–*
+Dans l’effet de *remémoration* disons-nous - *mémorialisation* insistais-je plus précisément - qui consiste pour le sujet à *raconter son histoi­re*,
+il y a là - latente - ce qui commande à cette *syntaxe*, pour avancer, de se faire de plus en plus serrée par rapport - à quoi ? *–*
 à ce que FREUD au départ de sa description de la résistance psychique nous appelle un « *noyau* ». Que ce *noyau* se présente d’abord comme se référant à quelque chose de « *traumatique* » n’est après tout qu’une approximation.
 
 <!-- id: s11-06-0006 -->
@@ -64,9 +64,9 @@ et *le feu aux draps -* il y a là le même rapport…
 
 > d’événement insensé, d’ac­cident, de *mauvaise fortune* à ce dont il s’agit de poignant dans le sens,
 >
-> quoique *voilé,* qu’il y a dans ce : « *Père, ne vois*-*tu pas, je brûle ?* »
+> quoique *voilé,* qu’il y a dans ce : « *Père, ne vois-tu pas, je brûle ?* »
 > …il y a le même rapport entre l’un et l’autre, que dans ce à quoi nous avons affaire dans une *répétition* qui pour nous se figure
-> dans l’appellation de « *névrose de destinée* » de « *névrose d’échec* » : ce qui est manqué n’est pas *adaptation*, mais τύχη \[tuché\]*,* « *rencontre* ».
+> dans l’appellation de « *névrose de destinée* » de « *névrose d’échec* » : ce qui est manqué n’est pas *adaptation*, mais τύχη \[tuché\], « *rencontre* ».
 
 <!-- id: s11-06-0012 -->
 
@@ -148,14 +148,14 @@ Alors, qu’il soit bien entendu que ce sur quoi j’ai voulu articuler les chos
 
 <!-- id: s11-06-0029 -->
 
-> les bras levés, « *quel malheur ! Qu’est*-*ce qui est arrivé ! Quelle erreur ! Quelle bêtise ! Quel idiot que celui qui s’est mis à dormir !* »
+> les bras levés, « *quel malheur ! Qu’est-ce qui est arrivé ! Quelle erreur ! Quelle bêtise ! Quel idiot que celui qui s’est mis à dormir !* »
 > ...et la conscience qui se *retrame*, qui se sait vivre tout cela, disons *comme un cau­chemar*, mais qui tout de même se rattrape à elle-même : « *C’est moi qui vis tout ça, je n’ai pas besoin de me pincer pour savoir que je ne rêve pas* ».
 
 <!-- id: s11-06-0030 -->
 
 *Et cette schize n’est là encore que représentant l’autre*, plus profonde et qui s’élude dans ce repérage, *cette schize qui dans le rêve révèle le sujet*
 à cette machinerie du rêve, à l’image de l’enfant qui s’approche avec ce regard plein de reproche, *et d’autre part ce en quoi le sujet choit* :
-*Invocation *: *voix* de l’enfant \[*(a)* « *voix » : « pulsion invocante »*\], sollicitation du *regard *: « *Père, ne vois*-*tu pas*... » \[*(a) « regard  » : pulsion scopique*\].
+*Invocation *: *voix* de l’enfant \[*(a)* « *voix » : « pulsion invocante »*\], sollicitation du *regard *: « *Père, ne vois-tu pas*... » \[*(a) « regard  » : pulsion scopique*\].
 
 <!-- id: s11-06-0031 -->
 
@@ -246,8 +246,8 @@ la prétention de recouvrir l’entier champ de l’expérience où il vient à 
 
 <!-- id: s11-06-0048 -->
 
-Même ce qui peut être dans cet *entre*-*deux* que nous ouvre l’appréhen­sion de l’inconscient, cet *entre*-*deux* - je vous l’ai dit,
-et c’est pour ça que je l’ai accentué au début de mon discours cette année - cet *entre*-*deux* ne nous intéresse que pour autant
+Même ce qui peut être dans cet *entre-deux* que nous ouvre l’appréhen­sion de l’inconscient, cet *entre-deux* - je vous l’ai dit,
+et c’est pour ça que je l’ai accentué au début de mon discours cette année - cet *entre-deux* ne nous intéresse que pour autant
 qu’il nous est désigné par la consigne freudienne comme ce dont le sujet, comme tel, a à prendre possession.
 *Et il ne peut en prendre, de possession, que* dans ces lignes de départ, celles précisément *où il le cerne comme sujet schizé*.
 
@@ -286,7 +286,7 @@ Vous y voyez combien elles sont fragiles les références adapta­tives, au moin
 
 Mais aussi bien le problème n’est pas là. *Le problème le plus radical, le plus foncier, du mimétisme*, si aussi bien il nous faut le rapporter
 à quelque puissance formative attribuée à l’organisme même qui nous en montre les manifestations, c’est qu’il conviendrait d’abord que nous puissions arriver à concevoir par quel circuit cette force orga­nique pourrait se trouver en position de « *voyant* »,
-non seulement sur *le corps lui*-*même* qu’il s’agit de *mimétiser*, à savoir la forme de son propre orga­nisme, mais \[aussi\] *sa relation au milieu* dans lequel il s’agit : soit qu’il s’y distingue, soit au contraire qu’il s’y confonde.
+non seulement sur *le corps lui-même* qu’il s’agit de *mimétiser*, à savoir la forme de son propre orga­nisme, mais \[aussi\] *sa relation au milieu* dans lequel il s’agit : soit qu’il s’y distingue, soit au contraire qu’il s’y confonde.
 
 <!-- id: s11-06-0057 -->
 
@@ -294,7 +294,7 @@ Et pour tout dire - comme le rappelle avec beaucoup de pertinence, voire d’él
 ou telle forme du mimétisme et plus spécialement celles qui peuvent nous évoquer leur rapport à la fonction des *yeux*,
 à savoir les *ocelles*, il s’agit peut-être de comprendre que si les *ocelles* impressionnent - c’est un fait qu’elles le font - le pré­dateur
 ou la victime présumée qui vient à les regarder, est-ce à dire *que ce soit par leur ressemblance avec des yeux,*
-*ou les yeux ne sont*-*ils pas fascinants que par leur relation avec la forme des ocelles* ?
+*ou les yeux ne sont-ils pas fascinants que par leur relation avec la forme des ocelles* ?
 
 <!-- id: s11-06-0058 -->
 
@@ -358,7 +358,7 @@ Ce côté *omnivoyeur* est bien celui, après tout, de la satisfaction d’une f
 *qu’on ne lui montre pas.* *Le monde est omnivoyeur*, mais il n’est pas *exhibitionniste.* Quand il commence à le provo­quer,
 c’est là que commence le sentiment d’étrangeté. *Mais qu’est-ce là, sinon justement l’élision de ce regard, l’élision de ceci que non seulement*
 *ça regarde mais que ça montre*, et dans le champ du rêve, ce qui caractérise les images oniriques c’est que ça montre.
-*« Ça montre »,* mais là encore, quelque forme *d’élision, de glissement du sujet,* se démontre*.*
+*« Ça montre »,* mais là encore, quelque forme *d’élision, de glissement du sujet,* se démontre.
 
 <!-- id: s11-06-0069 -->
 
@@ -407,7 +407,7 @@ et nous y réfère dans une note non intégrée à son texte.
 <!-- id: s11-06-0078 -->
 
 C’est pour cela que le papillon peut, s’il n’est pas TCHOANG TSEU mais *L’Homme aux loups,* lui inspirer la terreur phobique
-d’y reconnaitre dans *le battement* - qui n’est pas tellement loin du battement de losange de la causation \[**◊**\] - la rayure primitive
+d’y reconnaitre dans *le battement* - qui n’est pas tellement loin du battement de losange de la causation \[◊\] - la rayure primitive
 marquant son être, atteint pour la première fois par la griffe du désir.
 
 <!-- id: s11-06-0079 -->
@@ -423,6 +423,7 @@ les phénomènes pour nous terminaux, butées de notre expérience de la castrat
 qui se réduit à *une fonction punctiforme, évanescente* de sa propre nature, qu’il laisse le sujet dans l’ignorance tel­lement caractéristique
 de tout le progrès de la pensée, de cette voie constituée par la recherche philosophique de ce qu’il y a au-delà de l’apparence,
 qu’elle a toujours manqué : le caractère clé du phénomène entr’aperçu de *la castration*.
+
 ## Notes
 
 [^37]: δυστυχία \[dustuchia\] : rencontre malheureuse, « *malencontre* » du réel, εὐτυχία \[eutuchia\] : rencontre heureuse.

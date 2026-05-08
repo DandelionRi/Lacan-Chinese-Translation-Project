@@ -222,7 +222,7 @@ C’est au niveau du *manque à être* de la mère que s’ouvre pour Hans le dr
 
 <!-- id: s6-24-0053 -->
 
-Ce moment, en tant qu’il est relation du désir, qu’il est quelque chose qui va - dans la structure du fantasme \[S**◊***a*\], dans l’opposition S à *a -* donner à ce S :
+Ce moment, en tant qu’il est relation du désir, qu’il est quelque chose qui va - dans la structure du fantasme \[S◊*a*\], dans l’opposition S à *a -* donner à ce S :
 
 <!-- id: s6-24-0054 -->
 
@@ -298,7 +298,7 @@ Elle prend la place de ce que nous pourrions appeler d’un terme anglais « *a
 
 <!-- id: s6-24-0072 -->
 
-…*l’hystérique* s’institue, se présente elle-même dans l’occasion, comme le ressort de la machine, celle qui les suspend et les situe l’une par rapport à l’autre comme des sortes de *marionnettes* où elle a elle-même à se soutenir dans ce rapport dédoublé qui est celui S**◊***a*. *L’hystérique* est pourtant dans le jeu elle-même sous la forme de celle qui en fin de compte est l’enjeu.
+…*l’hystérique* s’institue, se présente elle-même dans l’occasion, comme le ressort de la machine, celle qui les suspend et les situe l’une par rapport à l’autre comme des sortes de *marionnettes* où elle a elle-même à se soutenir dans ce rapport dédoublé qui est celui S◊*a*. *L’hystérique* est pourtant dans le jeu elle-même sous la forme de celle qui en fin de compte est l’enjeu.
 
 <!-- id: s6-24-0073 -->
 
@@ -354,7 +354,7 @@ De sorte que se constituant comme désirant, il ne s’aperçoit pas :
 
 <!-- id: s6-24-0086 -->
 
-Encore, pour que ceci puisse se soutenir, est-il clair que dans chaque cas il appelle à l’aide une chose qui se présente dans une position tierce par rapport à ce désir de l’Autre : quelque chose où il puisse se placer pour que la relation aspirante, évanouissante de l’S devant le *(a),* soit tenable \[S**◊***a*\].
+Encore, pour que ceci puisse se soutenir, est-il clair que dans chaque cas il appelle à l’aide une chose qui se présente dans une position tierce par rapport à ce désir de l’Autre : quelque chose où il puisse se placer pour que la relation aspirante, évanouissante de l’S devant le *(a),* soit tenable \[S◊*a*\].
 
 <!-- id: s6-24-0087 -->
 

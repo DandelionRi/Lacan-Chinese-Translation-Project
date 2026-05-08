@@ -92,7 +92,7 @@ Donc, c’est à partir de la subversion du sujet[^53]…
 
 <!-- id: s15-06-0022 -->
 
-- ici, la position du « *ou-ou* » d’où part *l’aliénation originelle*, celle qui aboutit au « *je ne pense pas* »*,* pour qu’il puisse même être choisi - et que veut dire ce choix ?
+- ici, la position du « *ou-ou* » d’où part *l’aliénation originelle*, celle qui aboutit au « *je ne pense pas* », pour qu’il puisse même être choisi - et que veut dire ce choix ?
 
 <!-- -->
 
@@ -162,7 +162,7 @@ Faut-il que ce soit maintenant ou simplement un petit peu plus tard…
 
 <!-- id: s15-06-0039 -->
 
-Il le met à la tâche d’une pensée qui se présente en quelque sorte dans son énoncé même, dans la règle qu’il lui en donne, comme admettant cette vérité foncière du « *je ne pense pas* »* *:
+Il le met à la tâche d’une pensée qui se présente en quelque sorte dans son énoncé même, dans la règle qu’il lui en donne, comme admettant cette vérité foncière du « *je ne pense pas* »:
 
 <!-- id: s15-06-0040 -->
 
@@ -278,7 +278,7 @@ Mais pour voir ce que cela veut dire, il faut y regarder d’un peu près et pou
 
 <!-- id: s15-06-0067 -->
 
-Si *La phénoménologie de l’esprit* [^55]*,* elle, s’institue expressément de s’engendrer de sa fonction d’acte, est-ce qu’il n’est pas visible dans la mythologie de la « *lutte à mort de pur prestige* » que ce savoir d’origine… à devoir tracer son chemin jusqu’à devenir cet impensable « *savoir absolu* » où l’on peut se demander même, puisque HEGEL le formule, ce qui pourra y tenir lieu - même un seul instant - de sujet …que ce savoir de départ qui nous est présenté comme tel, c’est le savoir de la mort, c’est-à-dire une autre forme extrême, radicale, de mise en suspens comme fondement de ce sujet du savoir ?
+Si *La phénoménologie de l’esprit* [^55], elle, s’institue expressément de s’engendrer de sa fonction d’acte, est-ce qu’il n’est pas visible dans la mythologie de la « *lutte à mort de pur prestige* » que ce savoir d’origine… à devoir tracer son chemin jusqu’à devenir cet impensable « *savoir absolu* » où l’on peut se demander même, puisque HEGEL le formule, ce qui pourra y tenir lieu - même un seul instant - de sujet …que ce savoir de départ qui nous est présenté comme tel, c’est le savoir de la mort, c’est-à-dire une autre forme extrême, radicale, de mise en suspens comme fondement de ce sujet du savoir ?
 
 <!-- id: s15-06-0068 -->
 
@@ -356,7 +356,7 @@ C’est précisément pour cela, nous l’avons dit la dernière fois, qu’il y
 
 <!-- id: s15-06-0086 -->
 
-C’est la question que la dernière fois j’ai posée en disant qu’une vérité conquise « *pas sans le savoir* », est une vérité que j’ai qualifiée d’incurable, si je puis m’exprimer ainsi. Car si nous suivons ce qui résulte de cette bascule de toute la figure qui est celle seule où puisse s’expliquer le passage de la conquête, fruit de la tâche, à la position de celui qui franchit l’acte d’où cette tâche peut se répéter, c’est ici que vient le S qui était là au départ dans le *ou-ou* du : « *ou je ne pense pas* » « *ou je ne suis pas* »*,* et effectivement, pour autant qu’il y a acte qui se mêle à la tâche, qui la soutient, ce dont il s’agit est proprement d’une intervention signifiante.
+C’est la question que la dernière fois j’ai posée en disant qu’une vérité conquise « *pas sans le savoir* », est une vérité que j’ai qualifiée d’incurable, si je puis m’exprimer ainsi. Car si nous suivons ce qui résulte de cette bascule de toute la figure qui est celle seule où puisse s’expliquer le passage de la conquête, fruit de la tâche, à la position de celui qui franchit l’acte d’où cette tâche peut se répéter, c’est ici que vient le S qui était là au départ dans le *ou-ou* du : « *ou je ne pense pas* » « *ou je ne suis pas* », et effectivement, pour autant qu’il y a acte qui se mêle à la tâche, qui la soutient, ce dont il s’agit est proprement d’une intervention signifiante.
 
 <!-- id: s15-06-0087 -->
 
@@ -438,7 +438,7 @@ Est-ce qu’en quoi que ce soit « *l’intention droite* », dans un acte, peut
 
 <!-- id: s15-06-0106 -->
 
-Il est sûr que FREUD n’est pas le premier à nous permettre de sortir de ces anneaux fermés, que pour mettre en suspens ce qu’il en est de la valeur de la bonne intention nous en avons une critique tout à fait efficace, explicite et maniable dans ce que HEGEL nous articule de *la loi du cœur ou du délire de la présomption*[^58]* *: *qu’il ne suffit pas de s’élever contre le désordre du monde pour ne pas, de cette protestation même, s’en faire le plus permanent support*.
+Il est sûr que FREUD n’est pas le premier à nous permettre de sortir de ces anneaux fermés, que pour mettre en suspens ce qu’il en est de la valeur de la bonne intention nous en avons une critique tout à fait efficace, explicite et maniable dans ce que HEGEL nous articule de *la loi du cœur ou du délire de la présomption*[^58]: *qu’il ne suffit pas de s’élever contre le désordre du monde pour ne pas, de cette protestation même, s’en faire le plus permanent support*.
 
 <!-- id: s15-06-0107 -->
 

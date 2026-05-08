@@ -35,8 +35,7 @@ qui ont pu jusqu’à présent ne pas vous apparaître suffisamment conjoints.
 Vous verrez sur ce terrain de l’angoisse, comment, à se nouer plus étroitement, chacun prendra encore mieux sa place.
 Je dis « *encore mieux* » puisque récemment il a pu m’appa­raître, à propos de ce qui s’est dit du *fantasme*
 à une des réunions dites « *provinciales* » de notre Société[^1], que quelque chose avait dans votre esprit...
-concer­nant cette structure si essentielle qui s’appelle le *fantasme*
-*...*pris effective­ment sa place.
+concer­nant cette structure si essentielle qui s’appelle le *fantasme...*pris effective­ment sa place.
 
 <!-- id: s10-01-0007 -->
 
@@ -147,7 +146,7 @@ que dans ce miroir énigmatique du globe oculaire de l’insecte je ne voyais pa
 
 Cette *métaphore* garde aujourd’hui toute sa valeur, et c’est elle qui justifie qu’au centre des signifiants que j’ai posés sur ce tableau, vous voyez la question que j’ai depuis longtemps introduite comme étant la charniè­re des deux étages du graphe
 pour autant qu’ils structurent ce rapport du sujet au signifiant,
-qui sur la subjectivité me paraît devoir être la clé de ce qu’introduit dans la doctrine freudienne le « *Che vuoi ?* », « *Que veux-tu ?* »*.*
+qui sur la subjectivité me paraît devoir être la clé de ce qu’introduit dans la doctrine freudienne le « *Che vuoi ?* », « *Que veux-tu ?* ».
 
 <!-- id: s10-01-0027 -->
 
@@ -160,7 +159,7 @@ qui est quelque chose *en suspens entre les deux étages*
 
 <!-- id: s10-01-0028 -->
 
-- *d* <sub>→</sub> S **◊** *a,*
+- *d* <sub>→</sub> S ◊ *a,*
 
 <!-- id: s10-01-0029 -->
 
@@ -355,7 +354,7 @@ symptôme,
 
 <!-- id: s10-01-0064 -->
 
-angoisse*.*
+angoisse.
 Ιl saute - si je puis dire - à l’entendement que ces trois termes ne sont pas du même niveau.
 Ça fait hétéroclite et c’est pour ça que je les ai écrits ainsi sur trois lignes et décalés.
 Pour que ça marche, pour qu’on puisse les entendre comme une série,
@@ -578,11 +577,11 @@ Le sentiment linguistique, comme s’expriment Messieurs Bloch et Von Wartburg
 
 <!-- id: s10-01-0106 -->
 
-En tout cas, apprenez - j’irai vite - que le terme « *esmayer* »*,* qu’avant lui « *esmais* » et même à proprement parler « *esmoi* »...
+En tout cas, apprenez - j’irai vite - que le terme « *esmayer* », qu’avant lui « *esmais* » et même à proprement parler « *esmoi* »...
 
 <!-- id: s10-01-0107 -->
 
-> « *esmais* »*,* si vous voulez le savoir, est déjà attesté au treizième siècle
+> « *esmais* », si vous voulez le savoir, est déjà attesté au treizième siècle
 > ...n’ont connu... pour m’exprimer avec les auteurs : *n’ont triomphé qu’au seizième*.
 
 <!-- id: s10-01-0108 -->
@@ -596,7 +595,7 @@ qui veut dire faire perdre son pou­voir, sa force.
 Ceci, ce latin populaire, est lié à une greffe d’une racine ger­manique occidentale qui, reconstituée, donne « *magan* »
 et qu’on n’a d’ailleurs pas besoin de reconstituer puisqu’en haut allemand et en gothique, elle existe sous cette même forme
 et que, pour peu que vous soyez germanophones, vous pouvez rapporter au *mögen* allemand et au *may* anglais.
-En italien « *smagare* »*,* j’espère, existe. Pas tellement ?
+En italien « *smagare* », j’espère, existe. Pas tellement ?
 
 <!-- id: s10-01-0110 -->
 
@@ -764,6 +763,7 @@ mais une praxis qui mérite un nom : érotologie.
 
 C’est sur le tran­chant de l’angoisse que nous avons à nous tenir
 et c’est sur ce tranchant que j’espère vous mener plus loin la prochaine fois.
+
 ## Notes
 
 [^1]: « *Journées provinciales* » d’octobre 1962 sur le thème du fantasme. Cf. Robert Pujols : *Approche théorique du fantasme*, in *La psychanalyse* n°8, Puf 1964, p.11.

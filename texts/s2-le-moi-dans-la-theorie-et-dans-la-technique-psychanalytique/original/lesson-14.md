@@ -74,7 +74,7 @@ Serge LECLAIRE - Je tiens à ne pas prendre la parole sur ce sujet.
 
 <!-- id: s2-14-0018 -->
 
-LACAN *-* GRANOFF ?
+LACAN - GRANOFF ?
 
 <!-- id: s2-14-0019 -->
 
@@ -82,19 +82,19 @@ Wladimir GRANOFF *- ...*
 
 <!-- id: s2-14-0020 -->
 
-LACAN *-* MANNONI ?
+LACAN - MANNONI ?
 
 <!-- id: s2-14-0021 -->
 
-Octave MANNONI *-* J’ai été malade, j’ai manqué les dernières.
+Octave MANNONI - J’ai été malade, j’ai manqué les dernières.
 
 <!-- id: s2-14-0022 -->
 
-LACAN *-* VALABREGA ?
+LACAN - VALABREGA ?
 
 <!-- id: s2-14-0023 -->
 
-VALABREGA *-* Je n’ai rien à dire.
+VALABREGA - Je n’ai rien à dire.
 
 <!-- id: s2-14-0024 -->
 
@@ -528,7 +528,7 @@ C’est quelque chose du même ordre, ici il n’y a pas eu crime puisque :
 
 <!-- id: s2-14-0130 -->
 
-- *Premièrement la victime était* *-* ce que le rêve dit de mille façons *-* *déjà morte*, c’est-à-dire était déjà malade, ou d’une maladie que précisément FREUD ne pouvait pas soigner, puisque tout dans le rêve indique qu’elle était atteinte d’une maladie organique*.* Donc *la victime était déjà morte* quand le crime a eu lieu.
+- *Premièrement la victime était* - ce que le rêve dit de mille façons - *déjà morte*, c’est-à-dire était déjà malade, ou d’une maladie que précisément FREUD ne pouvait pas soigner, puisque tout dans le rêve indique qu’elle était atteinte d’une maladie organique. Donc *la victime était déjà morte* quand le crime a eu lieu.
 
 <!-- id: s2-14-0131 -->
 
@@ -703,6 +703,7 @@ C’est précisément ce que nous essayerons de préciser par d’autres voies. 
 <!-- id: s2-14-0169 -->
 
 C’est ce que nous ferons dans nos rencontres ultérieures.
+
 ## Notes
 
 [^17]: Lettre 137 (248) du 12 Juin 1900, in « *Lettres à Wilhem Fliess* », PUF 2006, pp. 526-528.

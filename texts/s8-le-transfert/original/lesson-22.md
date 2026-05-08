@@ -108,7 +108,7 @@ Je ne dis pas que c’est là *une conséquence nécessaire*, je crois même que
 
 <!-- id: s8-22-0026 -->
 
-Et pourtant il y a beaucoup d’éléments extrêmement utilisables : la fonction par exemple - primordiale - de la symbolisation y a été articulée, accentuée d’une façon qui par certains côtés va jusqu’à être très satisfaisante. En fait toute la clé de la correction nécessitée par la théorie du fantasme dans Mélanie KLEIN est tout entière dans le symbole que je vous donne du fantasme : S**◊***a*,qui peut se lire « *S barré désir de a* ». Le S, il s’agit de savoir ce que c’est : ce n’est pas simplement *le corrélatif noétique de l’objet*, il est dans le fantasme.
+Et pourtant il y a beaucoup d’éléments extrêmement utilisables : la fonction par exemple - primordiale - de la symbolisation y a été articulée, accentuée d’une façon qui par certains côtés va jusqu’à être très satisfaisante. En fait toute la clé de la correction nécessitée par la théorie du fantasme dans Mélanie KLEIN est tout entière dans le symbole que je vous donne du fantasme : S◊*a*,qui peut se lire « *S barré désir de a* ». Le S, il s’agit de savoir ce que c’est : ce n’est pas simplement *le corrélatif noétique de l’objet*, il est dans le fantasme.
 
 <!-- id: s8-22-0027 -->
 
@@ -192,7 +192,7 @@ Et ceci nous intéresse de la façon la plus directe, puisqu’il ne peut se fai
 
 <!-- id: s8-22-0047 -->
 
-Il ne peut pas se faire que nous *l’élidions*, que nous le mettions entre parenthèses, que nous essayions de tout exprimer, d’articuler toute notre expérience sous le mode économique, comme on dit... la fonction par exemple du conflit entre tendances primordiales jusqu’aux plus radicales, les défenses contre toute l’articulation connotée topiquement dans l’accent de l’*ego,* dans la thèse sur le narcissisme la fonction de l’« *ego idéal* », d’un certain « *ça* » ...il ne peut pas se faire qu’aller dans ce sens et perdre l’autre pôle de référence, ne représente à proprement parler ce qui dans notre expérience doit se noter comme - à proprement parler *au sens positif* que ça a pour nous *-* un oubli. Ça n’empêche pas que l’expérience qui se continue puisse être une expérience analytique, c’est une expérience analytique qui oublie ses propres termes.
+Il ne peut pas se faire que nous *l’élidions*, que nous le mettions entre parenthèses, que nous essayions de tout exprimer, d’articuler toute notre expérience sous le mode économique, comme on dit... la fonction par exemple du conflit entre tendances primordiales jusqu’aux plus radicales, les défenses contre toute l’articulation connotée topiquement dans l’accent de l’*ego,* dans la thèse sur le narcissisme la fonction de l’« *ego idéal* », d’un certain « *ça* » ...il ne peut pas se faire qu’aller dans ce sens et perdre l’autre pôle de référence, ne représente à proprement parler ce qui dans notre expérience doit se noter comme - à proprement parler *au sens positif* que ça a pour nous - un oubli. Ça n’empêche pas que l’expérience qui se continue puisse être une expérience analytique, c’est une expérience analytique qui oublie ses propres termes.
 
 <!-- id: s8-22-0048 -->
 
@@ -272,7 +272,7 @@ Pour dire les choses massivement et d’une façon qui me permet de *repérer à
 
 <!-- id: s8-22-0067 -->
 
-Cette position ne met pas la *normale*, la possibilité de la *Versagung* \[dénégation\], puis la *névrose*, mais une *Versagung originelle* au-delà de quoi il y aura la voie, la bifurcation, soit de la *névrose,* soit de la *normale*, l’une ne valant ni plus ni moins que l’autre par rapport à ce départ de la possibilité de la *Versagung*. Et ce que le terme de « *sagen* » \[dire\] impliquait dans cette *Versagung intraduisible* saute aux yeux, ce n’est *possible* *<u>que</u>* dans le registre du « *sagen* »*,* je veux dire : *en tant que le « sagen » n’est pas simplement l’opération de la communication mais le « dire », mais l’émergence comme telle du signifiant en tant qu’il permet au sujet de se refuser*.
+Cette position ne met pas la *normale*, la possibilité de la *Versagung* \[dénégation\], puis la *névrose*, mais une *Versagung originelle* au-delà de quoi il y aura la voie, la bifurcation, soit de la *névrose,* soit de la *normale*, l’une ne valant ni plus ni moins que l’autre par rapport à ce départ de la possibilité de la *Versagung*. Et ce que le terme de « *sagen* » \[dire\] impliquait dans cette *Versagung intraduisible* saute aux yeux, ce n’est *possible* *<u>que</u>* dans le registre du « *sagen* », je veux dire : *en tant que le « sagen » n’est pas simplement l’opération de la communication mais le « dire », mais l’émergence comme telle du signifiant en tant qu’il permet au sujet de se refuser*.
 
 <!-- id: s8-22-0068 -->
 

@@ -34,7 +34,7 @@ celui qui correspond aux deux pôles de *la masculinité* et de *la féminité*
 
 <!-- id: s6-26-0008 -->
 
-C’est pourquoi, d’une certaine façon, vous pourriez penser qu’en définissant par le S**◊***a*, ici placé dans le schéma ou graphe dont nous nous servons pour expliquer, pour exposer la position du désir dans un sujet parlant, il n’y a là après tout rien d’autre qu’une notation très simple : dans le désir quelque chose est exigible qui est le rapport du sujet avec l’objet, que *a* c’est l’objet, le grand S c’est le sujet, et rien de plus.
+C’est pourquoi, d’une certaine façon, vous pourriez penser qu’en définissant par le S◊*a*, ici placé dans le schéma ou graphe dont nous nous servons pour expliquer, pour exposer la position du désir dans un sujet parlant, il n’y a là après tout rien d’autre qu’une notation très simple : dans le désir quelque chose est exigible qui est le rapport du sujet avec l’objet, que *a* c’est l’objet, le grand S c’est le sujet, et rien de plus.
 
 <!-- id: s6-26-0009 -->
 
@@ -354,15 +354,15 @@ Je crois qu’actuellement, à tout prendre, personne n’a mieux parlé, je cro
 
 <!-- id: s6-26-0087 -->
 
-- la première étude de GILLESPIE qui a abordé ce sujet à propos du fétichisme, sous la forme d’un article : « *Contribution au fétichisme »,* *octobre* 1940*,* I.J.P,
+- la première étude de GILLESPIE qui a abordé ce sujet à propos du fétichisme, sous la forme d’un article : « *Contribution au fétichisme »,* *octobre* 1940, I.J.P,
 
 <!-- id: s6-26-0088 -->
 
-- ensuite de notes qu’il a consacrées à « *Analysis of sexual perversions »*, dans le *numéro* XXXIII, 1952*,* 4*<sup>ème</sup> partie*,
+- ensuite de notes qu’il a consacrées à « *Analysis of sexual perversions »*, dans le *numéro* XXXIII, 1952, 4*<sup>ème</sup> partie*,
 
 <!-- id: s6-26-0089 -->
 
-- et enfin le dernier qu’il a donné dans le *numéro de juillet-octobre* 1956 (*numéro* XXXVII*,* 4*<sup>ème</sup>* *et* 5*<sup>ème</sup> parties*): *Théorie générale des perversions* [^119].
+- et enfin le dernier qu’il a donné dans le *numéro de juillet-octobre* 1956 (*numéro* XXXVII, 4*<sup>ème</sup>* *et* 5*<sup>ème</sup> parties*): *Théorie générale des perversions* [^119].
 
 <!-- id: s6-26-0090 -->
 
@@ -602,7 +602,7 @@ Mais enfin quand même, n’y aurait-il pas aussi intérêt à ce que nous situi
 
 <!-- id: s6-26-0148 -->
 
-…l’homosexualité, comparée à ce que la dernière fois par exemple nous essayions de formuler comme étant le point sur lequel le désir de désir qu’a le névrosé s’appuie, à savoir ce rapport à l’image de l’autre grâce à quoi peut s’établir tout ce jeu de substitution où *le névrosé* n’a jamais à faire la preuve de ce dont il s’agit, à savoir *qu’il est le phallus,* soit bel et bien Φ **◊** *i(a)*. Nous dirons que nous avons ici quelque chose qui est un certain rapport de l’identification primitive : I, avec *l’identification narcissique*, *spéculaire*, qui est *i(a)*.
+…l’homosexualité, comparée à ce que la dernière fois par exemple nous essayions de formuler comme étant le point sur lequel le désir de désir qu’a le névrosé s’appuie, à savoir ce rapport à l’image de l’autre grâce à quoi peut s’établir tout ce jeu de substitution où *le névrosé* n’a jamais à faire la preuve de ce dont il s’agit, à savoir *qu’il est le phallus,* soit bel et bien Φ ◊ *i(a)*. Nous dirons que nous avons ici quelque chose qui est un certain rapport de l’identification primitive : I, avec *l’identification narcissique*, *spéculaire*, qui est *i(a)*.
 
 <!-- id: s6-26-0149 -->
 

@@ -42,7 +42,7 @@ Mais ce caractère *figuratif* étant conçu comme participant du *perceptif*, l
 
 <!-- id: s2-13-0010 -->
 
-C’est en cela en somme, que tient cette hypothèse, et la *régression* est tellement importante, parce qu’aussi bien nous y voyons la première formulation théorique ferme de ce qui, d’une façon parallèle, analogue, est ensuite admis tant sur le plan formel que sur le plan génétique, historique, c’est-à-dire la régression au premier stade du développement de l’individu, notion qui domine *-* vous le savez *-* beau­coup de nos conceptions, eu égard à ce qu’est la névrose d’une part, et ce que pro­duit d’autre part le traitement.
+C’est en cela en somme, que tient cette hypothèse, et la *régression* est tellement importante, parce qu’aussi bien nous y voyons la première formulation théorique ferme de ce qui, d’une façon parallèle, analogue, est ensuite admis tant sur le plan formel que sur le plan génétique, historique, c’est-à-dire la régression au premier stade du développement de l’individu, notion qui domine - vous le savez - beau­coup de nos conceptions, eu égard à ce qu’est la névrose d’une part, et ce que pro­duit d’autre part le traitement.
 
 <!-- id: s2-13-0011 -->
 
@@ -166,7 +166,7 @@ C’est *un brave* Otto, un Otto qui soigne un peu toute la famille, quand on a 
 
 <!-- id: s2-13-0036 -->
 
-Et à travers *les intonations* de l’Otto, FREUD croit sen­tir qu’en somme il est quelque peu désapprouvé par le cher ami Otto, plus exac­tement qu’Otto a dû quelque peu participer aux *gorges chaudes* de l’entourage, voire à l’opposition qu’il a rencontrée à propos de cette cure imprudemment entreprise sur un terrain où il n’est pas pleinement maître de manœuvrer comme il l’entend. C’est bien de cela qu’il s’agit, car FREUD a le sentiment qu’il a bien proposé à Irma la bonne *solution*, *Lösung,* mot qui a la même ambiguïté en allemand qu’en français* *: *solution* qu’on injecte, et *solution* de conflit, se confondent et se recouvrent sur le même terme, et c’est en cela que le *rêve de l’injection d’Irma* prend déjà son sens symbolique. À propos de cette *Lösung,* que nous allons voir - à la fin surtout - se rapprocher de plus en plus *d’une injec­tion*, c’est bien de cela qu’il s’agit et que nous partons.
+Et à travers *les intonations* de l’Otto, FREUD croit sen­tir qu’en somme il est quelque peu désapprouvé par le cher ami Otto, plus exac­tement qu’Otto a dû quelque peu participer aux *gorges chaudes* de l’entourage, voire à l’opposition qu’il a rencontrée à propos de cette cure imprudemment entreprise sur un terrain où il n’est pas pleinement maître de manœuvrer comme il l’entend. C’est bien de cela qu’il s’agit, car FREUD a le sentiment qu’il a bien proposé à Irma la bonne *solution*, *Lösung,* mot qui a la même ambiguïté en allemand qu’en français: *solution* qu’on injecte, et *solution* de conflit, se confondent et se recouvrent sur le même terme, et c’est en cela que le *rêve de l’injection d’Irma* prend déjà son sens symbolique. À propos de cette *Lösung,* que nous allons voir - à la fin surtout - se rapprocher de plus en plus *d’une injec­tion*, c’est bien de cela qu’il s’agit et que nous partons.
 
 <!-- id: s2-13-0037 -->
 
@@ -218,7 +218,7 @@ Il le fait dans le rêve - lui, comme artisan du rêve - par des voies mul­tipl
 
 <!-- id: s2-13-0049 -->
 
-- troisièmement il ne l’a pas emprunté. Chacune de ces explications serait parfaitement valable mais l’en­semble ne peut en aucune façon nous satisfaire. C’est ainsi que serait conçu ce rêve, dit FREUD. Et bien entendu, ça n’est que trop évident qu’il y a là un fil com­mun*,* trame de tout ce qui apparaît dans le rêve.
+- troisièmement il ne l’a pas emprunté. Chacune de ces explications serait parfaitement valable mais l’en­semble ne peut en aucune façon nous satisfaire. C’est ainsi que serait conçu ce rêve, dit FREUD. Et bien entendu, ça n’est que trop évident qu’il y a là un fil com­mun, trame de tout ce qui apparaît dans le rêve.
 
 <!-- id: s2-13-0050 -->
 
@@ -320,7 +320,7 @@ Là-dessus, discussion fort confuse, qui repose sur la notion de « *superficie
 
 <!-- id: s2-13-0074 -->
 
-Nous allons en effet le voir. Ce n’est pas là qu’est la question. La question est ceci : il faut d’abord partir du texte*,* et en partir comme FREUD le conseille lui-même, montre qu’il le fait : *comme d’un texte sacré*. L’*auteur*, le *scribe* n’était qu’un scribouillard, et il vient en second. Les *commentaires des Écritures* ont été irrémédiablement perdus le jour où on a voulu nous faire la psy­chologie de JÉRÉMIE, ISAÏE, voire JÉSUS-CHRIST.
+Nous allons en effet le voir. Ce n’est pas là qu’est la question. La question est ceci : il faut d’abord partir du texte, et en partir comme FREUD le conseille lui-même, montre qu’il le fait : *comme d’un texte sacré*. L’*auteur*, le *scribe* n’était qu’un scribouillard, et il vient en second. Les *commentaires des Écritures* ont été irrémédiablement perdus le jour où on a voulu nous faire la psy­chologie de JÉRÉMIE, ISAÏE, voire JÉSUS-CHRIST.
 
 <!-- id: s2-13-0075 -->
 
@@ -336,7 +336,7 @@ Dès qu’il apparaît, FREUD entre dans le dialogue, le champ visuel se rétré
 
 <!-- id: s2-13-0078 -->
 
-« *C’est bien de ta faute, si tu m’écoutais ça irait mieux* »*.*
+« *C’est bien de ta faute, si tu m’écoutais ça irait mieux* ».
 
 <!-- id: s2-13-0079 -->
 
@@ -724,7 +724,7 @@ C’est le principe que toute cette phase originelle du rêve, pendant lequel FR
 
 <!-- id: s2-13-0174 -->
 
-- cette recherche de la signification comme telle, …qui fait qu’à *un moment*, et sous la forme où FREUD peut la voir apparaître à *ce moment originel* de naissance de sa doctrine, où tout est encore dans le chaos. C’est au milieu du chaos de tous ses confrères, de tout *le consensus de la République de ceux* *qui savent*, qu’il laisse passer *-* symbolisée dans son rêve *-* se manifester cette espèce de *loi contradictoire* et ainsi rassurante.
+- cette recherche de la signification comme telle, …qui fait qu’à *un moment*, et sous la forme où FREUD peut la voir apparaître à *ce moment originel* de naissance de sa doctrine, où tout est encore dans le chaos. C’est au milieu du chaos de tous ses confrères, de tout *le consensus de la République de ceux* *qui savent*, qu’il laisse passer - symbolisée dans son rêve - se manifester cette espèce de *loi contradictoire* et ainsi rassurante.
 
 <!-- id: s2-13-0175 -->
 
@@ -732,11 +732,12 @@ Parce que si personne n’a raison, tout le monde a raison, c’est au milieu de
 
 <!-- id: s2-13-0176 -->
 
-Évidemment *les sujets* entrent et se mêlent des choses, cela peut être *le 1<sup>er</sup>sens*. *L’autre chose* est ceci : que nous devons tou­jours, chaque fois qu’il s’agit d’un phénomène inconscient*,* considérer que dès lors *que c’est dans un plan symbolique comme tel* \- et *dans un plan symbolique* que comme tel nous devons considérer comme *décentré par rapport à l’essence* psychologique *du sujet*, si tant est que ça existe - que ça se passe toujours *en un point* qui ne peut jamais se situer que - comme je vous l’ai dit que *la paro­le* toujours se situe - entre deux sujets.
+Évidemment *les sujets* entrent et se mêlent des choses, cela peut être *le 1<sup>er</sup>sens*. *L’autre chose* est ceci : que nous devons tou­jours, chaque fois qu’il s’agit d’un phénomène inconscient, considérer que dès lors *que c’est dans un plan symbolique comme tel* \- et *dans un plan symbolique* que comme tel nous devons considérer comme *décentré par rapport à l’essence* psychologique *du sujet*, si tant est que ça existe - que ça se passe toujours *en un point* qui ne peut jamais se situer que - comme je vous l’ai dit que *la paro­le* toujours se situe - entre deux sujets.
 
 <!-- id: s2-13-0177 -->
 
 Et pourtant, en partie, du moment où *la parole vraie* émerge et fait des deux sujets, deux sujets si *différents* - si l’on peut s’exprimer ainsi, de ce qu’ils étaient avant *la parole*, bien que ceci ne veuille rien dire, car ils ne commencent à être constitués comme sujets de *la parole* qu’à partir du moment où *la parole* existe, et il n’y a pas d’avant : *la parole* est toujours un médiateur entre deux sujets.
+
 ## Notes
 
 [^13]: Lettre 137 (248) du 12 Juin 1900, in « *Lettres à Wilhem Fliess* », PUF 2006, pp. 526-528.
@@ -750,4 +751,4 @@ Et pourtant, en partie, du moment où *la parole vraie* émerge et fait des deux
 
 [^16]: Sigmund Freud : *L’interprétation des rêves* : « *Il y avait entre eux une diversité de caractère tout à fait semblable à celle existant entre l 'inspecteur Bräsig*
 
-    *et son ami Karl ».* L'inspecteur Bräsig est un personnage d'un roman célèbre de Fritz Reuter : « *Ut mine Stromlid* »*.*
+    *et son ami Karl ».* L'inspecteur Bräsig est un personnage d'un roman célèbre de Fritz Reuter : « *Ut mine Stromlid* ».

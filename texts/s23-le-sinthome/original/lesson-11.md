@@ -78,7 +78,7 @@ Et ça se loge tout naturellement dans la fabrication de ce nœud : « *il fau
 
 <!-- id: s23-11-0019 -->
 
-« *Il faut le faire* »*,* ça veut dire quoi ?
+« *Il faut le faire* », ça veut dire quoi ?
 
 <!-- id: s23-11-0020 -->
 
@@ -94,7 +94,7 @@ vous devez savoir pourquoi, ...*est un appui à la pensée.*
 
 <!-- id: s23-11-0023 -->
 
-C’est ce que je me permettrais d’illustrer du terme qu’il faut que j’écrive « *appui à l’appensée* »*,* ça permet d’écrire autrement *la pensée*.
+C’est ce que je me permettrais d’illustrer du terme qu’il faut que j’écrive « *appui à l’appensée* », ça permet d’écrire autrement *la pensée*.
 
 <!-- id: s23-11-0024 -->
 
@@ -130,7 +130,7 @@ Et c’est bien en quoi ce nœud porte quelque chose avec lui.
 
 <!-- id: s23-11-0032 -->
 
-Ça fait penser à quelque chose qui est évoqué quelque part, dans Joyce, où « *sur le mont Neubo la loi nous fut donnée* »*.*
+Ça fait penser à quelque chose qui est évoqué quelque part, dans Joyce, où « *sur le mont Neubo la loi nous fut donnée* ».
 
 <!-- id: s23-11-0033 -->
 
@@ -162,7 +162,7 @@ Et c’est une autonomie d’autant plus remarquable qu’il y a une autre *écr
 
 <!-- id: s23-11-0040 -->
 
-*c’est-à-dire ce qui se module dans la voix* *...n’a rien à faire avec l’écriture.*
+*c’est-à-dire ce qui se module dans la voix...n’a rien à faire avec l’écriture.*
 
 <!-- id: s23-11-0041 -->
 
@@ -182,7 +182,7 @@ C’est en tout cas ce que démontre parfaitement mon nœud *bo*.
 
 <!-- id: s23-11-0045 -->
 
-> là aussi, parce que je suis pas du tout sûr que ça ne vous ait pas échappé ...c’est *comme ça* que je l’écris : « *mension du dit* »*.*
+> là aussi, parce que je suis pas du tout sûr que ça ne vous ait pas échappé ...c’est *comme ça* que je l’écris : « *mension du dit* ».
 
 <!-- id: s23-11-0046 -->
 
@@ -210,7 +210,7 @@ Il n’en reste pas moins que ce qu’il y a de φιλία \[philia\] dans le «
 
 <!-- id: s23-11-0052 -->
 
-> « *pensé* » : non pas *la pensée*, mais le temps pensé ...le temps pensé, c’est la φιλία*.*
+> « *pensé* » : non pas *la pensée*, mais le temps pensé ...le temps pensé, c’est la φιλία.
 
 <!-- id: s23-11-0053 -->
 
@@ -290,7 +290,7 @@ Alors, qu’est-ce que ceci nous donne, à nous référer à la pratique ?
 
 <!-- id: s23-11-0072 -->
 
-C’est que l’homme est - non pas Dieu - est un composé trinitaire, un composé trinitaire de ce que nous appellerons « *élément* »*.*
+C’est que l’homme est - non pas Dieu - est un composé trinitaire, un composé trinitaire de ce que nous appellerons « *élément* ».
 
 <!-- id: s23-11-0073 -->
 
@@ -322,23 +322,23 @@ Alors
 
 <!-- id: s23-11-0080 -->
 
-- et *Symbo­lique*, ça vaut bien après tout - me semble-t-il - l’autre triade dont, à entendre Aristote*,* on nous faisait le jus de composer l’homme, à savoir :
+- et *Symbo­lique*, ça vaut bien après tout - me semble-t-il - l’autre triade dont, à entendre Aristote, on nous faisait le jus de composer l’homme, à savoir :
 
 <!-- id: s23-11-0081 -->
 
-- νοῦς \[nouss\]*,*
+- νοῦς \[nouss\],
 
 <!-- id: s23-11-0082 -->
 
-- ψυχή \[psuché\]*,*
+- ψυχή \[psuché\],
 
 <!-- id: s23-11-0083 -->
 
-- σῶμα \[soma\]*.*
+- σῶμα \[soma\].
 
 <!-- id: s23-11-0084 -->
 
-Ou encore : volonté, intelligence, affectivité*.* Voilà !
+Ou encore : volonté, intelligence, affectivité. Voilà !
 
 <!-- id: s23-11-0085 -->
 
@@ -588,7 +588,7 @@ Pour ce qui est de Joyce je voudrais... j’aurais pu vous lire à l’occasion.
 >
 > parce que il y a eu une traduction du *Portrait of the Artist as a Young Man*... *Portrait* non pas *of the Artist*
 >
-> *-* car j’ai fait là naturellement un lapsus - *of an Artist *: *Portrait d’<u>un</u> Artiste comme <u>un</u> Jeune Homme* ...il y a une confidence que nous fait Joyce qui concerne ceci : c’est que, à propos de Tennyson, de Byron, enfin de choses qui se référaient à des poètes, il s’est trouvé que des camarades l’ont ficelé à une barrière \- non pas quelconque, elle était même en fil de fer barbelé - et lui ont donné à lui, Joyce, James Joyce...
+> - car j’ai fait là naturellement un lapsus - *of an Artist *: *Portrait d’<u>un</u> Artiste comme <u>un</u> Jeune Homme* ...il y a une confidence que nous fait Joyce qui concerne ceci : c’est que, à propos de Tennyson, de Byron, enfin de choses qui se référaient à des poètes, il s’est trouvé que des camarades l’ont ficelé à une barrière \- non pas quelconque, elle était même en fil de fer barbelé - et lui ont donné à lui, Joyce, James Joyce...
 
 <!-- id: s23-11-0145 -->
 
@@ -634,7 +634,7 @@ Mais s’il y a quelque chose que j’ai depuis l’origine articulé avec soin,
 
 <!-- id: s23-11-0155 -->
 
-L’ancienne notion de l’inconscient, de l’*Unerkannt* \[le non reconnu\]*,* c’était précisément quelque chose qui prenait appui de notre ignorance de ce qui se passe dans notre corps.
+L’ancienne notion de l’inconscient, de l’*Unerkannt* \[le non reconnu\], c’était précisément quelque chose qui prenait appui de notre ignorance de ce qui se passe dans notre corps.
 
 <!-- id: s23-11-0156 -->
 
@@ -956,7 +956,7 @@ Ils trouvent naturellement toujours une raison.
 
 <!-- id: s23-11-0235 -->
 
-Il a mis ça là parce qu’il y a juste après un autre mot, enfin, c’est exactement comme dans mes histoires, là, d’« *osbjet* »*,* de « *mensionge* » et de « *dit-mension »* et de toute la suite.
+Il a mis ça là parce qu’il y a juste après un autre mot, enfin, c’est exactement comme dans mes histoires, là, d’« *osbjet* », de « *mensionge* » et de « *dit-mension »* et de toute la suite.
 
 <!-- id: s23-11-0236 -->
 
@@ -1142,7 +1142,7 @@ On pense *contre* un signifiant.
 
 <!-- id: s23-11-0281 -->
 
-C’est le sens que j’ai donné au mot de « *l’appensée* »*.*
+C’est le sens que j’ai donné au mot de « *l’appensée* ».
 
 <!-- id: s23-11-0282 -->
 

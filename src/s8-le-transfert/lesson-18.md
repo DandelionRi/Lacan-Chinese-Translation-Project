@@ -20,7 +20,7 @@
 
 <div class="original-paragraph" data-paragraph-id="s8-18-0001">
 
-Je me suis trouvé samedi et dimanche ouvrir, pour la première fois pour moi, les notes prises en différents points de mon séminaire des dernières années, pour voir si *les repères* que je vous y ai donnés, sous la rubrique de : *La relation d’objet,* puis du *désir et de* *son interprétation* [^222]*,* convergeaient sans trop de flottement vers ce que j’essaie cette année d’articuler devant vous sous le terme du « *transfert* ».
+Je me suis trouvé samedi et dimanche ouvrir, pour la première fois pour moi, les notes prises en différents points de mon séminaire des dernières années, pour voir si *les repères* que je vous y ai donnés, sous la rubrique de : *La relation d’objet,* puis du *désir et de* *son interprétation* [^222], convergeaient sans trop de flottement vers ce que j’essaie cette année d’articuler devant vous sous le terme du « *transfert* ».
 
 </div>
 
@@ -1542,7 +1542,7 @@ Et plus loin, que :
 
 <div class="original-paragraph" data-paragraph-id="s8-18-0081">
 
-Trois lignes plus loin, nous retomberons sur cette fameuse « *pulsion destructrice initiale dont la mère est l’objet* »*,* c’est-à-dire sur les coordonnées majeures de l’analyse de l’imaginaire dans l’analyse présentement conduite. Je n’ai fait que ponctuer au passage dans cette thématique, uniquement les difficultés et les sauts que suppose franchis cette interprétation générale en quelque sorte résumée ici en exorde de tout ce qui, par la suite, va être censément illustré. Mais je n’ai plus besoin que de franchir une demi-page pour entrer dans la phénoménologie de ce dont il s’agit et dans ce que cet auteur - dont c’est là le premier écrit, et qui était un clinicien - trouve à nous dire, à nous raconter dans *les fantasmes* de sa patiente ainsi située comme *obsessionnelle*.
+Trois lignes plus loin, nous retomberons sur cette fameuse « *pulsion destructrice initiale dont la mère est l’objet* », c’est-à-dire sur les coordonnées majeures de l’analyse de l’imaginaire dans l’analyse présentement conduite. Je n’ai fait que ponctuer au passage dans cette thématique, uniquement les difficultés et les sauts que suppose franchis cette interprétation générale en quelque sorte résumée ici en exorde de tout ce qui, par la suite, va être censément illustré. Mais je n’ai plus besoin que de franchir une demi-page pour entrer dans la phénoménologie de ce dont il s’agit et dans ce que cet auteur - dont c’est là le premier écrit, et qui était un clinicien - trouve à nous dire, à nous raconter dans *les fantasmes* de sa patiente ainsi située comme *obsessionnelle*.
 
 </div>
 
@@ -1618,7 +1618,7 @@ Nous n’en doutons pas. En effet, tout ce que nous voyons nous habitue en cette
 
 <div class="original-paragraph" data-paragraph-id="s8-18-0085">
 
-C’est dans la même observation que, plus loin, nous avons la dernière fois emprunté *les fantasmes sacrilèges* qui consistent précisément, non seulement à surimposer de la façon aussi claire les organes génitaux masculins - ici on nous le précise : « *sans qu’il s’agisse de phénomènes hallucinatoires *»*,* c’est-à-dire bel et bien comme tels en forme signifiante - à les surimposer à ce qui est aussi pour nous, *de la façon symbolique la plus précise*, identifiable à la « *présence réelle* ». Mais encore que ce dont il s’agisse, ce soit - cette « *présence réelle* » - de *la réduire* en quelque sorte, de la briser, de la broyer dans le mécanisme du *désir*, c’est ce que les fantasmes subséquents \- ceux que j’ai déjà cités la dernière fois - souligneront assez. Je pense que vous ne vous imaginez pas que cette observation soit unique. Je vous citerai parmi des dizaines d’autres, parce que l’expérience d’un analyste ne va jamais dans un domaine qu’à dépasser la centaine, le fantasme suivant survenu chez un obsessionnel en un point de son expérience.
+C’est dans la même observation que, plus loin, nous avons la dernière fois emprunté *les fantasmes sacrilèges* qui consistent précisément, non seulement à surimposer de la façon aussi claire les organes génitaux masculins - ici on nous le précise : « *sans qu’il s’agisse de phénomènes hallucinatoires *», c’est-à-dire bel et bien comme tels en forme signifiante - à les surimposer à ce qui est aussi pour nous, *de la façon symbolique la plus précise*, identifiable à la « *présence réelle* ». Mais encore que ce dont il s’agisse, ce soit - cette « *présence réelle* » - de *la réduire* en quelque sorte, de la briser, de la broyer dans le mécanisme du *désir*, c’est ce que les fantasmes subséquents \- ceux que j’ai déjà cités la dernière fois - souligneront assez. Je pense que vous ne vous imaginez pas que cette observation soit unique. Je vous citerai parmi des dizaines d’autres, parce que l’expérience d’un analyste ne va jamais dans un domaine qu’à dépasser la centaine, le fantasme suivant survenu chez un obsessionnel en un point de son expérience.
 
 </div>
 
@@ -2017,7 +2017,7 @@ Ce n’est rien qui soit signifiable directement, c’est ce qui est « *au-del
 
 <div class="original-paragraph" data-paragraph-id="s8-18-0106">
 
-**  **
+&nbsp;
 
 </div>
 
@@ -2030,7 +2030,7 @@ Ce n’est rien qui soit signifiable directement, c’est ce qui est « *au-del
 
 ## Notes
 
-[^222]: *La relation d’objet* : séminaire 1956-57, * *et  *Le désir et son interprétation* * *: séminaire 1958-59.
+[^222]: *La relation d’objet* : séminaire 1956-57, * *et  *Le désir et son interprétation* : séminaire 1958-59.
 
 
 [^223]: En 1961, Lacan déposait la sténotypie de ses séminaires à la bibliothèque de la Société française de psychanalyse, pour ceux qui voulaient les consulter.

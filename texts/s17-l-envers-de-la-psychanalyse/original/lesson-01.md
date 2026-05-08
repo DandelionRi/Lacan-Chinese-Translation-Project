@@ -76,7 +76,7 @@ Et là, sans doute que j’avais pour cela mes raisons, elle voudra bien m’en 
 
 <!-- id: s17-01-0018 -->
 
-- 
+-
 
 <!-- id: s17-01-0019 -->
 
@@ -128,7 +128,7 @@ Il m’est arrivé l’année dernière, en tout cas avec beaucoup d’insistanc
 
 <!-- id: s17-01-0031 -->
 
-« *Ce que je préfère* - ai-je dit, et même affiché un jour - *c’est un discours sans parole »* [^1]*.*
+« *Ce que je préfère* - ai-je dit, et même affiché un jour - *c’est un discours sans parole »* [^1].
 
 <!-- id: s17-01-0032 -->
 
@@ -276,7 +276,7 @@ Ce fameux « *quart de tour »* dont je parle depuis assez longtemps...
 
 <!-- id: s17-01-0068 -->
 
-> en bien d’autres occasions, notamment depuis la parution de ce que j’ai écrit sous le titre de *Kant avec Sade* *...*pour qu’on puisse penser que peut-être un jour, on verrait que ça ne se limite pas au fait du schéma dit « Z »*,* mais qu’il y a à ce « *quart de tour »* d’autres raisons que ce pur accident de représenta­tion imaginaire.
+> en bien d’autres occasions, notamment depuis la parution de ce que j’ai écrit sous le titre de *Kant avec Sade...*pour qu’on puisse penser que peut-être un jour, on verrait que ça ne se limite pas au fait du schéma dit « Z », mais qu’il y a à ce « *quart de tour »* d’autres raisons que ce pur accident de représenta­tion imaginaire.
 
 <!-- id: s17-01-0069 -->
 
@@ -384,7 +384,7 @@ Eh bien, en voilà un.
 
 <!-- id: s17-01-0095 -->
 
-*C’est peut-être pas le vrai*, mais ce qu’il y a de certain c’est que nous allons voir aussi qu’il y a beaucoup de « *c’est peut-être pas le vrai* »*,* dont l’insis­tance nous suggère proprement *la démission* \[*lapsus*\]... *la dimension de la vérité*.
+*C’est peut-être pas le vrai*, mais ce qu’il y a de certain c’est que nous allons voir aussi qu’il y a beaucoup de « *c’est peut-être pas le vrai* », dont l’insis­tance nous suggère proprement *la démission* \[*lapsus*\]... *la dimension de la vérité*.
 
 <!-- id: s17-01-0096 -->
 
@@ -396,7 +396,7 @@ sans doute qui n’est pas sans ancêtre, je veux dire qui n’est pas sans « 
 
 <!-- id: s17-01-0098 -->
 
-Mais tout de même, ce à quoi ça sert dans le discours analytique mériterait bien que l’on ne se pré­cipite pas pour le traduire trop vite, trop vite par le mot « *instinct* »*.*
+Mais tout de même, ce à quoi ça sert dans le discours analytique mériterait bien que l’on ne se pré­cipite pas pour le traduire trop vite, trop vite par le mot « *instinct* ».
 
 <!-- id: s17-01-0099 -->
 

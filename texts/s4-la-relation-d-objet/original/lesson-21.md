@@ -117,7 +117,7 @@ J’ai mis - avec FREUD d’ailleurs - l’accent sur ce qui lui paraissait en t
 <!-- id: s4-21-0027 -->
 
 Quand je mets l’accent là-dessus, je puis entendre de la part de certains, je ne sais quel étonnement : que j’élude à ce propos
-la connexion des dites «** ***Hosen »*, des culottes de la mère, avec le *Lumpf*. Dans le vocabulaire du petit Hans, le *Lumpf* ce sont
+la connexion des dites « *Hosen »*, des culottes de la mère, avec le *Lumpf*. Dans le vocabulaire du petit Hans, le *Lumpf* ce sont
 les excréments. Ils sont appelés de cette façon atypique, comme il est excessivement fréquent chez les enfants
 qu’un nom de rencontre, sinon de hasard, soit donné à cette fonction à partir d’une première dénomination
 liée à une certaine connexion de l’exercice de cette fonction.
@@ -236,14 +236,14 @@ dans laquelle il a à prendre sa propre place.
 S’il fallait quelques preuves supplémentaires de ce que je vous dis, et j’insiste un peu dans toute la mesure où on m’a fait
 cette *objection*, puisque je la rencontre, je veux la poursuivre jusque dans son dernier terme, et vous prier de vous reporter
 au texte pour savoir ce qu’est en fin de compte le *Lumpf. J*’ajouterais que le petit Hans à un moment *déterminé*,
-quand *on revient de chez la grand-mère* le dimanche soir, marque son dégoût dans le wagon, pour les coussins noirs du compartiment parce que c’est du *Lumpf***.**
+quand *on revient de chez la grand-mère* le dimanche soir, marque son dégoût dans le wagon, pour les coussins noirs du compartiment parce que c’est du *Lumpf**.*
 
 <!-- id: s4-21-0048 -->
 
 Et dans l’ex­plication qui suit avec le père, je crois deux jours après, qu’est-ce qui vient en comparaison du noir du *Lumpf* ?
 Ce sont *une chemise*, *une chemisette noire* et des *bas noirs*. Le rapport étroit du thème du *Lumpf* avec les vêtements de la mère,
 c’est-à-dire toujours avec le thème du voile, est accusé dans l’observation même par le petit Hans lui-même.
-D’ailleurs *qu’est-ce donc que* le *Lumpf***,** et d’où sort-il ? Pourquoi le petit Hans a-t-il appelé les excréments un *Lumpf* ?
+D’ailleurs *qu’est-ce donc que* le *Lumpf**,* et d’où sort-il ? Pourquoi le petit Hans a-t-il appelé les excréments un *Lumpf* ?
 *On nous le dit* également dans l’observation : c’est par comparaison avec des bas noirs.
 
 <!-- id: s4-21-0049 -->
@@ -639,7 +639,7 @@ Si en effet, après être allé si près, ça n’a pas été plus loin, c’est
 <!-- id: s4-21-0121 -->
 
 Parce que si ça avait été plus loin il n’y aurait pas eu de phobie, mais un *complexe d’Œdipe* et *de castration* normal,
-et il n’y aurait pas eu besoin de toute cette complication* *: ni de la phobie, ni du symptôme, ni de l’analyse,
+et il n’y aurait pas eu besoin de toute cette complication: ni de la phobie, ni du symptôme, ni de l’analyse,
 pour arriver à un point qui n’est pas forcément le point stipulé, le point typique.
 
 <!-- id: s4-21-0122 -->
@@ -682,7 +682,7 @@ avec la philologie, l’eth­nographie, les mythes, etc., quel rapport il peut y
 <!-- id: s4-21-0129 -->
 
 *Geboren* veut dire en allemand *naître* ou *être né*, et *Bohrer* veut dire *perçoir*. Il n’y a pas de rapport entre ces deux racines. Résumons.
-C’est toute la différence du *ferio* en latin, et du *fero*, de frapper ou de porter. Ce n’est pas la même racine, et quand on poursuit dans les dif­férentes langues ces deux racines, elles restent parfaitement distinctes. Enfin il y a le *ferare*, percer, qui n’est évidemment pas la même chose que le *fero*, *porter*, et c’est toujours à ce terme « *porter* » que se rapporte le *geboren***.**
+C’est toute la différence du *ferio* en latin, et du *fero*, de frapper ou de porter. Ce n’est pas la même racine, et quand on poursuit dans les dif­férentes langues ces deux racines, elles restent parfaitement distinctes. Enfin il y a le *ferare*, percer, qui n’est évidemment pas la même chose que le *fero*, *porter*, et c’est toujours à ce terme « *porter* » que se rapporte le *geboren**.*
 
 <!-- id: s4-21-0130 -->
 

@@ -48,11 +48,11 @@ L’acte, je leur donne chance d’y faire face.
 
 Je suis dans le travail de l’inconscient.  
 Ce qu’il me démontre, c’est qu’*il n’y a de vérité* *à répondre du malaise que particulière* à chacun de ceux que j’appelle *parlêtres*.  
-Il n’y a pas là d’impasse commune, car rien ne permet de** **présumer que tous confluent.
+Il n’y a pas là d’impasse commune, car rien ne permet de présumer que tous confluent.
 
 <!-- id: s27-05-0012 -->
 
-L’usage de l’un que nous ne** **trouvons que dans le signifiant ne fonde nullement l’unité du réel.
+L’usage de l’un que nous ne trouvons que dans le signifiant ne fonde nullement l’unité du réel.
 
 <!-- id: s27-05-0013 -->
 
@@ -84,22 +84,22 @@ Et pourquoi ne le croirais-je pas, moi aussi ?
 
 <!-- id: s27-05-0019 -->
 
-Puisque je me compte au** **nombre des dupes, comme chacun sait.  
+Puisque je me compte au nombre des dupes, comme chacun sait.  
 Je n’attends rien des personnes et quelque chose du fonctionnement.
 
 <!-- id: s27-05-0020 -->
 
 Donc, il faut bien que j’innove, puisque cette École, je l’ai loupée, d’avoir échoué à produire des Analystes d’icelle (A.E) qui soient à la hauteur.  
-Auquel des** **élus de mon jury d’agrément aurai-je conseillé de voter pour lui-même si** **d’aventure il s’y était, au** **titre de passant, aujourd’hui présenté ?
+Auquel des élus de mon jury d’agrément aurai-je conseillé de voter pour lui-même si d’aventure il s’y était, au titre de passant, aujourd’hui présenté ?
 
 <!-- id: s27-05-0021 -->
 
-Aussi point ne me** **hâte de refaire école.  
-Mais « *sans que je tienne compte des positions prises dans le passé à l’endroit de ma** **personne* » - citation de 1964 - celui qui, m’ayant déclaré poursuivre avec** **moi, le fait en des termes qui à mon gré ne le démentent point par avance, je l’admets à s’associer à celui qui fait de même.
+Aussi point ne me hâte de refaire école.  
+Mais « *sans que je tienne compte des positions prises dans le passé à l’endroit de ma personne* » - citation de 1964 - celui qui, m’ayant déclaré poursuivre avec moi, le fait en des termes qui à mon gré ne le démentent point par avance, je l’admets à s’associer à celui qui fait de même.
 
 <!-- id: s27-05-0022 -->
 
-Qui est qui, point ne préjuge, mais m’en remets à l’expérience à faire, freudienne s’il se** **peut.
+Qui est qui, point ne préjuge, mais m’en remets à l’expérience à faire, freudienne s’il se peut.
 
 <!-- id: s27-05-0023 -->
 
@@ -135,7 +135,7 @@ Si peu qu’elle-même en soit pourvue (car reconnaissons que c’est mince), el
 
 <!-- id: s27-05-0031 -->
 
-C’est même en cela que « *les* » *femmes*, qui, elles, existent,** **sont les meilleures psychanalystes - les** **pires à l’occasion.  
+C’est même en cela que « *les* » *femmes*, qui, elles, existent, sont les meilleures psychanalystes - les pires à l’occasion.  
 C’est à la condition de ne point s’étourdir d’une nature anti-phallique, dont il n’y a pas trace dans l’inconscient, qu’elles peuvent entendre ce qui de cet inconscient ne tient pas à se dire, mais atteint à ce qui s’en élabore, comme leur procurant la jouissance proprement phallique.
 
 <!-- id: s27-05-0032 -->
@@ -148,7 +148,7 @@ L’Autre manque.
 
 <!-- id: s27-05-0034 -->
 
-Je tiens le coup pourtant, ce qui vous épate, mais je ne le** **fais pas pour cela.
+Je tiens le coup pourtant, ce qui vous épate, mais je ne le fais pas pour cela.
 
 <!-- id: s27-05-0035 -->
 

@@ -570,7 +570,7 @@ Et pourtant, si quelque chose se trouve alors dans les techniques précises...
 
 <!-- id: s7-11-0138 -->
 
-...c’est à proprement parler une technique de la retenue, une technique de la suspension*,* de *l*’’*amor interruptus*.
+...c’est à proprement parler une technique de la retenue, une technique de la suspension, de *l*’’*amor interruptus*.
 
 <!-- id: s7-11-0139 -->
 

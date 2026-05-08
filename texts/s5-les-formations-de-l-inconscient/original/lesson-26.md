@@ -37,7 +37,7 @@ son *développement sexuel* pas­sait obligatoirement par quelque chose qui pour
 
 <!-- id: s5-26-0008 -->
 
-« *elle doit être le phal­lus sur le fond quelle ne l’est pas* »*.*
+« *elle doit être le phal­lus sur le fond quelle ne l’est pas* ».
 
 <!-- id: s5-26-0009 -->
 
@@ -60,7 +60,7 @@ Il est excessivement important d’articuler convenablement les différentes lig
 
 <!-- id: s5-26-0013 -->
 
-Il y a un article dont je vous conseillerai la lecture, c’est l’article de GLOVER qui s’appelle « [*The Thera*<span id="Retour_texte_Glover_18_06_58" class="anchor"></span>*peutic effects of inexact interpretation*](#Glover_18_06_58)* »* [^62]*.* C’est l’un des articles les plus remarquables et les plus intelligents qui puisse être écrit sur un tel sujet. Il met vrai­ment au point la base de départ sur laquelle peut être abordée la question de *l’inter­prétation*.
+Il y a un article dont je vous conseillerai la lecture, c’est l’article de GLOVER qui s’appelle « [*The Thera*<span id="Retour_texte_Glover_18_06_58" class="anchor"></span>*peutic effects of inexact interpretation*](#Glover_18_06_58)* »* [^62]. C’est l’un des articles les plus remarquables et les plus intelligents qui puisse être écrit sur un tel sujet. Il met vrai­ment au point la base de départ sur laquelle peut être abordée la question de *l’inter­prétation*.
 
 <!-- id: s5-26-0014 -->
 
@@ -112,8 +112,8 @@ Aussitôt il occupe une certaine place, ce qui n’est pas quelque chose d’ine
 
 <!-- id: s5-26-0024 -->
 
-Il remarque en un certain point que toute la tendance de la *modern therapeutic analytic* à son époque est la direction d*’*interpréter ce qu’il appelle les « *systèmes sadiques *»  et les réactions de culpabilité*.* Il fait remarquer que jusqu’à
-une époque récente tout ceci n’avait pas été mis en évidence. Sans aucun doute on soulageait le malade de l’*anxiété*, mais on laissait certainement irrésolu, irréprimé, et du même coup refoulé, ce fameux « *système sadique *»*.*
+Il remarque en un certain point que toute la tendance de la *modern therapeutic analytic* à son époque est la direction d*’*interpréter ce qu’il appelle les « *systèmes sadiques *»  et les réactions de culpabilité. Il fait remarquer que jusqu’à
+une époque récente tout ceci n’avait pas été mis en évidence. Sans aucun doute on soulageait le malade de l’*anxiété*, mais on laissait certainement irrésolu, irréprimé, et du même coup refoulé, ce fameux « *système sadique *».
 
 <!-- id: s5-26-0025 -->
 
@@ -198,7 +198,7 @@ depuis toujours par les utopistes : une société fonctionnant parfaitement et a
 
 <!-- id: s5-26-0041 -->
 
-« *chacun selon ses besoins*, *tous y participant selon leurs mérites* » y ajoute-t-on*.* C’est là que commence le problème.
+« *chacun selon ses besoins*, *tous y participant selon leurs mérites* » y ajoute-t-on. C’est là que commence le problème.
 
 <!-- id: s5-26-0042 -->
 
@@ -266,7 +266,7 @@ Il ne change pas, simplement j’essaye de vous en faire parcourir le champ.
 <!-- id: s5-26-0055 -->
 
 Ce que nous trouvons, c’est que ce qui se passe dans ce rapport avec la mère, pour autant qu’ici la mère impose
-ce que j’ai appelé, plus que *sa loi,* «* sa toute-puissance *» *ou* «* son caprice *» est compliqué du fait que l’enfant, l’enfant humain - pas n’importe quel petit, et l’expérience nous le montre *-* est ouvert à un certain rapport *d’ordre imaginaire*
+ce que j’ai appelé, plus que *sa loi,* «* sa toute-puissance *» *ou* «* son caprice *» est compliqué du fait que l’enfant, l’enfant humain - pas n’importe quel petit, et l’expérience nous le montre - est ouvert à un certain rapport *d’ordre imaginaire*
 qui est le rapport à *l’image du corps propre* et *à l’image de l’autre*, nommément, pour autant que nous le voyons
 sur notre schéma, dans l’au-delà de ce qui se passe sur la ligne de retour du besoin satisfait ou pas satisfait.
 
@@ -371,7 +371,7 @@ de *l’Autre de l’Autre*, c’est-à-dire du *Père* dans l’occasion, du li
 
 <!-- id: s5-26-0078 -->
 
-qui est *l’effet dénaturant -* souli­gnons bien notre pensée * *:
+qui est *l’effet dénaturant -* souli­gnons bien notre pensée :
 
 <!-- id: s5-26-0079 -->
 
@@ -517,7 +517,7 @@ a apporté :
 
 <!-- id: s5-26-0109 -->
 
-…c’est un *signifié* qui est bien loin d’intéres­ser seulement *le sujet*. C’est son *histoire*, toute son *anamnèse* qui est impliquée. C’est pour cela que l’on peut légitimement le symboliser à cette place par un *s*(A)*.* Entendez : *signifié de l’Autre*
+…c’est un *signifié* qui est bien loin d’intéres­ser seulement *le sujet*. C’est son *histoire*, toute son *anamnèse* qui est impliquée. C’est pour cela que l’on peut légitimement le symboliser à cette place par un *s*(A). Entendez : *signifié de l’Autre*
 venant comme tel du *lieu de la parole*.
 
 <!-- id: s5-26-0110 -->
@@ -615,8 +615,8 @@ qui reste dans l’abord par *l’obsessionnel* de son *désir* et qui fait que 
 
 <!-- id: s5-26-0128 -->
 
-C’est ce que *l’auteur dont je vous parle* \[Bouvet\], et disons, *que je critique* à l’occasion dans ce que je suis en train de dérouler devant vous depuis quelque leçons, c’est ce que l’auteur perçoit sous cette forme qu’il appelle « *distance à l’objet *»*,*
-et qu’il confond avec quelque chose qu’il appelle « *destruction de l’objet* »*.* Je veux dire que l’idée qu’il se fait
+C’est ce que *l’auteur dont je vous parle* \[Bouvet\], et disons, *que je critique* à l’occasion dans ce que je suis en train de dérouler devant vous depuis quelque leçons, c’est ce que l’auteur perçoit sous cette forme qu’il appelle « *distance à l’objet *»,
+et qu’il confond avec quelque chose qu’il appelle « *destruction de l’objet* ». Je veux dire que l’idée qu’il se fait
 de la psychologie de *l’obsessionnel* est celle de quelqu’un qui a perpétuellement à se défendre de la folie,
 de la folie définie comme « *destruction de l’objet* ».
 
@@ -703,7 +703,7 @@ Quant à notre *hystérique*, nous avons vu que pour soutenir son *désir énigm
 
 <!-- id: s5-26-0145 -->
 
-et iden­tiques, à ce niveau de formation idéalisante, d’identification à un *petit autre* \[<sub>→</sub> S **◊** *a*, <sub>→</sub> i(a)*\]
+et iden­tiques, à ce niveau de formation idéalisante, d’identification à un *petit autre* \[<sub>→</sub> S ◊ *a*, <sub>→</sub> i(a)*\]
 
 <!-- id: s5-26-0146 -->
 
@@ -721,7 +721,7 @@ le même chemin. Il est lui aussi axé pour s’arranger avec ce problème de so
 
 <!-- id: s5-26-0149 -->
 
-Ce que je commence de vous montrer c’est que c’est dans un certain rapport précoce et essentiel à sa *demande* \[S **◊** D\] qu’il peut, dans son rap­port à l’Autre, manifester la spécificité et la place, maintenir, si l’on peut dire, la dis­tance nécessaire à ce que soit possible quelque part, mais de loin, la position de ce *désir annulé* dans son essence,
+Ce que je commence de vous montrer c’est que c’est dans un certain rapport précoce et essentiel à sa *demande* \[S ◊ D\] qu’il peut, dans son rap­port à l’Autre, manifester la spécificité et la place, maintenir, si l’on peut dire, la dis­tance nécessaire à ce que soit possible quelque part, mais de loin, la position de ce *désir annulé* dans son essence,
 de cette sorte de *désir aveugle*, si l’on peut dire, qui est celui dont il s’agit de *maintenir* la position.
 
 <!-- id: s5-26-0150 -->
@@ -745,14 +745,14 @@ de toutes les formes obsessionnelles dans quelque chose de bel et bien articulé
 
 <!-- id: s5-26-0154 -->
 
-Au reste est-il besoin d’insister sur le caractère d’*annulation verbale*, le caractère verbal qui va partir de la structure de *l’obsession* elle-même ? Et chacun sait que ce qui en fait *l’essence* et le pouvoir *phénoménologiquement angoissant* pour le sujet est ceci : c’est qu’il s’agit d’une *destruction verbale* par le verbe et par le signifiant. Le sujet se trouve en proie à ce qu’on appelle *cette destruction* que l’on appelle « *magique* » *-* je ne sais pourquoi : pourquoi ne pas dire *verbale* tout simplement -
+Au reste est-il besoin d’insister sur le caractère d’*annulation verbale*, le caractère verbal qui va partir de la structure de *l’obsession* elle-même ? Et chacun sait que ce qui en fait *l’essence* et le pouvoir *phénoménologiquement angoissant* pour le sujet est ceci : c’est qu’il s’agit d’une *destruction verbale* par le verbe et par le signifiant. Le sujet se trouve en proie à ce qu’on appelle *cette destruction* que l’on appelle « *magique* » - je ne sais pourquoi : pourquoi ne pas dire *verbale* tout simplement -
 *de l’Autre*, qui est donnée *dans la structure même du symptôme*.
 
 <!-- id: s5-26-0155 -->
 
 Ceci aussi nous introduit à une phénoménologie qu’il est essentiel de parcourir pour comprendre sa nécessité.
 Je dirai que de même que vous avez vu ici, en somme, le circuit de *l’hystérique* qui aboutit sur les deux plans,
-c’est-à-dire à une *idéalisation* \[S **◊** *a*\] ou *identification* dans le *schéma* à ce niveau supérieur, qui est le parallèle
+c’est-à-dire à une *idéalisation* \[S ◊ *a*\] ou *identification* dans le *schéma* à ce niveau supérieur, qui est le parallèle
 de la symbolisation qui passe ici *sur le plan imaginaire* \[*i(a)*\].
 
 <!-- id: s5-26-0156 -->

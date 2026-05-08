@@ -266,7 +266,7 @@ Irons-nous jusqu’à dire que *la souffrance* s’y implique ? C’est une sou
 
 <!-- id: s8-14-0065 -->
 
-- que ce qui dans le stade anal se constitue comme structure sadique ou sadomasochiste est, à partir d’un point d’éclipse maximum du sexuel, d’un point de pure oblativité anale, la remontée vers ce qui va se réaliser au stade génital**,**
+- que ce qui dans le stade anal se constitue comme structure sadique ou sadomasochiste est, à partir d’un point d’éclipse maximum du sexuel, d’un point de pure oblativité anale, la remontée vers ce qui va se réaliser au stade génital,
 
 <!-- id: s8-14-0066 -->
 
@@ -306,7 +306,7 @@ Permettez-moi cette petite parenthèse, cette perle que j’ai trouvée à votre
 
 <!-- id: s8-14-0075 -->
 
-Mais ce n’est pas tout, car *l’étymologie consciente* à quoi tout ceci a abouti, sur laquelle se sont reposées en fin les générations dernières : c’est que « *réglisse* » devait s’écrire « *rai de galice* »*,* parce que la « *réglisse* » est faite avec une racine douce qu’on ne trouve qu’en Galice, le *rai de galice*. Voici où nous revenons *après être partis* - c’est le cas de le dire - de *la racine grecque*. Je pense que *cette petite démonstration des ambiguïtés signifiantes* vous aura convaincus que nous sommes sur un terrain solide en lui donnant *toute son importance*.
+Mais ce n’est pas tout, car *l’étymologie consciente* à quoi tout ceci a abouti, sur laquelle se sont reposées en fin les générations dernières : c’est que « *réglisse* » devait s’écrire « *rai de galice* », parce que la « *réglisse* » est faite avec une racine douce qu’on ne trouve qu’en Galice, le *rai de galice*. Voici où nous revenons *après être partis* - c’est le cas de le dire - de *la racine grecque*. Je pense que *cette petite démonstration des ambiguïtés signifiantes* vous aura convaincus que nous sommes sur un terrain solide en lui donnant *toute son importance*.
 
 <!-- id: s8-14-0076 -->
 
@@ -378,7 +378,7 @@ Et SOCRATE, sans le savoir, quand il *loue* - ἐπαινεῖν \[epainein\] *-
 
 <!-- id: s8-14-0093 -->
 
-**  **
+&nbsp;
 
 ## Notes
 

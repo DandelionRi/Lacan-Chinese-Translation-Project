@@ -840,7 +840,7 @@ Ce qui est jus­tement le mettre *en place*. La notion de *place*, elle surgit d
 
 <!-- id: s21-12-0206 -->
 
-Alors en disant ça je mets le *Réel* *-* je le situe, justement *-* je le mets à sa place d’un *sens* - ne l’oublions pas - d’un *sens* en tant que su : le sens se sait.
+Alors en disant ça je mets le *Réel* - je le situe, justement - je le mets à sa place d’un *sens* - ne l’oublions pas - d’un *sens* en tant que su : le sens se sait.
 
 <!-- id: s21-12-0207 -->
 

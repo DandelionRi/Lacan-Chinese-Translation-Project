@@ -224,7 +224,7 @@ De sorte que si, comme c’est facile à vérifier, vous prenez cette opération
 
 <!-- id: s16-09-0055 -->
 
-> à savoir de ce qui s’inscrit en 1, fondement de l’identification subjective originelle …*et du nombre des a,* ira toujours en s’accroissant car ici, dans le sens de l’addition, c’est toujours du *rapport d’un nombre de a* *-* qui correspond au terme le plus petit - *à un nombre d’entiers* - qui correspond au terme le plus grand - *qu’il s’agit*.
+> à savoir de ce qui s’inscrit en 1, fondement de l’identification subjective originelle …*et du nombre des a,* ira toujours en s’accroissant car ici, dans le sens de l’addition, c’est toujours du *rapport d’un nombre de a* - qui correspond au terme le plus petit - *à un nombre d’entiers* - qui correspond au terme le plus grand - *qu’il s’agit*.
 
 <!-- id: s16-09-0056 -->
 
@@ -338,7 +338,7 @@ Voici donc ce qui est engagé : *quelque chose* - comme on l’a dit - dont nou
 
 <!-- id: s16-09-0083 -->
 
-Cette *mise* figurons-là. C’est *légitime* à partir du moment où nous avons pu *nous*-*mêmes* nous avancer pour saisir ce qui est bien en cause dans la question, à savoir ce « *plus énigmatique* » qui nous fait être tous dans le champ d’un discours quel­conque, à savoir le *(a)*. C’est l’*enjeu*. Pourquoi nous l’inscrivons ici dans cette case, c’est ce que nous allons avoir à justifier :
+Cette *mise* figurons-là. C’est *légitime* à partir du moment où nous avons pu *nous-mêmes* nous avancer pour saisir ce qui est bien en cause dans la question, à savoir ce « *plus énigmatique* » qui nous fait être tous dans le champ d’un discours quel­conque, à savoir le *(a)*. C’est l’*enjeu*. Pourquoi nous l’inscrivons ici dans cette case, c’est ce que nous allons avoir à justifier :
 
 <!-- id: s16-09-0084 -->
 
@@ -500,7 +500,7 @@ S’il y en a qui le gardent au prix de la perte (–∞), figurez-vous qu’ils
 
 <!-- id: s16-09-0123 -->
 
-### Ici, vous avez ceux qui, au contraire, gardent le *a* et dorment sur leurs deux oreilles. 
+### Ici, vous avez ceux qui, au contraire, gardent le *a* et dorment sur leurs deux oreilles.
 
 <!-- id: s16-09-0124 -->
 

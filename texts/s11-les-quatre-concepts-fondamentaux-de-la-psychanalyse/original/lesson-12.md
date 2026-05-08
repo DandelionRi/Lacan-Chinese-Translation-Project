@@ -22,7 +22,7 @@ J’ai dit que...
 
 <!-- id: s11-12-0004 -->
 
-Peut-être ceci a-t-il résonné, ceci a-t-il - comme je le disais à l’instant - *plu*, dans la mesure où *ce qui* *se sous*-*tend, s’annonce*
+Peut-être ceci a-t-il résonné, ceci a-t-il - comme je le disais à l’instant - *plu*, dans la mesure où *ce qui* *se sous-tend, s’annonce*
 dans une telle for­mule, c’est justement ce que vous êtes tous plus ou moins assez infor­més pour voir que c’est bien ce qu’on tend, dans la définition du trans­fert, le plus à éviter.
 
 <!-- id: s11-12-0005 -->
@@ -61,8 +61,8 @@ Allons au fait ! La *réalité de l’in­conscient*, c’est à la fois ce que 
 
 <!-- id: s11-12-0012 -->
 
-*Pourquoi* - dirais-je - *est*-*ce une réalité insoutenable ?* Eh bien, juste­ment en ceci que la réalité sexuelle, la sexualité,
-eh bien le moins qu’on puisse dire, c’est que nous n’en savons pas tout. Nous avons fait, *pendant le temps que* FREUD *articulait sa découverte de l’inconscient,* nous avons fait - *pendant ce temps, ne l’oublions pas, c’est*-*à*-*dire depuis environ, disons les années 1900 ou celles qui précèdent immé­diatement -* quelques progrès qui, pour intégrés qu’ils soient à notre ima­gerie mentale, nous ne devons pas pour autant considérer que la science que nous en avons prise pendant ce temps a été là depuis toujours.
+*Pourquoi* - dirais-je - *est-ce une réalité insoutenable ?* Eh bien, juste­ment en ceci que la réalité sexuelle, la sexualité,
+eh bien le moins qu’on puisse dire, c’est que nous n’en savons pas tout. Nous avons fait, *pendant le temps que* FREUD *articulait sa découverte de l’inconscient,* nous avons fait - *pendant ce temps, ne l’oublions pas, c’est-à-dire depuis environ, disons les années 1900 ou celles qui précèdent immé­diatement -* quelques progrès qui, pour intégrés qu’ils soient à notre ima­gerie mentale, nous ne devons pas pour autant considérer que la science que nous en avons prise pendant ce temps a été là depuis toujours.
 
 <!-- id: s11-12-0013 -->
 
@@ -332,7 +332,7 @@ La *libido*, ici, je l’ai inscrite au point où ce lobe tel qu’il se décrit
 
 <!-- id: s11-12-0062 -->
 
-Cette surface, si vous vou­lez la rattacher à quelque chose de fondamental en topologie, n’en pas faire un accident de construction, comme une petite rustine bizarre­ment fabriquée, elle appartient à une surface dont j’ai décrit en son temps, à mes élèves *la topologie*, et qui s’appelle *le cross*-*cap*, autrement dit *la mitre*.
+Cette surface, si vous vou­lez la rattacher à quelque chose de fondamental en topologie, n’en pas faire un accident de construction, comme une petite rustine bizarre­ment fabriquée, elle appartient à une surface dont j’ai décrit en son temps, à mes élèves *la topologie*, et qui s’appelle *le cross-cap*, autrement dit *la mitre*.
 
 <!-- id: s11-12-0063 -->
 
@@ -507,7 +507,7 @@ Et pour autant qu’en la matière il fait œuvre recevable, l’incidence de la
 
 <!-- id: s11-12-0096 -->
 
-FREUD n’était pas le CHRIST, mais enfin après tout, il était peut-être quelque chose comme *Viridiana* [^69]*.* Ceux qu’on photographie si *ironiquement dans ce film, avec ce petit appareil*, m’évoquant quel­quefois invinciblement le groupe, également de nombreuses fois
+FREUD n’était pas le CHRIST, mais enfin après tout, il était peut-être quelque chose comme *Viridiana* [^69]. Ceux qu’on photographie si *ironiquement dans ce film, avec ce petit appareil*, m’évoquant quel­quefois invinciblement le groupe, également de nombreuses fois
 pho­tographié, de ceux qui furent de FREUD *les apôtres et les épigones.*
 
 <!-- id: s11-12-0097 -->
@@ -526,6 +526,7 @@ Il est vrai qu’autour de SOCRATE, l’assistance était - il faut bien le dire
 <!-- id: s11-12-0100 -->
 
 C’est là que je reprendrai mon pas la prochaine fois, en essayant de vous articuler la prégnance de la fonc­tion du *désir de l’analyste*.
+
 ## Notes
 
 [^66]: Claude Lévi-Strauss : *Les structures élémentaires de la parenté*, PUF 1949, ou éd. de l'E.H.E.S.S. ­1967.

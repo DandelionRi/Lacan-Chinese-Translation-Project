@@ -30,7 +30,7 @@ Ces croisements donc, déterminent ces quatre points que nous avons appelés :
 
 <!-- id: s6-22-0007 -->
 
-- *points de code*, qui sont ceux de droite, ici \[A et S**◊** D\],
+- *points de code*, qui sont ceux de droite, ici \[A et S◊ D\],
 
 <!-- id: s6-22-0008 -->
 
@@ -46,7 +46,7 @@ Voici donc les quatre points que nous avons appris à meubler des significations
 
 <!-- id: s6-22-0011 -->
 
-- Ici, *les deux autres signes* \[S(A) *et* S**◊** D\] *sur lesquels nous allons avoir à revenir aujourd’hui sont* S *en présence de* D \[S**◊** D\], *et* S *signifiant* de A \[S(A)\].
+- Ici, *les deux autres signes* \[S(A) *et* S◊ D\] *sur lesquels nous allons avoir à revenir aujourd’hui sont* S *en présence de* D \[S◊ D\], *et* S *signifiant* de A \[S(A)\].
 
 <!-- id: s6-22-0012 -->
 
@@ -208,7 +208,7 @@ Nul « *je* » de lui ne peut être articulé à ce niveau, mais l’expérience
 
 <!-- id: s6-22-0050 -->
 
-Il y a là une distance dont il n’est même pas dit, malgré que le commandement de FREUD nous en donne la visée, que d’une façon quelconque le sujet puisse en atteindre le but. La portée donc, à ce niveau du *point dit de code*, pour autant que nous le symbolisons ici par la confrontation du S avec la demande D : S**◊** D, signifie quoi ?
+Il y a là une distance dont il n’est même pas dit, malgré que le commandement de FREUD nous en donne la visée, que d’une façon quelconque le sujet puisse en atteindre le but. La portée donc, à ce niveau du *point dit de code*, pour autant que nous le symbolisons ici par la confrontation du S avec la demande D : S◊ D, signifie quoi ?
 
 <!-- id: s6-22-0051 -->
 
@@ -224,7 +224,7 @@ Très précisément ceci : c’est que ceci et rien d’autre que ce point que n
 
 <!-- id: s6-22-0054 -->
 
-À ce niveau – et c’est ce que veut dire le signe **◊** entre S et D \[S**◊** D\] – à ce niveau la demande est affectée de sa forme proprement symbolique, la demande est utilisée pour autant qu’*au-delà de* ce qu’elle exige quant à *la satisfaction du besoin*, elle se pose comme cette *demande d’amour* ou cette *demande de présence* par où nous avons dit que la demande institue l’Autre à qui elle s’adresse comme celui qui peut être *présent* ou *absent*. C’est en tant que la demande joue cette fonction *métaphorique*, en tant que *la demande* - qu’elle soit orale ou anale - *devient symbole* du rapport avec l’Autre, qu’elle joue là sa fonction de code, qu’elle permet de constituer le sujet comme étant situé à ce que nous appelons dans notre langage, la phase *orale* ou *anale* par exemple.
+À ce niveau – et c’est ce que veut dire le signe ◊ entre S et D \[S◊ D\] – à ce niveau la demande est affectée de sa forme proprement symbolique, la demande est utilisée pour autant qu’*au-delà de* ce qu’elle exige quant à *la satisfaction du besoin*, elle se pose comme cette *demande d’amour* ou cette *demande de présence* par où nous avons dit que la demande institue l’Autre à qui elle s’adresse comme celui qui peut être *présent* ou *absent*. C’est en tant que la demande joue cette fonction *métaphorique*, en tant que *la demande* - qu’elle soit orale ou anale - *devient symbole* du rapport avec l’Autre, qu’elle joue là sa fonction de code, qu’elle permet de constituer le sujet comme étant situé à ce que nous appelons dans notre langage, la phase *orale* ou *anale* par exemple.
 
 <!-- id: s6-22-0055 -->
 
@@ -272,7 +272,7 @@ Je vous rappelle ce que la dernière fois je vous ai dit à propos de l’objet 
 
 <!-- id: s6-22-0066 -->
 
-Ainsi donc, en face du point où le sujet va se situer pour accéder au niveau de la chaîne inconsciente, ici, je pose le fantasme comme tel : S**◊***a.* Ce rapport à l’objet tel qu’il est dans le fantasme nous induit à quoi ? À une phénoménologie de la coupure, à l’objet en tant qu’il peut supporter sur le plan *imaginaire* ce rapport de *coupure* qui est celui où – à ce niveau – le sujet a à se supporter.
+Ainsi donc, en face du point où le sujet va se situer pour accéder au niveau de la chaîne inconsciente, ici, je pose le fantasme comme tel : S◊*a.* Ce rapport à l’objet tel qu’il est dans le fantasme nous induit à quoi ? À une phénoménologie de la coupure, à l’objet en tant qu’il peut supporter sur le plan *imaginaire* ce rapport de *coupure* qui est celui où – à ce niveau – le sujet a à se supporter.
 
 <!-- id: s6-22-0067 -->
 
@@ -380,7 +380,7 @@ Il vous paraît peut-être excessif de voir désigner…
 
 <!-- id: s6-22-0093 -->
 
-…le point électif du rapport du sujet à ce que nous pouvons ici appeler son « *être pur de sujet* », ce par quoi dès lors le fantasme du désir prend la fonction – ce point – de le désigner. \[S(A)→ S**◊***a →* I(A)\]
+…le point électif du rapport du sujet à ce que nous pouvons ici appeler son « *être pur de sujet* », ce par quoi dès lors le fantasme du désir prend la fonction – ce point – de le désigner. \[S(A)→ S◊*a →* I(A)\]
 
 <!-- id: s6-22-0094 -->
 
@@ -808,7 +808,7 @@ Mais lisez un ouvrage fort bien fait et qui résume à l’heure actuelle à peu
 [^105]: Lacan *équivoque* sur « S ? », « Est-ce ? » et « Es ».
 
 
-[^106]: Il s’agit en fait de Socrate (Platon<span class="smallcaps"> :</span> Phèdre*,* 265e).
+[^106]: Il s’agit en fait de Socrate (Platon<span class="smallcaps"> :</span> Phèdre, 265e).
 
 
 [^107]: « Ghost : *But virtue, as it never will be moved, Though lewdness court it in a shape of heaven, So lust, though to a radiant angel linked, Will sate itself in a celestial*

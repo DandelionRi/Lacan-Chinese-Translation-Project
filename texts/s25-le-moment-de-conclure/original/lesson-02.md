@@ -14,11 +14,11 @@
 
 <!-- id: s25-02-0003 -->
 
-C’est un tore à quatre tel qu’un quelconque des quatre soit retourné. Voilà le tore à quatre dont il s’agit :  
+C’est un tore à quatre tel qu’un quelconque des quatre soit retourné. Voilà le tore à quatre dont il s’agit :
 
 <!-- id: s25-02-0004 -->
 
-  <img src="assets/image4.jpeg" style="width:1.96296in;height:1.15983in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S25\14a.jpg" />
+<img src="assets/image4.jpeg" style="width:1.96296in;height:1.15983in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S25\14a.jpg" />
 
 <!-- id: s25-02-0005 -->
 
@@ -78,7 +78,7 @@ C’est le tore qu’il a retourné, je vous prie d’y prendre garde, et à ce 
 
 <!-- id: s25-02-0019 -->
 
-Aussi bien, comme vous le voyez *-* pour peu que vous ayez un peu d’imagination - comme vous le voyez, il y en a quatre, et c’est en en choisissant un et en le retournant qu’on obtient la figure que vous voyez à gauche :
+Aussi bien, comme vous le voyez - pour peu que vous ayez un peu d’imagination - comme vous le voyez, il y en a quatre, et c’est en en choisissant un et en le retournant qu’on obtient la figure que vous voyez à gauche :
 
 <!-- id: s25-02-0020 -->
 
@@ -226,7 +226,7 @@ Il est tout à fait clair...
 
 <!-- id: s25-02-0056 -->
 
-> ceci se voit sur la 2<sup>ème</sup> figu­re ...il est tout à fait clair que c’est la même chose, je veux dire qu’à rompre selon un tracé qui est celui-ci \[*concentrique*\], le nœud borroméen à 3 se dissout : car il est tout à fait clair que même à l’état de tore, les 2 figures que vous voyez là *se dissolvent*, je veux dire *se séparent*, si le tore retourné est coupé dans le sens que j’ai appelé *longitudinal* \[*concentrique*\], alors que l’autre sens* *: le *transversal* \[*perpendiculaire*\] ne libère pas le tore à 3, par contre le *longitudinal* le libère. Ιl y a donc le même choix à faire sur le tore retourné, selon le cas où l’on veut et où l’on ne veut pas, dis­soudre le *nœud borroméen*.
+> ceci se voit sur la 2<sup>ème</sup> figu­re ...il est tout à fait clair que c’est la même chose, je veux dire qu’à rompre selon un tracé qui est celui-ci \[*concentrique*\], le nœud borroméen à 3 se dissout : car il est tout à fait clair que même à l’état de tore, les 2 figures que vous voyez là *se dissolvent*, je veux dire *se séparent*, si le tore retourné est coupé dans le sens que j’ai appelé *longitudinal* \[*concentrique*\], alors que l’autre sens: le *transversal* \[*perpendiculaire*\] ne libère pas le tore à 3, par contre le *longitudinal* le libère. Ιl y a donc le même choix à faire sur le tore retourné, selon le cas où l’on veut et où l’on ne veut pas, dis­soudre le *nœud borroméen*.
 
 <!-- id: s25-02-0057 -->
 

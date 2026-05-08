@@ -270,7 +270,7 @@ Jean-Paul VALABREGA
 
 <!-- id: s2-12-0066 -->
 
-Voilà les trois résultats les plus importants qu’il souligne dans le début de son argumentation, *l’essai de construction de l’appareil psychique* auquel il va se livrer. Cela va être le premier schéma sur le modèle d’appareil possible. Et cette reconstruction suit directement la référence à la *Psycho*-*physique* de FECHNER.
+Voilà les trois résultats les plus importants qu’il souligne dans le début de son argumentation, *l’essai de construction de l’appareil psychique* auquel il va se livrer. Cela va être le premier schéma sur le modèle d’appareil possible. Et cette reconstruction suit directement la référence à la *Psycho-physique* de FECHNER.
 
 <!-- id: s2-12-0067 -->
 
@@ -442,7 +442,7 @@ Vous mettez là en valeur ce que - j’imagine - tout lecteur de bonne foi de FR
 
 <!-- id: s2-12-0109 -->
 
-Mais cela ne veut pas dire que, parce que ceci est exprimé de cette façon, il faille s’en tenir là. Justement, quand on parvient à ce dernier état de la pensée de FREUD, c’est pour en dire qu’il est communément accepté. Je le dis au passage pour signaler que c’est communément accepté et que nous ne nous en contenterons pas* *!
+Mais cela ne veut pas dire que, parce que ceci est exprimé de cette façon, il faille s’en tenir là. Justement, quand on parvient à ce dernier état de la pensée de FREUD, c’est pour en dire qu’il est communément accepté. Je le dis au passage pour signaler que c’est communément accepté et que nous ne nous en contenterons pas!
 
 <!-- id: s2-12-0110 -->
 
@@ -470,7 +470,7 @@ En fin de compte pour l’explication du fonctionnement même de son *schéma*, 
 
 <!-- id: s2-12-0116 -->
 
-Or ce sys­tème de la conscience, par la nécessité de son schéma, il faut qu’il le situe juste *avant* la possibilité de l’acte*,* *avant* l’issue motrice, donc là, à droite, en M. Et c’est là en effet qu’il le place. Or, par toutes les prémisses qui déterminaient la fabri­cation de *son schéma neurologique*, il a fallu qu’il admette que ce soit au contrai­re bien avant toute espèce d’*inconscient*, c’est-à-dire au niveau de l’acquisition, de la prise de contact avec le monde extérieur, avec l’*Umwelt,* que se produise la perception, c’est-à-dire à l’autre bout du schéma, que nous ayons le système *Warnehmung* W ou *perception* P.
+Or ce sys­tème de la conscience, par la nécessité de son schéma, il faut qu’il le situe juste *avant* la possibilité de l’acte, *avant* l’issue motrice, donc là, à droite, en M. Et c’est là en effet qu’il le place. Or, par toutes les prémisses qui déterminaient la fabri­cation de *son schéma neurologique*, il a fallu qu’il admette que ce soit au contrai­re bien avant toute espèce d’*inconscient*, c’est-à-dire au niveau de l’acquisition, de la prise de contact avec le monde extérieur, avec l’*Umwelt,* que se produise la perception, c’est-à-dire à l’autre bout du schéma, que nous ayons le système *Warnehmung* W ou *perception* P.
 
 <!-- id: s2-12-0117 -->
 
@@ -502,7 +502,7 @@ Ainsi, nous aboutissons à cette singulière dissociation, à savoir que *percep
 
 <!-- id: s2-12-0124 -->
 
-Si nous prenons les choses ainsi, tout dans l’expé­rience indique que le système de la conscience doit se trouver au point opposé le plus extrême de cette succession de couches d’élaboration, d’interconnexions systématiques, qu’il nous est nécessaire d’admettre pour penser le fonctionne­ment concret, effectif dans l’expérience*,* de *l’appareil psychique*.
+Si nous prenons les choses ainsi, tout dans l’expé­rience indique que le système de la conscience doit se trouver au point opposé le plus extrême de cette succession de couches d’élaboration, d’interconnexions systématiques, qu’il nous est nécessaire d’admettre pour penser le fonctionne­ment concret, effectif dans l’expérience, de *l’appareil psychique*.
 
 <!-- id: s2-12-0125 -->
 

@@ -384,7 +384,7 @@ Le Réel dont il s’agit, c’est le nœud tout entier.
 
 <!-- id: s24-07-0094 -->
 
-Puisque nous parlons du Symbolique, il faut le situer dans le Réel*.*
+Puisque nous parlons du Symbolique, il faut le situer dans le Réel.
 
 <!-- id: s24-07-0095 -->
 

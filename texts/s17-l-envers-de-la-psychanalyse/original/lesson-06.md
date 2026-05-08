@@ -116,11 +116,11 @@ Et l’ordre, que j’essaie de mettre, par référence à des configurations de
 
 <!-- id: s17-06-0028 -->
 
-Et là les effets de la liaison - de la liaison en l’occasion signifiante *-* s’opèrent...
+Et là les effets de la liaison - de la liaison en l’occasion signifiante - s’opèrent...
 
 <!-- id: s17-06-0029 -->
 
-que quelque part ce vécu, qu’on appelle plus ou moins proprement «* pensée *», se produise ou non, ...là se produit quelque chose qui tient à une chaîne*,* exacte­ment comme si c’était de *la pensée*.
+que quelque part ce vécu, qu’on appelle plus ou moins proprement «* pensée *», se produise ou non, ...là se produit quelque chose qui tient à une chaîne, exacte­ment comme si c’était de *la pensée*.
 
 <!-- id: s17-06-0030 -->
 
@@ -474,7 +474,7 @@ Eh bien, ce que j’énonce, ce que j’apporte cette année est ceci : que ces
 
 <!-- id: s17-06-0116 -->
 
-C’est ce que définit leur rota­tion sur ces quatre places, que vous ne voyez ici, en lettres, désignées d’aucune façon, si ce n’est par la place, celle que j’appelle en l’occasion : « *en haut et à gauche* »*,* « *en bas et à droite* »*,* ici comme ça, un peu sur le tard, pour éclairer quand même, ceux qui les auront désignées de l’effet de leur petite jugeote, c’est à savoir, par exemple :
+C’est ce que définit leur rota­tion sur ces quatre places, que vous ne voyez ici, en lettres, désignées d’aucune façon, si ce n’est par la place, celle que j’appelle en l’occasion : « *en haut et à gauche* », « *en bas et à droite* », ici comme ça, un peu sur le tard, pour éclairer quand même, ceux qui les auront désignées de l’effet de leur petite jugeote, c’est à savoir, par exemple :
 
 <!-- id: s17-06-0117 -->
 
@@ -598,7 +598,7 @@ j’emploie le terme exprès que Freud donne de l’économie de ses maneuvres .
 
 <!-- id: s17-06-0147 -->
 
-Je fais une petite parenthèse. Que vous ayez ou non le texte en tête, reportez-vous-y* *!
+Je fais une petite parenthèse. Que vous ayez ou non le texte en tête, reportez-vous-y!
 
 <!-- id: s17-06-0148 -->
 
@@ -610,7 +610,7 @@ Vous verrez de ces phrases qui semblent à Freud aller de soi :
 
 <!-- id: s17-06-0150 -->
 
-- Ou encore, ce qui va plus loin : qu’une « *fille normale* » n’a pas à être dégoûtée quand on lui fait « *une bonne manière* ». Ça semble aller de soi. Il faut bien reconnaître le fonctionnement de ce que j’appelle *préjugé*, dans un certain abord de ce qui est révélé, là, par notre Dora*.*
+- Ou encore, ce qui va plus loin : qu’une « *fille normale* » n’a pas à être dégoûtée quand on lui fait « *une bonne manière* ». Ça semble aller de soi. Il faut bien reconnaître le fonctionnement de ce que j’appelle *préjugé*, dans un certain abord de ce qui est révélé, là, par notre Dora.
 
 <!-- id: s17-06-0151 -->
 
@@ -654,7 +654,7 @@ C’est très précisément ceci que nous désignons comme étant le père idéa
 
 <!-- id: s17-06-0161 -->
 
-Remarquons encore pour nous en tenir... j’ai dit que je n’y allais pas par quatre chemins : je prends Dora*,* et je vous prie, après moi de la relire, pour voir si ce que je dis est vrai.
+Remarquons encore pour nous en tenir... j’ai dit que je n’y allais pas par quatre chemins : je prends Dora, et je vous prie, après moi de la relire, pour voir si ce que je dis est vrai.
 
 <!-- id: s17-06-0162 -->
 
@@ -746,7 +746,7 @@ Il ne lui donne pas autre chose qu’une *boîte à bijoux*, le bijou, c’est e
 
 <!-- id: s17-06-0184 -->
 
-Son bijou à lui, indis­cret comme je disais tout à l’heure, et ben qu’il aille se nicher ailleurs, et qu’on le sache, d’où la *rupture,* dont depuis longtemps j’ai marqué la *significa­tion,* quand Monsieur K dit : « *Ma femme n’est rien pour moi* »*.*
+Son bijou à lui, indis­cret comme je disais tout à l’heure, et ben qu’il aille se nicher ailleurs, et qu’on le sache, d’où la *rupture,* dont depuis longtemps j’ai marqué la *significa­tion,* quand Monsieur K dit : « *Ma femme n’est rien pour moi* ».
 
 <!-- id: s17-06-0185 -->
 
@@ -924,7 +924,7 @@ Le « *complexe d’Œdipe* » qui joue le rôle du « *savoir à prétention
 
 <!-- id: s17-06-0227 -->
 
-Oui, il est étrange qu’il ne soit pas devenu plus rapidement tout à fait clair, que si toute l’interprétation s’est engagée du côté 
+Oui, il est étrange qu’il ne soit pas devenu plus rapidement tout à fait clair, que si toute l’interprétation s’est engagée du côté
 
 <!-- id: s17-06-0228 -->
 

@@ -520,7 +520,7 @@ Ce que Freud souligne de cette mort - si je puis m’exprimer ainsi - de la « 
 
 <!-- id: s23-09-0129 -->
 
-Ce qu’on a traduit en français par - je sais pas pourquoi - la pulsion*, la pulsion de mort*, on n’a pas trouvé une meilleure traduction alors qu’il y avait le mot « *dérive* »*.*
+Ce qu’on a traduit en français par - je sais pas pourquoi - la pulsion*, la pulsion de mort*, on n’a pas trouvé une meilleure traduction alors qu’il y avait le mot « *dérive* ».
 
 <!-- id: s23-09-0130 -->
 
@@ -776,7 +776,7 @@ Si je prends les mêmes *risques*, c’est bien plutôt pour vous préparer à c
 
 <!-- id: s23-09-0190 -->
 
-En essayant de faire une « *foliesophie* »*,* si je puis dire, moins sinistre que ce qu’est le *Livre* dit *de la Sagesse,* dans la *Bible*.
+En essayant de faire une « *foliesophie* », si je puis dire, moins sinistre que ce qu’est le *Livre* dit *de la Sagesse,* dans la *Bible*.
 
 <!-- id: s23-09-0191 -->
 
@@ -790,7 +790,7 @@ Quoiqu’après tout, c’est ce qu’on peut faire de mieux, pour fonder*...*
 >
 > On peut même dire que le catholicisme a consisté pendant des siècles
 >
-> à ce que on empêche les tenants de lire la *Bible* *...*mais pour fonder la « Sagesse » sur *le manque*, qui est la seule fondation qu’elle puisse avoir, c’est vraiment pas mal du tout, c’est gratiné.
+> à ce que on empêche les tenants de lire la *Bible...*mais pour fonder la « Sagesse » sur *le manque*, qui est la seule fondation qu’elle puisse avoir, c’est vraiment pas mal du tout, c’est gratiné.
 
 <!-- id: s23-09-0193 -->
 

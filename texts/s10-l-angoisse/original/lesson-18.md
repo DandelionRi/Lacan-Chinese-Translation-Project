@@ -75,8 +75,7 @@ nous devons repérer ce que j’appellerai « *le point d’angoisse* ».
 <!-- id: s10-18-0013 -->
 
 Ceci va nous faire revenir en arrière, et d’un mouvement commandé par toute notre expérience puisque tout se passe comme si, étant arrivé avec l’expérience de Freud *à buter sur unе impasse...*
-*impasse* que je promeus n’être qu’apparente mais jusqu’ici jamais franchie, *celle du complexe de cas­tration*
-*...*tout se passe comme si c’est cette butée qu’il reste à expliquer,
+*impasse* que je promeus n’être qu’apparente mais jusqu’ici jamais franchie, *celle du complexe de cas­tration...*tout se passe comme si c’est cette butée qu’il reste à expliquer,
 ce qui peut-être me permettra aujourd’hui de conclure sur quelque affirmation
 concernant ce que veut dire la butée de Freud sur *le complexe de castration*.
 
@@ -101,7 +100,7 @@ en у montrant cette façon dont actuellement elle fonctionne,
 
 <!-- id: s10-18-0017 -->
 
-Une métaphore qui permette d’éluder ce qu’il у а d’impasse créée par le fait que n’a jamais été résolu par Freud, au dernier terme*,*
+Une métaphore qui permette d’éluder ce qu’il у а d’impasse créée par le fait que n’a jamais été résolu par Freud, au dernier terme,
 
 <!-- id: s10-18-0018 -->
 
@@ -138,7 +137,7 @@ Et c’est pourquoi c’est au niveau de cette *pulsion orale* que déjà une fo
 
 <!-- id: s10-18-0026 -->
 
-- *le (а) fonctionnant comme* (*-* φ)*,* c’est-à-dire *le com­plexe de castration,*
+- *le (а) fonctionnant comme* (- φ), c’est-à-dire *le com­plexe de castration,*
 
 <!-- id: s10-18-0027 -->
 
@@ -167,27 +166,25 @@ Qu’y a-t-il, qu’est-ce qui fonctionne dans *la succion* ?
 <!-- id: s10-18-0032 -->
 
 Apparemment *les lèvres*, les lèvres où nous retrouvons le fonctionnement de ce qui nous est apparu comme essentiel
-dans la structure de l’érogénéité* *: *la fonction d’un bord*.
+dans la structure de l’érogénéité: *la fonction d’un bord*.
 
 <!-- id: s10-18-0033 -->
 
 Que *la lèvre* se présente sous l’aspect de quelque chose qui est en quelque sorte *l’image même du bord, de la coupure*,
 c’est là en effet quelque chose qui doit suffisament nous indiquer...
-après que j’ai essayé pour vous *de figurer*, l’année derniè­re dans *la topologie* que définit le *(а)*
-*...*c’est là quelque chose qui doit nous faire sentir que nous sommes en un terrain assuré.
+après que j’ai essayé pour vous *de figurer*, l’année derniè­re dans *la topologie* que définit le *(а)...*c’est là quelque chose qui doit nous faire sentir que nous sommes en un terrain assuré.
 
 <!-- id: s10-18-0034 -->
 
 Aussi bien, il est clair que la lèvre...
-elle-même *incarnation,* si l’on peut dire, *d’une coupure*
-*...*que la lèvre singulièrement nous évoque ce qu’il у aura, à un tout autre niveau...
+elle-même *incarnation,* si l’on peut dire, *d’une coupure...*que la lèvre singulièrement nous évoque ce qu’il у aura, à un tout autre niveau...
 au niveau de l’articulation signifiante, au niveau des *phonèmes les plus fonda­mentaux*,
 ...de plus lié à la coupure : *les éléments consonantiques du phonè­me*, suspension d’une coupure, étant pour leur stock le plus basal essentiel­lement modulés au niveau des lèvres.
 
 <!-- id: s10-18-0035 -->
 
 Je reviendrai peut-être, si nous avons le temps, sur ce que j’ai plu­sieurs fois déjà indiqué,
-de la question des mots fondamentaux et de leur spécifi­cité apparente : du « *mаmа* » еt du « *рара* »*,*
+de la question des mots fondamentaux et de leur spécifi­cité apparente : du « *mаmа* » еt du « *рара* »,
 ce sont des articulations en tout cas labiales, même si quelque chose peut mettre en doute leur répartition apparemment spécifique, apparemment générale, sinon universelle.
 
 <!-- id: s10-18-0036 -->
@@ -213,7 +210,7 @@ ce *quelque chose* qui déjà se présente comme « *objet »* non seulement p
 <!-- id: s10-18-0039 -->
 
 C’est par là que s’introduit, dans les premiers fantasmes qui nous permettent
-de conce­voir la fonction du morcellement comme inaugurante*,* c’est là ce dont nous nous sommes, à la vérité, jusqu’ici contentés.
+de conce­voir la fonction du morcellement comme inaugurante, c’est là ce dont nous nous sommes, à la vérité, jusqu’ici contentés.
 
 <!-- id: s10-18-0040 -->
 
@@ -285,7 +282,7 @@ et même d’un *placenta* tout à fait spécial :
 
 Quelque chose dans l’étude de l’ensemble de cette organisation mammifère, quelque chose est pour nous suggestif, indicatif,
 à un certain niveau de l’apparition de cette structure organismique, nommément celui de deux ordres, si l’on peut dire,
-qui sont ceux qu’on appelle les plus primitifs dans l’ensemble des *mammifères*, celui nommément des *monotrèmes* [^131]*,* et des *marsupiaux.*
+qui sont ceux qu’on appelle les plus primitifs dans l’ensemble des *mammifères*, celui nommément des *monotrèmes* [^131], et des *marsupiaux.*
 
 <!-- id: s10-18-0055 -->
 
@@ -627,15 +624,15 @@ le mécanisme nommément de la tumescence et de la détumescence
 
 <!-- id: s10-18-0121 -->
 
-Sans aucun doute, nous nous trouvons là devant - si je puis dire - ce qu’on peut appeler une « *limitation de l’expérience* »*.*
+Sans aucun doute, nous nous trouvons là devant - si je puis dire - ce qu’on peut appeler une « *limitation de l’expérience* ».
 
 <!-- id: s10-18-0122 -->
 
-Nous n’allons pas, vous ai-je déjà dit*,* essayer de concevoir ce que peut être l’orgasme dans un rapport copulatoire autrement structuré, suffisamment - *au reste* - de spectacles naturels impressionnants où il vous suffit de vous promener le soir au bord d’un étang pour voir voler étroitement nouées deux *libellules*, et ce seul spectacle peut vous en dire assez sur ce que nous pouvons concevoir comme étant un *long-orgasme*, si vous me permettez ici d’en faire un mot, en y mettant un tiret.
+Nous n’allons pas, vous ai-je déjà dit, essayer de concevoir ce que peut être l’orgasme dans un rapport copulatoire autrement structuré, suffisamment - *au reste* - de spectacles naturels impressionnants où il vous suffit de vous promener le soir au bord d’un étang pour voir voler étroitement nouées deux *libellules*, et ce seul spectacle peut vous en dire assez sur ce que nous pouvons concevoir comme étant un *long-orgasme*, si vous me permettez ici d’en faire un mot, en y mettant un tiret.
 
 <!-- id: s10-18-0123 -->
 
-Et aussi bien, n’est-ce pas pour rien que j’ai évoqué l’image, ici fan­tasmatique*,* du *vampire,*
+Et aussi bien, n’est-ce pas pour rien que j’ai évoqué l’image, ici fan­tasmatique, du *vampire,*
 qui n’est point rêvée ni conçue autrement par l’ima­gination humaine, que comme ce mode de *fusion* ou de *soustraction* première
 à la source même de la vie, où le sujet agresseur peut trouver la sour­ce de sa jouissance.
 
@@ -910,6 +907,7 @@ il n’est pas sans cet autre objet qu’appelle *l’angoisse *: *il n’est p
 Ce n’est pas pour rien que dans ce « *pas sans* » je vous ai donné la formule, l’articula­tion essentielle de l’identification de désir.
 C’est au-delà de « *il n’est pas sans objet* » que se pose pour nous la question de savoir où peut être franchie l’impasse
 du *complexe de castration*. C’est ce que nous aborderons la pro­chaine fois.
+
 ## Notes
 
 [^131]: Les monotrèmes (Monotremata) constituent un ordre animal caractérisé par le fait d'être à la fois ovipare et mammifère. Les femelles pondent des œufs

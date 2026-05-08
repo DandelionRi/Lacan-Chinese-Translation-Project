@@ -238,7 +238,7 @@ Voilà comment l’étonnement est réglé, viré au compte de la faute, les *er
 
 <!-- id: s8-01-0058 -->
 
-Est-ce l’*intersubjectivité* - soit ce qui est le plus étranger à la rencontre analytique *-* qui pointerait, elle, que nous nous y dérobons, sûrs qu’il faut l’éviter ? *L’expérience freudienne se fige dès qu’elle apparaît*, elle ne fleurit que de son absence. Le « *médecin* » et le « *malade* » \- comme on dit pour nous : fameuse relation dont on fait des gorges chaudes - vont-ils s’*intersubjectiver* à qui mieux mieux ? Peut-être ! Mais on peut dire dans ce sens que l’un et l’autre n’en mènent pas large :
+Est-ce l’*intersubjectivité* - soit ce qui est le plus étranger à la rencontre analytique - qui pointerait, elle, que nous nous y dérobons, sûrs qu’il faut l’éviter ? *L’expérience freudienne se fige dès qu’elle apparaît*, elle ne fleurit que de son absence. Le « *médecin* » et le « *malade* » \- comme on dit pour nous : fameuse relation dont on fait des gorges chaudes - vont-ils s’*intersubjectiver* à qui mieux mieux ? Peut-être ! Mais on peut dire dans ce sens que l’un et l’autre n’en mènent pas large :
 
 <!-- id: s8-01-0059 -->
 
@@ -290,7 +290,7 @@ Encore - là, tout au moins - les choses sont-elles appelées par leur nom, et a
 
 <!-- id: s8-01-0071 -->
 
-Mais il faut tout de même souligner quelque chose, c’est que l’idéal physique du psychanalyste - tel du moins qu’il se modèle dans l’imagination de la masse *-* comporte une addition d’*épaisseur obtuse* et de *rustrerie bornée* qui véhicule vraiment avec elle toute *la question du prestige*. L’écran de cinéma - si je puis dire - est ici le révélateur le plus sensible. Pour nous servir simplement du tout dernier film d’HITCHCOCK[^10], voyez sous quelle forme se présente *le débrouilleur d’énigme,* celui qui se présente là pour trancher sans appel *au terme de tous les recours*, franchement il porte toutes les marques de ce que nous appellerons un élément *stigmatisé comme l’intouchable* !
+Mais il faut tout de même souligner quelque chose, c’est que l’idéal physique du psychanalyste - tel du moins qu’il se modèle dans l’imagination de la masse - comporte une addition d’*épaisseur obtuse* et de *rustrerie bornée* qui véhicule vraiment avec elle toute *la question du prestige*. L’écran de cinéma - si je puis dire - est ici le révélateur le plus sensible. Pour nous servir simplement du tout dernier film d’HITCHCOCK[^10], voyez sous quelle forme se présente *le débrouilleur d’énigme,* celui qui se présente là pour trancher sans appel *au terme de tous les recours*, franchement il porte toutes les marques de ce que nous appellerons un élément *stigmatisé comme l’intouchable* !
 
 <!-- id: s8-01-0072 -->
 
@@ -382,7 +382,7 @@ J’entendrai que, cette année, nous sachions entre qui et qui nous sommes.
 
 [^3]: Cf. Séminaire 1959-60 : L’éthique..., séance du 23-03 :
 
-    « *L'homme essaie de satisfaire son besoin d'agression aux dépens de son prochain, d'exp**loiter son travail sans dédommagement, de l'utiliser sexuellement sans son consentement,*
+    « *L'homme essaie de satisfaire son besoin d'agression aux dépens de son prochain, d'exploiter son travail sans dédommagement, de l'utiliser sexuellement sans son consentement,*
 
     *de s'approprier ses biens, de l'humilier, de lui infliger des souffrances, de le martyriser et de le tuer.* » ( Freud : *Malaise dans la civilisation* )
 

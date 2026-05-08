@@ -242,7 +242,7 @@ D’abord ce n’est pas une excursion qui, comme le dit PLATON, fait une sorte 
 
 <!-- id: s3-12-0060 -->
 
-Vous pouvez vous rapporter à ce morceau, c’est précisément pour ne pas vous le lire que je me suis livré moi-même l’autre jour à quelque invocation à *la paix du soir*. Vous lirez « [*Ava**nt le lever du soleil*](#Lever_du_soleil) », vous y verrez fondamentalement représentée la même chose que ce que je voulais vous y faire sentir l’autre jour, et la même chose que ce que je vais simplement essayer de vous proposer maintenant, cette réflexion que le jour par exemple est très tôt, sans aucun doute, posé comme un *être*, puisque je parlais d’*être* l’autre jour, et simplement que vous ne vous y arrêtiez pas ainsi ?
+Vous pouvez vous rapporter à ce morceau, c’est précisément pour ne pas vous le lire que je me suis livré moi-même l’autre jour à quelque invocation à *la paix du soir*. Vous lirez « [*Avant le lever du soleil*](#Lever_du_soleil) », vous y verrez fondamentalement représentée la même chose que ce que je voulais vous y faire sentir l’autre jour, et la même chose que ce que je vais simplement essayer de vous proposer maintenant, cette réflexion que le jour par exemple est très tôt, sans aucun doute, posé comme un *être*, puisque je parlais d’*être* l’autre jour, et simplement que vous ne vous y arrêtiez pas ainsi ?
 
 <!-- id: s3-12-0061 -->
 
@@ -294,7 +294,7 @@ Je propose aujourd’hui de façon dogmatique…
 
 <!-- id: s3-12-0072 -->
 
-…pour l’instant je veux vous dire que quand je parle d’une certaine apparition primitive du signifiant, c’est de quelque chose qui déjà implique le langage. Ceci ne fait que rejoindre cette apparition d’un être qui n’est nulle part : le jour. Ce n’est pas un phénomène*,* le jour en tant que jour :
+…pour l’instant je veux vous dire que quand je parle d’une certaine apparition primitive du signifiant, c’est de quelque chose qui déjà implique le langage. Ceci ne fait que rejoindre cette apparition d’un être qui n’est nulle part : le jour. Ce n’est pas un phénomène, le jour en tant que jour :
 
 <!-- id: s3-12-0073 -->
 
@@ -651,6 +651,7 @@ C’est-à-dire qu’il évoque tout ce que vous voyez manifesté dans le cas du
 <!-- id: s3-12-0161 -->
 
 C’est là la question que nous nous posons cette année, et c’est là aussi la question où j’espère que je vous ferai faire avant les grandes vacances, quelques pas supplémentaires.
+
 ## Notes
 
 [^24]: *La Psychanalyse*, n°1 : « *Sur la parole et le langage* », PUF 1955.

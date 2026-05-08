@@ -34,7 +34,7 @@ Le premier : *Infant-analysis* de 1923, où il y a des choses très importantes 
 
 <!-- id: s7-09-0008 -->
 
-Le deuxième article : [*Inf**antile Anxiety, Situations Reflected in a Work of Art and in the Creative Impulse*](#Melanie_Klein_infantile_anxiety), c’est-à-dire *Situations d’angoisse infantile en tant que réfléchies dans une œuvre d’art et dans l’impulsion -* c’est *impulse* qui est employé *- créatrice*. C’est le second article et celui que j’avais *le remords* de n’avoir jamais regardé. Il est court, mais je dois dire que - comme il arrive - il m’a apporté la satisfaction de ce qu’on peut appeler « *une bague au doigt* ».
+Le deuxième article : [*Infantile Anxiety, Situations Reflected in a Work of Art and in the Creative Impulse*](#Melanie_Klein_infantile_anxiety), c’est-à-dire *Situations d’angoisse infantile en tant que réfléchies dans une œuvre d’art et dans l’impulsion -* c’est *impulse* qui est employé *- créatrice*. C’est le second article et celui que j’avais *le remords* de n’avoir jamais regardé. Il est court, mais je dois dire que - comme il arrive - il m’a apporté la satisfaction de ce qu’on peut appeler « *une bague au doigt* ».
 
 <!-- id: s7-09-0009 -->
 

@@ -390,7 +390,7 @@ Je m’excuse de ce long développement. Ce long développement est fait pour po
 
 <!-- id: s12-23-0096 -->
 
-prenons-le comme tel par rapport à ce que vous voyez ici figuré sous la forme d’une *bande de Mœbius* *...cet élément central* qui la complète et qui la ferme, et qui est ce que j’ai appelé à l’instant *la portioncule*, ceci, topologiquement complète ce que nous avons à dire des *positions subjectives de l’être*.
+prenons-le comme tel par rapport à ce que vous voyez ici figuré sous la forme d’une *bande de Mœbius...cet élément central* qui la complète et qui la ferme, et qui est ce que j’ai appelé à l’instant *la portioncule*, ceci, topologiquement complète ce que nous avons à dire des *positions subjectives de l’être*.
 
 <!-- id: s12-23-0097 -->
 

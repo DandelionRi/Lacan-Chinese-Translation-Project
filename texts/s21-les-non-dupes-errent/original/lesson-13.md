@@ -46,7 +46,7 @@ Un logicien...
 
 <!-- id: s21-13-0011 -->
 
-Qu’il ait fallu attendre [Boole](http://serge.mehl.free.fr/chrono/Boole.html) pour qu’en 1853 sorte « *An Investigation of Laws of Thought », Une Investigation sur les Lois de la pensée* [^27]*,* qui sur Aristote a déjà cet avantage d’être un pas, une tentative de coller à ce qu’il prétend *observer, fonder en somme a posteriori,* comme constituant « *Les lois de la pensée »*. Que fait-il ?
+Qu’il ait fallu attendre [Boole](http://serge.mehl.free.fr/chrono/Boole.html) pour qu’en 1853 sorte « *An Investigation of Laws of Thought », Une Investigation sur les Lois de la pensée* [^27], qui sur Aristote a déjà cet avantage d’être un pas, une tentative de coller à ce qu’il prétend *observer, fonder en somme a posteriori,* comme constituant « *Les lois de la pensée »*. Que fait-il ?
 
 <!-- id: s21-13-0012 -->
 
@@ -148,7 +148,7 @@ Bien sûr ceci n’évitera pas que nous ne retombions sur un autre sens, comme 
 
 <!-- id: s21-13-0036 -->
 
-- et *du Réel justement* \[*lap­sus*\]... et du *Symbolique* justement, avec l’**1***.*
+- et *du Réel justement* \[*lap­sus*\]... et du *Symbolique* justement, avec l’**1**.
 
 <!-- id: s21-13-0037 -->
 
@@ -218,7 +218,7 @@ Ainsi, qu’est-ce qui peut l’empêcher d’ajouter à son 1*–* *x* , un 1*+
 
 <!-- id: s21-13-0053 -->
 
-Il voit alors très bien que (1 *–* x) multiplié par (1+x) donnant 1 *–* x<sup>2</sup>, il aboutira - je n’ai pas besoin de vous le souligner - à ceci : c’est que *x – x* <sup>3</sup> sera égal à 0 et que de ce fait *x* s’égalera à *x* <sup>3</sup> : *x* (1 *– x*) (1 *+ x*) = *0,  x – x* <sup>3</sup> = *0, x* = *x* <sup>3</sup>*.*
+Il voit alors très bien que (1 *–* x) multiplié par (1+x) donnant 1 *–* x<sup>2</sup>, il aboutira - je n’ai pas besoin de vous le souligner - à ceci : c’est que *x – x* <sup>3</sup> sera égal à 0 et que de ce fait *x* s’égalera à *x* <sup>3</sup> : *x* (1 *– x*) (1 *+ x*) = *0,  x – x* <sup>3</sup> = *0, x* = *x* <sup>3</sup>.
 
 <!-- id: s21-13-0054 -->
 
@@ -320,7 +320,7 @@ Assurément c’est déjà quelque chose d’y voir fonctionner ce **3** dont je
 
 <!-- id: s21-13-0078 -->
 
-Le nœud borroméen, si tant est 
+Le nœud borroméen, si tant est
 
 <!-- id: s21-13-0079 -->
 
@@ -408,7 +408,7 @@ Est-ce que ceci ne rend pas d’au­tant plus frappant ce fait, c’est qu’à 
 
 <!-- id: s21-13-0100 -->
 
-> met­tons que tout à l’heure j’ai choisi - je ne sais pas si c’est effectivement ce que j’ai fait *-* celui-là, pour vous :
+> met­tons que tout à l’heure j’ai choisi - je ne sais pas si c’est effectivement ce que j’ai fait - celui-là, pour vous :
 >
 > en haut à droite, si je prends celui que non seulement j’ai dit en haut et à droite mais je dis aussi en avant ...si je prends celui non plus en haut à droite et en avant, mais en bas à gauche et en arrière, celui qui lui est strictement opposé, et si c’est de là que je pars pour le mettre à plat de la même façon que j’ai fait précédemment, il est tout à fait notable, et vous pourrez le vérifier, que ce qui résultera de cette mise à plat sera une façon dont le nœud se coince, dont le nœud se serre, exactement inverse, c’est à savoir *lévogyre*.
 
@@ -534,7 +534,7 @@ voilà, après le 2<sup>ème</sup> tour, n’est-ce pas, un lévogyre comme le p
 
 <!-- id: s21-13-0131 -->
 
-Par conséquent, nous avons ici c, a, et b*.*
+Par conséquent, nous avons ici c, a, et b.
 
 <!-- id: s21-13-0132 -->
 
@@ -610,7 +610,7 @@ En d’autres termes, c’est aux 4 points d’opposition, c’est-à-dire sur l
 
 <!-- id: s21-13-0150 -->
 
-Comment considérer cette multiplication, si je puis dire par 4, de ce qui résulte de simplement la mise à plat, ou l’écriture, du nœud borroméen*.* Je propose simplement ceci...
+Comment considérer cette multiplication, si je puis dire par 4, de ce qui résulte de simplement la mise à plat, ou l’écriture, du nœud borroméen. Je propose simplement ceci...
 
 <!-- id: s21-13-0151 -->
 

@@ -18,7 +18,7 @@
 
 <!-- id: s25-01-0004 -->
 
-*Voilà, j’ai intitulé mon séminaire - vous entendez ? – j’ai intitulé mon séminaire cette année* « *Le moment de conclure* »*.*
+*Voilà, j’ai intitulé mon séminaire - vous entendez ? – j’ai intitulé mon séminaire cette année* « *Le moment de conclure* ».
 
 <!-- id: s25-01-0005 -->
 
@@ -246,7 +246,7 @@ Mais justement, ce qui définit la demande, c’est qu’on ne demande jamais qu
 
 <!-- id: s25-01-0061 -->
 
-Le *sujet supposé savoir,* d’où j’ai sup­porté, défini le transfert* *: *supposé-savoir quoi ?*
+Le *sujet supposé savoir,* d’où j’ai sup­porté, défini le transfert: *supposé-savoir quoi ?*
 
 <!-- id: s25-01-0062 -->
 
@@ -370,11 +370,11 @@ Elle n’est naturelle que pour autant que chez un homme, il y a un *Symbolique*
 
 <!-- id: s25-01-0092 -->
 
-Et le fait qu’il y ait un *Symbolique* implique qu’un signifiant nouveau émerge, un signifiant nouveau à quoi le *moi*, c’est-à-dire la conscience*,* s’identifierait.
+Et le fait qu’il y ait un *Symbolique* implique qu’un signifiant nouveau émerge, un signifiant nouveau à quoi le *moi*, c’est-à-dire la conscience, s’identifierait.
 
 <!-- id: s25-01-0093 -->
 
-Mais ce qu’il y a de propre au signifiant, que j’ai appelé du nom d’**S<sub>1</sub>**, c’est qu’il n’y a qu’un rapport qui le définisse, le rapport qu’il a avec **S<sub>2</sub>** : **S<sub>1</sub>** <sub>→</sub> **S<sub>2</sub>**. C’est en tant que *le sujet est divisé* *entre* cet **S<sub>1</sub>** et cet **S<sub>2</sub>** qu’il se supporte, de sorte qu’on ne peut pas dire que ce soit un seul des deux signifiants qui le représente.
+Mais ce qu’il y a de propre au signifiant, que j’ai appelé du nom d’**S<sub>1</sub>**, c’est qu’il n’y a qu’un rapport qui le définisse, le rapport qu’il a avec **S<sub>2</sub>:S<sub>1</sub>** <sub>→</sub> **S<sub>2</sub>**. C’est en tant que *le sujet est divisé* *entre* cet **S<sub>1</sub>** et cet **S<sub>2</sub>** qu’il se supporte, de sorte qu’on ne peut pas dire que ce soit un seul des deux signifiants qui le représente.
 
 <!-- id: s25-01-0094 -->
 

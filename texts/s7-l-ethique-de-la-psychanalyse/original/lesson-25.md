@@ -284,7 +284,7 @@ Aussi bien *la question du beau*, pour autant qu’elle fait entrer en fonction 
 
 <!-- id: s7-25-0069 -->
 
-...c’est pour autant qu’elle est - pour tout dire qu’elle a été, car elle n’est plus - forme divine, que la forme humaine peut encore, au temps de KANT, nous être présentée comme l’*idéal* \[*moi idéal : i(a)*, *idéal du moi* : I\]*,* *Erscheinen, comme la limite des possibilités du beau*.
+...c’est pour autant qu’elle est - pour tout dire qu’elle a été, car elle n’est plus - forme divine, que la forme humaine peut encore, au temps de KANT, nous être présentée comme l’*idéal* \[*moi idéal : i(a)*, *idéal du moi* : I\], *Erscheinen, comme la limite des possibilités du beau*.
 
 <!-- id: s7-25-0070 -->
 
@@ -402,7 +402,7 @@ Non seulement ce qu’on lui demande, le *Souverain Bien*, *il ne l’a pas bien
 
 <!-- id: s7-25-0098 -->
 
-*Que cette problématique devienne centrale* dans tout accès à une réalisation quelconque de soi-même, c’est là la nouveauté de l’analyse. Sans doute, c’est sur le chemin de cette gravitation que le sujet rencontrera beaucoup de bien, tout ce qu’il peut faire de bien, si l’on peut dire, mais ne l’oublions pas tout de même - ce que nous savons fort bien parce que c’est ce que nous disons tous les jours et de la façon la plus claire *-* c’est que c’est en somme en extrayant à tout instant de son vouloir ce qu’on peut bien appeler *les faux biens*, à savoir en épuisant non seulement *la vanité de ses demandes*, pour autant que toutes, après tout, ne sont jamais pour nous que des *demandes régressives*, mais en épuisant aussi ce qu’on peut appeler *la vanité de ses dons*.
+*Que cette problématique devienne centrale* dans tout accès à une réalisation quelconque de soi-même, c’est là la nouveauté de l’analyse. Sans doute, c’est sur le chemin de cette gravitation que le sujet rencontrera beaucoup de bien, tout ce qu’il peut faire de bien, si l’on peut dire, mais ne l’oublions pas tout de même - ce que nous savons fort bien parce que c’est ce que nous disons tous les jours et de la façon la plus claire - c’est que c’est en somme en extrayant à tout instant de son vouloir ce qu’on peut bien appeler *les faux biens*, à savoir en épuisant non seulement *la vanité de ses demandes*, pour autant que toutes, après tout, ne sont jamais pour nous que des *demandes régressives*, mais en épuisant aussi ce qu’on peut appeler *la vanité de ses dons*.
 
 <!-- id: s7-25-0099 -->
 

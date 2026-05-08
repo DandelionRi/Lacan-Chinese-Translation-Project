@@ -39,7 +39,7 @@ Et il s’agit de savoir justement si vous en parlez sous la forme d’un discou
 <!-- id: s5-09-0007 -->
 
 Cette *fonction du père* a sa place dans l’histoire de l’analyse, même une place assez large. Elle est au cœur de la question, inutile de le dire, de l’œdipe. Par conséquent, dans l’histoire de l’analyse c’est autour de la place donnée
-au *complexe d’Œdipe* que vous la voyez présentifiée. FREUD l’a introduite tout au début. Le *complexe d’Œdipe* apparaît avec *La Science des rêves* [^24]*.* Ce que révèle là l’inconscient au début c’est d’abord et avant tout le *complexe d’Œdipe*.
+au *complexe d’Œdipe* que vous la voyez présentifiée. FREUD l’a introduite tout au début. Le *complexe d’Œdipe* apparaît avec *La Science des rêves* [^24]. Ce que révèle là l’inconscient au début c’est d’abord et avant tout le *complexe d’Œdipe*.
 
 <!-- id: s5-09-0008 -->
 
@@ -93,7 +93,7 @@ dans les premiers moments de son œuvre, cinq ans après *La Science des rêves,
 
 <!-- id: s5-09-0018 -->
 
-*Trois essais sur la sexualité* [^26]*,* était de nature à nous faire entendre que *ce qui se passe avant l’œdipe* a aussi son importance.
+*Trois essais sur la sexualité* [^26], était de nature à nous faire entendre que *ce qui se passe avant l’œdipe* a aussi son importance.
 
 <!-- id: s5-09-0019 -->
 
@@ -160,7 +160,7 @@ et le souci de la cohérence, la façon dont la théorie se fabrique, se tient d
 <!-- id: s5-09-0033 -->
 
 Ce serait précisément en raison de cela qu’en somme *le champ de la réalité*, pour autant qu’il est *perturbé*, dans certains cas profondément, *par l’invasion de l’imaginaire*…
-il semble que c’est un terme qui, là, rend plus service que le terme « *fan­tasme* »*,*
+il semble que c’est un terme qui, là, rend plus service que le terme « *fan­tasme* »,
 
 car il serait inapproprié pour parler également des psychoses et des perversions
 …vous avez en ce sens, dans le sens de l’exploration du champ *pré-œdipien*, toute une direction d’analyse qui s’est engagée, au point même de dire que c’est dans ce sens là que se sont faits tous les progrès essentiels depuis FREUD.
@@ -177,7 +177,7 @@ comme dans toute production en paroles, il y a deux plans :
 
 <!-- id: s5-09-0036 -->
 
-- et *ce qu’elle veut dire*, parce que dans leur sens, séparant le « *veut* » et le « *dire* »*,* il y a *son intention*.
+- et *ce qu’elle veut dire*, parce que dans leur sens, séparant le « *veut* » et le « *dire* », il y a *son intention*.
 
 <!-- id: s5-09-0037 -->
 
@@ -247,7 +247,7 @@ d’une maturation comme telle.
 
 Elle est impliquée comme *fondamentale* dans l’analyse d’une première phase, première ascension de *maturation* qui, elle, est propre­ment organique et se produit dans l’enfance. La question de la liaison de cette première poussée sexuelle,
 à laquelle, vous le savez, on a cherché son support *organique*, j’entends anatomique, dans *la double poussée* par exemple,
-et qui se produit au niveau des testicules dans la formation des spermatozoïdes*,* la question de la relation entre ceci
+et qui se produit au niveau des testicules dans la formation des spermatozoïdes, la question de la relation entre ceci
 et l’existence dans l’espèce humaine du *complexe d’Œdipe,* est restée une *question phylogénétique* sur laquelle beaucoup d’obscurité plane, au point que personne ne se risquerait plus à faire des articles sur le sujet même.
 Mais enfin, ça n’en a pas moins été dans l’histoire de l’analyse.
 
@@ -715,7 +715,7 @@ mais pour la fille, ce qu’il y a de bien c’est qu’elle reconnaisse qu’el
 |-----------------------|--------------------------|--------------------------|
 | Père *réel*           | Castration *symbolique*  | Phallus *imaginaire*     |
 | Père *symbolique*     | Frustration *imaginaire* | Mère *réelle*            |
-| Père ***I**maginaire* | Privation ***R**éelle*   | Phallus ***S**ymbolique* |
+| Père *Imaginaire* | Privation *Réelle*   | Phallus *Symbolique* |
 
 <!-- id: s5-09-0145 -->
 
@@ -914,7 +914,7 @@ Vous vous apercevriez que chez le phobique, ses moments d’angoisse, c’est qu
 
 <!-- id: s5-09-0185 -->
 
-Enfin tout ce que j’ai dit l’année dernière sur le petit Hans*.*
+Enfin tout ce que j’ai dit l’année dernière sur le petit Hans.
 
 <!-- id: s5-09-0186 -->
 
@@ -974,7 +974,7 @@ Je reprendrai la prochaine fois les choses pour vous montrer justement que c’e
 [^24]: Sigmund Freud<span class="smallcaps"> :</span> *Die Traumdeutung,*  *L'interprétation des rêves,* PUF, 1926, 1967, 2000.
 
 
-[^25]: Charles Odier<span class="smallcaps"> : « </span>*Une névrose sans complexe d'Œdipe ?* » in Revue Française de Psychanalyse*,* [Tome 6, N°3/4, 1933](http://gallica.bnf.fr/ark:/12148/bpt6k5443894t.image.langEN), pp. 298-343.
+[^25]: Charles Odier<span class="smallcaps"> : « </span>*Une névrose sans complexe d'Œdipe ?* » in Revue Française de Psychanalyse, [Tome 6, N°3/4, 1933](http://gallica.bnf.fr/ark:/12148/bpt6k5443894t.image.langEN), pp. 298-343.
 
 
 [^26]: Sigmund Freud <span class="smallcaps">:</span> *[Drei Abhandlungen zur Sexualtheorie](http://gutenberg.spiegel.de/buch/910/1),* *Trois essais sur la théorie de la sexualité*, 1905.
@@ -985,7 +985,7 @@ Je reprendrai la prochaine fois les choses pour vous montrer justement que c’e
     « [*The Œdipus complexe in the light of early anxieties*](http://www.archive.org/details/ContributionsToPsycho-analysis1921-19451948) » in *Contributions to psycho-analysis,* 1921-1945.
 
 
-[^28]: Sigmund Freud : « [*Der Unt**ergang des Ödipuskomplex*](#Ödipuskomplexes15_01)* »*<span class="smallcaps">,</span> « *Le déclin du complexe d'Œdipe* », in *La vie sexuelle* (1924), Puf 1968.
+[^28]: Sigmund Freud : « [*Der Untergang des Ödipuskomplex*](#Ödipuskomplexes15_01)* »*<span class="smallcaps">,</span> « *Le déclin du complexe d'Œdipe* », in *La vie sexuelle* (1924), Puf 1968.
 
 
 [^29]: Sigmund Freud<span class="smallcaps"> :</span> *[Psychoanalytische Bemerkungen zu einem autobiographisch beschriebenen Fall von Paranoia](http://gutenberg.spiegel.de/buch/917/1), « Remarques psychanalytiques sur l'autobiographie*

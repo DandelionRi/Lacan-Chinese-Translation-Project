@@ -52,7 +52,7 @@ Il m’est arrivé cette semaine…
 
 <!-- id: s16-15-0012 -->
 
-### Mais enfin, c’est certain… 
+### Mais enfin, c’est certain…
 
 <!-- id: s16-15-0013 -->
 
@@ -210,11 +210,11 @@ On n’a jamais vu ça à Rome, enfin ! Aux endroits où c’était sérieux ! O
 
 <!-- id: s16-15-0051 -->
 
-### Il est évident, tout le XIX<sup>ème</sup> siècle l’éclaire, que si les choses se déroulent par cette fonction de la démission, 
+### Il est évident, tout le XIX<sup>ème</sup> siècle l’éclaire, que si les choses se déroulent par cette fonction de la démission,
 
 <!-- id: s16-15-0052 -->
 
-### c’est que le pouvoir est dans d’autres mains. Je parle du pouvoir positif. L’intérêt, le seul, de la révolution communiste… 
+### c’est que le pouvoir est dans d’autres mains. Je parle du pouvoir positif. L’intérêt, le seul, de la révolution communiste…
 
 <!-- id: s16-15-0053 -->
 
@@ -554,7 +554,7 @@ Dans l’ordre de *la langue*, au contraire, les *significations* justement vale
 
 <!-- id: s16-15-0136 -->
 
-### La proposition apparaît comme prémisse ou conclusion et comme signifiant des concepts, avant de manifester 
+### La proposition apparaît comme prémisse ou conclusion et comme signifiant des concepts, avant de manifester
 
 <!-- id: s16-15-0137 -->
 
@@ -598,7 +598,7 @@ Ce que le paradoxe de CAROLL a impliqué c’est la distinction entre langage et
 
 <!-- id: s16-15-0147 -->
 
-Alors justement, si on est obligé, pour se tirer de la difficulté du paradoxe de CAROLL de supposer une distinction entre langage et métalangage, on peut toujours dire : « *Oui, mais ne faudra*-*t*-*il pas un métalangage du métalangage* » ? C’est d’ailleurs là-dessus que se termine ce petit texte : « *La tortue, qui s’apprêtait à aller jouer au football…* » Ce regard narquois, c’est celui qui nous fait dire *qu’il n’y a pas de métalangage*. Comment le dire ? Comment pouvoir l’affirmer ?
+Alors justement, si on est obligé, pour se tirer de la difficulté du paradoxe de CAROLL de supposer une distinction entre langage et métalangage, on peut toujours dire : « *Oui, mais ne faudra-t-il pas un métalangage du métalangage* » ? C’est d’ailleurs là-dessus que se termine ce petit texte : « *La tortue, qui s’apprêtait à aller jouer au football…* » Ce regard narquois, c’est celui qui nous fait dire *qu’il n’y a pas de métalangage*. Comment le dire ? Comment pouvoir l’affirmer ?
 
 <!-- id: s16-15-0148 -->
 
@@ -758,11 +758,11 @@ Eh bien, tout de suite, cette catégorie du sens on dit que c’est l’ouvertur
 
 <!-- id: s16-15-0187 -->
 
-Qu’est-ce que c’est que ce monde des significations ? Pour l’expliquer, on apporte l’exemple du *fort*-*da.*
+Qu’est-ce que c’est que ce monde des significations ? Pour l’expliquer, on apporte l’exemple du *fort-da.*
 
 <!-- id: s16-15-0188 -->
 
-Mais les choses se gâtent, car cet exemple du *fort*-*da …*
+Mais les choses se gâtent, car cet exemple du *fort-da …*
 
 <!-- id: s16-15-0189 -->
 
@@ -822,7 +822,7 @@ Est-ce de cela qu’il s’agit, d’accrocher un signifié ? Ou bien de voir ce
 
 <!-- id: s16-15-0202 -->
 
-*…à ce lien d’habitude qu’une certaine expérimentation moderne désigne comme conditionnement* »*.*
+*…à ce lien d’habitude qu’une certaine expérimentation moderne désigne comme conditionnement* ».
 
 <!-- id: s16-15-0203 -->
 

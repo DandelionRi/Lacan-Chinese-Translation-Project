@@ -228,7 +228,7 @@ Et à ce moment, comme l’analyste pourrait, initié par son expérience et les
 
 <!-- id: s12-10-0055 -->
 
-(*Ma**ssenpsychologie und Ich–Analyse*, § VII, Die Identifizierung)\]
+(*Massenpsychologie und Ich–Analyse*, § VII, Die Identifizierung)\]
 
 <!-- id: s12-10-0056 -->
 
@@ -592,7 +592,7 @@ Qu’est–ce, au niveau de la castration, que ce point, ce point que dans le sc
 
 <!-- id: s12-10-0144 -->
 
-Je vous ferai remarquer, si vous vous référez aux résumés qui ont été donnés à cette époque, que j’ai laissé complètement en blanc, ce qu’il en était au niveau de la place de *l’agent* de la castration. Or ce dont il s’agit, c’est justement de cette position dernière, du statut qu’il convient de donner, à cette dimension de l’Autre, au lieu de la parole comme telle, dans l’analyse. Ici, vous le sentez bien, nous rejoignons toute la question de l’essence, pourquoi ne pas le dire ainsi, sous *une formule heideggerienne* : du *Wesen der Wahrheit*, du *statut,* si vous voulez*,* *de* *la vérité*.
+Je vous ferai remarquer, si vous vous référez aux résumés qui ont été donnés à cette époque, que j’ai laissé complètement en blanc, ce qu’il en était au niveau de la place de *l’agent* de la castration. Or ce dont il s’agit, c’est justement de cette position dernière, du statut qu’il convient de donner, à cette dimension de l’Autre, au lieu de la parole comme telle, dans l’analyse. Ici, vous le sentez bien, nous rejoignons toute la question de l’essence, pourquoi ne pas le dire ainsi, sous *une formule heideggerienne* : du *Wesen der Wahrheit*, du *statut,* si vous voulez, *de* *la vérité*.
 
 <!-- id: s12-10-0145 -->
 

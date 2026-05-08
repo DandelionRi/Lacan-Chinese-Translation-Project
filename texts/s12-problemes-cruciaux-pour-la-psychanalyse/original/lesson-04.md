@@ -202,7 +202,7 @@ Nous avons *une expérience* :
 
 <!-- id: s12-04-0048 -->
 
-> et d’une façon tellement originelle*, qu’il en porte sur la peau la trace* comme un animal marqué*,* *qu’il est identifié d’abord par ce quelque chose* d’ample ou de réduit.
+> et d’une façon tellement originelle*, qu’il en porte sur la peau la trace* comme un animal marqué, *qu’il est identifié d’abord par ce quelque chose* d’ample ou de réduit.
 
 <!-- id: s12-04-0049 -->
 
@@ -284,7 +284,7 @@ Que nous y trouvions quelque aide, du fait que depuis ce temps il y a quelque ch
 
 <!-- id: s12-04-0068 -->
 
-C’est ici qu’assurément *la fonction du nom propre* - comme je vous ai annoncé que je serai amené à m’en servir *-* prend assez d’intérêt.
+C’est ici qu’assurément *la fonction du nom propre* - comme je vous ai annoncé que je serai amené à m’en servir - prend assez d’intérêt.
 
 <!-- id: s12-04-0069 -->
 
@@ -568,7 +568,7 @@ Que d’autre part, il a justement par rapport aux autres cette propriété, tou
 
 <!-- id: s12-04-0139 -->
 
-Qu’est-ce que ça peut vouloir dire ? Pourquoi est-ce que *le nom propre*, tout en étant soi-disant cette partie du discours qui aurait des caractéristiques qui la spécifieraient absolument, pourquoi justement est-ce qu’on peut l’employer, contrairement à ce que disent à l’occasion - car on ne peut pas imaginer à quelle sorte de glissements de plume un sujet pareil a pu entraîner les linguistes - *ça peut s’employer parfaitement au pluriel* comme chacun sait : on dit les DURAND, les POMMODORE, tout ce que vous voudrez, les BROSSARBOURG dans COURTELINE, vous vous souvenez : *L’honneur des BROSSARBOURG*.[^34] On peut employer un nom*,* verbalement, en fonction de verbes, en fonction d’adjectifs, voire d’adverbes comme peut-être un jour je vous le ferai *toucher du doigt*.
+Qu’est-ce que ça peut vouloir dire ? Pourquoi est-ce que *le nom propre*, tout en étant soi-disant cette partie du discours qui aurait des caractéristiques qui la spécifieraient absolument, pourquoi justement est-ce qu’on peut l’employer, contrairement à ce que disent à l’occasion - car on ne peut pas imaginer à quelle sorte de glissements de plume un sujet pareil a pu entraîner les linguistes - *ça peut s’employer parfaitement au pluriel* comme chacun sait : on dit les DURAND, les POMMODORE, tout ce que vous voudrez, les BROSSARBOURG dans COURTELINE, vous vous souvenez : *L’honneur des BROSSARBOURG*.[^34] On peut employer un nom, verbalement, en fonction de verbes, en fonction d’adjectifs, voire d’adverbes comme peut-être un jour je vous le ferai *toucher du doigt*.
 
 <!-- id: s12-04-0140 -->
 
@@ -600,7 +600,7 @@ Bertrand RUSSELL a tellement identifié *le nom propre* au dénotatif et à l’
 
 <!-- id: s12-04-0147 -->
 
-*Il y a bien des manières* de vous mener dans la voie où je veux vous mener et d’abord, par exemple, ceci qui peut vous sauter aux yeux tout de suite, ceci ne viendra à l’idée de personne parce que ce point x, par définition si je le mets au tableau par ici, dans une démonstration mathématique*,* c’est justement dans la mesure où ce point est essentiellement remplaçable et c’est pour ça aussi que je n’appellerai jamais un bout de craie Honorine.
+*Il y a bien des manières* de vous mener dans la voie où je veux vous mener et d’abord, par exemple, ceci qui peut vous sauter aux yeux tout de suite, ceci ne viendra à l’idée de personne parce que ce point x, par définition si je le mets au tableau par ici, dans une démonstration mathématique, c’est justement dans la mesure où ce point est essentiellement remplaçable et c’est pour ça aussi que je n’appellerai jamais un bout de craie Honorine.
 
 <!-- id: s12-04-0148 -->
 
@@ -758,7 +758,7 @@ C’est la place de son désir, à proprement parler, en tant qu’elle est la v
 
 <!-- id: s12-04-0185 -->
 
-Et - car tout ceci a tellement affaire avec ce que l’année dernière je vous ai évoqué concernant la fonction du regard dans l’identification \[Séminaire 1964 : « Les fondements... » 26-02, 04-03, 11-03, 22-04, 24-06\] - n’omettez pas ceci qui est dans le texte, et aussi puissamment articulé et laissé sans solution*,* c’est que FREUD note que dans plusieurs des cas qu’il a ainsi pointé, il se produit quelque chose de tout à fait singulier, *au moment même où de ce* SIGNORELLI, par lui tellement admiré, *il échoue à retrouver le nom*, qu’est-ce qui sans cesse - laissez-moi devancer mon propre discours - qu’est-ce qui ne cesse de le regarder ?
+Et - car tout ceci a tellement affaire avec ce que l’année dernière je vous ai évoqué concernant la fonction du regard dans l’identification \[Séminaire 1964 : « Les fondements... » 26-02, 04-03, 11-03, 22-04, 24-06\] - n’omettez pas ceci qui est dans le texte, et aussi puissamment articulé et laissé sans solution, c’est que FREUD note que dans plusieurs des cas qu’il a ainsi pointé, il se produit quelque chose de tout à fait singulier, *au moment même où de ce* SIGNORELLI, par lui tellement admiré, *il échoue à retrouver le nom*, qu’est-ce qui sans cesse - laissez-moi devancer mon propre discours - qu’est-ce qui ne cesse de le regarder ?
 
 <!-- id: s12-04-0186 -->
 

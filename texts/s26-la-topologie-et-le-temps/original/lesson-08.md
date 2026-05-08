@@ -62,7 +62,7 @@ Il en résulte que le nœud se défait. Il suffit de traverser la corde en un po
 
 <!-- id: s26-08-0015 -->
 
-**IV** **V**
+**IV V**
 
 <!-- id: s26-08-0016 -->
 

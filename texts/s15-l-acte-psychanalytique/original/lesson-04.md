@@ -46,7 +46,7 @@ La 1<sup>ère</sup>, dont la théorie de la réminiscence, que je vous ai repré
 
 <!-- id: s15-04-0009 -->
 
-La 2<sup>nde</sup>, différente, qui est présentifiée dans le ton - c’est le mot propre - du progrès de notre science, est un « *j’écris* »*.*
+La 2<sup>nde</sup>, différente, qui est présentifiée dans le ton - c’est le mot propre - du progrès de notre science, est un « *j’écris* ».
 
 <!-- id: s15-04-0010 -->
 
@@ -202,7 +202,7 @@ Et aussi bien n’y a-t-il rien d’abusif à l’évoquer quand les analystes d
 
 <!-- id: s15-04-0047 -->
 
-Ce pourrait être un travail infini que de mettre à l’épreuve cette littérature analytique, aussi bien, déjà en ai-je pointé quelques exemples à l’horizon. J’ai cité dans mon premier cours de cette année *l’article* de RAPPAPORT qui pourrait à peu près s’appeler en français - il est paru dans l’*International Journal* [^30] *-* « *Statut analytique du penser* », *thinking* c’est un participe présent en anglais. Il serait, dans une assemblée aussi large, aussi fastidieux qu’inefficace - je pense - de prendre un tel article pour y voir manifester une extrême *bonne intention*, si je puis dire, une sorte de *mise à plat* de tout ce qui peut, de l’énoncé freudien lui-même, s’organiser d’une *énonciation* concernant ce qu’il en est de la fonction de la pensée dans l’économie dite analytique.
+Ce pourrait être un travail infini que de mettre à l’épreuve cette littérature analytique, aussi bien, déjà en ai-je pointé quelques exemples à l’horizon. J’ai cité dans mon premier cours de cette année *l’article* de RAPPAPORT qui pourrait à peu près s’appeler en français - il est paru dans l’*International Journal* [^30] - « *Statut analytique du penser* », *thinking* c’est un participe présent en anglais. Il serait, dans une assemblée aussi large, aussi fastidieux qu’inefficace - je pense - de prendre un tel article pour y voir manifester une extrême *bonne intention*, si je puis dire, une sorte de *mise à plat* de tout ce qui peut, de l’énoncé freudien lui-même, s’organiser d’une *énonciation* concernant ce qu’il en est de la fonction de la pensée dans l’économie dite analytique.
 
 <!-- id: s15-04-0048 -->
 
@@ -210,7 +210,7 @@ Le frappant en serait que les déchirures qui se marquent à tout instant, l’i
 
 <!-- id: s15-04-0049 -->
 
-> celle qui est liée à la première *recherche pathétique*, celle supposée par l’existence simplement d’un système moteur qui, dès lors qu’il ne rencontre pas l’objet de sa satisfaction, serait - c’est au principe de l’explication du processus primaire - responsable de ce processus régressif qui fait apparaître *l’image fantasmatique* de ce qui est recherché …la complète incompatibilité de ce registre, qui est bien pourtant à mettre au tableau de la pensée*,* avec ce qui est au niveau du processus secondaire instauré d’une pensée*…* qui est une sorte *d’action réduite*, *d’action au petit pied* qui force à passer dans un tout autre registre que celui qui a été évoqué d’abord, à savoir *l’introduction de la dimension de l’épreuve de la réalité* …ne manque pas bien sûr d’être notées au passage par l’auteur qui, poursuivant imperturbablement son chemin, en arrivera à s’apercevoir que non seulement il n’y a pas deux modes et deux registres de pensée, mais qu’il y en a une infinité…
+> celle qui est liée à la première *recherche pathétique*, celle supposée par l’existence simplement d’un système moteur qui, dès lors qu’il ne rencontre pas l’objet de sa satisfaction, serait - c’est au principe de l’explication du processus primaire - responsable de ce processus régressif qui fait apparaître *l’image fantasmatique* de ce qui est recherché …la complète incompatibilité de ce registre, qui est bien pourtant à mettre au tableau de la pensée, avec ce qui est au niveau du processus secondaire instauré d’une pensée*…* qui est une sorte *d’action réduite*, *d’action au petit pied* qui force à passer dans un tout autre registre que celui qui a été évoqué d’abord, à savoir *l’introduction de la dimension de l’épreuve de la réalité* …ne manque pas bien sûr d’être notées au passage par l’auteur qui, poursuivant imperturbablement son chemin, en arrivera à s’apercevoir que non seulement il n’y a pas deux modes et deux registres de pensée, mais qu’il y en a une infinité…
 
 <!-- id: s15-04-0050 -->
 
@@ -490,7 +490,7 @@ Qui ne voit…
 
 <!-- id: s15-04-0118 -->
 
-> quand déjà nous avons dans la théorie analytique ce « *Real-Ich *», ce « *Lust-Ich *»*,* ce « *ego *», ce « *id* », toutes ces références déjà assez articulées pour définir notre champ …que *l’adjonction* de ce *self* ne représente rien d’autre que - comme d’ailleurs *c’est avoué* dans le texte avec *false* et *true - la vérité* ?
+> quand déjà nous avons dans la théorie analytique ce « *Real-Ich *», ce « *Lust-Ich *», ce « *ego *», ce « *id* », toutes ces références déjà assez articulées pour définir notre champ …que *l’adjonction* de ce *self* ne représente rien d’autre que - comme d’ailleurs *c’est avoué* dans le texte avec *false* et *true - la vérité* ?
 
 <!-- id: s15-04-0119 -->
 

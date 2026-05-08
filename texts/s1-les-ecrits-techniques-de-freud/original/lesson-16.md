@@ -488,7 +488,7 @@ Ce n’est absolument pas sur ces bases que les choses s’instaurent dans l’a
 
 <!-- id: s1-16-0119 -->
 
-La *loi coranique* porte ceci, au sujet de la personne qui s’est rendue coupable de vol : on coupera la main*.* Or, dans une particularité de son histoire, le sujet avait pendant son enfance été pris au milieu d’un tourbillon privé et public, qui s’exprimait à peu près en ceci, qu’*il avait entendu dire* - tout un drame : son père était un fonctionnaire et avait perdu sa place - *que son père était un voleur*, qu’il devait donc avoir la main coupée. Bien entendu, il y a longtemps que la prescription coranique - pas plus que celle des lois de MANOU, qui nous dit « *Celui qui a commis l’inceste avec sa mère s’arrachera les génitoires et, les portant dans sa main, s’en ira vers l’ouest* » - n’est plus mise à exécution ! Elle reste néanmoins dans cet *ordre de fondement sym­bolique* des relations interhumaines qui s’appelle *la loi*.
+La *loi coranique* porte ceci, au sujet de la personne qui s’est rendue coupable de vol : on coupera la main. Or, dans une particularité de son histoire, le sujet avait pendant son enfance été pris au milieu d’un tourbillon privé et public, qui s’exprimait à peu près en ceci, qu’*il avait entendu dire* - tout un drame : son père était un fonctionnaire et avait perdu sa place - *que son père était un voleur*, qu’il devait donc avoir la main coupée. Bien entendu, il y a longtemps que la prescription coranique - pas plus que celle des lois de MANOU, qui nous dit « *Celui qui a commis l’inceste avec sa mère s’arrachera les génitoires et, les portant dans sa main, s’en ira vers l’ouest* » - n’est plus mise à exécution ! Elle reste néanmoins dans cet *ordre de fondement sym­bolique* des relations interhumaines qui s’appelle *la loi*.
 
 <!-- id: s1-16-0120 -->
 
@@ -557,10 +557,11 @@ C’est une question. Et c’est une ques­tion qui n’est pas facile à résou
 <!-- id: s1-16-0135 -->
 
 Eh bien, c’est l’heure où habituellement nous terminons, je vous laisserai là pour aujourd’hui.
+
 ## Notes
 
 [^26]: James Strachey : « *The nature of the therapeutic action of psycho-analysis* ». International Journal of Psycho-Analysis, Vol. XV 1934, pp. 127-159.
 
     « [*Die Grundlagen der therapeutischen Wirkung der Psychoanalyse*](http://archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXxi1935Heft4) », Internationale Zeitschrift für Psychoanalyse XXI 1935 Heft 4 (1935).
 
-    Trad. C. David : « *La nature de l’action thérapeutique de la psychanalyse* », in  *Interprétation I ***:** *Un processus mutatif*, Paris : PUF, 1999, 33-64. (cf. supra : note 20).
+    Trad. C. David : « *La nature de l’action thérapeutique de la psychanalyse* », in  *Interprétation I **:* *Un processus mutatif*, Paris : PUF, 1999, 33-64. (cf. supra : note 20).

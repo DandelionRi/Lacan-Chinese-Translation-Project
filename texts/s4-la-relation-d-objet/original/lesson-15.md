@@ -11,7 +11,7 @@ Le fait de se promener n’est pas une mauvaise façon de se reconnaître dans u
 et aussi parfaitement autonome que votre salle de bains, il ne vous viendra pas souvent à l’esprit que si vous perciez le mur,
 vous vous trouveriez au premier étage de la librairie voisine, et je vais même jusqu’à vous dire que tous les jours
 quand vous prenez votre bain, le travail continue dans la librairie voisine, et que c’est là à portée de votre main.
-Alors on dit « *Quel métaphysicien, ce sacré* LACAN *!* ».
+Alors on dit « *Quel métaphysicien, ce sacré* LACAN ! ».
 
 <!-- id: s4-15-0002 -->
 
@@ -52,7 +52,7 @@ qu’il doit s’enfoncer quelque part entre ce désir de sa mère qu’il appre
 
 <!-- id: s4-15-0009 -->
 
-Ceci que nous devons postuler, parce que c’est la représentation la plus simple qui nous permet de synthétiser toute une série d’accidents qui sont incon­cevables autrement que comme fruits de cette structure de relation *symbolique-imaginaire* de la période préœdipienne, ceci est strictement articulé comme je vous le dis dans un chapitre des [*Trois Essais sur la sexualité* ](http://staferla.free.fr/Freud/freud.htm) de FREUD, *volume* V*,* p. 85*,* chapitre intitulé : « *Recherches de l’enfant sur la sexualité »*, ou « *Théories infantiles sur la sexualité »*.
+Ceci que nous devons postuler, parce que c’est la représentation la plus simple qui nous permet de synthétiser toute une série d’accidents qui sont incon­cevables autrement que comme fruits de cette structure de relation *symbolique-imaginaire* de la période préœdipienne, ceci est strictement articulé comme je vous le dis dans un chapitre des [*Trois Essais sur la sexualité* ](http://staferla.free.fr/Freud/freud.htm) de FREUD, *volume* V, p. 85, chapitre intitulé : « *Recherches de l’enfant sur la sexualité »*, ou « *Théories infantiles sur la sexualité »*.
 
 <!-- id: s4-15-0010 -->
 
@@ -271,7 +271,7 @@ de ce qu’on peut appeler l’analogie faciale du mythe.
 
 Par exemple dire qu’un inceste et un meurtre sont deux choses équivalentes, c’est une chose qui au premier abord
 ne vous viendra pas à l’esprit, mais qui, en comparant deux *mythes* ou deux étages du *mythe*, par exemple ce qui se passe
-à deux générations différentes*,* nous fait apercevoir qu’à poser dans *une constellation* qui aura un aspect tout à fait comparable
+à deux générations différentes, nous fait apercevoir qu’à poser dans *une constellation* qui aura un aspect tout à fait comparable
 à ces petits cubes que je vous dessinais la dernière fois au tableau :
 
 <!-- id: s4-15-0052 -->
@@ -282,7 +282,7 @@ ne vous viendra pas à l’esprit, mais qui, en comparant deux *mythes* ou deux 
 
 Il semble que c’est en disposant aux différents sommets de cette construction les termes de « *père* », « *mère* », par exemple…
 mère inconnue au sujet, père dans telle et telle position à la 1<sup>ère</sup> génération
-…que vous trouvez également « *inceste* »*,* par exemple à faire tel ou tel autre sommet, et quand vous passez à la génération suivante vous trouvez point par point…
+…que vous trouvez également « *inceste* », par exemple à faire tel ou tel autre sommet, et quand vous passez à la génération suivante vous trouvez point par point…
 et selon des lois qui n’ont d’intérêt qu’à pouvoir leur donner une formalisation stricte et sans ambiguïté
 …la notion de *frères jumeaux* recouper et être en quelque sorte la transformation prévue du *couple père-mère* dans la 1<sup>ère</sup> génération.
 Vous voyez arriver le meurtre situé à la même place par cette opération de transformation déjà réglée par un certain nombre d’hypothèses structurales sur la façon dont nous devons traiter le *mythe*.
@@ -423,7 +423,7 @@ qu’il lui faut que sa mère ait *un phallus*, ce qui ne veut pas dire pour aut
 
 À tout instant au contraire, éclate dans son propos l’ambiguïté que fait apparaître ce rapport dans une perspective de jeu. L’enfant sait bien en fin de compte quelque chose, tout au moins qui indique, il le dit : « *J’avais justement pensé* », et il s’interrompt.
 Ce à quoi il a pensé, c’est à : « *l’a-t-elle, ou ne l’a-t-elle pas ?* » Et il le lui demande, et il le lui fait dire, et qui sait à quel point
-la réponse le satisfait, qu’elle en a un *Wiwimacher* comme on dit dans l’observation, c’est-à-dire un *fait-pipi*, et ce « *Macher*** **»
+la réponse le satisfait, qu’elle en a un *Wiwimacher* comme on dit dans l’observation, c’est-à-dire un *fait-pipi*, et ce « *Macher* »
 quelque chose qui n’est pas complètement traduit, c’est un *faiseur de pipi* il y a *un masculin* impliqué là-dedans,
 ceci se retrouve dans d’autres mots précédés du préfixe *wiwi*.
 
@@ -610,7 +610,7 @@ croissance de l’autre, elle grandira ou ce qu’elle n’a pas grandira - il n
 
 On va parler de tout cela à cet enfant, et il semble qu’il est encore tôt pour accepter ce qu’on lui donnera comme explications aussi à lui-même : il y en a qui *n’en ont pas*, le sexe féminin *n’a pas de phallus*. C’est ce que son père va lui dire, il va intervenir,
 et cet enfant qui est fort capable de manier ces notions d’une façon claire, car il les a maniées lui-même antérieurement
-d’une façon adroite et pertinente, loin de s’en contenter, passe par des détours qui apparaissent au premier abord stupéfiants*,* effrayants, morbides, faire partie de la phobie, pour arriver en fin de compte, à quoi ? À ce quelque chose que nous verrons être à la fin, la solution qu’il donne au problème.
+d’une façon adroite et pertinente, loin de s’en contenter, passe par des détours qui apparaissent au premier abord stupéfiants, effrayants, morbides, faire partie de la phobie, pour arriver en fin de compte, à quoi ? À ce quelque chose que nous verrons être à la fin, la solution qu’il donne au problème.
 
 <!-- id: s4-15-0115 -->
 

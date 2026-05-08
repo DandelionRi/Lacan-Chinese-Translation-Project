@@ -22,7 +22,7 @@ Sur une logique…
 
 <!-- id: s14-10-0005 -->
 
-> *qui n’est pas une logique, qui est une logique totalement inédite*, une logi­que après tout à laquelle je n’ai pas encore donné*,* je n’ai pas voulu donner, avant qu’elle ne soit instaurée, *sa dénomination*. J’en tiens une, qui me semble valable, par devers moi, encore m’est-il apparu convenable d’atten­dre de lui avoir donné un suffisant développement, pour lui donner sa désignation *…*sur une logique dont le départ curieux se fait de ce choix aliénant, qui vous est offert d’un « *je ne pense pas* » à un « *je ne suis pas* »*,* on peut tout de même se demander quelle est la place - du fait que nous sommes ici - pour quelque chose qui pourrait bien s’appeler un « *nous pensons !* ». Déjà ça nous mènerait loin, puisque ce « *nous* » - sûrement vous le sentez - dans les chemins où je m’avance, qui sont ceux de l’Autre barré \[A\], pose une ques­tion.
+> *qui n’est pas une logique, qui est une logique totalement inédite*, une logi­que après tout à laquelle je n’ai pas encore donné, je n’ai pas voulu donner, avant qu’elle ne soit instaurée, *sa dénomination*. J’en tiens une, qui me semble valable, par devers moi, encore m’est-il apparu convenable d’atten­dre de lui avoir donné un suffisant développement, pour lui donner sa désignation *…*sur une logique dont le départ curieux se fait de ce choix aliénant, qui vous est offert d’un « *je ne pense pas* » à un « *je ne suis pas* », on peut tout de même se demander quelle est la place - du fait que nous sommes ici - pour quelque chose qui pourrait bien s’appeler un « *nous pensons !* ». Déjà ça nous mènerait loin, puisque ce « *nous* » - sûrement vous le sentez - dans les chemins où je m’avance, qui sont ceux de l’Autre barré \[A\], pose une ques­tion.
 
 <!-- id: s14-10-0006 -->
 
@@ -38,7 +38,7 @@ Mais aujourd’hui, je me limiterai à ceci : c’est que, comme tout homme qui 
 
 <!-- id: s14-10-0009 -->
 
-C’est pourquoi je ne ferai pas aujourd’hui la le­çon à laquelle vous pouviez vous attendre et nommément pas, sauf à vous l’annoncer comme telle, sur ce « *Cogito, ergo Es* »*.* Je ne me repens pas pourtant d’être ici... pour une cause…
+C’est pourquoi je ne ferai pas aujourd’hui la le­çon à laquelle vous pouviez vous attendre et nommément pas, sauf à vous l’annoncer comme telle, sur ce « *Cogito, ergo Es* ». Je ne me repens pas pourtant d’être ici... pour une cause…
 
 <!-- id: s14-10-0010 -->
 
@@ -178,7 +178,7 @@ C’est-à-dire des sujets qui soutiendraient en eux–mêmes quelque chose qui 
 
 <!-- id: s14-10-0044 -->
 
-pour tous ceux qui m’ont jusqu’ici assez suivi *pour que, pour eux, les mots que j’emploie* - je dis : *que j’emploie* - *aient un sens* *...*cette *Bedeutung,* qu’il suffise que je l’épingle ici de ce quelque chose qui n’a pas d’autre nom que celui-ci, à savoir : *la structure*, en tant qu’elle est *réelle*.
+pour tous ceux qui m’ont jusqu’ici assez suivi *pour que, pour eux, les mots que j’emploie* - je dis : *que j’emploie* - *aient un sens...*cette *Bedeutung,* qu’il suffise que je l’épingle ici de ce quelque chose qui n’a pas d’autre nom que celui-ci, à savoir : *la structure*, en tant qu’elle est *réelle*.
 
 <!-- id: s14-10-0045 -->
 
@@ -288,11 +288,11 @@ J’en ai retenu d’après ce qui m’en a été dit, que par exemple les confu
 
 <!-- id: s14-10-0070 -->
 
-Et je pensais, d’après certains signes cliniques, que la persistance de telles confusions à l’âge de l’apprentissage de la lecture pouvait marquer le désir de l’enfant de se maintenir dans cette position infantile. Que par exemple ceci se rapporte aussi dans une certaine mesure à la non accession au stade du miroir, compris comme identification première, narcissique, et avant qu’apparaisse le « *je* »*.*
+Et je pensais, d’après certains signes cliniques, que la persistance de telles confusions à l’âge de l’apprentissage de la lecture pouvait marquer le désir de l’enfant de se maintenir dans cette position infantile. Que par exemple ceci se rapporte aussi dans une certaine mesure à la non accession au stade du miroir, compris comme identification première, narcissique, et avant qu’apparaisse le « *je* ».
 
 <!-- id: s14-10-0071 -->
 
-Or les carences maternelles, c’est-à-dire dans une certaine mesure l’absence de discours de l’Autre*,* entre 6 et 18 mois déterminent l’incapacité d’accéder au *stade du miroir*, à *l’image du corps propre*, et naturellement aux *identifications*. Elles ont pour corollaires constants, une déficience souvent irréversible du langage, et certaines particularités de structure du langage.
+Or les carences maternelles, c’est-à-dire dans une certaine mesure l’absence de discours de l’Autre, entre 6 et 18 mois déterminent l’incapacité d’accéder au *stade du miroir*, à *l’image du corps propre*, et naturellement aux *identifications*. Elles ont pour corollaires constants, une déficience souvent irréversible du langage, et certaines particularités de structure du langage.
 
 <!-- id: s14-10-0072 -->
 
@@ -300,7 +300,7 @@ Lorsque l’unité du son, du mot, de la phrase n’est pas respectée dans le l
 
 <!-- id: s14-10-0073 -->
 
-De même les erreurs portant sur l’usage des *pronoms* *personnels*, ressortiraient à l’incapacité à distinguer le « *je* » et l’autre, l’incapacité à distinguer les verbes d’état et les verbes d’action, l’être et l’agir, répondrait à ce statut, non de sujet, mais d’objet agi par l’Autre*.*
+De même les erreurs portant sur l’usage des *pronoms* *personnels*, ressortiraient à l’incapacité à distinguer le « *je* » et l’autre, l’incapacité à distinguer les verbes d’état et les verbes d’action, l’être et l’agir, répondrait à ce statut, non de sujet, mais d’objet agi par l’Autre.
 
 <!-- id: s14-10-0074 -->
 
@@ -328,7 +328,7 @@ LACAN - Parlez tout ce que vous pouvez, toute votre voix, sans ça il ne vous en
 
 <!-- id: s14-10-0080 -->
 
-Luce IRIGARAY 
+Luce IRIGARAY
 
 <!-- id: s14-10-0081 -->
 
@@ -472,7 +472,7 @@ Tous ces phénomènes sont importants et tous ces phénomènes nous montrent que
 
 <!-- id: s14-10-0116 -->
 
-Permettez-moi de m’arrêter à deux ou trois problèmes qui ont été touchés ici. Il y a, quand l’enfant commence à parler, à employer les mots - il y a deux phénomènes tout à fait révolutionnaires du point de vue de la mentalité de l’enfant. L’une de ces étapes c’est l’étape de l’acquisition des pronoms personnels. \[...\] C’est une énorme généralisation, c’est un énorme échange, c’est la possibilité d’être moi en un instant, et d’entendre l’Autre devenir moi*.*
+Permettez-moi de m’arrêter à deux ou trois problèmes qui ont été touchés ici. Il y a, quand l’enfant commence à parler, à employer les mots - il y a deux phénomènes tout à fait révolutionnaires du point de vue de la mentalité de l’enfant. L’une de ces étapes c’est l’étape de l’acquisition des pronoms personnels. \[...\] C’est une énorme généralisation, c’est un énorme échange, c’est la possibilité d’être moi en un instant, et d’entendre l’Autre devenir moi.
 
 <!-- id: s14-10-0117 -->
 
@@ -612,7 +612,7 @@ Et c’est important ces rapports entre les langues ! Ça montre une attitude d
 
 <!-- id: s14-10-0151 -->
 
-Écoutez, dans les phénomènes grammaticaux que nous employons, les phénomènes grammaticaux qui apparaissent dans notre langue, chacun a sa fonction à lui, mais si on parle une autre langue on peut très bien exprimer ce qui est absent dans la grammaire de la première langue. Si je parle au lieu du bulgare, le français ou le russe, je peux très bien dire : « *j’ai vu le bateau venir* », ou bien : « *je crois que le bateau est arrivé* ». ce sont deux phrases différentes mais il y a là une énorme différence. Une énorme différence : si c’est donné par la grammaire, ou si c’est seulement une possibilité, de l’expliquer par des moyens lexicaux.  
+Écoutez, dans les phénomènes grammaticaux que nous employons, les phénomènes grammaticaux qui apparaissent dans notre langue, chacun a sa fonction à lui, mais si on parle une autre langue on peut très bien exprimer ce qui est absent dans la grammaire de la première langue. Si je parle au lieu du bulgare, le français ou le russe, je peux très bien dire : « *j’ai vu le bateau venir* », ou bien : « *je crois que le bateau est arrivé* ». ce sont deux phrases différentes mais il y a là une énorme différence. Une énorme différence : si c’est donné par la grammaire, ou si c’est seulement une possibilité, de l’expliquer par des moyens lexicaux.
 
 <!-- id: s14-10-0152 -->
 

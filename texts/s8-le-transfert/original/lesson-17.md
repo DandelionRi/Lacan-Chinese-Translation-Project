@@ -42,7 +42,7 @@ J’ai donc redévoilé cette image - qui assurément n’est pas simple reprodu
 
 <!-- id: s8-17-0010 -->
 
-Ce n’est pas moi, mais des études déjà existantes, qui ont fait le rapprochement dans ce tableau de l’usage qui est donné de la présence du *bouquet de fleurs* là au premier plan : il recouvre ce qui est à recouvrir, dont je vous ai dit que c’était moins encore *le phallus* menacé de l’ÉROS - ici surpris et découvert par une initiative de la question de la PSYCHÉ : « *de lui qu’en est*-*il ?* » - que *<u>ce</u>* qu’ici le bouquet recouvre : le point précis d’une *présence absente*, d’une *absence présentifiée*.
+Ce n’est pas moi, mais des études déjà existantes, qui ont fait le rapprochement dans ce tableau de l’usage qui est donné de la présence du *bouquet de fleurs* là au premier plan : il recouvre ce qui est à recouvrir, dont je vous ai dit que c’était moins encore *le phallus* menacé de l’ÉROS - ici surpris et découvert par une initiative de la question de la PSYCHÉ : « *de lui qu’en est-il ?* » - que *<u>ce</u>* qu’ici le bouquet recouvre : le point précis d’une *présence absente*, d’une *absence présentifiée*.
 
 <!-- id: s8-17-0011 -->
 
@@ -294,7 +294,7 @@ Qu’est-ce que *l’hystérique* fait ? Qu’est-ce que DORA fait au dernier t
 
 <!-- id: s8-17-0072 -->
 
-Et à cause de ceci, au niveau du fantasme, ce n’est pas S**◊***a*, *le rapport de fading, de vacillation*, qui caractérise le rapport du *sujet* à ce *(a)* qui se produit mais autre chose, parce qu’elle est hystérique, c’est un grand A comme tel, Grand A auquel elle *croit,* contrairement à une *paranoïaque*. « *Que suis-je ?* » a pour elle un sens qui n’est pas celui de tout à l’heure, des égarements *moraux* ni *philosophiques*, ça a un sens plein et absolu.
+Et à cause de ceci, au niveau du fantasme, ce n’est pas S◊*a*, *le rapport de fading, de vacillation*, qui caractérise le rapport du *sujet* à ce *(a)* qui se produit mais autre chose, parce qu’elle est hystérique, c’est un grand A comme tel, Grand A auquel elle *croit,* contrairement à une *paranoïaque*. « *Que suis-je ?* » a pour elle un sens qui n’est pas celui de tout à l’heure, des égarements *moraux* ni *philosophiques*, ça a un sens plein et absolu.
 
 <!-- id: s8-17-0073 -->
 
@@ -334,7 +334,7 @@ Cet auteur se précipite aussitôt dans la thématique de l’agressivité, de l
 
 <!-- id: s8-17-0082 -->
 
-Ce que nous appelons dans *l’obsession* « *agressivité* » est présent toujours comme une agression précisément à cette forme d’apparition de l’Autre que j’ai appelée en d’autres temps « *phallophanie* »* *: l’Autre en tant justement qu’il peut se présenter comme *phallus*. *Frapper le phallus* dans l’Autre pour guérir la *castration symbolique*, *le frapper sur le plan imaginaire*, c’est la voie que choisit *l’obsessionnel* *pour tenter d’abolir la difficulté* que je désigne sous le nom de « *parasitisme du signifiant dans le sujet* », *de restituer - pour lui - au désir sa primauté*, mais *au prix d’une dégradation de l’Autre* qui le fait essentiellement fonction de quelque chose *qui est l’élision imaginaire du phallus*.
+Ce que nous appelons dans *l’obsession* « *agressivité* » est présent toujours comme une agression précisément à cette forme d’apparition de l’Autre que j’ai appelée en d’autres temps « *phallophanie* »: l’Autre en tant justement qu’il peut se présenter comme *phallus*. *Frapper le phallus* dans l’Autre pour guérir la *castration symbolique*, *le frapper sur le plan imaginaire*, c’est la voie que choisit *l’obsessionnel* *pour tenter d’abolir la difficulté* que je désigne sous le nom de « *parasitisme du signifiant dans le sujet* », *de restituer - pour lui - au désir sa primauté*, mais *au prix d’une dégradation de l’Autre* qui le fait essentiellement fonction de quelque chose *qui est l’élision imaginaire du phallus*.
 
 <!-- id: s8-17-0083 -->
 
@@ -362,7 +362,7 @@ C’est ce que j’essayerai d’aborder pour vous la prochaine fois.
 
 <!-- id: s8-17-0089 -->
 
-**  **
+&nbsp;
 
 ## Notes
 

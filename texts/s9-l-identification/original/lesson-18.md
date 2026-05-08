@@ -68,7 +68,7 @@ Je dirai tout de suite que je suis d’un avis un peu différent : l’angoisse,
 
 <!-- id: s9-18-0016 -->
 
-Quant à ce qu’on pourrait appeler « *la position du sujet vis-à-vis de l’angoisse* »*,* dans la psychose par exemple, on a pu voir que si on n’essaye pas de mieux définir les rapports existants entre *affect* et *verbalisation*, on peut arriver à une sorte de paradoxe qui s’exprimerait ainsi :
+Quant à ce qu’on pourrait appeler « *la position du sujet vis-à-vis de l’angoisse* », dans la psychose par exemple, on a pu voir que si on n’essaye pas de mieux définir les rapports existants entre *affect* et *verbalisation*, on peut arriver à une sorte de paradoxe qui s’exprimerait ainsi :
 
 <!-- id: s9-18-0017 -->
 
@@ -344,7 +344,7 @@ Mais ici, même en essayant de simplifier au maximum les choses, nous sommes obl
 
 <!-- id: s9-18-0085 -->
 
-*L’enfant* - contrairement à ce qu’on a souvent dit - *n’est pas le phallus de la mère, il est le témoin que le sein est le phallus,* ce qui n’est pas la même chose*.* Et pour que le sein soit *le phallus*, et un *phallus* tout puissant, il faut que la réponse qu’il apporte soit parfaite et totale. La demande de l’enfant ne pourra être reconnue pour rien d’autre qui ne soit demande de nourriture. La dimension *désir* au niveau du sujet doit être niée, et ce qui caractérise la mère du psychotique c’est l’interdiction totale faite à l’enfant d’être le sujet d’aucun désir.
+*L’enfant* - contrairement à ce qu’on a souvent dit - *n’est pas le phallus de la mère, il est le témoin que le sein est le phallus,* ce qui n’est pas la même chose. Et pour que le sein soit *le phallus*, et un *phallus* tout puissant, il faut que la réponse qu’il apporte soit parfaite et totale. La demande de l’enfant ne pourra être reconnue pour rien d’autre qui ne soit demande de nourriture. La dimension *désir* au niveau du sujet doit être niée, et ce qui caractérise la mère du psychotique c’est l’interdiction totale faite à l’enfant d’être le sujet d’aucun désir.
 
 <!-- id: s9-18-0086 -->
 
@@ -428,7 +428,7 @@ S’il est vrai :
 
 <!-- id: s9-18-0106 -->
 
-Pour *le psy­chotique* - et je m’excuse de m’en tenir à de simples formules *-* l’autre est intro­jecté au niveau de son propre corps, au niveau de tout ce qui entoure cette béance première qui, seule, est ce qui le désigne en tant que sujet. L’angoisse est pour lui liée à ces moments spécifiques où, à partir de cette béance, apparaît quelque chose qui pourrait se nommer désir, car pour qu’il puisse l’assumer, il faudrait que le sujet accepte de se situer à la seule place d’où il puisse dire « *je »*, soit : *qu’il s’identifie à cette béance* qui, en fonction de l’interdiction de l’autre, est la seule place où il soit reconnu comme sujet.
+Pour *le psy­chotique* - et je m’excuse de m’en tenir à de simples formules - l’autre est intro­jecté au niveau de son propre corps, au niveau de tout ce qui entoure cette béance première qui, seule, est ce qui le désigne en tant que sujet. L’angoisse est pour lui liée à ces moments spécifiques où, à partir de cette béance, apparaît quelque chose qui pourrait se nommer désir, car pour qu’il puisse l’assumer, il faudrait que le sujet accepte de se situer à la seule place d’où il puisse dire « *je »*, soit : *qu’il s’identifie à cette béance* qui, en fonction de l’interdiction de l’autre, est la seule place où il soit reconnu comme sujet.
 
 <!-- id: s9-18-0107 -->
 
@@ -648,7 +648,7 @@ Si nous ne sommes pas capables de nous apercevoir qu’il y a un certain degré 
 
 <!-- id: s9-18-0161 -->
 
-Or comment ne pas sentir vivant - comme il arrive tout le temps à ceux qui viennent écouter ce qui se dit ici à ce séminaire *-* comment ne pas nous apercevoir que tout ce que j’ai commencé d’articuler cette année, à propos de la structure de surface du sys­tème Ψ et de l’énigme concernant la façon dont le sujet peut accéder à son propre corps, est que ça ne va pas tout seul.
+Or comment ne pas sentir vivant - comme il arrive tout le temps à ceux qui viennent écouter ce qui se dit ici à ce séminaire - comment ne pas nous apercevoir que tout ce que j’ai commencé d’articuler cette année, à propos de la structure de surface du sys­tème Ψ et de l’énigme concernant la façon dont le sujet peut accéder à son propre corps, est que ça ne va pas tout seul.
 
 <!-- id: s9-18-0162 -->
 
@@ -780,7 +780,7 @@ le nœud le plus élémentaire, celui qui se trace comme ça, suffit à porter e
 
 <!-- id: s9-18-0193 -->
 
-Pourtant un nœud, quand même, c’est quelque chose qui est à la portée de tout le monde. Ce n’est pas à la portée de tout le monde de savoir ce qu’ils faisaient en faisant un nœud, mais enfin, cela a pris une valeur métaphorique : les nœuds du mariage, les nœuds de l’amour, les nœuds, sacrés ou pas*,* pourquoi est-ce qu’on en parle ?
+Pourtant un nœud, quand même, c’est quelque chose qui est à la portée de tout le monde. Ce n’est pas à la portée de tout le monde de savoir ce qu’ils faisaient en faisant un nœud, mais enfin, cela a pris une valeur métaphorique : les nœuds du mariage, les nœuds de l’amour, les nœuds, sacrés ou pas, pourquoi est-ce qu’on en parle ?
 
 <!-- id: s9-18-0194 -->
 

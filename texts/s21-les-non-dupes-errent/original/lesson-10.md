@@ -48,7 +48,7 @@ Si ce que j’ai la dernière fois avancé est vrai...
 
 <!-- id: s21-10-0011 -->
 
-> à savoir ce qui permettrait d’y apporter ce à quoi le *Symbolique* aboutit*,*
+> à savoir ce qui permettrait d’y apporter ce à quoi le *Symbolique* aboutit,
 >
 > à savoir la démonstration, l’articulation en termes de vérité ...si cet *algorithme*, nous en sommes réduits à y constater notre échec, notre échec à l’établir, à le manier.
 
@@ -198,7 +198,7 @@ Il convient donc que tout énoncé se garde...
 
 <!-- id: s21-10-0048 -->
 
-> justement en ce qu’il *rêve-olutionne* *...*de main­tenir le règne de ce à quoi il réveille.
+> justement en ce qu’il *rêve-olutionne...*de main­tenir le règne de ce à quoi il réveille.
 
 <!-- id: s21-10-0049 -->
 

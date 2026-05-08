@@ -115,7 +115,7 @@ que la phobie ici prend plus de courage, elle se développe, elle montre ses div
 
 <!-- id: s4-18-0018 -->
 
-C’est donc, de la façon la plus expressément formulée, dans FREUD*.*
+C’est donc, de la façon la plus expressément formulée, dans FREUD.
 
 <!-- id: s4-18-0019 -->
 
@@ -137,7 +137,7 @@ que « *jument de nuit* » n’est pas simplement la sorcière de nuit, l’ap
 
 <!-- id: s4-18-0022 -->
 
-Là bien entendu, Monsieur JONES cherche *-* selon la bonne habitude *-* à trouver dans l’analyse *du côté du signifié*, ce qui l’amène
+Là bien entendu, Monsieur JONES cherche - selon la bonne habitude - à trouver dans l’analyse *du côté du signifié*, ce qui l’amène
 à trouver que tout est dans tout, et à nous montrer qu’il n’y a pas de jeu de *la mythologie antique*, ni même moderne, qui échappe au fait d’être par quelque côté *un cheval*. Et en effet, MARS, ODIN, ZEUS, tous ont des chevaux, il s’agit de savoir pourquoi.
 
 <!-- id: s4-18-0023 -->
@@ -266,13 +266,13 @@ Mais deux voies nous intéressent pour ce qui est de l’aventure du petit Hans 
 
 Dans l’intervalle, il a touché à une autre gare. Et c’est ce chemin de fer, souterrain par endroits, qui s’en va vers *Lainz*.
 Ce dimanche 22 avril, le père propose au petit Hans une route un petit peu plus compliquée que d’habitude.
-Ils vont en effet faire une station à *Schönbrunn***,** sur le *Stadtbahn***,** qui est le « *Versailles viennois* », et où se trouve le jardin zoologique où va le petit Hans avec son père, et qui joue un rôle si important dans l’observation. Mais un *Versailles* beaucoup moins grandiose, la dynastie des HABSBOURG était probablement beaucoup plus près de son peuple que celle des BOURBON,
+Ils vont en effet faire une station à *Schönbrunn**,* sur le *Stadtbahn**,* qui est le « *Versailles viennois* », et où se trouve le jardin zoologique où va le petit Hans avec son père, et qui joue un rôle si important dans l’observation. Mais un *Versailles* beaucoup moins grandiose, la dynastie des HABSBOURG était probablement beaucoup plus près de son peuple que celle des BOURBON,
 parce qu’on voit très bien que même à une époque où la ville était beaucoup moins étendue, l’horizon est là tout près.
 
 <!-- id: s4-18-0044 -->
 
 Après la visite du parc de *Schönbrunn*, ils reprendront un tramway à vapeur - *le tramway 60* à l’époque - qui les emmènera à *Lainz*, pour vous donner un ordre de grandeur *Lainz* est à peu près la même distance de Vienne, que Vaucresson de Paris,
-et qui continue jusqu’à *Mauer* et *Mödling***.** Quand ils vont directement chez la grand-mère, ils prennent un tramway
+et qui continue jusqu’à *Mauer* et *Mödling**.* Quand ils vont directement chez la grand-mère, ils prennent un tramway
 qui passe beaucoup plus au Sud et qui arrive directement.
 
 <!-- id: s4-18-0045 -->
@@ -280,7 +280,7 @@ qui passe beaucoup plus au Sud et qui arrive directement.
 *Une autre ligne de tramways* relie cette ligne directe et le *Stadt­bahn*, qui est *le fameux Sankt Veit*. Ceci vous permettra de comprendre ce que voudra dire le petit Hans le jour où il aura *un fantasme* de départ de *Lainz* pour revenir à la maison, quand il dira
 que le train est parti avec lui et sa grand-mère, et que le père qui l’a raté, peut avoir le second train arrivé de *Sankt Veit*.
 Ce réseau forme donc *une boucle virtuelle*, car les deux lignes ne communiquent pas, elles permettent simplement, les deux,
-de rejoindre *Lainz*. Quelques jours après, dans une conversation avec son père*,* le petit Hans va produire quelque chose
+de rejoindre *Lainz*. Quelques jours après, dans une conversation avec son père, le petit Hans va produire quelque chose
 qui se classe parmi ces nombreuses choses dont le petit Hans nous témoigne d’avoir pensées. Même quand on veut absolument lui faire dire *qu’il l’a rêvé*, il souligne bien qu’il s’agit *de choses qu’il a pensées*.
 
 <!-- id: s4-18-0046 -->
@@ -299,7 +299,7 @@ Le point essentiel où intervient d’une certaine façon le *Verkehrkomplex*, F
 
 <!-- id: s4-18-0049 -->
 
-En d’autres termes, à l’horizon que dessinent les circuits du cheval*,* il y a les circuits du chemin de fer.
+En d’autres termes, à l’horizon que dessinent les circuits du cheval, il y a les circuits du chemin de fer.
 Et c’est tellement vrai et évident que la première explication que donne Hans à son père quand il s’agit de lui donner les détails du vécu de sa phobie, c’est quelque chose qui est lié au fait que devant sa maison il y a une cour et une allée très large.
 On comprend pourquoi c’est toute une affaire pour le petit Hans de les traverser. Devant la maison les chariots attelés viennent charger et décharger, ils se rangent le long d’une rampe de déchargement.
 
@@ -544,7 +544,7 @@ de *wagen* qui veut dire *voiture*, *et de dire que c’est ainsi que fonctionne
 
 <!-- id: s4-18-0097 -->
 
-En d’autres termes, *le cheval traîne la voiture* exactement de la même façon que le *quelque chose* qui traîne derrière soi le mot *wegen***.**
+En d’autres termes, *le cheval traîne la voiture* exactement de la même façon que le *quelque chose* qui traîne derrière soi le mot *wegen**.*
 
 <!-- id: s4-18-0098 -->
 
@@ -562,7 +562,7 @@ le passage d’un point du texte, de la *ligne* textuelle, au point qui suit.
 
 <!-- id: s4-18-0100 -->
 
-La définition de *la métonymie* est essentiellement, et dans sa structure, ceci : c’est parce que le poids de ce *wegen* est entièrement voilé et transféré à ce qui est juste à la suite : *dem Pferd**,** le cheval*, que le terme prend *sa valeur* *articulatoire*, à ce moment assume
+La définition de *la métonymie* est essentiellement, et dans sa structure, ceci : c’est parce que le poids de ce *wegen* est entièrement voilé et transféré à ce qui est juste à la suite : *dem Pferd, le cheval*, que le terme prend *sa valeur* *articulatoire*, à ce moment assume
 en lui tous *les espoirs de solution*. Toute *la béance* de la situation de Hans à ce moment-là est attachée autour d’un transfert
 de *poids grammatical* de cette même chose après tout où vous ne faites en fin de compte que retrouver les *associations concrètes*,
 et non pas imaginées dans je ne sais quel hyper­espace psychologique, *associations* dont nous avons deux espèces :

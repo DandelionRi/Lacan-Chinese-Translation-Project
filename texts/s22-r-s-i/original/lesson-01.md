@@ -42,7 +42,7 @@ Alors, si tout de même je vais faire grève, ça n’est pas que ce soit pour m
 
 <!-- id: s22-01-0010 -->
 
-Je veux dire qu’il se trouve qu’aujourd’hui, à savoir au début de cette année 1974-75*,* je n’avais pas la moindre envie de vous faire un sémi­naire, comme l’atteste ceci : que vous n’en avez pas vu d’affiche, affichant le titre comme chaque année.
+Je veux dire qu’il se trouve qu’aujourd’hui, à savoir au début de cette année 1974-75, je n’avais pas la moindre envie de vous faire un sémi­naire, comme l’atteste ceci : que vous n’en avez pas vu d’affiche, affichant le titre comme chaque année.
 
 <!-- id: s22-01-0011 -->
 
@@ -198,7 +198,7 @@ Comment définir l’imbécillité dans le discours analytique ?
 
 <!-- id: s22-01-0049 -->
 
-Voilà une question, une question que j’ai intro­duit, ma foi, je dirais dès ma première année de séminaire, en énonçant que si l’analyse est certes un remède contre l’ignorance*,* qu’elle est sans effet contre *la connerie*.
+Voilà une question, une question que j’ai intro­duit, ma foi, je dirais dès ma première année de séminaire, en énonçant que si l’analyse est certes un remède contre l’ignorance, qu’elle est sans effet contre *la connerie*.
 
 <!-- id: s22-01-0050 -->
 

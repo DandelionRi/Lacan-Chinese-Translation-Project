@@ -194,7 +194,7 @@ Je suis à peu près sûr qu’à prendre telle position ce n’est pas d’un *
 
 <!-- id: s15-02-0047 -->
 
-Et aussi bien d’ailleurs peut-on voir que son cas est loin d’être unique, si vous vous reportez à telle page de mes *Écrits* [^4]*,* celle du « *Discours de Rome* » où je fais état de ce qu’avan­ce un certain MASSERMANN qui aux États-Unis a la position de ce que, dans ALAIN[^5], on appelle un « *Important* »*.* Cet « *Important* »*,* sans doute dans la même *recherche de confort*, fait état avec gloire des *recherches* d’un Monsieur HUDGINS, à propos desquelles je me suis arrêté à l’époque…
+Et aussi bien d’ailleurs peut-on voir que son cas est loin d’être unique, si vous vous reportez à telle page de mes *Écrits* [^4], celle du « *Discours de Rome* » où je fais état de ce qu’avan­ce un certain MASSERMANN qui aux États-Unis a la position de ce que, dans ALAIN[^5], on appelle un « *Important* ». Cet « *Important* », sans doute dans la même *recherche de confort*, fait état avec gloire des *recherches* d’un Monsieur HUDGINS, à propos desquelles je me suis arrêté à l’époque…
 
 <!-- id: s15-02-0048 -->
 
@@ -278,7 +278,7 @@ Renversement semblable à celui que nous avons fait la dernière fois concernant
 
 <!-- id: s15-02-0067 -->
 
-Vous savez l’accent que j’ai mis depuis longtemps sur ce terme qui ne figurerait pas au vocabulaire freudien si je ne l’avais pas extrait du texte de FREUD, moi le premier et d’ailleurs à la vérité, pour un bon bout de temps, le seul. Le terme a bien son prix. Il n’est pas seulement freudien : HEIDEGGER l’emploie, il est vrai dans une *visée* différente, quand il s’agit pour lui d’in­terroger les rapports de l’être à la *Rede* \[*parole, langage, discours*\]*.*
+Vous savez l’accent que j’ai mis depuis longtemps sur ce terme qui ne figurerait pas au vocabulaire freudien si je ne l’avais pas extrait du texte de FREUD, moi le premier et d’ailleurs à la vérité, pour un bon bout de temps, le seul. Le terme a bien son prix. Il n’est pas seulement freudien : HEIDEGGER l’emploie, il est vrai dans une *visée* différente, quand il s’agit pour lui d’in­terroger les rapports de l’être à la *Rede* \[*parole, langage, discours*\].
 
 <!-- id: s15-02-0068 -->
 
@@ -308,11 +308,11 @@ J’ai ouvert le rapport de l’un d’eux qui s’appelle Olivier FLOURNOY[^6],
 
 > et vous savez le cas célèbre par quoi Théodore[^7] reste immortel dans la tradition analytique, cette *clairvoyante* délirante au nom merveilleux dont il a fait tout un ouvrage et dont vous ne sauriez trop profiter si l’ouvrage
 >
-> vous tombe sous la main, je crois qu’il n’est pas courant pour l’instant …donc à la 3<sup>ème</sup> génération, ce garçon nous avance quelque chose qui consis­te à prendre au moins une partie du champ, celle que n’a pas pris l’autre rapporteur, l’autre rapporteur parlait de l’*acting-out* [^8]*,* lui il va se porter sur *l’agir*, et comme *agir* il y a, croit-on - non sans fondement - concernant le transfert, il avance sur ce transfert quelques questions qui, aussi bien, valent propositions. Je ne vous en donnerai pas, bien sûr, lecture, car rien n’est plus diffici­le à tenir qu’une lecture devant un *aussi large public*, néanmoins pour en donner le ton, je vous prendrai le premier paragraphe qui s’énonce à peu près ainsi :
+> vous tombe sous la main, je crois qu’il n’est pas courant pour l’instant …donc à la 3<sup>ème</sup> génération, ce garçon nous avance quelque chose qui consis­te à prendre au moins une partie du champ, celle que n’a pas pris l’autre rapporteur, l’autre rapporteur parlait de l’*acting-out* [^8], lui il va se porter sur *l’agir*, et comme *agir* il y a, croit-on - non sans fondement - concernant le transfert, il avance sur ce transfert quelques questions qui, aussi bien, valent propositions. Je ne vous en donnerai pas, bien sûr, lecture, car rien n’est plus diffici­le à tenir qu’une lecture devant un *aussi large public*, néanmoins pour en donner le ton, je vous prendrai le premier paragraphe qui s’énonce à peu près ainsi :
 
 <!-- id: s15-02-0075 -->
 
-- « *De cette revue* \[...\] *de l’évolution récente des idées* \[...\]*, on retire toujours l’impression de quelque chose d’obscur et d’insatisfaisant -* je passe quelques lignes *-* \[...\] *Mais pour­quoi une régression implique-t-elle le transfert, c’est-à-dire l’absence de remémoration et l’agir, sous forme de transformation de l’analyste, par projection et introjection, et pourquoi n’implique-t-elle pas seulement une conduite régressive ?*
+- « *De cette revue* \[...\] *de l’évolution récente des idées* \[...\]*, on retire toujours l’impression de quelque chose d’obscur et d’insatisfaisant -* je passe quelques lignes - \[...\] *Mais pour­quoi une régression implique-t-elle le transfert, c’est-à-dire l’absence de remémoration et l’agir, sous forme de transformation de l’analyste, par projection et introjection, et pourquoi n’implique-t-elle pas seulement une conduite régressive ?*
 
 <!-- id: s15-02-0076 -->
 
@@ -460,7 +460,7 @@ Bon, mais à moi ça me sert parce que je peux aller chercher, *non pas le pas­
 
 <!-- id: s15-02-0111 -->
 
-*Ce n’est pas ici le lieu d’en démontrer la valeur. Nous sommes plus inté­ressés à en indiquer la liaison à la partialité de l’aspect qu’Abraham détache du transfert, pour le promouvoir dans son opacité comme la capacité d’ai­mer : soit comme si c’était là -* cette capacité d’aimer *-* *une donnée constitu­tionnelle chez le malade où puisse se lire le degré de sa curabilité*... » \[Écrits pp. 604-605\]
+*Ce n’est pas ici le lieu d’en démontrer la valeur. Nous sommes plus inté­ressés à en indiquer la liaison à la partialité de l’aspect qu’Abraham détache du transfert, pour le promouvoir dans son opacité comme la capacité d’ai­mer : soit comme si c’était là -* cette capacité d’aimer - *une donnée constitu­tionnelle chez le malade où puisse se lire le degré de sa curabilité*... » \[Écrits pp. 604-605\]
 
 <!-- id: s15-02-0112 -->
 
@@ -720,7 +720,7 @@ Mais, vous le verrez, il est utile.
 
     *- Marburg/Marbach,* p. 389 : Ce n'est point à Marburg, mais à Marbach que Schiller est né. Tout collégien allemand le sait et je le savais également. C'est encore une de ces erreurs qui se glissent dans le rêve comme contrepartie d'une altération faite intentionnellement ailleurs. J'ai essayé d'expliquer ces erreurs dans ma *Psychopathologie de la vie quotidienne. Cf P.B.Payot. p.233*
 
-    *-* et de *Hasdrubal/Hamilcar Barkas,* p. 175 : Dans la 1<sup>ère</sup> édition j'avais écrit ici Hasdrubal, erreur étrange que j'ai expliquée dans la *Psychopathologie de la vie quotidienne(p.233) .*
+    - et de *Hasdrubal/Hamilcar Barkas,* p. 175 : Dans la 1<sup>ère</sup> édition j'avais écrit ici Hasdrubal, erreur étrange que j'ai expliquée dans la *Psychopathologie de la vie quotidienne(p.233) .*
 
     Lacan fait lui-même ici une erreur, car Freud évoque non pas Hannibal, mais le père d’Hannibal, qu’il nomme Hasdrubal (du nom de son frère), au lieu de Hamilcar Barkas. Dans ce même chapitre, il est question d’une 3<sup>ème</sup> erreur (Zeus/Chronos/Ouranos) qui concerne elle aussi une affaire de générations.
 

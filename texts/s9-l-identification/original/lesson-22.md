@@ -54,7 +54,7 @@ Bien sûr, on peut s’amuser à faire cette genèse avec des actions « *concr
 
 <!-- id: s9-22-0013 -->
 
-On pourrait s’amuser à refaire une *histoire naturelle* : qu’en résulte-t-il pour les quelques animaux qui ont la paire de ciseaux à l’état naturel ? Ce n’est pas à cela que je vous amène, *et pour cause*, ce à quoi nous amène la formule « *l’homme coupe* »*,* c’est bien plutôt à ses échos sémantiques : qu’*il se coupe,* comme on dit, qu’*il essaye d’y couper.* Tout cela est autrement à rassembler autour de la formule fondamentale de la castration : « *on t’la coupe !* »
+On pourrait s’amuser à refaire une *histoire naturelle* : qu’en résulte-t-il pour les quelques animaux qui ont la paire de ciseaux à l’état naturel ? Ce n’est pas à cela que je vous amène, *et pour cause*, ce à quoi nous amène la formule « *l’homme coupe* », c’est bien plutôt à ses échos sémantiques : qu’*il se coupe,* comme on dit, qu’*il essaye d’y couper.* Tout cela est autrement à rassembler autour de la formule fondamentale de la castration : « *on t’la coupe !* »
 
 <!-- id: s9-22-0014 -->
 
@@ -168,19 +168,19 @@ Vous avez pu remarquer que dans le graphe, vous avez les symboles suivants :
 
 <!-- id: s9-22-0041 -->
 
-- *s*(A), A, à l’étage supérieur : S(A), S**◊**D \[S barré coupure de D\],
+- *s*(A), A, à l’étage supérieur : S(A), S◊D \[S barré coupure de D\],
 
 <!-- id: s9-22-0042 -->
 
-- aux deux étages *intermédiaires* : *i(a)*, *m*, et de l’autre côté : S**◊***a* *le fan­tasme*, et *d.*
+- aux deux étages *intermédiaires* : *i(a)*, *m*, et de l’autre côté : S◊*a* *le fan­tasme*, et *d.*
 
 <!-- id: s9-22-0043 -->
 
-Nulle part vous ne voyez conjoints D et *(a)*. Qu’est-ce que *cela tra­duit* ? Qu’est-ce que *cela reflète* ? Qu’est-ce que *cela supporte* ? Cela supporte d’abord ceci, c’est que ce que vous trouvez par contre, c’est S**◊**D, et que ces élé­ments du *trésor signifiant* à l’étage de l’énonciation, je vous apprends à les recon­naître, c’est ce qui s’appelle le *Trieb, la pulsion*.
+Nulle part vous ne voyez conjoints D et *(a)*. Qu’est-ce que *cela tra­duit* ? Qu’est-ce que *cela reflète* ? Qu’est-ce que *cela supporte* ? Cela supporte d’abord ceci, c’est que ce que vous trouvez par contre, c’est S◊D, et que ces élé­ments du *trésor signifiant* à l’étage de l’énonciation, je vous apprends à les recon­naître, c’est ce qui s’appelle le *Trieb, la pulsion*.
 
 <!-- id: s9-22-0044 -->
 
-C’est ainsi que je vous le formalise : la première modification du *réel* en sujet sous l’effet de la demande, c’est *la pulsion*. Et si, dans la pulsion, il n’y avait pas déjà cet effet de la demande, cet effet de signifiant, celle-ci ne pourrait pas s’articuler en un schéma tellement manifestement grammatical. Je fais expressément allusion, à ce qu’ici je suppose tout le monde rompu à mes analyses antérieures, quant aux autres, je les renvoie à l’article *Trieb und Triebschicksale*[^172]*,* ce qu’ici on traduit bizarrement par « *ava­tars* » des pulsions, sans doute par une espèce de référence confuse aux effets que la lecture d’un tel texte produit sur la première obtusion de la référence psy­chologique.
+C’est ainsi que je vous le formalise : la première modification du *réel* en sujet sous l’effet de la demande, c’est *la pulsion*. Et si, dans la pulsion, il n’y avait pas déjà cet effet de la demande, cet effet de signifiant, celle-ci ne pourrait pas s’articuler en un schéma tellement manifestement grammatical. Je fais expressément allusion, à ce qu’ici je suppose tout le monde rompu à mes analyses antérieures, quant aux autres, je les renvoie à l’article *Trieb und Triebschicksale*[^172], ce qu’ici on traduit bizarrement par « *ava­tars* » des pulsions, sans doute par une espèce de référence confuse aux effets que la lecture d’un tel texte produit sur la première obtusion de la référence psy­chologique.
 
 <!-- id: s9-22-0045 -->
 
@@ -208,7 +208,7 @@ Pratiquez-la sur *une chambre à air*, vous verrez à la fin *la chambre à air*
 
 <!-- id: s9-22-0051 -->
 
-Elle rend, si je puis dire, saisissable - d’une façon signifiante et pré-concep­tuelle, mais qui n’est point sans caractériser une sorte de saisie à sa façon *-* ceci de radical : de la fuite, si l’on peut dire, l’absence d’aucun accès à la saisie à l’endroit de son objet, au niveau de la demande.
+Elle rend, si je puis dire, saisissable - d’une façon signifiante et pré-concep­tuelle, mais qui n’est point sans caractériser une sorte de saisie à sa façon - ceci de radical : de la fuite, si l’on peut dire, l’absence d’aucun accès à la saisie à l’endroit de son objet, au niveau de la demande.
 
 <!-- id: s9-22-0052 -->
 
@@ -352,7 +352,7 @@ Disons, pour com­mencer d’éclairer ce chemin, que *(a) l’objet du fantasme
 
 <!-- id: s9-22-0087 -->
 
-Elle n’est pas simplement une *illusion*, un *leurre* de la *Gestalt captivante* dont l’agressivité ait marqué l’accent, elle est foncièrement *une erreur* en tant que le sujet s’y « *me-connait* »*,* si vous me permet­tez l’expression, en tant que l’origine du *moi* et sa méconnaissance fondamen­tale sont ici rassemblées dans l’orthographe*.* Et pour autant que le sujet se trompe, il croit qu’il a en face de lui son image. S’il savait se voir, s’il savait - ce qui est la simple vérité - qu’il n’y a que les rapports les plus déformés, d’aucune façon identifiables, entre son côté droit et son côté gauche, il ne songerait pas à s’*identifier* à l’image du miroir.
+Elle n’est pas simplement une *illusion*, un *leurre* de la *Gestalt captivante* dont l’agressivité ait marqué l’accent, elle est foncièrement *une erreur* en tant que le sujet s’y « *me-connait* », si vous me permet­tez l’expression, en tant que l’origine du *moi* et sa méconnaissance fondamen­tale sont ici rassemblées dans l’orthographe. Et pour autant que le sujet se trompe, il croit qu’il a en face de lui son image. S’il savait se voir, s’il savait - ce qui est la simple vérité - qu’il n’y a que les rapports les plus déformés, d’aucune façon identifiables, entre son côté droit et son côté gauche, il ne songerait pas à s’*identifier* à l’image du miroir.
 
 <!-- id: s9-22-0088 -->
 

@@ -14,7 +14,7 @@ Je ne vous en citerai que deux lignes : « *Ça n’est pas plus compliqué que 
 
 <!-- id: s24-12-0003 -->
 
-*L’Écho des Savanes* n° 30*,* où vous pourrez lire ce texte, est quand même un peu *porno* \[*Rires*\].
+*L’Écho des Savanes* n° 30, où vous pourrez lire ce texte, est quand même un peu *porno* \[*Rires*\].
 
 <!-- id: s24-12-0004 -->
 
@@ -66,7 +66,7 @@ Lacan
 
 <!-- id: s24-12-0016 -->
 
-Oui*.* Seulement ce qui est embêtant c’est qu’on ne passe jamais que *par* la linguistique.
+Oui. Seulement ce qui est embêtant c’est qu’on ne passe jamais que *par* la linguistique.
 
 <!-- id: s24-12-0017 -->
 
@@ -138,7 +138,7 @@ Là il faut quand même se souvenir de la façon dont j’ai défini « *le pos
 
 <!-- id: s24-12-0034 -->
 
-C’est tout au moins ainsi que je l’ai articulé, au temps où je parlais *du possible, du contingent, du nécessaire et de l’impossible.* Alors si on transporte le mot « *le moins* »*,* comme ça, tout pataudement, tout brutalement, eh bien ça donne : 
+C’est tout au moins ainsi que je l’ai articulé, au temps où je parlais *du possible, du contingent, du nécessaire et de l’impossible.* Alors si on transporte le mot « *le moins* », comme ça, tout pataudement, tout brutalement, eh bien ça donne :
 
 <!-- id: s24-12-0035 -->
 
@@ -210,7 +210,7 @@ Ce que j’énonce en tout cas, c’est que l’invention d’un signifiant est 
 
 <!-- id: s24-12-0052 -->
 
-Ce n’est pas que l’enfant invente ce signifiant* *: il le reçoit.
+Ce n’est pas que l’enfant invente ce signifiant: il le reçoit.
 
 <!-- id: s24-12-0053 -->
 
@@ -310,7 +310,7 @@ L’astuce de *l’homme,* c’est de bourrer tout cela - je vous l’ai dit –
 
 <!-- id: s24-12-0077 -->
 
-Il n’y a que *la poésie* - vous ai-je dit - qui permette l’interprétation, et c’est en cela que je n’arrive plus, dans ma technique, à ce qu’elle tienne : je ne suis pas assez *pouate,* je ne suis pas « *pouate assez* »*.*
+Il n’y a que *la poésie* - vous ai-je dit - qui permette l’interprétation, et c’est en cela que je n’arrive plus, dans ma technique, à ce qu’elle tienne : je ne suis pas assez *pouate,* je ne suis pas « *pouate assez* ».
 
 <!-- id: s24-12-0078 -->
 
@@ -362,7 +362,7 @@ Moi, j’ai vu récemment à ma « *présentation de malades* », comme on dit
 
 <!-- id: s24-12-0090 -->
 
-> si tant est qu’ils soient malades ...j’ai vu un japonais qui avait quelque chose que lui-même appelait « *écho de la pensée* »*.*
+> si tant est qu’ils soient malades ...j’ai vu un japonais qui avait quelque chose que lui-même appelait « *écho de la pensée* ».
 
 <!-- id: s24-12-0091 -->
 

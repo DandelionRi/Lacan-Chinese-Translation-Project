@@ -22,7 +22,7 @@ je vois qu’elle sourit, elle est présente, pourquoi ne pas la nommer : Marie
 
 <!-- id: s17-08-0005 -->
 
-C’est une revue dont je peux bien dire qu’elle n’a paru que de se présenter au chef de mon enseignement, ça s’appelait « *L’inconscient ».*  
+C’est une revue dont je peux bien dire qu’elle n’a paru que de se présenter au chef de mon enseignement, ça s’appelait « *L’inconscient ».*
 
 <!-- id: s17-08-0006 -->
 
@@ -54,7 +54,7 @@ Et alors peut-être dans un second temps, à l’occasion d’une rencontre, ré
 
 <!-- id: s17-08-0013 -->
 
-On peut émettre ici un vœu pour l’une ou l’autre de ces deux méthodes*.*
+On peut émettre ici un vœu pour l’une ou l’autre de ces deux méthodes.
 
 <!-- id: s17-08-0014 -->
 
@@ -102,7 +102,7 @@ Je crois justement qu’ici on peut dire aussi qu’il n’en est rien.
 
 <!-- id: s17-08-0025 -->
 
-La pointe de la psychanalyse est bel et bien *l’athéisme*, à la condition de donner à ce terme *un autre sens que* celui de « *Dieu est mort* »*,* dont assurément tout indique que loin qu’il mette en question ce qui est en jeu, à savoir la Loi, bien plutôt il la consolide.
+La pointe de la psychanalyse est bel et bien *l’athéisme*, à la condition de donner à ce terme *un autre sens que* celui de « *Dieu est mort* », dont assurément tout indique que loin qu’il mette en question ce qui est en jeu, à savoir la Loi, bien plutôt il la consolide.
 
 <!-- id: s17-08-0026 -->
 
@@ -302,7 +302,7 @@ J’ai souligné en son temps en effet qu’il est indispensable à la vie que q
 
 <!-- id: s17-08-0074 -->
 
-je ne dirai pas que nous sommes morts, parce que justement ce n’est pas ça qu’il faut dire qu’au titre de « *nous* »*,* nous ne sommes pas morts, pas tous ensemble en tout cas, c’est bien là-dessus qu’est notre assiette, ...que *quelque chose* ne sache pas que  *<u>Je</u>* suis mort. Je suis mort très exactement en tant que je suis voué à la mort, mais justement, au nom de ce *quelque chose* qui ne le sait pas, moi non plus je ne veux pas le savoir.
+je ne dirai pas que nous sommes morts, parce que justement ce n’est pas ça qu’il faut dire qu’au titre de « *nous* », nous ne sommes pas morts, pas tous ensemble en tout cas, c’est bien là-dessus qu’est notre assiette, ...que *quelque chose* ne sache pas que  *<u>Je</u>* suis mort. Je suis mort très exactement en tant que je suis voué à la mort, mais justement, au nom de ce *quelque chose* qui ne le sait pas, moi non plus je ne veux pas le savoir.
 
 <!-- id: s17-08-0075 -->
 
@@ -536,15 +536,15 @@ Le verbe « *agir »* a dans la langue plus d’une résonance :
 
 <!-- id: s17-08-0130 -->
 
-- et en fin de compte, de ce qu’on appelle tout simplement « *mon agent* »*.*
+- et en fin de compte, de ce qu’on appelle tout simplement « *mon agent* ».
 
 <!-- id: s17-08-0131 -->
 
-Ce qu’on appelle « mon agent » vous voyez en général ce que ça veut dire : « *je le paye pour* ça », même pas : « *je le dédommage de n’avoir rien eu d’autre à faire* », « *je l’honore* »*,* comme on dit, en faisant semblant de partir de ceci, qu’il est capable d’autre chose.
+Ce qu’on appelle « mon agent » vous voyez en général ce que ça veut dire : « *je le paye pour* ça », même pas : « *je le dédommage de n’avoir rien eu d’autre à faire* », « *je l’honore* », comme on dit, en faisant semblant de partir de ceci, qu’il est capable d’autre chose.
 
 <!-- id: s17-08-0132 -->
 
-Voilà le niveau du terme où il convient de prendre ce qu’il en est du *père réel* comme d’agent de *la castration.* 
+Voilà le niveau du terme où il convient de prendre ce qu’il en est du *père réel* comme d’agent de *la castration.*
 
 <!-- id: s17-08-0133 -->
 
@@ -746,7 +746,7 @@ Il en résulte bien sûr
 
 <!-- id: s17-08-0182 -->
 
-- qu’il n’y a de cause du désir *<u>qu</u>e « produit »* de cette opération \[S **◊** *a*\],
+- qu’il n’y a de cause du désir *<u>qu</u>e « produit »* de cette opération \[S ◊ *a*\],
 
 <!-- id: s17-08-0183 -->
 
@@ -814,7 +814,7 @@ C’est tout à fait clair, c’est même au point qu’*il faut se poser la que
 
 <!-- id: s17-08-0199 -->
 
-Elle veut que l’autre soit un *Maître,* qu’il sache beaucoup de choses, mais tout de même pas qu’il en sache assez pour ne pas croire que c’est elle qui est le prix suprême de tout son savoir, c’est-à-dire qu’elle veut *un Maître* sur lequel elle règne : elle règne, et il ne gouverne pas*.*
+Elle veut que l’autre soit un *Maître,* qu’il sache beaucoup de choses, mais tout de même pas qu’il en sache assez pour ne pas croire que c’est elle qui est le prix suprême de tout son savoir, c’est-à-dire qu’elle veut *un Maître* sur lequel elle règne : elle règne, et il ne gouverne pas.
 
 <!-- id: s17-08-0200 -->
 
@@ -850,7 +850,7 @@ Ils n’ont, à ce niveau-là, aucun père à tuer.
 
 <!-- id: s17-08-0208 -->
 
-On n’est pas le père de signifiants, on est tout au plus père « *à cause de* »*.*
+On n’est pas le père de signifiants, on est tout au plus père « *à cause de* ».
 
 <!-- id: s17-08-0209 -->
 
@@ -874,7 +874,7 @@ Or ce qui s’articule, et c’est là-dessus que je reprendrai la prochaine foi
 
 <!-- id: s17-08-0214 -->
 
-À savoir entre 
+À savoir entre
 
 <!-- id: s17-08-0215 -->
 

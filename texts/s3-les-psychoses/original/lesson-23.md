@@ -352,7 +352,7 @@ Le mot y est tiré d’un texte qui - si on savait le chercher - intéresse au p
 
 <!-- id: s3-23-0087 -->
 
-Ces sortes d’interrogations sont tout de même apparues à plusieurs comme participant d’une niaiserie parfaite, car il est difficile de concevoir des animaux humains assez abrutis pour ne pas s’apercevoir que quand on veut avoir des gosses il faut copuler. La question n’est absolument pas là. La question est qu’entre copuler avec une femme, que la femme porte ensuite quelque chose pendant un certain temps dans son ventre qui finit ensuite par être éjecté, est quelque chose qui va se juxtaposer, sa sommation n’aboutira jamais à constituer ce quelque chose qui fera que l’homme *-* le sujet mâle *-* aura pour autant la notion de ce que c’est qu’être *père*.
+Ces sortes d’interrogations sont tout de même apparues à plusieurs comme participant d’une niaiserie parfaite, car il est difficile de concevoir des animaux humains assez abrutis pour ne pas s’apercevoir que quand on veut avoir des gosses il faut copuler. La question n’est absolument pas là. La question est qu’entre copuler avec une femme, que la femme porte ensuite quelque chose pendant un certain temps dans son ventre qui finit ensuite par être éjecté, est quelque chose qui va se juxtaposer, sa sommation n’aboutira jamais à constituer ce quelque chose qui fera que l’homme - le sujet mâle - aura pour autant la notion de ce que c’est qu’être *père*.
 
 <!-- id: s3-23-0088 -->
 

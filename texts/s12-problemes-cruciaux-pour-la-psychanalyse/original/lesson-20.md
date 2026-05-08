@@ -684,7 +684,7 @@ L’Étranger
 
 <!-- id: s12-20-0169 -->
 
-- *Quand tu lui répondras en ce sens, si tu viens à lui parler de ce qui se forme dans le miroir ou de ce que les mains façonnent, il se rira de tes exemples faits pour un homme qui voit. Lui feindra d’ignorer les miroirs eaux et vues même, et ce qu’il te demandera c’est uniquement ce qu’on doit tirer de ces exemples.* 
+- *Quand tu lui répondras en ce sens, si tu viens à lui parler de ce qui se forme dans le miroir ou de ce que les mains façonnent, il se rira de tes exemples faits pour un homme qui voit. Lui feindra d’ignorer les miroirs eaux et vues même, et ce qu’il te demandera c’est uniquement ce qu’on doit tirer de ces exemples.*
 
 <!-- id: s12-20-0170 -->
 
@@ -904,7 +904,7 @@ Il faut donc établir l’être du faux :
 
 <!-- id: s12-20-0224 -->
 
-Aucune pure suite de nom, aucune pure suite de verbe n’exprime un sens, mais seulement *l’accord* des noms et des verbes. 
+Aucune pure suite de nom, aucune pure suite de verbe n’exprime un sens, mais seulement *l’accord* des noms et des verbes.
 
 <!-- id: s12-20-0225 -->
 
@@ -944,7 +944,7 @@ Traduisons :
 
 <!-- id: s12-20-0234 -->
 
-Or, le sophiste est de ceux-ci :  il n’est point du nombre de ceux qui savent, mais de ceux qui se bornent à imiter. 
+Or, le sophiste est de ceux-ci :  il n’est point du nombre de ceux qui savent, mais de ceux qui se bornent à imiter.
 
 <!-- id: s12-20-0235 -->
 
@@ -1394,7 +1394,7 @@ C’est une erreur, c’est précisément dans le *Polyphème* de GÓNGORA que j
 
 <!-- id: s12-20-0346 -->
 
-Ce n’est pas dire que quelqu’un ne m’ait pas mis en rapport avec GÓNGORA, c’est tout à fait par hasard, c’est certainement quelqu’un qui n’a jamais dû lire le POLYPHÈME*.*
+Ce n’est pas dire que quelqu’un ne m’ait pas mis en rapport avec GÓNGORA, c’est tout à fait par hasard, c’est certainement quelqu’un qui n’a jamais dû lire le POLYPHÈME.
 
 <!-- id: s12-20-0347 -->
 

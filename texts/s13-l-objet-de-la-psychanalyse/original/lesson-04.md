@@ -90,7 +90,7 @@ A\) *Le (a), médiation du sujet à l’Autre*
 
 <!-- id: s13-04-0022 -->
 
-Le *(a)* - je ne dis pas encore *l’objet(a) -* est présent dès le plus ancien graphe de LACAN**<sup>2</sup>**, où celui-ci part de la théorisation proposée dans le *Stade du miroir* (1936-1949).
+Le *(a)* - je ne dis pas encore *l’objet(a) -* est présent dès le plus ancien graphe de LACAN<sup>2</sup>, où celui-ci part de la théorisation proposée dans le *Stade du miroir* (1936-1949).
 
 <!-- id: s13-04-0023 -->
 
@@ -182,7 +182,7 @@ La série des castrations postulée par FREUD : *sevrage, dressage sphinctérien
 
 <!-- id: s13-04-0045 -->
 
-Mon désir entre dans l’Autre où il est attendu de toute éternité sous la forme de l’objet que je suis, en tant qu’il m’exile de ma subjectivité en résumant tous les signifiants à quoi cette subjectivité est attachée **<sup>6</sup>**.
+Mon désir entre dans l’Autre où il est attendu de toute éternité sous la forme de l’objet que je suis, en tant qu’il m’exile de ma subjectivité en résumant tous les signifiants à quoi cette subjectivité est attachée <sup>6</sup>.
 
 <!-- id: s13-04-0046 -->
 
@@ -306,7 +306,7 @@ II *La suture du signifiant, sa représentation et l’objet(a)*
 
 <!-- id: s13-04-0076 -->
 
-J’en viens à ce qui va constituer un autre axe de mon exposé, à savoir *la relation du (a) avec la coupure et la suture,* et je me référerai à l’exposé de Jacques-Alain MILLER concernant la théorisation, à partir de l’ouvrage de FREGE, de *La logique du signifiant* **<sup>8</sup>**.
+J’en viens à ce qui va constituer un autre axe de mon exposé, à savoir *la relation du (a) avec la coupure et la suture,* et je me référerai à l’exposé de Jacques-Alain MILLER concernant la théorisation, à partir de l’ouvrage de FREGE, de *La logique du signifiant* <sup>8</sup>.
 
 <!-- id: s13-04-0077 -->
 
@@ -390,7 +390,7 @@ S’éclaire ainsi ce qu’il est des rapports du sujet et de *l’objet(a)*, da
 
 <!-- id: s13-04-0097 -->
 
-Je laisse ici la question du rapport du sujet au grand Autre par l’effet du zéro**<sup>9</sup>**, mais vais m’employer à soulever deux problèmes, ceux de la suture et celui de la représentation.
+Je laisse ici la question du rapport du sujet au grand Autre par l’effet du zéro<sup>9</sup>, mais vais m’employer à soulever deux problèmes, ceux de la suture et celui de la représentation.
 
 <!-- id: s13-04-0098 -->
 
@@ -450,7 +450,7 @@ Nous trouvons là une sorte de *paradigme* qui peut nous donner la voie de ce qu
 
 <!-- id: s13-04-0112 -->
 
-En effet les linguistes se montrent extrêmement embarrassés lorsqu’il s’agit du *découpage du signifié* alors que le découpage du signifiant ne présente pour eux aucune espèce de difficulté semble-t-il. Si par exemple j’en crois MARTINET, je lis : « *Quant à sémantique, s’il a acquis le sens qui nous intéresse, il n’en est pas moins dérivé d’une racine qui évoque non point une réalité psychique mais bien le processus de signification qui implique la combinaison du signifiant et du signifié /…/ un <u>sème</u> en tout cas, ne saurait être autre chose qu’une unité à double face***<sup>10</sup>**. »
+En effet les linguistes se montrent extrêmement embarrassés lorsqu’il s’agit du *découpage du signifié* alors que le découpage du signifiant ne présente pour eux aucune espèce de difficulté semble-t-il. Si par exemple j’en crois MARTINET, je lis : « *Quant à sémantique, s’il a acquis le sens qui nous intéresse, il n’en est pas moins dérivé d’une racine qui évoque non point une réalité psychique mais bien le processus de signification qui implique la combinaison du signifiant et du signifié /…/ un <u>sème</u> en tout cas, ne saurait être autre chose qu’une unité à double face*<sup>10</sup>. »
 
 <!-- id: s13-04-0113 -->
 
@@ -470,7 +470,7 @@ Ici se repère l’ambiguïté qu’il faudra bien lever, entre la conception li
 
 <!-- id: s13-04-0117 -->
 
-Vous avez sans doute reconnu dans cette *unité à double face* la théorisation de *la bande de Mœbius* de LACAN **<sup>11</sup>**.
+Vous avez sans doute reconnu dans cette *unité à double face* la théorisation de *la bande de Mœbius* de LACAN <sup>11</sup>.
 
 <!-- id: s13-04-0118 -->
 
@@ -660,7 +660,7 @@ Mais je me demande s’il a bien rendu compte de *ce qu’est l’angoisse* au s
 
 <!-- id: s13-04-0161 -->
 
-Je crois qu’il y a intérêt à considérer l’affect comme une forme sémantique originale à côté des *sémantides* primaires**<sup>14</sup>** que sont les représentants, celui-ci fonctionnerait dans une position seconde qui lui permettrait d’acquérir le statut de sémantide secondaire d’une nature différente de celle du représentant et redoublant *l’Entzweiung* dans cette différence.
+Je crois qu’il y a intérêt à considérer l’affect comme une forme sémantique originale à côté des *sémantides* primaires<sup>14</sup> que sont les représentants, celui-ci fonctionnerait dans une position seconde qui lui permettrait d’acquérir le statut de sémantide secondaire d’une nature différente de celle du représentant et redoublant *l’Entzweiung* dans cette différence.
 
 <!-- id: s13-04-0162 -->
 
@@ -856,7 +856,7 @@ Parmi les vivants, coupure de la mère et suture par ses substituts, parmi les m
 
 <!-- id: s13-04-0210 -->
 
-Nous avons là un exemple frappant de la coupure entre LÉVI–STRAUSS et FREUD*,* qui s’illustre dans une rencontre inattendue. À propos du masque <sup>15</sup> LÉVI-STRAUSS insiste sur la fonction à la fois négative (de dissimulation) et positive (d’accession à un autre monde).
+Nous avons là un exemple frappant de la coupure entre LÉVI–STRAUSS et FREUD, qui s’illustre dans une rencontre inattendue. À propos du masque <sup>15</sup> LÉVI-STRAUSS insiste sur la fonction à la fois négative (de dissimulation) et positive (d’accession à un autre monde).
 
 <!-- id: s13-04-0211 -->
 
@@ -1442,7 +1442,7 @@ Je reprendrai les choses au point même où CONTÉ les a fait partir. Du fait de
 
 <!-- id: s13-04-0356 -->
 
-Le petit point que l’on pourrait remarquer c’est que, passer du pouvoir de la parole de l’analyste au pouvoir de la parole en général constitue un franchissement*,* constitue un pas, bien entendu, à mes yeux tout à fait souhaitable, mais qui implique bien, néanmoins, que nous avons affaire dans l’analyse au langage.
+Le petit point que l’on pourrait remarquer c’est que, passer du pouvoir de la parole de l’analyste au pouvoir de la parole en général constitue un franchissement, constitue un pas, bien entendu, à mes yeux tout à fait souhaitable, mais qui implique bien, néanmoins, que nous avons affaire dans l’analyse au langage.
 
 <!-- id: s13-04-0357 -->
 

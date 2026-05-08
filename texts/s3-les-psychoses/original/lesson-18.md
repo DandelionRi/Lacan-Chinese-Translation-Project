@@ -172,7 +172,7 @@ Si nous prenons l’ensemble de ces textes subis, de ce qui nous donne le matér
 
 <!-- id: s3-18-0042 -->
 
-C’est cette forme originale à laquelle nous nous arrêtons quand nous nous attachons à ces éléments proprement hallucinatoires qui vont structurer le phénomène du délire dans ce qu’on peut appeler une première phase, à proprement parler, non pas première phase absolument de la maladie, puisqu’on peut dire qu’il y a, en somme : après les quelques mois d’incubation - sur lesquels nous reviendrons après - les quelques mois pré*-*psychotiques où le sujet est dans un état profondément confusionnel, où se produisent ces phénomènes de *déclin du monde extérieur*, de *crépuscule du monde*, qui caractérise le début, vers la mi*-*Mars 1894.
+C’est cette forme originale à laquelle nous nous arrêtons quand nous nous attachons à ces éléments proprement hallucinatoires qui vont structurer le phénomène du délire dans ce qu’on peut appeler une première phase, à proprement parler, non pas première phase absolument de la maladie, puisqu’on peut dire qu’il y a, en somme : après les quelques mois d’incubation - sur lesquels nous reviendrons après - les quelques mois pré-psychotiques où le sujet est dans un état profondément confusionnel, où se produisent ces phénomènes de *déclin du monde extérieur*, de *crépuscule du monde*, qui caractérise le début, vers la mi-Mars 1894.
 
 <!-- id: s3-18-0043 -->
 
@@ -324,7 +324,7 @@ J’y insiste :
 
 <!-- id: s3-18-0080 -->
 
-- dites*-*vous bien que de l’autre côté, celui de l’articulation en tant que phénomène d’*alignement*, de *contiguïté*, de *contact* avec ce qui s’y ébauche de primordial, de *structurant*, d’original, d’initial dans la notion de causalité l’autre forme typique extrême, exemplaire de la figure de rhétorique qui ici va s’opposer à *la métaphore* a un nom, elle s’appelle *la métonymie*.
+- dites-vous bien que de l’autre côté, celui de l’articulation en tant que phénomène d’*alignement*, de *contiguïté*, de *contact* avec ce qui s’y ébauche de primordial, de *structurant*, d’original, d’initial dans la notion de causalité l’autre forme typique extrême, exemplaire de la figure de rhétorique qui ici va s’opposer à *la métaphore* a un nom, elle s’appelle *la métonymie*.
 
 <!-- id: s3-18-0081 -->
 

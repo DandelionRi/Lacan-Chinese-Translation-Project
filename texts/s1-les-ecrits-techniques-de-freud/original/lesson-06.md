@@ -266,7 +266,7 @@ Pour rappeler un texte philosophique - encore une fois je m’en excuse, mais le
 
 <!-- id: s1-06-0065 -->
 
-Ici la dénégation dont parle FREUD est exactement - et c’est pour cela qu’elle introduit dans « *l’intellectuel* »une négation idéale - une négativité idéale, car nous allons voir justement une sorte de genèse, où FREUD va employer le mot « *négati­vité* » de certains *-* comment peut-on dire* -* psychosés ?
+Ici la dénégation dont parle FREUD est exactement - et c’est pour cela qu’elle introduit dans « *l’intellectuel* »une négation idéale - une négativité idéale, car nous allons voir justement une sorte de genèse, où FREUD va employer le mot « *négati­vité* » de certains - comment peut-on dire* -* psychosés ?
 
 <!-- id: s1-06-0066 -->
 
@@ -709,6 +709,7 @@ Ceci, je crois que le commentaire de M. HYPPOLITE vous l’a montré magistralem
 <!-- id: s1-06-0175 -->
 
 <img src="assets/image7.jpeg" style="width:6.27247in;height:8.87756in" alt="C:\Users\ALAIN\LACAN séminaires\Doc S1\Imago_Die Verneinung_Page_4.jpg" /><img src="assets/image8.jpeg" style="width:6.50028in;height:9.2in" alt="C:\Users\ALAIN\LACAN séminaires\Doc S1\Imago_Die Verneinung_Page_5.jpg" />
+
 ## Notes
 
 [^12]: S. Freud : [*Die Verneinung*](http://www.khristophoros.net/verneinung.html), Imago, Band 11 (3), 1925, pp. 217-221. *Gesammelte Werke*, Band 14, pp. 11-15.

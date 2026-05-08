@@ -14,7 +14,7 @@ Comme aux jeux de la « [*mourre*](http://fr.wikipedia.org/wiki/Mourre) », de
 
 <!-- id: s12-19-0003 -->
 
-- *du sujet* : celui que j’ai mis le plus de soin à aiguiser, pour votre entente, 
+- *du sujet* : celui que j’ai mis le plus de soin à aiguiser, pour votre entente,
 
 <!-- id: s12-19-0004 -->
 

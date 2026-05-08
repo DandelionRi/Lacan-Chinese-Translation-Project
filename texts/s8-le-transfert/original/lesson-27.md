@@ -286,7 +286,7 @@ Ce n’est rien d’autre que j’ai visé tout à l’heure en vous faisant ce 
 
 <!-- id: s8-27-0071 -->
 
-- à l’objet de la visée foncièrement ambivalente qui reste jusqu’au terme celle du désir, ...car c’est un pur mensonge - puisqu’aussi bien cela n’a aucune nécessité critique *-* que de parler, dans le rapport à *l’objet du désir* d’un stade soi-disant « *post-ambivalent* ».
+- à l’objet de la visée foncièrement ambivalente qui reste jusqu’au terme celle du désir, ...car c’est un pur mensonge - puisqu’aussi bien cela n’a aucune nécessité critique - que de parler, dans le rapport à *l’objet du désir* d’un stade soi-disant « *post-ambivalent* ».
 
 <!-- id: s8-27-0072 -->
 

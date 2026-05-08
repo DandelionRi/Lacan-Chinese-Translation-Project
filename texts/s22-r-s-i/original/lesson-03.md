@@ -204,7 +204,7 @@ Et c’est en cela que je prétends que cet apparent *« *modèle » qui consi
 
 <!-- id: s22-03-0050 -->
 
-> quoique situé lui aussi dans l’*Imaginaire* *...*fait *exception* à cette supposition, de ceci que ce qu’il propose c’est que les 3 qui sont là fonctionnent comme *pure consistance*, c’est à savoir que ce n’est que de tenir entre eux qu’ils *consistent *: les 3 tiennent entre eux *réellement*.
+> quoique situé lui aussi dans l’*Imaginaire...*fait *exception* à cette supposition, de ceci que ce qu’il propose c’est que les 3 qui sont là fonctionnent comme *pure consistance*, c’est à savoir que ce n’est que de tenir entre eux qu’ils *consistent *: les 3 tiennent entre eux *réellement*.
 
 <!-- id: s22-03-0051 -->
 
@@ -248,7 +248,7 @@ Qu’est ce qui peut définir un maximum de l’écart de la métaphore, au sens
 
 <!-- id: s22-03-0061 -->
 
-> référence à « *L’instance de la lettre »* dans mes « *Écrits »* *...*quel est le maximum permis de la substitution d’un signifiant à un autre ?
+> référence à « *L’instance de la lettre »* dans mes « *Écrits »...*quel est le maximum permis de la substitution d’un signifiant à un autre ?
 
 <!-- id: s22-03-0062 -->
 
@@ -452,6 +452,8 @@ Et si ici je suggère que quelque chose suppose, incarne dirais-je, que le *Symb
 
 <!-- id: s22-03-0112 -->
 
+&nbsp;
+
 <!-- id: s22-03-0113 -->
 
 Ceci est là ce qui...
@@ -486,7 +488,7 @@ fût-ce à dessein de le compléter ultérieurement ...de situer ici \[J<sub>Φ<
 
 <!-- id: s22-03-0121 -->
 
-> j’appelle comme ça *le rond connoté du Réel* *...*de ce qu’il s’ouvre à se poser comme cette droite infinie, isolée si l’on peut dire, dans sa consistance.
+> j’appelle comme ça *le rond connoté du Réel...*de ce qu’il s’ouvre à se poser comme cette droite infinie, isolée si l’on peut dire, dans sa consistance.
 
 <!-- id: s22-03-0122 -->
 

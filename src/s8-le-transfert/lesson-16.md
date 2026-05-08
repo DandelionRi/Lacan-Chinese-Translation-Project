@@ -976,7 +976,7 @@ Est-ce que nous n’épelons pas correctement les choses en nous arrêtant à ce
 
 <div class="original-paragraph" data-paragraph-id="s8-16-0051">
 
-Déjà, j’ai fait état devant vous de ce qui sous la plume de JONES s’est articulé, dans un certain besoin d’expliquer *le complexe de castration*, dans la notion de l’ἀϕάνι*σ*ις \[aphanisis\]*,* terme grec commun mis à l’ordre du jour dans l’articulation du discours analytique de FREUD, et qui veut dire *disparition*. Il s’agit de la disparition du désir et de ceci que ce dont il s’agirait dans *le complexe de castration* serait, chez le sujet, la crainte soulevée par la disparition du désir.
+Déjà, j’ai fait état devant vous de ce qui sous la plume de JONES s’est articulé, dans un certain besoin d’expliquer *le complexe de castration*, dans la notion de l’ἀϕάνι*σ*ις \[aphanisis\], terme grec commun mis à l’ordre du jour dans l’articulation du discours analytique de FREUD, et qui veut dire *disparition*. Il s’agit de la disparition du désir et de ceci que ce dont il s’agirait dans *le complexe de castration* serait, chez le sujet, la crainte soulevée par la disparition du désir.
 
 </div>
 
@@ -1605,7 +1605,7 @@ C’est pourtant le seul qui puisse faire accéder l’autre à ce qui est de la
 
 <div class="original-paragraph" data-paragraph-id="s8-16-0084">
 
-**  **
+&nbsp;
 
 </div>
 

@@ -182,7 +182,7 @@ Et très précisément cette nature, si je puis dire, il nous faut bien ici la c
 
 <!-- id: s21-14-0045 -->
 
-Parce que de là où nous vivons, la nature ne s’impose pas*,* à nous ce qui s’impose c’est
+Parce que de là où nous vivons, la nature ne s’impose pas, à nous ce qui s’impose c’est
 
 <!-- id: s21-14-0046 -->
 
@@ -552,7 +552,7 @@ Ce qui se suggère de ceci, *c’est que pour autant que quelque chose*...
 
 <!-- id: s21-14-0136 -->
 
-> qui est désigné dans Boole par un *x* *...quelque chose se précipite comme signifiant*...
+> qui est désigné dans Boole par un *x...quelque chose se précipite comme signifiant*...
 
 <!-- id: s21-14-0137 -->
 
@@ -654,7 +654,7 @@ Que si l’on parle...
 
 <!-- id: s21-14-0161 -->
 
-> comme je l’ai dit, je l’ai évoqué antérieurement ...que si l’on on parle de nœud, c’est faire allusion à l’embrassement, à l’étreinte*.*
+> comme je l’ai dit, je l’ai évoqué antérieurement ...que si l’on on parle de nœud, c’est faire allusion à l’embrassement, à l’étreinte.
 
 <!-- id: s21-14-0162 -->
 

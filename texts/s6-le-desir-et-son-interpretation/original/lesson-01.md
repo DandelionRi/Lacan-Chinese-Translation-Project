@@ -726,11 +726,11 @@ C’est au moyen de cela, en d’autres termes, comme ARISTOTE dit que l’homme
 
 <!-- id: s6-01-0178 -->
 
-Avec son *moi*, il se défend contre cette détresse, et avec ce moyen que l’expérience imaginaire de la relation à l’autre lui donne, il construit quelque chose qui est la différence de l’expérience spéculaire flexible avec l’autre. Parce que ce que le sujet réfléchit, ce ne sont pas simplement des jeux de prestance, ce n’est pas son opposition à l’autre dans le prestige et dans la feinte, c’est lui-même comme sujet parlant, et c’est pourquoi ce que je vous désigne ici \[S **◊** *a*\] comme étant ce lieu d’issue, ce lieu de référence par où le désir va apprendre à se situer, c’est le fantasme.
+Avec son *moi*, il se défend contre cette détresse, et avec ce moyen que l’expérience imaginaire de la relation à l’autre lui donne, il construit quelque chose qui est la différence de l’expérience spéculaire flexible avec l’autre. Parce que ce que le sujet réfléchit, ce ne sont pas simplement des jeux de prestance, ce n’est pas son opposition à l’autre dans le prestige et dans la feinte, c’est lui-même comme sujet parlant, et c’est pourquoi ce que je vous désigne ici \[S ◊ *a*\] comme étant ce lieu d’issue, ce lieu de référence par où le désir va apprendre à se situer, c’est le fantasme.
 
 <!-- id: s6-01-0179 -->
 
-C’est pourquoi *le fantasme*, je vous le symbolise, je vous le formule par ces symboles : S **◊** *a*. Le S ici -je vous dirai tout à l’heure pourquoi il est *barré* - le S, c’est-à-dire le sujet en tant que parlant, en tant qu’il se réfère à l’autre comme regard, à l’autre imaginaire.
+C’est pourquoi *le fantasme*, je vous le symbolise, je vous le formule par ces symboles : S ◊ *a*. Le S ici -je vous dirai tout à l’heure pourquoi il est *barré* - le S, c’est-à-dire le sujet en tant que parlant, en tant qu’il se réfère à l’autre comme regard, à l’autre imaginaire.
 
 <!-- id: s6-01-0180 -->
 

@@ -522,7 +522,7 @@ Questions donc, sur l’existence, non seulement sur l’*être* et le *nom*, ma
 
 <!-- id: s23-05-0127 -->
 
-Question sur le nom... et là, je vais revenir sur ce point-là sur le *nom,* qui est en fait aussi bien le *nom* du père, de son père, que le *nom* de la pièce, de l’auteur de la pièce, disons du personnage central de la pièce, et enfin la question sur le sexe qui « *personne* »*,* qui est ce qui, dedans, fait « *personner* »*.*
+Question sur le nom... et là, je vais revenir sur ce point-là sur le *nom,* qui est en fait aussi bien le *nom* du père, de son père, que le *nom* de la pièce, de l’auteur de la pièce, disons du personnage central de la pièce, et enfin la question sur le sexe qui « *personne* », qui est ce qui, dedans, fait « *personner* ».
 
 <!-- id: s23-05-0128 -->
 
@@ -570,7 +570,7 @@ Donc, il apparaît que le père a changé de nom.
 
 <!-- id: s23-05-0139 -->
 
-Et il l’a changé d’une manière qui est assez intéressante : selon une formule juridique qui s’appelle *deed poll**.***
+Et il l’a changé d’une manière qui est assez intéressante : selon une formule juridique qui s’appelle *deed poll.*
 
 <!-- id: s23-05-0140 -->
 
@@ -610,11 +610,11 @@ Et cela s’oppose à - cela se distingue au moins de - *indenture* qui est un a
 
 <!-- id: s23-05-0149 -->
 
-Et en anglais ça donne ceci : « *The father’s name that poisoned himself* »*,* où l’on entend presque que c’est le *nom qui s’est empoisonné*.
+Et en anglais ça donne ceci : « *The father’s name that poisoned himself* », où l’on entend presque que c’est le *nom qui s’est empoisonné*.
 
 <!-- id: s23-05-0150 -->
 
-« *The father’s name* »*,* il y a *une espèce de jeu sur le génitif*, qui fait...
+« *The father’s name* », il y a *une espèce de jeu sur le génitif*, qui fait...
 
 <!-- id: s23-05-0151 -->
 
@@ -638,11 +638,11 @@ Alors, c’est ici que l’on peut, peut-être se souvenir de ce que c’est que
 
 <!-- id: s23-05-0156 -->
 
-Dans la *Genèse*, l’homme est amené à nommer la femme : « *Tu t’appelleras femme *»*,* il l’appelle « *virago* » puis­qu’elle est un petit peu homme.
+Dans la *Genèse*, l’homme est amené à nommer la femme : « *Tu t’appelleras femme *», il l’appelle « *virago* » puis­qu’elle est un petit peu homme.
 
 <!-- id: s23-05-0157 -->
 
-Elle est « *femme* »*,* si vous voulez, à une côte près.
+Elle est « *femme* », si vous voulez, à une côte près.
 
 <!-- id: s23-05-0158 -->
 
@@ -738,7 +738,7 @@ On voit qu’elle se propage selon la logique qui est tout à fait éloquente :
 
 <!-- id: s23-05-0181 -->
 
-Alors il faut ici que je vous donne la phrase anglaise, ce que disait Rudolph dans *Circé.* C’est, parce qu’il répétait *:* « *Are you not, my dear, the Léopold who left the house his father and left the God of his father’s Abraham and Jacob.* »
+Alors il faut ici que je vous donne la phrase anglaise, ce que disait Rudolph dans *Circé.* C’est, parce qu’il répétait : « *Are you not, my dear, the Léopold who left the house his father and left the God of his father’s Abraham and Jacob.* »
 
 <!-- id: s23-05-0182 -->
 
@@ -806,7 +806,7 @@ Cette espèce de jeu par rapport au père...
 
 <!-- id: s23-05-0198 -->
 
-Cette espèce de père, contesté de différentes façons, conduit à une mère, et à une mère qui est du côté, disons de l’Imaginaire, pour simplifier. Car, donc Rudolph évoque une transgression du fils, qui est revenu saoul, qui a dépensé de l’argent, et qui est revenu aussi couvert de boue : « *Mud* »*.*
+Cette espèce de père, contesté de différentes façons, conduit à une mère, et à une mère qui est du côté, disons de l’Imaginaire, pour simplifier. Car, donc Rudolph évoque une transgression du fils, qui est revenu saoul, qui a dépensé de l’argent, et qui est revenu aussi couvert de boue : « *Mud* ».
 
 <!-- id: s23-05-0199 -->
 
@@ -820,7 +820,7 @@ Mais le lecteur...
 
 <!-- id: s23-05-0201 -->
 
-« *Mud* » est une sorte de forme familière de « *mother* »*.*
+« *Mud* » est une sorte de forme familière de « *mother* ».
 
 <!-- id: s23-05-0202 -->
 
@@ -908,7 +908,7 @@ Et fait surface comment ?
 
 <!-- id: s23-05-0223 -->
 
-Vêtue en dame de pantomime, crinoline et tournure, avec un corsage à la « *widow Twankey* »*.*
+Vêtue en dame de pantomime, crinoline et tournure, avec un corsage à la « *widow Twankey* ».
 
 <!-- id: s23-05-0224 -->
 
@@ -1074,7 +1074,7 @@ Donc, ce dialogue où il n’y a rien, lui fait écrire un poème.
 
 <!-- id: s23-05-0262 -->
 
-Et puis d’un autre côté, il baptise ça dans les lignes qui suivent : « *épiphanie* »*.*
+Et puis d’un autre côté, il baptise ça dans les lignes qui suivent : « *épiphanie* ».
 
 <!-- id: s23-05-0263 -->
 
@@ -1226,7 +1226,7 @@ Et puis on en aperçoit un qui est assez rigolo, parce que dans un épisode qui 
 
 <!-- id: s23-05-0300 -->
 
-assez central parce qu’il y a un œil ...c’est le *Cyclope*, il y a un type qui s’appelle J.J. , J.J*.* dont on se souvient si on a de la mémoire, que dans un épisode précédent on l’avait rencontré sous le nom de J.J*.* O’Molloy.
+assez central parce qu’il y a un œil ...c’est le *Cyclope*, il y a un type qui s’appelle J.J. , J.J. dont on se souvient si on a de la mémoire, que dans un épisode précédent on l’avait rencontré sous le nom de J.J. O’Molloy.
 
 <!-- id: s23-05-0301 -->
 
@@ -1250,7 +1250,7 @@ Mais homme de loi - je dirai même pas déchu - mais en voie de déchéance.
 
 <!-- id: s23-05-0306 -->
 
-On nous dit, et là encore les mots anglais sont intéressants : sa clientèle diminue*, practice doing lean,* sa pratique diminue*.*
+On nous dit, et là encore les mots anglais sont intéressants : sa clientèle diminue*, practice doing lean,* sa pratique diminue.
 
 <!-- id: s23-05-0307 -->
 
@@ -1318,7 +1318,7 @@ Bon alors le O’Molloy en question, le J.J. en question, on nous dit qu’il se
 
 <!-- id: s23-05-0323 -->
 
-Alors, ici, une petite interpellation *shakespearienne* *:* « *Et dans le porche de mon oreille versa, etc. Hamlet À propos, comment a-t-il découvert ça ?*
+Alors, ici, une petite interpellation *shakespearienne:* « *Et dans le porche de mon oreille versa, etc. Hamlet À propos, comment a-t-il découvert ça ?*
 
 <!-- id: s23-05-0324 -->
 
@@ -1374,7 +1374,7 @@ La loi du témoignage. Non pas exactement le témoignage devant la loi, etc.
 
 <!-- id: s23-05-0337 -->
 
-Bon, je passe sur certaines phrases qui mériteraient évidemment, sans doute qu’on s’y arrête, mais enfin, j’ai pas le temps*.*
+Bon, je passe sur certaines phrases qui mériteraient évidemment, sans doute qu’on s’y arrête, mais enfin, j’ai pas le temps.
 
 <!-- id: s23-05-0338 -->
 
@@ -1386,7 +1386,7 @@ Vous avez suivi, bien sûr !
 
 <!-- id: s23-05-0340 -->
 
-Donc ici, le O’Molloy en question ayant commencé par se faire caisse de résonance d’un savoir sur la loi, ayant réparti les lois, les lois par rapport à l’évidence, par rapport au témoignage - allez vous y retrouver* *! - ayant fait ceci, c’est lui qui fait parler Bushe. C’est lui qui fait parler le buisson. C’est lui qui fait parler, qui fait porter témoignage rhétorique sur l’art comme fondant *le droit à l’existence* - *deserves to live - fondant le droit à l’existence de l’œuvre d’art.*
+Donc ici, le O’Molloy en question ayant commencé par se faire caisse de résonance d’un savoir sur la loi, ayant réparti les lois, les lois par rapport à l’évidence, par rapport au témoignage - allez vous y retrouver! - ayant fait ceci, c’est lui qui fait parler Bushe. C’est lui qui fait parler le buisson. C’est lui qui fait parler, qui fait porter témoignage rhétorique sur l’art comme fondant *le droit à l’existence* - *deserves to live - fondant le droit à l’existence de l’œuvre d’art.*
 
 <!-- id: s23-05-0341 -->
 
@@ -1418,11 +1418,11 @@ Stephen va avec son père dans un amphithéâtre, amphithéâtre de l’école d
 
 <!-- id: s23-05-0348 -->
 
-Ces initiales, évidemment on ne pense pas que ce sont aussi les siennes : *Simon* Dedalus*.*
+Ces initiales, évidemment on ne pense pas que ce sont aussi les siennes : *Simon* Dedalus.
 
 <!-- id: s23-05-0349 -->
 
-Ça s’initiale *Stephen* Deda­lus*.* Mais ce sur quoi Stephen tombe, c’est le mot *fœtus.*
+Ça s’initiale *Stephen* Deda­lus. Mais ce sur quoi Stephen tombe, c’est le mot *fœtus.*
 
 <!-- id: s23-05-0350 -->
 
@@ -1470,11 +1470,11 @@ Donc se trouvent jointe dans le discours de Joyce, la question justement du droi
 
 <!-- id: s23-05-0361 -->
 
-Ce que je voudrais rajouter : je voudrais rajouter une première chose concernant le Bushe*.*
+Ce que je voudrais rajouter : je voudrais rajouter une première chose concernant le Bushe.
 
 <!-- id: s23-05-0362 -->
 
-Bushe : vous voyez qu’il se construit d’une sorte de série du Bushe à partir du « *holy* Bushe »*,* du Bushe éloquent qui, parlant de Moïse, parle aussi d’un *holy bush*, puisque ça, ça se trouve aussi dans la Bible : *L’Éternel dit à Moïse que le sol qu’il foule devant le buisson ardent est « holy ».* Le *holy bush,* un *bush* qui se révèle avoir un certain rapport au *fox.*
+Bushe : vous voyez qu’il se construit d’une sorte de série du Bushe à partir du « *holy* Bushe », du Bushe éloquent qui, parlant de Moïse, parle aussi d’un *holy bush*, puisque ça, ça se trouve aussi dans la Bible : *L’Éternel dit à Moïse que le sol qu’il foule devant le buisson ardent est « holy ».* Le *holy bush,* un *bush* qui se révèle avoir un certain rapport au *fox.*
 
 <!-- id: s23-05-0363 -->
 
@@ -1494,7 +1494,7 @@ Et puis, un peu plus tard, lorsqu’il vient de renoncer à entrer dans les ordr
 
 <!-- id: s23-05-0367 -->
 
-Donc, il y a cette série bushe-fox*,* mais il y a aussi, et ça ça fonctionne, le jeu sur Molloy, Moly, qui s’articule sur le *holy*. Nous avions : *holy, holey,* Moly, Molloy, et un autre mot qui ne paraît pas dans Ulysse, mais dont Joyce dit...
+Donc, il y a cette série bushe-fox, mais il y a aussi, et ça ça fonctionne, le jeu sur Molloy, Moly, qui s’articule sur le *holy*. Nous avions : *holy, holey,* Moly, Molloy, et un autre mot qui ne paraît pas dans Ulysse, mais dont Joyce dit...
 
 <!-- id: s23-05-0368 -->
 
@@ -1594,7 +1594,7 @@ La parole du roi qui est ce qui permet, même si le ventre de la mère a menti, 
 
 <!-- id: s23-05-0392 -->
 
-C’est le problème de la légitimation, c’est-à-dire de la possibilité de porter la marque du roi, la couronne, στέφανος \[*stephanos*\]*,* quelque chose comme ça en grec, ou bien de porter la marque du roi, telle qu’elle apparaît dans *Circé* à propos de Virag qui dégringole par la cheminée, le grand-père, avec l’étiquette - l’étiquette ça vient tout de suite comme ça - *basilical grammate,* avec le gramme du roi.
+C’est le problème de la légitimation, c’est-à-dire de la possibilité de porter la marque du roi, la couronne, στέφανος \[*stephanos*\], quelque chose comme ça en grec, ou bien de porter la marque du roi, telle qu’elle apparaît dans *Circé* à propos de Virag qui dégringole par la cheminée, le grand-père, avec l’étiquette - l’étiquette ça vient tout de suite comme ça - *basilical grammate,* avec le gramme du roi.
 
 <!-- id: s23-05-0393 -->
 
@@ -1714,7 +1714,7 @@ Car il est évident que...
 
 <!-- id: s23-05-0422 -->
 
-Dans ce même texte apparaît le mot que j’ai dû chercher dans le dictionnaire : « *eftsooneries* »*.*
+Dans ce même texte apparaît le mot que j’ai dû chercher dans le dictionnaire : « *eftsooneries* ».
 
 <!-- id: s23-05-0423 -->
 
@@ -1734,7 +1734,7 @@ Non seulement ces effets sont renvoyés à tout à l’heure, mais ils ont un ef
 
 <!-- id: s23-05-0427 -->
 
-C’est évidemment l’art de Jacques Aubert qui vous a fait suivre un de ses fils, de façon telle qu’il vous tienne en haleine. Tout ceci n’est évidemment pas sans fonder ce à quoi j’essaie de donner une consistance*,* et *une consistance dans le nœud.*
+C’est évidemment l’art de Jacques Aubert qui vous a fait suivre un de ses fils, de façon telle qu’il vous tienne en haleine. Tout ceci n’est évidemment pas sans fonder ce à quoi j’essaie de donner une consistance, et *une consistance dans le nœud.*
 
 <!-- id: s23-05-0428 -->
 

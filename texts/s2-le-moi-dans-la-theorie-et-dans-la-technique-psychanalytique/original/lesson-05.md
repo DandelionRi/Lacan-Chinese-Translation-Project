@@ -60,7 +60,7 @@ Et, m’emparant d’une référence prise au plus moderne de nos *exercices mac
 
 <!-- id: s2-05-0014 -->
 
-Je vous ai fait un modèle qui a le propre de ne - nulle part - idolifier ce sujet. Je pense que vous l’avez suffisamment vu, c’est qu’au point où je vous ai lais­sé, *le sujet* était bien nulle part, pour une bonne raison : que justement il s’agis­sait de deux petites tortues mécaniques, et l’une bloquée sur l’image de l’autre, non pas tout l’ensemble énergétique, mais pour une partie régulatrice de ces mécanismes, qu’on peut envisager comme prise, captivée par tous les moyens imaginables**.**
+Je vous ai fait un modèle qui a le propre de ne - nulle part - idolifier ce sujet. Je pense que vous l’avez suffisamment vu, c’est qu’au point où je vous ai lais­sé, *le sujet* était bien nulle part, pour une bonne raison : que justement il s’agis­sait de deux petites tortues mécaniques, et l’une bloquée sur l’image de l’autre, non pas tout l’ensemble énergétique, mais pour une partie régulatrice de ces mécanismes, qu’on peut envisager comme prise, captivée par tous les moyens imaginables.
 
 <!-- id: s2-05-0015 -->
 
@@ -178,7 +178,7 @@ C’est du langage qu’il parle, quand il s’exprime ainsi. Il est clair que n
 
 <!-- id: s2-05-0042 -->
 
-…dans notre déduction du sujet de la situer dans le jeu interhumain, et quelque part* *! Ce n’est donc pas uniquement la voix du législateur, de l’ordonnateur de ballet qui serait en effet une idolifi­cation d’un ordre particulièrement élevé, mais une idolification caractéristique.
+…dans notre déduction du sujet de la situer dans le jeu interhumain, et quelque part! Ce n’est donc pas uniquement la voix du législateur, de l’ordonnateur de ballet qui serait en effet une idolifi­cation d’un ordre particulièrement élevé, mais une idolification caractéristique.
 
 <!-- id: s2-05-0043 -->
 
@@ -436,7 +436,7 @@ Quand je vous parle du *moi dans la théorie freudienne et la technique psychana
 
 <!-- id: s2-05-0104 -->
 
-Sans aucun doute, le *moi* nous dit beaucoup de choses par la voie de la *Verneinung,* et alors après tout, pourquoi n’irions-nous pas à lire tout simplement l’inconscient en changeant de signe tout ce qu’il raconte, pendant que nous y sommes ? *On n’a pas encore été jusque-là*, puisque l’expérience n’est \[...\] que trop facilement, mais on a été dans quelque chose d’ana­logue. Dites-vous bien que je peux vous montrer des textes *-* et des meilleurs ana­lystes *-* où, à partir du moment où FREUD introduit *sa nouvelle topique*, on res­sent quelque chose, dont même ce qu’écrit une dizaine d’années plus tard Anna FREUD, sur les mécanismes de défense, en porte aussi la trace, et c’est le sentiment d’une véritable explosion, libération :
+Sans aucun doute, le *moi* nous dit beaucoup de choses par la voie de la *Verneinung,* et alors après tout, pourquoi n’irions-nous pas à lire tout simplement l’inconscient en changeant de signe tout ce qu’il raconte, pendant que nous y sommes ? *On n’a pas encore été jusque-là*, puisque l’expérience n’est \[...\] que trop facilement, mais on a été dans quelque chose d’ana­logue. Dites-vous bien que je peux vous montrer des textes - et des meilleurs ana­lystes - où, à partir du moment où FREUD introduit *sa nouvelle topique*, on res­sent quelque chose, dont même ce qu’écrit une dizaine d’années plus tard Anna FREUD, sur les mécanismes de défense, en porte aussi la trace, et c’est le sentiment d’une véritable explosion, libération :
 
 <!-- id: s2-05-0105 -->
 
@@ -695,6 +695,7 @@ Je vais laisser les choses sur cette question ouverte, quelle est la nature du p
 <!-- id: s2-05-0167 -->
 
 Ce sera le sujet des leçons de notre prochain trimestre.
+
 ## Notes
 
 [^1]: Sigmund Freud : « *The Origins of Psycho-Analysis : Letters to Wilhelm Fliess, Drafts and Notes* », 1887-1902, Kessinger Publishing 2010.

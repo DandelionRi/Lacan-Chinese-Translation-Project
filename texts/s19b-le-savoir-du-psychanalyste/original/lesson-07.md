@@ -208,7 +208,7 @@ Là je ne parle que du *savoir,* et je remarque qu'il ne s'agit pas de la « *v
 
 <!-- id: s19b-07-0051 -->
 
-Je répète : *la vérité* *-* je l'ai déjà dit *-* *ça ne peut que se mi-dire*.
+Je répète : *la vérité* - je l'ai déjà dit - *ça ne peut que se mi-dire*.
 
 <!-- id: s19b-07-0052 -->
 
@@ -240,7 +240,7 @@ Il s'est aperçu de la valeur en somme des éléments mathématiques, pour faire
 
 <!-- id: s19b-07-0059 -->
 
-Eh ben, comme il est tout à fait *bien vu,* il a tout fait pour ça, il a réussi à se faire entendre dans des endroits *très bien placés* de ce qu'on appelle l'I.P.A*.* - *l'Institution Psychanalytique Avouée*, je traduirais - donc il a réussi à se faire entendre.
+Eh ben, comme il est tout à fait *bien vu,* il a tout fait pour ça, il a réussi à se faire entendre dans des endroits *très bien placés* de ce qu'on appelle l'I.P.A. - *l'Institution Psychanalytique Avouée*, je traduirais - donc il a réussi à se faire entendre.
 
 <!-- id: s19b-07-0060 -->
 
@@ -984,11 +984,11 @@ Est-il nécessaire de se mettre à retourner aux fonctions « *mythé­me-atiqu
 
 <!-- id: s19b-07-0233 -->
 
-Et quoi que ce soit qui y échappe*,* même si ce n'est pas\...
+Et quoi que ce soit qui y échappe, même si ce n'est pas\...
 
 <!-- id: s19b-07-0234 -->
 
-> pourquoi pas, car c'est dans le mythe \...quelque chose d'humain : après tout pourquoi ne pas voir *le père* du meurtre primitif comme un orang-outang*,* beaucoup de choses qui coïncident dans la tradition\...
+> pourquoi pas, car c'est dans le mythe \...quelque chose d'humain : après tout pourquoi ne pas voir *le père* du meurtre primitif comme un orang-outang, beaucoup de choses qui coïncident dans la tradition\...
 
 <!-- id: s19b-07-0235 -->
 
@@ -1032,7 +1032,7 @@ Très exactement, l'*existence* \[:*comme ex-sistence*\] ici joue *le rôle du c
 
 <!-- id: s19b-07-0245 -->
 
-Ce qui inclut ceci : qu'il y a quelque part un « *tout x* » : ;, un « *tout x* » qui devient un « *tout a* », je veux dire un **∀***(a),* chaque fois *qu'il s'incarne*, *qu'il s'incarne* dans ce qu'on peut appeler « *Un être* », « *Un être* » au moins qui se pose comme *être,* et à titre d'*homme* nommément.
+Ce qui inclut ceci : qu'il y a quelque part un « *tout x* » : ;, un « *tout x* » qui devient un « *tout a* », je veux dire un ∀*(a),* chaque fois *qu'il s'incarne*, *qu'il s'incarne* dans ce qu'on peut appeler « *Un être* », « *Un être* » au moins qui se pose comme *être,* et à titre d'*homme* nommément.
 
 <!-- id: s19b-07-0246 -->
 
@@ -1048,7 +1048,7 @@ C'est très précisément ce qui fait que ce soit dans l'autre colonne\...
 
 <!-- id: s19b-07-0249 -->
 
-Rien que de l'articuler ainsi, ceci nous fait sentir qu'il y a quelque chose de remarquable*,* de remarquable pour vous, que ce qui s'en énonce, c'est qu'il n'y en a *pas une* qui dans l'énoncé\...
+Rien que de l'articuler ainsi, ceci nous fait sentir qu'il y a quelque chose de remarquable, de remarquable pour vous, que ce qui s'en énonce, c'est qu'il n'y en a *pas une* qui dans l'énoncé\...
 
 <!-- id: s19b-07-0250 -->
 
@@ -1072,7 +1072,7 @@ L'important en effet, c'est qu'on puisse dire autour de cette fonction du « *vi
 
 <!-- id: s19b-07-0255 -->
 
-Là par contre, si l'homme est tout ce que vous voulez dans le genre : *virtuose, vire à bâbord, parer à virer, vire ce que tu veux,* le *viril* c'est du côté de la femme, c'est la seule à y croire* *!
+Là par contre, si l'homme est tout ce que vous voulez dans le genre : *virtuose, vire à bâbord, parer à virer, vire ce que tu veux,* le *viril* c'est du côté de la femme, c'est la seule à y croire!
 
 <!-- id: s19b-07-0256 -->
 
@@ -1164,7 +1164,7 @@ Le mode de la pensée, pour autant qu'il est, si je puis dire, « subverti » 
 
 <!-- id: s19b-07-0278 -->
 
-L'*ensemble* c'est la façon dont, à un tournant de l'histoire*,* les gens les moins faits pour mettre au jour ce qu'il en est du sujet, s'y sont trouvés si l'on peut dire *nécessités*.
+L'*ensemble* c'est la façon dont, à un tournant de l'histoire, les gens les moins faits pour mettre au jour ce qu'il en est du sujet, s'y sont trouvés si l'on peut dire *nécessités*.
 
 <!-- id: s19b-07-0279 -->
 

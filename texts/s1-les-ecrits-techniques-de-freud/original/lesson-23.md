@@ -280,7 +280,7 @@ C’est là une dimension essentielle mais ce n’est pas de ce côté-là qu’
 
 <!-- id: s1-23-0069 -->
 
-La psychanalyse est une dialectique, et ce que M. MONTAIGNE, en son Livre III, chapitre VIII, dont je ne saurais trop vous recommander la lecture - il y a une personne ici qui le connaît bien - appelle un *art de conférer*. L’*art de conférer* est la même chose que ce qui existe entre PLATON, SOCRATE, *l’esclave* - c’est la même chose que ce qui existe dans HEGEL - c’est de *lui apprendre* *à donner son vrai sens à sa propre parole*. En d’autres termes, la position de l’analyste doit être celle d’une *ignorantia docta* [^38], une *ignorance docte*, ce qui veut dire non pas savante mais *formelle*, et c’est par là qu’elle peut être*,* pour le sujet, formante*.*
+La psychanalyse est une dialectique, et ce que M. MONTAIGNE, en son Livre III, chapitre VIII, dont je ne saurais trop vous recommander la lecture - il y a une personne ici qui le connaît bien - appelle un *art de conférer*. L’*art de conférer* est la même chose que ce qui existe entre PLATON, SOCRATE, *l’esclave* - c’est la même chose que ce qui existe dans HEGEL - c’est de *lui apprendre* *à donner son vrai sens à sa propre parole*. En d’autres termes, la position de l’analyste doit être celle d’une *ignorantia docta* [^38], une *ignorance docte*, ce qui veut dire non pas savante mais *formelle*, et c’est par là qu’elle peut être, pour le sujet, formante.
 
 <!-- id: s1-23-0070 -->
 
@@ -356,7 +356,7 @@ LACAN
 
 <!-- id: s1-23-0088 -->
 
-Dans le cas Dora, puisque vous proposez le cas Dora, on reste un peu à la porte de ça mais on peut quand même vous expliquer un peu les choses. Je voudrais quand même - puisque je suis arrivé, grâce aux questions posées, à pousser aujourd’hui assez loin ce discours *-* pouvoir peut-être, à l’intérieur de ça, vous situer le cas Dora.
+Dans le cas Dora, puisque vous proposez le cas Dora, on reste un peu à la porte de ça mais on peut quand même vous expliquer un peu les choses. Je voudrais quand même - puisque je suis arrivé, grâce aux questions posées, à pousser aujourd’hui assez loin ce discours - pouvoir peut-être, à l’intérieur de ça, vous situer le cas Dora.
 
 <!-- id: s1-23-0089 -->
 
@@ -400,7 +400,7 @@ Il s’agit simplement de savoir ce que c’est. Si nous le prenons sur le plan 
 
 <!-- id: s1-23-0099 -->
 
-Cette grande découverte qu’on a faite récemment est simplement liée à une impuissance totale d’approfondir ce que FREUD nous a désigné depuis longtemps dans le phénomène du *transfert*. Et ceci aboutit à quelque chose qui - comme vous le voyez et quoi qu’on en dise - a quelque référence aux émotions, à l’affectif, à l’abréaction et autres termes qui désignent en effet un certain nombre de phénomènes parcellaires qui se passent pendant l’analyse, n’en aboutit pas moins, je vous le fais remarquer, à quelque chose d’essentiellement intellec­tuel. Car en fin de compte, procéder ainsi aboutit tout à fait directement, sous une forme qui ne nous apparaît pas comme telle parce qu’elle peut vaguement apparaître comme neuve, à quelque chose qui est tout à fait équivalent aux pre­mières formes d’endoctrination qui nous scandalisent tellement dans la pre­mière façon d’opérer de FREUD avec ses premiers cas. Nous apprenons au sujet à se comporter dans le réel. Nous lui montrons qu’il n’est pas à la page. Si ce n’est pas de l’éducation et de l’endoctrination, je me demande ce que c’est*.*
+Cette grande découverte qu’on a faite récemment est simplement liée à une impuissance totale d’approfondir ce que FREUD nous a désigné depuis longtemps dans le phénomène du *transfert*. Et ceci aboutit à quelque chose qui - comme vous le voyez et quoi qu’on en dise - a quelque référence aux émotions, à l’affectif, à l’abréaction et autres termes qui désignent en effet un certain nombre de phénomènes parcellaires qui se passent pendant l’analyse, n’en aboutit pas moins, je vous le fais remarquer, à quelque chose d’essentiellement intellec­tuel. Car en fin de compte, procéder ainsi aboutit tout à fait directement, sous une forme qui ne nous apparaît pas comme telle parce qu’elle peut vaguement apparaître comme neuve, à quelque chose qui est tout à fait équivalent aux pre­mières formes d’endoctrination qui nous scandalisent tellement dans la pre­mière façon d’opérer de FREUD avec ses premiers cas. Nous apprenons au sujet à se comporter dans le réel. Nous lui montrons qu’il n’est pas à la page. Si ce n’est pas de l’éducation et de l’endoctrination, je me demande ce que c’est.
 
 <!-- id: s1-23-0100 -->
 
@@ -667,6 +667,7 @@ Fin du séminaire 1953-54
 <!-- id: s1-23-0165 -->
 
 [Table des séances](#TABLE)
+
 ## Notes
 
 [^38]: Le concept d’« ignorantia docta » a été introduit par le cardinal Nicolas de Cuez.

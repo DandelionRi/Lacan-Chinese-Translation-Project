@@ -38,7 +38,7 @@ de mon expérience, y est « *convenient* ».
 
 <!-- id: s11-15-0008 -->
 
-À tout ceux qui sont ici, je ne peux demander de s’y accorder pleinement par là même puisqu’à certains elle manque, mais le fait même, que je vous guide dans cette voie suppose bien sûr - et votre présence ici suppose - en *répons* [^78] *-* *une certaine confiance faite*
+À tout ceux qui sont ici, je ne peux demander de s’y accorder pleinement par là même puisqu’à certains elle manque, mais le fait même, que je vous guide dans cette voie suppose bien sûr - et votre présence ici suppose - en *répons* [^78] - *une certaine confiance faite*
 *à ce que nous appellerons - dans le rôle* où je suis par rapport à vous : celui de *l’Autre* - *la* *bonne foi*. Bien sûr, aussi *cette bonne foi est toujours précaire, <u>supposée</u>,* car ce *rapport* du sujet à l’Autre, où, à la fin se termine-t-il ?
 
 <!-- id: s11-15-0009 -->
@@ -48,9 +48,9 @@ moi en tant que LACAN, suivant sans doute les traces de *la fouille freudienne*,
 
 <!-- id: s11-15-0010 -->
 
-*Par l’effet de parole il se réalise toujours plus dans l’Autre*, *mais là il ne poursuit déjà plus qu’une moitié de lui*-*même* - vous verrez que c’est
-là-dessus que je vous ramènerai *-* il ne trouvera son désir que toujours plus divisé, pulvérisé, *dans la* cernable *métonymie de la parole*.
-*L’effet de langage* est tout le temps mêlé à ce *quelque chose* qui est le fond de l’expérience analytique, l’ac­tualisation de ce qu’*il n’est <u>sujet</u> que d’être <u>assujettissement</u>, assujettis­sement au champ de l’Autre***.**
+*Par l’effet de parole il se réalise toujours plus dans l’Autre*, *mais là il ne poursuit déjà plus qu’une moitié de lui-même* - vous verrez que c’est
+là-dessus que je vous ramènerai - il ne trouvera son désir que toujours plus divisé, pulvérisé, *dans la* cernable *métonymie de la parole*.
+*L’effet de langage* est tout le temps mêlé à ce *quelque chose* qui est le fond de l’expérience analytique, l’ac­tualisation de ce qu’*il n’est <u>sujet</u> que d’être <u>assujettissement</u>, assujettis­sement au champ de l’Autre**.*
 
 <!-- id: s11-15-0011 -->
 
@@ -65,7 +65,7 @@ par rapport aux *voies du désir*, est aussi dans l’Autre.
 <!-- id: s11-15-0013 -->
 
 FREUD donc, vous l’ai-je représenté la dernière fois telle cette figure d’ABRAHAM, d’ISAAC et de JACOB que Léon BLOY,
-dans *Le salut par les Juifs* [^79]*,* représente sous la forme de ces - *trois également* - vieillards, qui sont là, selon une des formes de la vocation d’Israël, autour de je ne sais quel­le bâche à cette occupation fondamentale qui s’appelle la brocante. Ils trient. Il y a quelque chose qu’ils mettent d’un côté, et une autre de l’autre.
+dans *Le salut par les Juifs* [^79], représente sous la forme de ces - *trois également* - vieillards, qui sont là, selon une des formes de la vocation d’Israël, autour de je ne sais quel­le bâche à cette occupation fondamentale qui s’appelle la brocante. Ils trient. Il y a quelque chose qu’ils mettent d’un côté, et une autre de l’autre.
 
 <!-- id: s11-15-0014 -->
 
@@ -142,7 +142,7 @@ Les oppositions qui y correspondent sont triples.
 
 <!-- id: s11-15-0031 -->
 
-- Seulement au *niveau du biologique*, l’opposition activité-passivité, ici se présente en sa forme propre, vous le verrez, la seule valable quant à son sens grammatical, la position : « *aimer*-*être aimé* ».
+- Seulement au *niveau du biologique*, l’opposition activité-passivité, ici se présente en sa forme propre, vous le verrez, la seule valable quant à son sens grammatical, la position : « *aimer-être aimé* ».
 
 <!-- id: s11-15-0032 -->
 
@@ -161,7 +161,7 @@ de l’excitation en mille canaux, chaque fois qu’en l’un d’entre eux elle
 <!-- id: s11-15-0035 -->
 
 Cette filtration, de la stimulation à la décharge, c’est là cet appareil, cette *calotte* - si vous voulez, *cornée* - à cerner *sur une sphère*,
-où se défi­nit d’abord ce qu’il appelle le stade du *Real*-*Ich*, c’est à ceci qu’il va dans son discours attribuer la qualification *d’auto-erotisch.*
+où se défi­nit d’abord ce qu’il appelle le stade du *Real-Ich*, c’est à ceci qu’il va dans son discours attribuer la qualification *d’auto-erotisch.*
 
 <!-- id: s11-15-0036 -->
 
@@ -171,13 +171,13 @@ il est tout à fait clair, pensent-ils, que puisque la parole de FREUD est parol
 <!-- id: s11-15-0037 -->
 
 *Auto-erotisch* ne peut absolu­ment pas avoir ce sens. Et si vous lisez FREUD dans le texte, vous ver­rez que le second temps, le temps économique, consiste en ceci juste­ment, que le second *Ich,* le second de droit, le second dans un temps logique, si vous voulez,
-c’est *Lust*-*Ich,* qu’il appelle *purifiziert* - *Lust*-*Ich purifié* - que celui-ci s’instaure, justement dans le champ *exté­rieur* à la calotte dans lequel je désigne le premier *Real*-*Ich* de l’explica­tion de FREUD.
+c’est *Lust-Ich,* qu’il appelle *purifiziert* - *Lust-Ich purifié* - que celui-ci s’instaure, justement dans le champ *exté­rieur* à la calotte dans lequel je désigne le premier *Real-Ich* de l’explica­tion de FREUD.
 
 <!-- id: s11-15-0038 -->
 
-*Au*-*dehors*, dans les objets, et c’est cela qui est l’*autoerotisch,* et FREUD le souligne lui-même, qu’il n’y aurait pas de surgissement
-des objets, en effet s’il n’y avait pas des « *objets bons pour moi* ». Ici se consti­tue le *Lust*-*Ich* et le champ de l’*Unlust* : *l’objet comme reste, l’objet* comme non plus « *bon pour moi* », mais *étranger,* et comme tel d’ailleurs *l’objet bon à connaître*, et pour cause, c’est celui qui
-se définit dans le champ de l’*Unlust*. À ce niveau apparaît comme tel le *lieben, aimer* : les objets du champ du *Lust*-*Ich* sont aimables. Le *hassen* \[*avoir en horreur*\]*,* avec son lien d’ailleurs profond à la connaissance, c’est l’autre champ.
+*Au-dehors*, dans les objets, et c’est cela qui est l’*autoerotisch,* et FREUD le souligne lui-même, qu’il n’y aurait pas de surgissement
+des objets, en effet s’il n’y avait pas des « *objets bons pour moi* ». Ici se consti­tue le *Lust-Ich* et le champ de l’*Unlust* : *l’objet comme reste, l’objet* comme non plus « *bon pour moi* », mais *étranger,* et comme tel d’ailleurs *l’objet bon à connaître*, et pour cause, c’est celui qui
+se définit dans le champ de l’*Unlust*. À ce niveau apparaît comme tel le *lieben, aimer* : les objets du champ du *Lust-Ich* sont aimables. Le *hassen* \[*avoir en horreur*\], avec son lien d’ailleurs profond à la connaissance, c’est l’autre champ.
 
 <!-- id: s11-15-0039 -->
 
@@ -196,7 +196,7 @@ FREUD dit proprement que *vorhebung des Wesentlichen, à faire sortir ici l’es
 
 <!-- id: s11-15-0042 -->
 
-\[*Das Ich verhält sich passiv gegen die Außenwelt, insoweit es Reize von ihr empfängt, aktiv, wenn es auf dieselben reagiert. Zu ganz besonderer Aktivität gegen die Außenwelt wird es durch seine Triebe gezwungen, so daß man unter Hervorhebung des Wesentlichen sagen könnte : Das Ich-Subjekt sei passiv gegen die äußeren Reize, aktiv durch seine eigenen Triebe. Der Gegensatz Aktiv*-*Passiv verschmilzt späterhin mit dem von Männlich*-*Weiblich, der, ehe dies geschehen ist, keine psychologische Bedeutung hat. Die Verlötung der Aktivität mit der Männlichkeit, der Passivität mit der Weiblichkeit tritt uns nämlich als biologische Tatsache entgegen; sie ist aber keineswegs so regelmäßig durchgreifend und ausschließlich, wie wir anzunehmen geneigt sind.* (*Triebe und Triebschicksale*)\]
+\[*Das Ich verhält sich passiv gegen die Außenwelt, insoweit es Reize von ihr empfängt, aktiv, wenn es auf dieselben reagiert. Zu ganz besonderer Aktivität gegen die Außenwelt wird es durch seine Triebe gezwungen, so daß man unter Hervorhebung des Wesentlichen sagen könnte : Das Ich-Subjekt sei passiv gegen die äußeren Reize, aktiv durch seine eigenen Triebe. Der Gegensatz Aktiv-Passiv verschmilzt späterhin mit dem von Männlich-Weiblich, der, ehe dies geschehen ist, keine psychologische Bedeutung hat. Die Verlötung der Aktivität mit der Männlichkeit, der Passivität mit der Weiblichkeit tritt uns nämlich als biologische Tatsache entgegen; sie ist aber keineswegs so regelmäßig durchgreifend und ausschließlich, wie wir anzunehmen geneigt sind.* (*Triebe und Triebschicksale*)\]
 
 <!-- id: s11-15-0043 -->
 
@@ -206,14 +206,14 @@ ayant exactement la même valeur.
 
 <!-- id: s11-15-0044 -->
 
-J’ai depuis longtemps souligné le caractère captieux de ce prétendu altruisme, qui se satisfait de préserver le bien - de qui ? de celui qui, précisément, nous est nécessaire. Voilà où FREUD entend asseoir les bases de l’amour. C’est seulement avec l’activité-passivité qu’entre en jeu ce qu’il en est proprement de *la relation sexuelle*. *Or, la couvre*-*t*-*elle, cette relation d’activité*-*passivité ? Si peu*, que c’est
-à cette occasion, mais aussi bien, en plus d’une autre - je vous prie de vous référer à tel passage de *L’homme aux loups,* par exemple, ou réparti en d’autres points des cinq grandes psychanalyses - où FREUD nous dit que *la référence polaire activité*-*passivité*
+J’ai depuis longtemps souligné le caractère captieux de ce prétendu altruisme, qui se satisfait de préserver le bien - de qui ? de celui qui, précisément, nous est nécessaire. Voilà où FREUD entend asseoir les bases de l’amour. C’est seulement avec l’activité-passivité qu’entre en jeu ce qu’il en est proprement de *la relation sexuelle*. *Or, la couvre-t-elle, cette relation d’activité-passivité ? Si peu*, que c’est
+à cette occasion, mais aussi bien, en plus d’une autre - je vous prie de vous référer à tel passage de *L’homme aux loups,* par exemple, ou réparti en d’autres points des cinq grandes psychanalyses - où FREUD nous dit que *la référence polaire activité-passivité*
 est là pour *dénommer*, pour *recouvrir*, pour *métaphoriser* ce qui reste d’*inson­dable* - le terme n’est pas de lui…
 
 <!-- id: s11-15-0045 -->
 
-Mais *que jamais il ne dise nulle part que* psychologiquement *la relation masculin*-*féminin ne soit saisis­sable autrement que par ce représentant*
-*de l’opposition activité-passi­vité*, en tant que jamais l’opposition masculin-féminin comme telle soit atteinte, ceci désigne assez l’importance de ce qui est *répété ici sous la forme d’un verbe particulièrement aigu à exprimer ce dont il s’agit*, cette opposition passivité-activité : *verschmilzt* dit-il, quelque chose comme *« se coule », « se moule », « s’injecte ».* C’est une *artériographie* [^82] et les rapports *masculin*-*féminin* même ne l’épuisent pas. \[*Der Gegensatz Aktiv*-*Passiv verschmilzt späterhin mit dem von Männlich*-*Weiblich, der, ehe dies geschehen ist, keine psychologische Bedeutung hat.*\]
+Mais *que jamais il ne dise nulle part que* psychologiquement *la relation masculin-féminin ne soit saisis­sable autrement que par ce représentant*
+*de l’opposition activité-passi­vité*, en tant que jamais l’opposition masculin-féminin comme telle soit atteinte, ceci désigne assez l’importance de ce qui est *répété ici sous la forme d’un verbe particulièrement aigu à exprimer ce dont il s’agit*, cette opposition passivité-activité : *verschmilzt* dit-il, quelque chose comme *« se coule », « se moule », « s’injecte ».* C’est une *artériographie* [^82] et les rapports *masculin-féminin* même ne l’épuisent pas. \[*Der Gegensatz Aktiv-Passiv verschmilzt späterhin mit dem von Männlich-Weiblich, der, ehe dies geschehen ist, keine psychologische Bedeutung hat.*\]
 
 <!-- id: s11-15-0046 -->
 
@@ -234,7 +234,7 @@ en bien des points comme étant *un fan­tasme masculin*.
 
 <!-- id: s11-15-0049 -->
 
-Beaucoup de choses laissent à penser que c’est compli­cité de notre part que de le soutenir mais, pour ne pas nous livrer, je veux dire, nous livrer tout entier, aux résultats de *l’enquête anglo*-*saxonne* - qui sur ce sujet, je pense, ne donnerait pas grand chose,
+Beaucoup de choses laissent à penser que c’est compli­cité de notre part que de le soutenir mais, pour ne pas nous livrer, je veux dire, nous livrer tout entier, aux résultats de *l’enquête anglo-saxonne* - qui sur ce sujet, je pense, ne donnerait pas grand chose,
 si nous disons qu’il y a là quelque *consentement* des femmes, ce qui ne veut rien dire - nous nous limiterons, plus légitimement,
 nous autres *analystes*, aux *femmes* qui font partie *de notre groupe*.
 
@@ -245,7 +245,7 @@ Et il est tout à fait frappant de voir que les représentantes de ce sexe dans 
 <!-- id: s11-15-0051 -->
 
 Quoi qu’il en soit, s’introduit ici une remarque, c’est que rien ne nous sert - ici, au maximum, de ce champ, tel qu’il vient d’être défini comme celui de l’amour - rien ne nous sert de *ce cadre narcissique* dont FREUD, en propres termes, dans cet article,
-nous indique qu’il est fait justement de l’articulation de cet *autoerotisch - à sentir, comme je vous l’ai indiqué, à savoir comme le critère de surgissement, la répartition des objets -* à cette insertion de l’*auto*-*érotisme*, dans les intérêts organi­sés du moi qui s’appellent le *narcissisme*.
+nous indique qu’il est fait justement de l’articulation de cet *autoerotisch - à sentir, comme je vous l’ai indiqué, à savoir comme le critère de surgissement, la répartition des objets -* à cette insertion de l’*auto-érotisme*, dans les intérêts organi­sés du moi qui s’appellent le *narcissisme*.
 
 <!-- id: s11-15-0052 -->
 
@@ -408,7 +408,7 @@ Cette *lamelle*, cet organe qui a pour caractéristique de ne pas exis­ter, mai
 
 C’est de cela que représente *l’équivalent*, *les équivalents* possibles, toutes les formes que l’on peut énumérer de *l’objet(a)*. Ils ne sont
 que représentants, figures. Le sein comme équivoque, comme élément caractéristique de l’organisation mammifère, le placenta
-par exemple représente bien cette part de lui*-*même que l’individu perd à la naissan­ce, et qui peut servir à symboliser *l’objet perdu*
+par exemple représente bien cette part de lui-même que l’individu perd à la naissan­ce, et qui peut servir à symboliser *l’objet perdu*
 plus profond. Pour tous les autres objets, je pourrai évoquer la même référence, et ceci alors s’éclaire de démontrer ce dont il s’agit, et qui est désigné dans la partie inférieure, pour ce que j’ai dessiné au tableau, marquant le rapport du sujet au champ de l’Autre,
 en dessous, en voici l’origine :
 
@@ -423,8 +423,8 @@ si le sujet est ce que je vous enseigne, à savoir le sujet déterminé par le l
 
 <!-- id: s11-15-0089 -->
 
-Or, *qu’est-ce qu’un signifiant*, qu’est*-*ce que je vous serine depuis assez longtemps je pense, pour n’avoir pas à de nouveau, ici,
-à l’articuler ? C’est qu’*un signifiant est ce qui représente un sujet* - pour qui ? *-* non pas pour un autre sujet, mais *pour un autre signifiant*.
+Or, *qu’est-ce qu’un signifiant*, qu’est-ce que je vous serine depuis assez longtemps je pense, pour n’avoir pas à de nouveau, ici,
+à l’articuler ? C’est qu’*un signifiant est ce qui représente un sujet* - pour qui ? - non pas pour un autre sujet, mais *pour un autre signifiant*.
 
 <!-- id: s11-15-0090 -->
 
@@ -471,11 +471,11 @@ Pour le reste :
 
 <!-- id: s11-15-0099 -->
 
-François WAHL - Cette force qu’est la libido, qui est antérieure à toute pul­sion, c’est*-*à*-*dire, si la libido, si vous pesez la libido…
+François WAHL - Cette force qu’est la libido, qui est antérieure à toute pul­sion, c’est-à-dire, si la libido, si vous pesez la libido…
 
 <!-- id: s11-15-0100 -->
 
-LACAN *-* La libido c’est la lamelle, c’est un organe.
+LACAN - La libido c’est la lamelle, c’est un organe.
 
 <!-- id: s11-15-0101 -->
 
@@ -483,8 +483,8 @@ François WAHL
 
 <!-- id: s11-15-0102 -->
 
-Comment justifiez*-*vous la perte par rapport à ça, du pas­sage par la sexualité ? À quel moment s’introduit par rapport à elle,
-l’ar­ticulation activité*-*passivité ?
+Comment justifiez-vous la perte par rapport à ça, du pas­sage par la sexualité ? À quel moment s’introduit par rapport à elle,
+l’ar­ticulation activité-passivité ?
 
 <!-- id: s11-15-0103 -->
 
@@ -497,7 +497,7 @@ où nous sommes, je ne fasse pas une réponse très longue.
 
 <!-- id: s11-15-0105 -->
 
-1\) Cette sorte de « *corps de lamelle* », avec son insertion quelque part, car cette lamelle, elle a un bord, elle vient s’insérer là où je vous l’ai mis, écrit au tableau, à savoir, sur la zone érogène, à savoir, sur l’un des orifices du corps, en tant que ces orifices - toute notre expérience *-* sont liés à *l’ouverture-fermeture* de la béance de l’inconscient. Elles y sont liées, parce que c’est là que s’y noue la présence du vivant.
+1\) Cette sorte de « *corps de lamelle* », avec son insertion quelque part, car cette lamelle, elle a un bord, elle vient s’insérer là où je vous l’ai mis, écrit au tableau, à savoir, sur la zone érogène, à savoir, sur l’un des orifices du corps, en tant que ces orifices - toute notre expérience - sont liés à *l’ouverture-fermeture* de la béance de l’inconscient. Elles y sont liées, parce que c’est là que s’y noue la présence du vivant.
 
 <!-- id: s11-15-0106 -->
 
@@ -518,12 +518,13 @@ vous verrez le texte (*a*),(*b*),(*c*), dont FREUD articule chaque pulsion, il i
 <!-- id: s11-15-0109 -->
 
 Ceci *implique* essentiellement et fondamentalement *activité*, en quoi je rejoins ce que - dans le point que je vous ai cité –
-FREUD lui*-*même articule en disant - en distinguant les deux champs : le champ pul­sionnel d’une part, et d’autre part le champ narcissique de l’amour - en disant que *-* là *-* au niveau de l’amour, il y a réciprocité de l’« *aimer* » à l’« *être aimé* », et que dans l’autre champ, il s’agit d’une pure activité *durch seine eigene Triebe,* pour le sujet. Vous y êtes ?
+FREUD lui-même articule en disant - en distinguant les deux champs : le champ pul­sionnel d’une part, et d’autre part le champ narcissique de l’amour - en disant que - là - au niveau de l’amour, il y a réciprocité de l’« *aimer* » à l’« *être aimé* », et que dans l’autre champ, il s’agit d’une pure activité *durch seine eigene Triebe,* pour le sujet. Vous y êtes ?
 
 <!-- id: s11-15-0110 -->
 
 En fait, il saute aux yeux que même dans leur prétendue « *phase pas­sive* », l’exercice d’une pulsion masochique par exemple,
 exige que le masochiste se donne un mal de chien, si j’ose m’exprimer ainsi.
+
 ## Notes
 
 [^78]: Répons : subst. masc. - (relig.), refrain repris par le chœur, alternant, dans la psalmodie *responsoriale* (qui qualifie tout chant où alternent versets et répons,

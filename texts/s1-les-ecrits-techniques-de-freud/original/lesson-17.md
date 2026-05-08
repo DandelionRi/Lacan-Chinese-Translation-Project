@@ -158,7 +158,7 @@ Avant de sortir quelques phrases particulièrement caractéris­tiques de ces ar
 
 <!-- id: s1-17-0039 -->
 
-C’est là que se pose pour lui l’aiguillage où il choisit d’aller au fossé, parce que, à ce moment-là, comme il avait été sensible à ce que nous avons décidé d’appeler *le registre de l’imaginaire,* et incapable*,* semble-t-il, limité dans quelque chose dans son développement pour passer *au registre symbolique*, il s’enfonce alors à une allure vertigineuse dans une méconnaissance de ce qu’est le *registre imaginaire*.
+C’est là que se pose pour lui l’aiguillage où il choisit d’aller au fossé, parce que, à ce moment-là, comme il avait été sensible à ce que nous avons décidé d’appeler *le registre de l’imaginaire,* et incapable, semble-t-il, limité dans quelque chose dans son développement pour passer *au registre symbolique*, il s’enfonce alors à une allure vertigineuse dans une méconnaissance de ce qu’est le *registre imaginaire*.
 
 <!-- id: s1-17-0040 -->
 
@@ -865,6 +865,7 @@ Ce n’est pas nouveau, et vous sentez bien que *c’est exactement le sens de c
 <!-- id: s1-17-0214 -->
 
 À mercredi prochain !
+
 ## Notes
 
 [^27]: Michael Balint : *Primary love and psychoanalytic technique*, Maresfield Library, 1985 (reprint). *Amour primaire et technique psychanalytique*, Payot-Rivages, 2001.

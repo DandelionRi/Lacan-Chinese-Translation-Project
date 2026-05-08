@@ -10,7 +10,7 @@ Je me casse la tête, ce qui est déjà embêtant, parce que je me la casse sér
 
 <!-- id: s24-11-0002 -->
 
-Il y a quelqu’un qui - un nommé Gödel \[1906-78\] - qui vit en Amérique et qui a énoncé le nom d’« *indécidable* »*.*
+Il y a quelqu’un qui - un nommé Gödel \[1906-78\] - qui vit en Amérique et qui a énoncé le nom d’« *indécidable* ».
 
 <!-- id: s24-11-0003 -->
 
@@ -162,7 +162,7 @@ C’est bien ce à quoi nous avons affaire quand nous parions en somme sur le fa
 
 <!-- id: s24-11-0040 -->
 
-Δόξα \[doxa\] c’est l’opinion, la première chose sur quoi j’ai introduit une conférence, au temps de ce qu’on appelle ou de ce qu’on pourrait appeler « mes débuts », c’est sur le *Menon* où on énonce que la δόξα \[doxa\]*,* c’est l’opinion vraie.
+Δόξα \[doxa\] c’est l’opinion, la première chose sur quoi j’ai introduit une conférence, au temps de ce qu’on appelle ou de ce qu’on pourrait appeler « mes débuts », c’est sur le *Menon* où on énonce que la δόξα \[doxa\], c’est l’opinion vraie.
 
 <!-- id: s24-11-0041 -->
 
@@ -230,7 +230,7 @@ C’est lui qui sait, et non pas le *supposé savoir*.
 
 <!-- id: s24-11-0057 -->
 
-J’ai avancé aussi *ce quelque chose* qui s’énonce de *l’Universel* \[; !\], et ceci *pour le nier* \[. !\] : j’ai dit « *qu’il n’y a pas de* *tous* »*.*
+J’ai avancé aussi *ce quelque chose* qui s’énonce de *l’Universel* \[; !\], et ceci *pour le nier* \[. !\] : j’ai dit « *qu’il n’y a pas de* *tous* ».
 
 <!-- id: s24-11-0058 -->
 
@@ -314,7 +314,7 @@ Je me casse la tête et je pense qu’en fin de compte la psychanalyse, c’est 
 
 <!-- id: s24-11-0078 -->
 
-Mais *faire vrai,* comment faut-il l’entendre ? C’est un coup de sens, c’est un « *sens blanc* »*.*
+Mais *faire vrai,* comment faut-il l’entendre ? C’est un coup de sens, c’est un « *sens blanc* ».
 
 <!-- id: s24-11-0079 -->
 

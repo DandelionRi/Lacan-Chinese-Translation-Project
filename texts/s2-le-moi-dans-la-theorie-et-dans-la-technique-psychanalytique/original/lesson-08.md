@@ -38,7 +38,7 @@ Eh bien, il peut se passer là des choses très étonnantes, je n’ai pas voulu
 
 <!-- id: s2-08-0009 -->
 
-Or, on ne peut pas donner de meilleure qualification de l’œuvre de FREUD. L’œuvre de FREUD est la perpétuation de ce mouvement lié, et qui fait qu’on ne peut se pro­pager, avancer dans le domaine empirique que dans la mesure où la conceptua­lisation est à chaque instant soutenue, reprise, enrichie. Il y a des textes, ouvrez l’article *Les pulsions et leur destin* [^5]*,* qu’on va com­mencer à lire. Je me reproche de ne pas vous avoir lu le texte. Aujourd’hui je vais vous en lire un bout :
+Or, on ne peut pas donner de meilleure qualification de l’œuvre de FREUD. L’œuvre de FREUD est la perpétuation de ce mouvement lié, et qui fait qu’on ne peut se pro­pager, avancer dans le domaine empirique que dans la mesure où la conceptua­lisation est à chaque instant soutenue, reprise, enrichie. Il y a des textes, ouvrez l’article *Les pulsions et leur destin* [^5], qu’on va com­mencer à lire. Je me reproche de ne pas vous avoir lu le texte. Aujourd’hui je vais vous en lire un bout :
 
 <!-- id: s2-08-0010 -->
 
@@ -262,11 +262,11 @@ Ce *rapprochement de la névrose traumatique à la notion de danger extérieur* 
 
 <!-- id: s2-08-0060 -->
 
-LACAN *-* Quelle distinction ?
+LACAN - Quelle distinction ?
 
 <!-- id: s2-08-0061 -->
 
-Jean-Paul VALABREGA *-* Entre *l’extériorité* et *l’intériorité*.
+Jean-Paul VALABREGA - Entre *l’extériorité* et *l’intériorité*.
 
 <!-- id: s2-08-0062 -->
 
@@ -482,7 +482,7 @@ Je suis d’accord. Mais toute la théorie du neurone est en train de s’élabo
 
 <!-- id: s2-08-0114 -->
 
-LACAN *-* Il prend parti sur la synapse en tant que telle, c’est-à-dire rupture de continuité de cellule nerveuse à la suivante.
+LACAN - Il prend parti sur la synapse en tant que telle, c’est-à-dire rupture de continuité de cellule nerveuse à la suivante.
 
 <!-- id: s2-08-0115 -->
 
@@ -494,7 +494,7 @@ Ce serait intéressant cette découverte de FREUD. C’est maintenant, en 1950, 
 
 <!-- id: s2-08-0117 -->
 
-Arrivons maintenant au texte lui-même. La subdivision que l’éditeur a intro­duite, différente d’ailleurs de celle de l’édition allemande*,* est discutable et je vais vous proposer la subdivision suivante :
+Arrivons maintenant au texte lui-même. La subdivision que l’éditeur a intro­duite, différente d’ailleurs de celle de l’édition allemande, est discutable et je vais vous proposer la subdivision suivante :
 
 <!-- id: s2-08-0118 -->
 
@@ -702,11 +702,11 @@ Didier ANZIEU
 
 <!-- id: s2-08-0169 -->
 
-Troisièmement, après avoir vu, d’après sa structure même, com­ment l’appareil fonctionnait, reconstituant les processus psychiques élémentaires, le propre fonctionnement va laisser des traces, ce que FREUD appelle « *l’expérien­ce* ». Et *-* conséquence *-* ces expériences vont nous mener à la notion du *moi*.
+Troisièmement, après avoir vu, d’après sa structure même, com­ment l’appareil fonctionnait, reconstituant les processus psychiques élémentaires, le propre fonctionnement va laisser des traces, ce que FREUD appelle « *l’expérien­ce* ». Et - conséquence - ces expériences vont nous mener à la notion du *moi*.
 
 <!-- id: s2-08-0170 -->
 
-Les deux expériences fondamentales que le système neuronique est appelé à faire, puisqu’il est conscience, c’est *l’expérience de satisfaction* et *l’expérience de la douleur*. Ces deux expériences *-* sauf que c’est en sens inverse *–* obéissent au même mécanisme. L’expérience de la satisfaction entraîne ici ce mot que j’ai toujours beaucoup de mal à traduire, le mot καθεξής \[cathéxès\], *liaison*, ou *investissement*, quoique investissement ne conviendra que dans une théorie ultérieure c’est la notion d’énergie liée par rapport à une énergie libre.
+Les deux expériences fondamentales que le système neuronique est appelé à faire, puisqu’il est conscience, c’est *l’expérience de satisfaction* et *l’expérience de la douleur*. Ces deux expériences - sauf que c’est en sens inverse *–* obéissent au même mécanisme. L’expérience de la satisfaction entraîne ici ce mot que j’ai toujours beaucoup de mal à traduire, le mot καθεξής \[cathéxès\], *liaison*, ou *investissement*, quoique investissement ne conviendra que dans une théorie ultérieure c’est la notion d’énergie liée par rapport à une énergie libre.
 
 <!-- id: s2-08-0171 -->
 
@@ -758,7 +758,7 @@ LACAN
 
 <!-- id: s2-08-0183 -->
 
-Ce qui, je crois, est intéressant à notre propos, c’est de souligner qu’à propos de ces états de désir ce qui est mis en jeu c’est une certaine *corres­pondance dans l’objet* qui se présente et *les structures* déjà constituées dans le *moi*, c’est-à-dire un partiel recouvrement de ce qui est proposé avec ce qui est attendu. Il met l’accent sur ceci, il peut se produire deux gammes* *:
+Ce qui, je crois, est intéressant à notre propos, c’est de souligner qu’à propos de ces états de désir ce qui est mis en jeu c’est une certaine *corres­pondance dans l’objet* qui se présente et *les structures* déjà constituées dans le *moi*, c’est-à-dire un partiel recouvrement de ce qui est proposé avec ce qui est attendu. Il met l’accent sur ceci, il peut se produire deux gammes:
 
 <!-- id: s2-08-0184 -->
 
@@ -935,6 +935,7 @@ LACAN
 <!-- id: s2-08-0227 -->
 
 Nous allons en rester là aujourd’hui. Ça implique que nous pas­sions de là, à partir des processus de la *Traumdeutung,* il faut que quelqu’un s’en charge. VALABREGA, par exemple ? Vous pourriez faire le lien entre ce dernier cha­pitre de la conscience du rêve avec la théorie de la *Traumdeutung,* dans laquelle il donne la théorie complète des processus primaires et secondaires, cela pour dans quinze jours ?
+
 ## Notes
 
 [^5]: S. Freud : « *[Triebe und Triebschicksale ](http://www.psychanalyse.lu/Freud/FreudTriebschicksale.pdf)»* (1915) ; « *Pulsions et destin des pulsions »*, in *Métapsychologie*, Gallimard, 1968.

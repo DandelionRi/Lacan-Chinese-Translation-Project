@@ -152,7 +152,7 @@ En ce sens, qui est celui dont nous l’introduisons, pourvu de ce A, *il prend 
 
 <!-- id: s16-23-0037 -->
 
-Voilà ce qui le désigne comme Autre*.*
+Voilà ce qui le désigne comme Autre.
 
 <!-- id: s16-23-0038 -->
 
@@ -184,11 +184,11 @@ Voilà un ensemble à deux éléments distincts : { 1,{1} } puisqu’on ne saur
 
 <!-- id: s16-23-0045 -->
 
-Or l’ensemble vide \[Ø\], nous pouvons *toujours à tout instant* le faire surgir au titre de ce qu’on appelle *sous*-*ensemble*. Ce n’est pas le moindre intérêt, c’est peut-être même le principal de la théorie des ensembles, que ce jeu dit des « *sous*-*ensembles* ».
+Or l’ensemble vide \[Ø\], nous pouvons *toujours à tout instant* le faire surgir au titre de ce qu’on appelle *sous-ensemble*. Ce n’est pas le moindre intérêt, c’est peut-être même le principal de la théorie des ensembles, que ce jeu dit des « *sous-ensembles* ».
 
 <!-- id: s16-23-0046 -->
 
-Je regrette de devoir le rappeler - mais c’est l’extension de mon auditoire qui m’y force - de rappeler que : faire de *x, y, z, n* les éléments d’un ensemble : { *x, y, z, n* }, si l’on appelle « *sous-ensemble »* un autre ensemble qui est inclus dans cet ensemble sous la forme de ce type-ci, que x, y, z en constituent un *sous-ensemble* { *x, y, z* } vous voyez vite *que le nombre* - {*x, y, n*}, par exemple, et puis {*y, z, n*} et ainsi de suite - *que le nombre*… je pense que je n’ai pas besoin d’insister pour que ça vous apparaisse évident, qu’il est clair que numériquement, *rassembler les éléments des sous*-*ensembles* - autrement dit ce qui ici d’un *premier jet* - pourrait *faire figure* de *parties*, *n’est évidemment en aucun cas égal numériquement aux éléments de l’ensemble* d’où nous sommes partis pour articuler ces *sous*-*ensembles*, et que même, il est facile d’imaginer la formule exponentielle qui nous montrera qu’à mesure que grandissent *le nombre des éléments d’un ensemble, la somme numérique des sous*-*ensembles* *que l’on peut en édifier dépasse très largement le nombre de ces éléments*.
+Je regrette de devoir le rappeler - mais c’est l’extension de mon auditoire qui m’y force - de rappeler que : faire de *x, y, z, n* les éléments d’un ensemble : { *x, y, z, n* }, si l’on appelle « *sous-ensemble »* un autre ensemble qui est inclus dans cet ensemble sous la forme de ce type-ci, que x, y, z en constituent un *sous-ensemble* { *x, y, z* } vous voyez vite *que le nombre* - {*x, y, n*}, par exemple, et puis {*y, z, n*} et ainsi de suite - *que le nombre*… je pense que je n’ai pas besoin d’insister pour que ça vous apparaisse évident, qu’il est clair que numériquement, *rassembler les éléments des sous-ensembles* - autrement dit ce qui ici d’un *premier jet* - pourrait *faire figure* de *parties*, *n’est évidemment en aucun cas égal numériquement aux éléments de l’ensemble* d’où nous sommes partis pour articuler ces *sous-ensembles*, et que même, il est facile d’imaginer la formule exponentielle qui nous montrera qu’à mesure que grandissent *le nombre des éléments d’un ensemble, la somme numérique des sous-ensembles* *que l’on peut en édifier dépasse très largement le nombre de ces éléments*.
 
 <!-- id: s16-23-0047 -->
 
@@ -406,7 +406,7 @@ Alors je ne sais pas si vous voyez ça venir, mais enfin il est clair que si je 
 
 <!-- id: s16-23-0098 -->
 
-Il s’agit de ceci : étudier ce qui se passe de ce que je viens déjà *d’écrire* au tableau et sur lequel vous devriez déjà me devancer d’au moins 3/4 d’heure. C’est que donc quelque chose va annoncer le sujet au titre le plus simple de ce même 1 *unaire* à quoi nous réduisons - dans l’hypothèse stricte - ce qu’il en est de ce à quoi il peut s’accrocher au champ de l’Autre, et qu’il y a de ça un mode - qui est celui le plus simple que j’ai écrit là aujourd’hui *-* c’est de se compter 1 lui-même.
+Il s’agit de ceci : étudier ce qui se passe de ce que je viens déjà *d’écrire* au tableau et sur lequel vous devriez déjà me devancer d’au moins 3/4 d’heure. C’est que donc quelque chose va annoncer le sujet au titre le plus simple de ce même 1 *unaire* à quoi nous réduisons - dans l’hypothèse stricte - ce qu’il en est de ce à quoi il peut s’accrocher au champ de l’Autre, et qu’il y a de ça un mode - qui est celui le plus simple que j’ai écrit là aujourd’hui - c’est de se compter 1 lui-même.
 
 <!-- id: s16-23-0099 -->
 
@@ -568,7 +568,7 @@ Seulement il suffit de voir n’importe qui pour savoir qu’au minimum il se cr
 
 <!-- id: s16-23-0138 -->
 
-*L’exploitation de l’homme par l’homme* commence au niveau de *l’éthique*, à ceci près qu’on voit mieux au niveau de *l’éthique* de quoi il s’agit, c’est-à-dire que *c’est l’esclave qui est l’idéal du maître*. C’est *celui*-*là* qui lui apporte ce qu’il lui faut, *le* 1 *en plus*.
+*L’exploitation de l’homme par l’homme* commence au niveau de *l’éthique*, à ceci près qu’on voit mieux au niveau de *l’éthique* de quoi il s’agit, c’est-à-dire que *c’est l’esclave qui est l’idéal du maître*. C’est *celui-là* qui lui apporte ce qu’il lui faut, *le* 1 *en plus*.
 
 <!-- id: s16-23-0139 -->
 

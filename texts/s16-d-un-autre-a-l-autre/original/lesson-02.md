@@ -96,11 +96,11 @@ Bon ! Revenons à mon discours.
 
 <!-- id: s16-02-0023 -->
 
-### Pour employer une métaphore là, qu’il m’est arrivé d’employer plusieurs fois pour faire sentir ce que j’entends par 
+### Pour employer une métaphore là, qu’il m’est arrivé d’employer plusieurs fois pour faire sentir ce que j’entends par
 
 <!-- id: s16-02-0024 -->
 
-### « *un discours qui vaille* », je le comparerai à *un trait de ciseaux* dans cette matière dont je parle quand je parle du *réel* du sujet. 
+### « *un discours qui vaille* », je le comparerai à *un trait de ciseaux* dans cette matière dont je parle quand je parle du *réel* du sujet.
 
 <!-- id: s16-02-0025 -->
 
@@ -160,7 +160,7 @@ Je parle de *la vraie énergétique*, de là où elle se situe dans la science, 
 
 <!-- id: s16-02-0039 -->
 
-J’ai même dans un temps, et bien avant qu’on ne publie ces objections risibles*,* mis dans des cours - *que des intéressés ont pu parfaitement entendre puisqu’ils en ont fait usage par la suite dans leurs propres conférences -* j’ai justement souligné que l’énergétique n’est même pas concevable autrement que comme conséquence du discours.
+J’ai même dans un temps, et bien avant qu’on ne publie ces objections risibles, mis dans des cours - *que des intéressés ont pu parfaitement entendre puisqu’ils en ont fait usage par la suite dans leurs propres conférences -* j’ai justement souligné que l’énergétique n’est même pas concevable autrement que comme conséquence du discours.
 
 <!-- id: s16-02-0040 -->
 
@@ -318,19 +318,19 @@ Il a eu en tout cas pour conséquence cette sortie qui est *signalétique*.
 
 <!-- id: s16-02-0077 -->
 
-### C’est bien pourquoi il serait essentiel que, dans la psychanalyse, nous ayons quelques esprits formés à ce qu’on appelle, 
+### C’est bien pourquoi il serait essentiel que, dans la psychanalyse, nous ayons quelques esprits formés à ce qu’on appelle,
 
 <!-- id: s16-02-0078 -->
 
-### je ne sais pourquoi *logique mathématique*, comme ça, par une vieille gêne : *comme s’il y en avait une autre. C’est la logique tout court* ! 
+### je ne sais pourquoi *logique mathématique*, comme ça, par une vieille gêne : *comme s’il y en avait une autre. C’est la logique tout court* !
 
 <!-- id: s16-02-0079 -->
 
-### Il se trouve qu’elle a intéressé les mathématiques, c’est tout ce qui la distingue de la logique aristotélicienne qui, 
+### Il se trouve qu’elle a intéressé les mathématiques, c’est tout ce qui la distingue de la logique aristotélicienne qui,
 
 <!-- id: s16-02-0080 -->
 
-### très évidemment, ne l’intéressait pas beaucoup, *la mathématique*. 
+### très évidemment, ne l’intéressait pas beaucoup, *la mathématique*.
 
 <!-- id: s16-02-0081 -->
 
@@ -570,7 +570,7 @@ C’est un *plus-de-jouir* obtenu de *la renonciation à la jouissance*, justeme
 
 <!-- id: s16-02-0139 -->
 
-Le savoir est-il un bien ? Telle est la question qui se pose, parce que son corrélatif est celui-ci : « *Non licet omnibus -* comme je l’ai déjà dit *-* *adire Corynthum* [^9]* *»
+Le savoir est-il un bien ? Telle est la question qui se pose, parce que son corrélatif est celui-ci : « *Non licet omnibus -* comme je l’ai déjà dit - *adire Corynthum* [^9]* *»
 
 <!-- id: s16-02-0140 -->
 
@@ -626,7 +626,7 @@ L’étrange, ça a été ce que l’on a vu d’une interrogation passionnée, 
 
 <!-- id: s16-02-0153 -->
 
-Il y en a un que *j’épingle* à jamais *du titre* de « *Mudger Muddle* »[^10]*.* C’est un nom que je lui donne, c’est de mon crû.
+Il y en a un que *j’épingle* à jamais *du titre* de « *Mudger Muddle* »[^10]. C’est un nom que je lui donne, c’est de mon crû.
 
 <!-- id: s16-02-0154 -->
 
@@ -634,7 +634,7 @@ Il y en a un que *j’épingle* à jamais *du titre* de « *Mudger Muddle* »[
 
 <!-- id: s16-02-0155 -->
 
-Je l’ai rencontré, *Mudger* \[boueux\] *Muddle* \[pagaille\]*,* sur le trottoir du boulevard Saint-Germain. Il m’a dit qu’il cherchait *la théorie marxiste* et qu’il était inondé - par quoi ? - par *le bonheur* que tout ça respirait.
+Je l’ai rencontré, *Mudger* \[boueux\] *Muddle* \[pagaille\], sur le trottoir du boulevard Saint-Germain. Il m’a dit qu’il cherchait *la théorie marxiste* et qu’il était inondé - par quoi ? - par *le bonheur* que tout ça respirait.
 
 <!-- id: s16-02-0156 -->
 

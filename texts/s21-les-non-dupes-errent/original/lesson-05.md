@@ -118,7 +118,7 @@ Vous le savez, cette distinction du *cardinal* et de l’*ordinal*...
 
 <!-- id: s21-05-0029 -->
 
-> vous le savez, c’est ainsi que je désigne *le discours analytique* ...lequel discours s’est annoncé d’un *décantage du sens* \[S<sub>1</sub> **◊** S<sub>2</sub>\].
+> vous le savez, c’est ainsi que je désigne *le discours analytique* ...lequel discours s’est annoncé d’un *décantage du sens* \[S<sub>1</sub> ◊ S<sub>2</sub>\].
 
 <!-- id: s21-05-0030 -->
 
@@ -154,7 +154,7 @@ Est-ce que c’est vrai pour autant ?
 
 <!-- id: s21-05-0038 -->
 
-C’est vrai de *cette sorte de* *vérité* qu’instaure ce discours, à savoir d’*une vérité du* « *moyen »*, si tant est que certains se souviennent de la façon dont la dernière fois, et justement concernant l’amour, j’ai distingué, par ce qu’il en est du nœud borro­méen*,* la fonction du « *moyen »* comme tel.
+C’est vrai de *cette sorte de* *vérité* qu’instaure ce discours, à savoir d’*une vérité du* « *moyen »*, si tant est que certains se souviennent de la façon dont la dernière fois, et justement concernant l’amour, j’ai distingué, par ce qu’il en est du nœud borro­méen, la fonction du « *moyen »* comme tel.
 
 <!-- id: s21-05-0039 -->
 
@@ -274,7 +274,7 @@ C’est en quoi, la dernière fois, *l’amour* était un bon test de la précar
 
 <!-- id: s21-05-0068 -->
 
-\[*« ...ce « cesse de ne pas s’écrire »* \[...\] *de ce qui, chez chaque individu, marque la trace de son exil* \[...\]*de ce rapport... » Encore, Sta p.* 155*,* 26 *juin* 1973 \]
+\[*« ...ce « cesse de ne pas s’écrire »* \[...\] *de ce qui, chez chaque individu, marque la trace de son exil* \[...\]*de ce rapport... » Encore, Sta p.* 155, 26 *juin* 1973 \]
 
 <!-- id: s21-05-0069 -->
 

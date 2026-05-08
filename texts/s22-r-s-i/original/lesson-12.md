@@ -130,7 +130,7 @@ Ce que je veux vous dire c’est qu’*il y a le trou.*
 
 <!-- id: s22-12-0032 -->
 
-Quelqu’un qui me voyait *en proie* *-* c’est le cas de le dire *-* *à ce nœud*, que là je vous dessine sous sa forme la plus simple :
+Quelqu’un qui me voyait *en proie* - c’est le cas de le dire - *à ce nœud*, que là je vous dessine sous sa forme la plus simple :
 
 <!-- id: s22-12-0033 -->
 
@@ -244,7 +244,7 @@ Il y a une différence entre ce nœud et ceci qui - le trou - utilise : c’est
 
 <!-- id: s22-12-0060 -->
 
-Il est frappant depuis le temps qu’on fait des chaînes que la chose qu<sup>’</sup>on n<sup>’</sup>ait pas remarquée, c<sup>’</sup>est que dans le nœud bo, pas besoin d<sup>’</sup>user du *trou,* puisque ça fait nœud sans faire chaîne*.*
+Il est frappant depuis le temps qu’on fait des chaînes que la chose qu<sup>’</sup>on n<sup>’</sup>ait pas remarquée, c<sup>’</sup>est que dans le nœud bo, pas besoin d<sup>’</sup>user du *trou,* puisque ça fait nœud sans faire chaîne.
 
 <!-- id: s22-12-0061 -->
 
@@ -300,7 +300,7 @@ Ce terme « *il faut et il suffit* », on ne lui donne pas - sauf à se référe
 
 <!-- id: s22-12-0074 -->
 
-> le seul *trou* qui vaille* *: la trouvaille ...parce qu’on ne fait pas *le trou*, on ne voit pas que si la condition manque, rien ne va plus !
+> le seul *trou* qui vaille: la trouvaille ...parce qu’on ne fait pas *le trou*, on ne voit pas que si la condition manque, rien ne va plus !
 
 <!-- id: s22-12-0075 -->
 
@@ -516,7 +516,7 @@ En d’autres termes, qui fait du cercle couplé, pris pour chacun des élément
 
 <!-- id: s22-12-0128 -->
 
-De faire de *l’ex-sistence,* écrite comme je l’écris, à savoir ce qui joue jusqu<sup>’</sup>à une certaine limite dans le nœud*,* *cela supporte le Réel.*
+De faire de *l’ex-sistence,* écrite comme je l’écris, à savoir ce qui joue jusqu<sup>’</sup>à une certaine limite dans le nœud, *cela supporte le Réel.*
 
 <!-- id: s22-12-0129 -->
 
@@ -524,7 +524,7 @@ Ce qui fait *consistance* est de l’ordre *Imaginaire* comme le suppose ceci qu
 
 <!-- id: s22-12-0130 -->
 
-Il reste alors - mais reste-t-il ? *-* pour *le Symbolique* l’affectation du terme « *trou* ».
+Il reste alors - mais reste-t-il ? - pour *le Symbolique* l’affectation du terme « *trou* ».
 
 <!-- id: s22-12-0131 -->
 
@@ -552,7 +552,7 @@ Chacun sait ce rapport, et pas seulement de m’avoir vu le figurer dans le nœu
 
 <!-- id: s22-12-0137 -->
 
-Desargues *- « l’Arguésien »* comme on dit *-* s’est avisé depuis longtemps *que la droite infinie est en tout homologue au cercle*.
+Desargues *- « l’Arguésien »* comme on dit - s’est avisé depuis longtemps *que la droite infinie est en tout homologue au cercle*.
 
 <!-- id: s22-12-0138 -->
 
@@ -696,7 +696,7 @@ Et la nécessité qu’un 4<sup>ème</sup> terme vienne ici imposer ses vérité
 
 <!-- id: s22-12-0172 -->
 
-> je n’ai pu aujourd’hui le faire ...mis en évidence de ce qu’est vrai­ment le nœud borroméen*.*
+> je n’ai pu aujourd’hui le faire ...mis en évidence de ce qu’est vrai­ment le nœud borroméen.
 
 <!-- id: s22-12-0173 -->
 
@@ -712,7 +712,7 @@ Dans toute chaîne borroméenne...
 
 <!-- id: s22-12-0176 -->
 
-...dans toute chaîne *borroméenne*, il y a un 1 puis un 2*.*
+...dans toute chaîne *borroméenne*, il y a un 1 puis un 2.
 
 <!-- id: s22-12-0177 -->
 

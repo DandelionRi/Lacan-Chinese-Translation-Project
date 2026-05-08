@@ -256,7 +256,7 @@ Il pointe même à proprement parler qu’on ne saurait, de par le pouvoir de la
 
 <!-- id: s13-09-0061 -->
 
-Vous avez assez entendu parler - quoique suspendus dans le vague des problèmes de l’existence *-* pour que vous ne soyez pas surpris si j’indique *–* si j’indique en passant faute de pouvoir plus aujourd’hui m’y arrêter *–* que l’important n’est point tant *ce suspens*, en tant qu’il est radical, que la division qu’il introduit entre *l’être* et *l’existence*.
+Vous avez assez entendu parler - quoique suspendus dans le vague des problèmes de l’existence - pour que vous ne soyez pas surpris si j’indique *–* si j’indique en passant faute de pouvoir plus aujourd’hui m’y arrêter *–* que l’important n’est point tant *ce suspens*, en tant qu’il est radical, que la division qu’il introduit entre *l’être* et *l’existence*.
 
 <!-- id: s13-09-0062 -->
 
@@ -636,7 +636,7 @@ Une partie se joue en deux coups. Ceci suppose que les mises sont là. Nous diso
 
 <!-- id: s13-09-0151 -->
 
-On joue un coup : je gagne. Mon partenaire désire arrêter là la partie. Je souligne cette *scansion* qui est abrégée dans PASCAL. Il parle tout de suite « *d’un commun accord* ». Or, nous le reverrons, ce « *commun accord* » mérite d’être interrogé*.*
+On joue un coup : je gagne. Mon partenaire désire arrêter là la partie. Je souligne cette *scansion* qui est abrégée dans PASCAL. Il parle tout de suite « *d’un commun accord* ». Or, nous le reverrons, ce « *commun accord* » mérite d’être interrogé.
 
 <!-- id: s13-09-0152 -->
 
@@ -745,7 +745,7 @@ Que ce pari tienne pour sûres les deux lignes séparées par une barre :
     *Naturellement même cela vous fera croire et vous abêtira.* »
 
 
-[^103]: Lapsus de Lacan : *Timée* ! Platon, [*Ti*<span id="note_94" class="anchor"></span>*mée*](#Retour_note_94)*,* 29b, « « Dans ces conditions, il est aussi absolument nécessaire que ce monde-ci soit l’image de quelque chose. Or en toute matière, il est de la plus haute importance de commencer par le commencement naturel. En conséquence, à propos de l’image et de son modèle, il faut faire les distinctions suivantes : les paroles ont une parenté naturelle avec les choses qu’elles expriment. Expriment-elles ce qui est stable, fixe et visible à l’aide de l’intelligence, elles sont stables et fixes, et, autant qu’il est possible et qu’il appartient à des paroles d’être *irréfutables et invincibles*, elles ne doivent rien laisser à désirer à cet égard.» « \[29b\] τούτων δὲ ὑπαρχόντων αὖ πᾶσα ἀνάγκη τόνδε τὸν κόσμον εἰκόνα τινὸς εἶναι. Μέγιστον δὴ παντὸς ἄρξασθαι κατὰ φύσιν ἀρχήν. Ὧδε οὖν περί τε εἰκόνος καὶ περὶ τοῦ παραδείγματος αὐτῆς διοριστέον, ὡς ἄρα τοὺς λόγους, ὧνπέρ εἰσιν ἐξηγηταί, τούτων αὐτῶν καὶ συγγενεῖς ὄντας· τοῦ μὲν οὖν μονίμου καὶ βεβαίου καὶ μετὰ νοῦ καταφανοῦς μονίμους καὶ ἀμεταπτώτους – καθ᾽ ὅσον οἷόν τε καὶ ἀνελέγκτοις προσήκει **λόγοις εἶναι καὶ ἀνικήτοις**, τούτου δεῖ μηδὲν ἐλλείπειν » ( Cf. le [site de Philippe Remacle](http://remacle.org/) )
+[^103]: Lapsus de Lacan : *Timée* ! Platon, [*Ti*<span id="note_94" class="anchor"></span>*mée*](#Retour_note_94), 29b, « « Dans ces conditions, il est aussi absolument nécessaire que ce monde-ci soit l’image de quelque chose. Or en toute matière, il est de la plus haute importance de commencer par le commencement naturel. En conséquence, à propos de l’image et de son modèle, il faut faire les distinctions suivantes : les paroles ont une parenté naturelle avec les choses qu’elles expriment. Expriment-elles ce qui est stable, fixe et visible à l’aide de l’intelligence, elles sont stables et fixes, et, autant qu’il est possible et qu’il appartient à des paroles d’être *irréfutables et invincibles*, elles ne doivent rien laisser à désirer à cet égard.» « \[29b\] τούτων δὲ ὑπαρχόντων αὖ πᾶσα ἀνάγκη τόνδε τὸν κόσμον εἰκόνα τινὸς εἶναι. Μέγιστον δὴ παντὸς ἄρξασθαι κατὰ φύσιν ἀρχήν. Ὧδε οὖν περί τε εἰκόνος καὶ περὶ τοῦ παραδείγματος αὐτῆς διοριστέον, ὡς ἄρα τοὺς λόγους, ὧνπέρ εἰσιν ἐξηγηταί, τούτων αὐτῶν καὶ συγγενεῖς ὄντας· τοῦ μὲν οὖν μονίμου καὶ βεβαίου καὶ μετὰ νοῦ καταφανοῦς μονίμους καὶ ἀμεταπτώτους – καθ᾽ ὅσον οἷόν τε καὶ ἀνελέγκτοις προσήκει **λόγοις εἶναι καὶ ἀνικήτοις**, τούτου δεῖ μηδὲν ἐλλείπειν » ( Cf. le [site de Philippe Remacle](http://remacle.org/) )
 
 
 [^104]: Albert Einstein, dans une lettre à Max Born du 04.12.1926 : « La mécanique quantique force le respect. Mais une voix intérieure me dit que ce n’est pas encore le *nec plus ultra*. La théorie nous apporte beaucoup de chose, mais elle nous rapproche à peine du secret du Vieux. De toute façon, je suis convaincu que lui, au moins, ne joue pas au dés ». Albert Einstein, Max Born : Correspondance 1916-1955, Paris, Seuil, 1972, p.107.

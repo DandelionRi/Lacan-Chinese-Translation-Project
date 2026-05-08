@@ -182,7 +182,7 @@ C’est ce point de vue qui se trahit dans les notes que les éditeurs consacren
 
 <!-- id: s7-03-0045 -->
 
-Il décrit le *Projet* comme un dernier effort désespéré pour se rac­crocher à l’étude « *sans risques* » de l’anatomie cérébrale. Ce « *sans risques* » fait rêver. Pour un peu on nous présenterait le *Projet* comme une défense de FREUD, qui serait capable d’entraîner chez lui quelque répression*,* à la période analytique. Et *le courageux, l’intrépide, le sublime*, serait alors à ce moment-là BREUER qui, exactement à la même époque : 1895, pense et écrit que pour parler de phénomènes psychologiques, il convient d’utili­ser la terminologie de la psychologie.
+Il décrit le *Projet* comme un dernier effort désespéré pour se rac­crocher à l’étude « *sans risques* » de l’anatomie cérébrale. Ce « *sans risques* » fait rêver. Pour un peu on nous présenterait le *Projet* comme une défense de FREUD, qui serait capable d’entraîner chez lui quelque répression, à la période analytique. Et *le courageux, l’intrépide, le sublime*, serait alors à ce moment-là BREUER qui, exactement à la même époque : 1895, pense et écrit que pour parler de phénomènes psychologiques, il convient d’utili­ser la terminologie de la psychologie.
 
 <!-- id: s7-03-0046 -->
 
@@ -190,7 +190,7 @@ Il dit par exemple « *Parler de neurones au lieu de représentations, c’est u
 
 <!-- id: s7-03-0047 -->
 
-Donc FREUD, en un sens, préfère cette *mascarade* que dénonce BREUER. Et cela vaut la peine de se demander pourquoi, d’autant qu’il ne faut pas oublier que les *Études sur l’hystérie,* au moins pour leur date de *publication*, sont exactement contemporaines du *Projet *: 1895*.* Ce qui veut dire que FREUD a déjà, par son expérience thérapeutique et sa réflexion, …découvert ces choses qui s’appellent *la règle d’association, le transfert, la résistance, la remémoration, l’abréaction et ses limites, le pouvoir* *du silence, de la parole refusée et de l’interprétation de la parole donnée,* et sur le plan théorique *le rapport de l’affect et de la représentation,* *le symbolisme du symptôme, le refoulement, la censure,* tout comme on est toujours tenté de le dire quand on lit un texte de FREUD.
+Donc FREUD, en un sens, préfère cette *mascarade* que dénonce BREUER. Et cela vaut la peine de se demander pourquoi, d’autant qu’il ne faut pas oublier que les *Études sur l’hystérie,* au moins pour leur date de *publication*, sont exactement contemporaines du *Projet *: 1895. Ce qui veut dire que FREUD a déjà, par son expérience thérapeutique et sa réflexion, …découvert ces choses qui s’appellent *la règle d’association, le transfert, la résistance, la remémoration, l’abréaction et ses limites, le pouvoir* *du silence, de la parole refusée et de l’interprétation de la parole donnée,* et sur le plan théorique *le rapport de l’affect et de la représentation,* *le symbolisme du symptôme, le refoulement, la censure,* tout comme on est toujours tenté de le dire quand on lit un texte de FREUD.
 
 <!-- id: s7-03-0048 -->
 
@@ -322,7 +322,7 @@ Je ne suis absolument pas en mesure de répondre à une question si franche. Tou
 
 <!-- id: s7-03-0080 -->
 
-Dès que le schéma pur et simple de l’acte réflexe n’est plus valable, c’est-à-dire le schéma *stimulus externe*-*réponse*, circuit *stimulus*-*réponse*, et encore parler de réponse c’est trop dire, car le terme implique toujours plus ou moins des adaptations, il y a simplement dans le schéma de FREUD transmission d’une excitation à travers un relais, un lieu de passage qui n’a pas d’autre raison d’être que cette transmission - je pense qu’il y a là une référence à l’électricité - dès qu’on sort de ce schéma, il y a un bouleversement du principe d’inertie. FREUD écrit :
+Dès que le schéma pur et simple de l’acte réflexe n’est plus valable, c’est-à-dire le schéma *stimulus externe-réponse*, circuit *stimulus-réponse*, et encore parler de réponse c’est trop dire, car le terme implique toujours plus ou moins des adaptations, il y a simplement dans le schéma de FREUD transmission d’une excitation à travers un relais, un lieu de passage qui n’a pas d’autre raison d’être que cette transmission - je pense qu’il y a là une référence à l’électricité - dès qu’on sort de ce schéma, il y a un bouleversement du principe d’inertie. FREUD écrit :
 
 <!-- id: s7-03-0081 -->
 
@@ -354,7 +354,7 @@ au fur et à mesure que l’appareil va se compliquer, à savoir susciter des sy
 
 <!-- id: s7-03-0088 -->
 
-Ce qui le met peut-être le mieux en lumière, c’est ce que FREUD appelle « *l’épreuve de satisfaction* », « *die Befriedigungserlebnis* »*,* qui est un concept auquel il convient d’attacher beaucoup d’importance. FREUD y refait allusion, entre guillemets, comme si c’était quelque chose de connu, faisant partie de son propre système de pensée, à la fin de la *Traumdeutung.* Cette expérience de satisfaction qui est une expérience tout à fait originelle, quoique réelle, a une valeur presque mythique, est vécue par l’enfant, quand il est totalement dépendant de l’extérieur, de la tension créée par le besoin intérieur.
+Ce qui le met peut-être le mieux en lumière, c’est ce que FREUD appelle « *l’épreuve de satisfaction* », « *die Befriedigungserlebnis* », qui est un concept auquel il convient d’attacher beaucoup d’importance. FREUD y refait allusion, entre guillemets, comme si c’était quelque chose de connu, faisant partie de son propre système de pensée, à la fin de la *Traumdeutung.* Cette expérience de satisfaction qui est une expérience tout à fait originelle, quoique réelle, a une valeur presque mythique, est vécue par l’enfant, quand il est totalement dépendant de l’extérieur, de la tension créée par le besoin intérieur.
 
 <!-- id: s7-03-0089 -->
 
@@ -454,7 +454,7 @@ Voilà le complément que je voulais apporter à ce que le Docteur LACAN nous av
 
 <!-- id: s7-03-0113 -->
 
-Voici la question que je pose : « Quelle est à ce moment-là l’intention expresse de FREUD *?* » Elle est de mettre en évidence la valeur de ce qu’il nomme les associations verbales quant à la *connaissance* de l’objet perçu. Il prend l’exemple du cas où l’objet est un être humain et il dit en gros qu’il entre dans cette *perception de l’objet* deux catégories. Il y a du nouveau, c’est-à-dire du non comparable aux perceptions qui appartiennent aux expériences originelles de satisfaction et de déplaisir, et c’est là, cet élément non comparable, qui fonde l’objet en tant qu’il est non-sujet, en tant qu’il a une structure permanente et reste un tout cohérent.
+Voici la question que je pose : « Quelle est à ce moment-là l’intention expresse de FREUD ? » Elle est de mettre en évidence la valeur de ce qu’il nomme les associations verbales quant à la *connaissance* de l’objet perçu. Il prend l’exemple du cas où l’objet est un être humain et il dit en gros qu’il entre dans cette *perception de l’objet* deux catégories. Il y a du nouveau, c’est-à-dire du non comparable aux perceptions qui appartiennent aux expériences originelles de satisfaction et de déplaisir, et c’est là, cet élément non comparable, qui fonde l’objet en tant qu’il est non-sujet, en tant qu’il a une structure permanente et reste un tout cohérent.
 
 <!-- id: s7-03-0114 -->
 

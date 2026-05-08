@@ -18,11 +18,11 @@ L’angoisse, Freud au terme de son œuvre l’a désignée comme *signal*.
 
 Il l’a désignée comme *signal*...
 distinct de l’effet de la situation traumatique
-...*signal* articulé à ce qu’il appelle « *danger* »*.*
+...*signal* articulé à ce qu’il appelle « *danger* ».
 
 <!-- id: s10-25-0004 -->
 
-Le mot « *danger* » pour lui est lié à la fonc­tion, à la notion - il faut bien le dire : non élucidée - de « *danger vital* »*.*
+Le mot « *danger* » pour lui est lié à la fonc­tion, à la notion - il faut bien le dire : non élucidée - de « *danger vital* ».
 
 <!-- id: s10-25-0005 -->
 
@@ -284,7 +284,7 @@ Et c’est à cet *objet* \[*anal*\] qu’est appendu - comme à *l’objet caus
 
 <!-- id: s10-25-0051 -->
 
-- *La* 1<sup>ère</sup> *forme* *<u>évolutive du désir</u>* \[*au niveau* 2 *: anal*\] s’apparente, ainsi et comme telle, à l’ordre de *l’inhibition* \[ *« désir de retenir »* \]. Quand *le désir,* <u>*pour la* 1<sup>ère</sup> *fois formé*</u>*,* apparaît, il s’oppose à l’acte même par où son originalité de *désir* s’in­troduit. \[*au niveau* 2 *: anal, le « désir de retenir » s’oppose au jeu de la séparation du sein, niveau* 1\]
+- *La* 1<sup>ère</sup> *forme* *<u>évolutive du désir</u>* \[*au niveau* 2 *: anal*\] s’apparente, ainsi et comme telle, à l’ordre de *l’inhibition* \[ *« désir de retenir »* \]. Quand *le désir,* <u>*pour la* 1<sup>ère</sup> *fois formé*</u>, apparaît, il s’oppose à l’acte même par où son originalité de *désir* s’in­troduit. \[*au niveau* 2 *: anal, le « désir de retenir » s’oppose au jeu de la séparation du sein, niveau* 1\]
 
 <!-- id: s10-25-0052 -->
 
@@ -309,8 +309,8 @@ comme on l’imagine, dans une vague et confuse priorité de totalité qui est i
 <!-- id: s10-25-0056 -->
 
 Vous voyez, ce qui est ici en question c’est de s’apercevoir que dans ce point d’insertion primitif du désir,
-lié à la conjonction en une même parenthèse du *petit(a)* et du *grand* D *de la demande* \[D **◊** *a*\], il y a ceci
-d’un côté \[D **◊** *a*\], et de l’autre côté : *l’angoisse* \[...**◊**\] :
+lié à la conjonction en une même parenthèse du *petit(a)* et du *grand* D *de la demande* \[D ◊ *a*\], il y a ceci
+d’un côté \[D ◊ *a*\], et de l’autre côté : *l’angoisse* \[...◊\] :
 
 <!-- id: s10-25-0057 -->
 
@@ -425,15 +425,14 @@ de façon patente, et si je puis dire « *avouée* », même si elle n’est p
 ...in­troduire à son principe *la subduction du désir du sujet au désir de l’analys­te,*
 en tant que  comme tout désir, il s’articule ailleurs que dans sa référence interne au *(a)*,
 ce désir s’identifie à un « *idéal »* auquel, d’une façon obligée, sera courbé le désir du patient
-pour autant que cet « *idéal »* est la position que l’ana­lyste a obtenue, ou cru obtenir, à l’endroit de la réalité*.*
+pour autant que cet « *idéal »* est la position que l’ana­lyste a obtenue, ou cru obtenir, à l’endroit de la réalité.
 
 <!-- id: s10-25-0079 -->
 
 Or *(a),* *petit(a)* dont il s’agit, ainsi *marqué* comme *cause du désir*, n’est pas cette vanité, ni ce déchirement.
 S’il est bien, dans sa fonction ce que j’articule,
 à savoir cet « *objet* » défini comme *un reste*, comme *ce qui est irréductible à la symbolisation au lieu de l’Autre*...
-qui en dépend \[de l’Autre\], certes, car autrement comment se constituerait ce *reste*
-*...si petit(a) est l’unique de l’existence*, en tant qu’elle se fait valoir, non pas comme on l’a dit, dans *sa facticité*,
+qui en dépend \[de l’Autre\], certes, car autrement comment se constituerait ce *reste...si petit(a) est l’unique de l’existence*, en tant qu’elle se fait valoir, non pas comme on l’a dit, dans *sa facticité*,
 car cette *facticité* ne se situe que de sa référence à une prétendue et mythique *nécessité noétique*
 qui serait posée elle-même comme la référence première.
 
@@ -513,7 +512,7 @@ en faisant remarquer *ironiquement* qu’Œdipe *n’aurait su avoir un complexe
 
 <!-- id: s10-25-0093 -->
 
-- celui qui veut violer l’interdit concernant la conjonction du *petit(a*), ici *-* φ, et de *l’angoisse*,
+- celui qui veut violer l’interdit concernant la conjonction du *petit(a*), ici - φ, et de *l’angoisse*,
 
 <!-- id: s10-25-0094 -->
 
@@ -645,7 +644,7 @@ et seulement et à proprement parler du deuil chez sa mère
 *...*qui chez lui a fait *s’évanouir, se dissiper, s’effondrer* jusqu’au plus radical élan possible d’un désir chez cet être qui
 nous est présenté par ailleurs assez bien je crois, pour que *tel* ou *tel* l’ait reconnu, voire identifié *au style même des héros de la Renaissance*,
 [Salvador de Madariaga](http://fr.wikipedia.org/wiki/Salvador_de_Madariaga) par exemple, ai-je besoin de le rappeler,
-c’est un personnage dont le moins qu’on puisse dire, c’est qu’il ne recule pas devant grand-chose et qu’il n’a pas froid aux yeux*.*
+c’est un personnage dont le moins qu’on puisse dire, c’est qu’il ne recule pas devant grand-chose et qu’il n’a pas froid aux yeux.
 La seule chose qu’il ne puisse pas faire, c’est justement l’acte qu’il est fait pour faire,
 parce que *le désir manque, et le désir manque en ceci : que s’est effondré l’idéal*.
 
@@ -660,8 +659,7 @@ Quoi de plus douteux dans les paroles d’Hamlet que cette sorte de rapport idol
 Est ce que nous n’avons pas là les signes mêmes de quelque chose de trop forcé, de trop exalté, pour n’être pas de l’ordre
 d’un amour unique, d’un amour mythique, d’un amour apparenté à ce style de ce que j’ai appelé « *l’amour courtois* » qui...
 en dehors de ses références proprement culturelles et rituelles
-par où il est évident qu’il s’adresse à autre chose qu’à *la Dame*
-*...est le signe au contraire, de je ne sais quelle carence, de je ne sais quel alibi, devant les difficiles chemins que représente l’accès à un véridique amour.*
+par où il est évident qu’il s’adresse à autre chose qu’à *la Dame...est le signe au contraire, de je ne sais quelle carence, de je ne sais quel alibi, devant les difficiles chemins que représente l’accès à un véridique amour.*
 
 <!-- id: s10-25-0122 -->
 
@@ -895,6 +893,7 @@ assez faire rentrer son désir dans ce *(a)* irréductible pour offrir à la que
 <!-- id: s10-25-0164 -->
 
 [[[Table des séances](#TABLE)](#TABLE)](#TABLE)
+
 ## Notes
 
 [^172]: Séminaire 1960-61 : *Le transfert*..., séance du 14-06-1961.

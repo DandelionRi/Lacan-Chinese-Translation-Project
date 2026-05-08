@@ -358,7 +358,7 @@ Ceci elle l’élide, car elle signale dans le catalogue de son tableau de chass
 
 <!-- id: s6-09-0087 -->
 
-> c’est là le point important sur cette *toux*-*message*, si *message* elle est
+> c’est là le point important sur cette *toux-message*, si *message* elle est
 
 <!-- id: s6-09-0088 -->
 
@@ -840,7 +840,7 @@ Je veux dire de la façon formulée, signifiante dont il convient d’interprét
 
 <!-- id: s6-09-0206 -->
 
-Vous retrouverez ce que je vous ai donné être la formule du fantasme : S**◊***a.* À savoir que ce que le sujet paraît élider, ce n’est pas lui pour autant qu’il y a là un autre, un autre imaginaire : *a*. Première indication de la convenance de ce *schéma* pour vous faire repérer la validité du *fantasme* comme tel.
+Vous retrouverez ce que je vous ai donné être la formule du fantasme : S◊*a.* À savoir que ce que le sujet paraît élider, ce n’est pas lui pour autant qu’il y a là un autre, un autre imaginaire : *a*. Première indication de la convenance de ce *schéma* pour vous faire repérer la validité du *fantasme* comme tel.
 
 <!-- id: s6-09-0207 -->
 
@@ -868,7 +868,7 @@ Est-ce que la connotation de la chose comme un élément à mettre à la suite d
 
 <!-- id: s6-09-0213 -->
 
-C’est précisément celle que je vous dessine ici en pointillé, pour autant qu’elle est dans l’énonciation du sujet. Ces éléments signifiants, rompus, vont passer - comme dans la parole ordinaire et normale \[*de l’étage inférieur*\] – par ces deux points-repères du « *message* » \[S(A)\] et du « *code* » \[S**◊**D\], et « *le message* » et « *le code* » étant ici d’une bien autre nature que le partenaire qui parle la même langue dont il s’agit chez le terme de l’Autre, A.
+C’est précisément celle que je vous dessine ici en pointillé, pour autant qu’elle est dans l’énonciation du sujet. Ces éléments signifiants, rompus, vont passer - comme dans la parole ordinaire et normale \[*de l’étage inférieur*\] – par ces deux points-repères du « *message* » \[S(A)\] et du « *code* » \[S◊D\], et « *le message* » et « *le code* » étant ici d’une bien autre nature que le partenaire qui parle la même langue dont il s’agit chez le terme de l’Autre, A.
 
 <!-- id: s6-09-0214 -->
 
@@ -880,7 +880,7 @@ Et ce que nous voyons ici, dans cette *ligne associative* parcourue, est justeme
 
 <!-- id: s6-09-0216 -->
 
-Et ce que le sujet à ce propos commence à dévider, ce n’est rien moins que de passer par ce point-ci \[S(A)\], auquel nous reviendrons dans la suite, puis ici à *d*, à ce niveau où est la question de son désir. \[S(A)<sub>→</sub>S**◊**D *<sub>→</sub>d*\]
+Et ce que le sujet à ce propos commence à dévider, ce n’est rien moins que de passer par ce point-ci \[S(A)\], auquel nous reviendrons dans la suite, puis ici à *d*, à ce niveau où est la question de son désir. \[S(A)<sub>→</sub>S◊D *<sub>→</sub>d*\]
 
 <!-- id: s6-09-0217 -->
 

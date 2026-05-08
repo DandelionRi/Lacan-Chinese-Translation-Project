@@ -18,7 +18,7 @@ Quelqu’un - c’est quelqu’un qui parle avec moi - quelqu’un en atten­dai
 
 <!-- id: s25-04-0004 -->
 
-> vu le sujet qui n’était autre que ce que j’appelle « *la passe »* *...*quelqu’un en attendait quelques lumières sur la fin de la l’analyse.
+> vu le sujet qui n’était autre que ce que j’appelle « *la passe »...*quelqu’un en attendait quelques lumières sur la fin de la l’analyse.
 
 <!-- id: s25-04-0005 -->
 
@@ -40,7 +40,7 @@ Et l’inconscient c’est ça, c’est la face de Réel*...*
 
 > peut-être que vous avez une idée - après m’avoir entendu de nombreuses fois -
 >
-> peut-être que vous avez une idée de ce que j’appelle le *Réel* *...*c’est la face de Réel de ce dont on est empêtré. Ιl y a quelqu’un qui s’appelle Soury et qui a bien voulu prêter attention à ce que j’énonce concernant les ronds de ficelle, et il m’a interrogé sur ce que ça signifie, sur ce que ça signifie qu’il ait pu *écrire* comme ça les ronds de ficelle.
+> peut-être que vous avez une idée de ce que j’appelle le *Réel...*c’est la face de Réel de ce dont on est empêtré. Ιl y a quelqu’un qui s’appelle Soury et qui a bien voulu prêter attention à ce que j’énonce concernant les ronds de ficelle, et il m’a interrogé sur ce que ça signifie, sur ce que ça signifie qu’il ait pu *écrire* comme ça les ronds de ficelle.
 
 <!-- id: s25-04-0010 -->
 
@@ -68,11 +68,11 @@ Le Symbolique, c’est le langage : on apprend à parler et ça laisse des trac
 
 <!-- id: s25-04-0016 -->
 
-Ça laisse des traces et de ce fait ça laisse des conséquences qui ne sont rien d’autre que le sinthome*,* et l’analyse consiste*...*
+Ça laisse des traces et de ce fait ça laisse des conséquences qui ne sont rien d’autre que le sinthome, et l’analyse consiste*...*
 
 <!-- id: s25-04-0017 -->
 
-> y’a quand même un progrès dans l’analyse *...*l’analyse consiste à se rendre comp­te de pourquoi on a ces sinthomes*,* de sorte que l’analyse est liée au savoir. *C’est très suspect.*
+> y’a quand même un progrès dans l’analyse *...*l’analyse consiste à se rendre comp­te de pourquoi on a ces sinthomes, de sorte que l’analyse est liée au savoir. *C’est très suspect.*
 
 <!-- id: s25-04-0018 -->
 

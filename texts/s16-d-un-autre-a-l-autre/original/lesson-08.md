@@ -10,7 +10,7 @@ Le plus difficile à penser, c’est le 1. Qu’on s’y efforce, ça ne date pa
 
 <!-- id: s16-08-0002 -->
 
-C’est un jour ce que j’ai extrait, à l’étonnement, je m’en souviens, d’un de mes auditeurs qui s’en émerveillait : « *Ah ! Comment est-ce que vous avez pu accrocher ça, Einziger Zug ?* »*,* ce que j’ai traduit d’une façon qui reste *le trait unaire*.
+C’est un jour ce que j’ai extrait, à l’étonnement, je m’en souviens, d’un de mes auditeurs qui s’en émerveillait : « *Ah ! Comment est-ce que vous avez pu accrocher ça, Einziger Zug ?* », ce que j’ai traduit d’une façon qui reste *le trait unaire*.
 
 <!-- id: s16-08-0003 -->
 
@@ -34,11 +34,11 @@ Ceci, que je n’ai point inventé mais qui est dit dans FREUD, pour peu seuleme
 
 <!-- id: s16-08-0008 -->
 
-Essentiellement - pour résumer - c’est dans le fait que la jouissance est visée dans un effort de retrouvailles, et qu’elle ne saurait l’être qu’à être reconnue par l’effet de *la marque*, que *cette marque même y introduit la flétrissure* d’où résulte cette perte, mécanisme fondamental et essentiel à confronter à ce qui était déjà apparu dans une recherche qui somme toute, se poursuivait sur la même voie, concernant toute essence et qui aboutissait à l’*Idée* : la préexistence de toute forme, et du même coup à faire appel à cette chose peu facile à penser *-* c’est là PLATON *-* c’est la *réminiscence*.
+Essentiellement - pour résumer - c’est dans le fait que la jouissance est visée dans un effort de retrouvailles, et qu’elle ne saurait l’être qu’à être reconnue par l’effet de *la marque*, que *cette marque même y introduit la flétrissure* d’où résulte cette perte, mécanisme fondamental et essentiel à confronter à ce qui était déjà apparu dans une recherche qui somme toute, se poursuivait sur la même voie, concernant toute essence et qui aboutissait à l’*Idée* : la préexistence de toute forme, et du même coup à faire appel à cette chose peu facile à penser - c’est là PLATON - c’est la *réminiscence*.
 
 <!-- id: s16-08-0009 -->
 
-Ces points étant rappelés, nous en sommes au *pari de Pascal*. Son rapport à *la répétition* *-* je pense *-* n’est pas tout à fait inaperçu de beaucoup d’entre ceux qui sont ici. Pourquoi je passe maintenant par le *pari de Pascal* ? Ce n’est certes pas pour faire le bel esprit, ni du rappel philosophique, ni de la philosophie, de l’histoire de la philosophie.
+Ces points étant rappelés, nous en sommes au *pari de Pascal*. Son rapport à *la répétition* - je pense - n’est pas tout à fait inaperçu de beaucoup d’entre ceux qui sont ici. Pourquoi je passe maintenant par le *pari de Pascal* ? Ce n’est certes pas pour faire le bel esprit, ni du rappel philosophique, ni de la philosophie, de l’histoire de la philosophie.
 
 <!-- id: s16-08-0010 -->
 
@@ -56,7 +56,7 @@ Ce qui se passe au niveau du jansénisme, pour rappeler le contexte pascalien, c
 
 <!-- id: s16-08-0013 -->
 
-Il sait beaucoup de choses, l’auteur. Il repart des origines *-* si tant est qu’il y en ait *-* de la question qui s’y soulève.
+Il sait beaucoup de choses, l’auteur. Il repart des origines - si tant est qu’il y en ait - de la question qui s’y soulève.
 
 <!-- id: s16-08-0014 -->
 
@@ -98,7 +98,7 @@ J’aurais pu me contenter de dire : « *Le désir tel qu’il vous concerne, 
 
 <!-- id: s16-08-0023 -->
 
-Qui ne voit aussi ce qu’implique, si ce qui s’énonce ainsi est correct, cette relation orientée par le vecteur partant du S **◊** D sur le graphe vers ce désir, désir de l’Autre \[*d*(A)\] pour l’interroger dans un : « *Je me demande ce que tu veux.* », qui s’équilibre aussi bien d’un : « *Je te demande ce que je veux.* ».
+Qui ne voit aussi ce qu’implique, si ce qui s’énonce ainsi est correct, cette relation orientée par le vecteur partant du S ◊ D sur le graphe vers ce désir, désir de l’Autre \[*d*(A)\] pour l’interroger dans un : « *Je me demande ce que tu veux.* », qui s’équilibre aussi bien d’un : « *Je te demande ce que je veux.* ».
 
 <!-- id: s16-08-0024 -->
 
@@ -150,11 +150,11 @@ Je dirai que cette forme singulière, dans l’énoncé qui vient en tête sur l
 
 <!-- id: s16-08-0036 -->
 
-### « *croix ou pile* », 
+### « *croix ou pile* »,
 
 <!-- id: s16-08-0037 -->
 
-### « *c’est ça ou c’est pas ça* ». 
+### « *c’est ça ou c’est pas ça* ».
 
 <!-- id: s16-08-0038 -->
 
@@ -480,7 +480,7 @@ Car ce qu’il appelle « *rien* »… comme d’ailleurs il l’indique de la
 
 <!-- id: s16-08-0118 -->
 
-Aussi bien quand PASCAL écrit « *rien* »*,* n’est-ce pas au hasard : lui-même soupçonne bien que « *rien* », *ça n’est pas rien*, que c’est *quelque chose* qui peut être mis en balance, et tout spécialement au niveau où nous avons à le mettre dans le pari.
+Aussi bien quand PASCAL écrit « *rien* », n’est-ce pas au hasard : lui-même soupçonne bien que « *rien* », *ça n’est pas rien*, que c’est *quelque chose* qui peut être mis en balance, et tout spécialement au niveau où nous avons à le mettre dans le pari.
 
 <!-- id: s16-08-0119 -->
 
@@ -612,7 +612,7 @@ Essayez d’expliquer ce que veulent dire ses vers, sans avoir ses distiques. *L
 
 <!-- id: s16-08-0150 -->
 
-Ce qu’il en est, certes ne concerne pas directement la voie qui est la nôtre. Mais si vous voyez la place qu’y tient le « *Je* »*,* le *Ich,* vous verrez qu’elle se rapporte à la question qui est ici notre véritable visée et que je répète à ce terme d’aujourd’hui : « est-ce que ***j’***existe ? »
+Ce qu’il en est, certes ne concerne pas directement la voie qui est la nôtre. Mais si vous voyez la place qu’y tient le « *Je* », le *Ich,* vous verrez qu’elle se rapporte à la question qui est ici notre véritable visée et que je répète à ce terme d’aujourd’hui : « est-ce que j’existe ? »
 
 <!-- id: s16-08-0151 -->
 

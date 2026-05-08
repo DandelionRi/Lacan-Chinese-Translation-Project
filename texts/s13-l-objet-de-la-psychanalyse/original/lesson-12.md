@@ -398,7 +398,7 @@ Il suffit d’avoir un petit peu la moindre expérience, il suffit d’avoir une
 
 <!-- id: s13-12-0098 -->
 
-En fin de compte, il n’est pas impossible, même devant un auditoire américain, d’introduire l’inscription de la formule qui est au coin en haut et à droite de mon graphe à savoir : S**◊**D (S barré dans son rapport à la demande) à savoir que c’est précisément là que s’accroche la division du sujet.
+En fin de compte, il n’est pas impossible, même devant un auditoire américain, d’introduire l’inscription de la formule qui est au coin en haut et à droite de mon graphe à savoir : S◊D (S barré dans son rapport à la demande) à savoir que c’est précisément là que s’accroche la division du sujet.
 
 <!-- id: s13-12-0099 -->
 

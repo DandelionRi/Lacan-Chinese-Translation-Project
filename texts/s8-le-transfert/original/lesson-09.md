@@ -10,7 +10,7 @@ Nous en sommes la dernière fois arrivés au point où SOCRATE, parlant de l’a
 
 <!-- id: s8-09-0002 -->
 
-J’ai marqué de l’accent du point d’interrogation cette substitution étonnante à l’acmé, au point d’intérêt maximum du dialogue, à savoir quand SOCRATE après avoir apporté le tournant décisif en produisant *le manque* au cœur de la question sur *l’amour* \- *l’amour ne peut être articulé qu’autour de ce manque du fait que ce qu’il désire il ne peut en avoir que manque -* et après avoir apporté ce tournant dans le style toujours triomphant, magistral de cette interrogation en tant qu’il la porte sur cette cohérence du *signifiant* \- je vous ai montré qu’elle était l’essentiel de la dialectique socratique - le point où il distingue de toute autre sorte de connaissance l’ἐπιστήμη \[épistèmè\]*,* la *science,* à ce point, singulièrement, il va laisser la parole de façon ambiguë à celle qui, à sa place, va s’exprimer par ce que nous appelons à proprement parler « *le mythe* », « *le mythe* » dont en cette occasion je vous ai signalé que le terme n’est pas aussi spécifié qu’il peut l’être en notre langue, avec la distance que nous avons prise de ce qui distingue le mythe de la science : μύθους λέγειν \[muthous legein\] c’est à la fois *<u>une</u>* *histoire précise* et *<u>le</u>* *discours, ce qu’on dit*. Voilà à quoi SOCRATE va s’en remettre, en laissant parler DIOTIME.
+J’ai marqué de l’accent du point d’interrogation cette substitution étonnante à l’acmé, au point d’intérêt maximum du dialogue, à savoir quand SOCRATE après avoir apporté le tournant décisif en produisant *le manque* au cœur de la question sur *l’amour* \- *l’amour ne peut être articulé qu’autour de ce manque du fait que ce qu’il désire il ne peut en avoir que manque -* et après avoir apporté ce tournant dans le style toujours triomphant, magistral de cette interrogation en tant qu’il la porte sur cette cohérence du *signifiant* \- je vous ai montré qu’elle était l’essentiel de la dialectique socratique - le point où il distingue de toute autre sorte de connaissance l’ἐπιστήμη \[épistèmè\], la *science,* à ce point, singulièrement, il va laisser la parole de façon ambiguë à celle qui, à sa place, va s’exprimer par ce que nous appelons à proprement parler « *le mythe* », « *le mythe* » dont en cette occasion je vous ai signalé que le terme n’est pas aussi spécifié qu’il peut l’être en notre langue, avec la distance que nous avons prise de ce qui distingue le mythe de la science : μύθους λέγειν \[muthous legein\] c’est à la fois *<u>une</u>* *histoire précise* et *<u>le</u>* *discours, ce qu’on dit*. Voilà à quoi SOCRATE va s’en remettre, en laissant parler DIOTIME.
 
 <!-- id: s8-09-0003 -->
 
@@ -54,7 +54,7 @@ Et c’est ici que DIOTIME, en faisant une référence aussi digne d’être not
 
 <!-- id: s8-09-0013 -->
 
-C’est ainsi qu’elle introduit *la thématique* de « *l’amour du Beau* », du « *Beau* » comme spécifiant la direction dans laquelle s’exerce cet appel, cet attrait à la *possession,* à la *jouissance de posséder* \[[206a](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\]*,* à la constitution d’un κτήμα \[ktèma\] qui est le point où elle nous mène pour définir *l’amour*. Ce fait est sensible dans la suite du discours, quelque chose y est suffisamment souligné comme une surprise et comme un saut : ce « *Bien* », en quoi se rapporte-t-il à ce qui s’appelle et se spécifie spécialement comme le « *Beau* » ?
+C’est ainsi qu’elle introduit *la thématique* de « *l’amour du Beau* », du « *Beau* » comme spécifiant la direction dans laquelle s’exerce cet appel, cet attrait à la *possession,* à la *jouissance de posséder* \[[206a](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\], à la constitution d’un κτήμα \[ktèma\] qui est le point où elle nous mène pour définir *l’amour*. Ce fait est sensible dans la suite du discours, quelque chose y est suffisamment souligné comme une surprise et comme un saut : ce « *Bien* », en quoi se rapporte-t-il à ce qui s’appelle et se spécifie spécialement comme le « *Beau* » ?
 
 <!-- id: s8-09-0014 -->
 
@@ -78,7 +78,7 @@ Bien sûr il y a là-dedans, presque sans pudeur, l’occasion de toute une sér
 
 <!-- id: s8-09-0019 -->
 
-« *Rien n’est jamais le même, tout s’écoule, tout change* » - le discours d’HÉRACLITE est là sous-jacent - «** ***rien n’est jamais le même* » et pourtant *quelque chose se reconnaît, s’affirme, se dit être toujours soi-même*. Et c’est à cela qu’elle se réfère significativement pour nous dire que c’est analogue, que c’est en fin de compte de la même nature que ce qui se passe dans le renouvellement des êtres par *la voie de la génération* : le fait que les uns après les autres ces êtres se succèdent en reproduisant le même type. Le mystère de la morphogenèse est le même que celui qui soutient dans sa constance la forme individuelle \[[208a-b](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\].
+« *Rien n’est jamais le même, tout s’écoule, tout change* » - le discours d’HÉRACLITE est là sous-jacent - « *rien n’est jamais le même* » et pourtant *quelque chose se reconnaît, s’affirme, se dit être toujours soi-même*. Et c’est à cela qu’elle se réfère significativement pour nous dire que c’est analogue, que c’est en fin de compte de la même nature que ce qui se passe dans le renouvellement des êtres par *la voie de la génération* : le fait que les uns après les autres ces êtres se succèdent en reproduisant le même type. Le mystère de la morphogenèse est le même que celui qui soutient dans sa constance la forme individuelle \[[208a-b](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\].
 
 <!-- id: s8-09-0020 -->
 
@@ -98,7 +98,7 @@ Ce que le « *Beau* » en somme nous parait - dans le discours même de DIOTIM
 
 <!-- id: s8-09-0024 -->
 
-On trouve ce phénomène que nous avons fait surgir à propos de *la tragédie* en tant que *la tragédie* est à la fois l’évocation, l’approche, qui du *désir de mort* comme tel, se cache derrière l’évocation de l’Ἄτη \[Atè\]*,* de la *calamité fondamentale* autour de quoi tourne le destin du héros tragique et de ceci, que pour nous, en tant que nous sommes appelés à y participer, c’est à ce moment maximum que le mirage de la beauté tragique apparaît.
+On trouve ce phénomène que nous avons fait surgir à propos de *la tragédie* en tant que *la tragédie* est à la fois l’évocation, l’approche, qui du *désir de mort* comme tel, se cache derrière l’évocation de l’Ἄτη \[Atè\], de la *calamité fondamentale* autour de quoi tourne le destin du héros tragique et de ceci, que pour nous, en tant que nous sommes appelés à y participer, c’est à ce moment maximum que le mirage de la beauté tragique apparaît.
 
 <!-- id: s8-09-0025 -->
 
@@ -134,7 +134,7 @@ C’est à ce point que DIOTIME mène son discours et qu’elle s’arrête, dis
 
 <!-- id: s8-09-0033 -->
 
-«* Si tu as pu en venir jusque-là, je ne sais si tu pourras arriver jusqu’à* ἐποπτικά \[epoptika\] *la contemplation *»*.* \[[210a](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\]
+«* Si tu as pu en venir jusque-là, je ne sais si tu pourras arriver jusqu’à* ἐποπτικά \[epoptika\] *la contemplation *». \[[210a](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\]
 
 <!-- id: s8-09-0034 -->
 
@@ -150,11 +150,11 @@ Je pense vous avoir suffisamment fait sentir cette sorte d’*escamotage* par qu
 
 <!-- id: s8-09-0037 -->
 
-*C’est quelque chose qui est au-delà de tous ces objets*, qui est dans ce passage d’une certaine visée, d’un certain rapport, celui du *désir* à travers tous les objets vers une perspective sans limite, c’est de cela qu’il est question dans le discours de DIOTIME. On pourrait croire, à des indices qui sont nombreux, que c’est là en fin de compte la réalité du *discours*. Et pour un peu, c’est bien ce que *toujours* nous sommes habitués à considérer comme étant la perspective de l’ἔρως \[*erôs*\]*,* dans la doctrine platonicienne.
+*C’est quelque chose qui est au-delà de tous ces objets*, qui est dans ce passage d’une certaine visée, d’un certain rapport, celui du *désir* à travers tous les objets vers une perspective sans limite, c’est de cela qu’il est question dans le discours de DIOTIME. On pourrait croire, à des indices qui sont nombreux, que c’est là en fin de compte la réalité du *discours*. Et pour un peu, c’est bien ce que *toujours* nous sommes habitués à considérer comme étant la perspective de l’ἔρως \[*erôs*\], dans la doctrine platonicienne.
 
 <!-- id: s8-09-0038 -->
 
-L’ἐραστής \[erastès\]*,* l’ἔρόν \[erôn\] *l’amant, en quête* d’un lointain ἐρώμενος \[erômenos\] est conduit par tous les ἐρώμενον \[erômenon\]*,* par tout ce qui est *aimable*, *digne d’être aimé*, un lointain ἐρώμενος \[erômenos\] ou ἐρώμενον \[erômenon\] (*c’est aussi bien un but neutre*). Et le problème est de ce que signifie, de ce que peut continuer à signifier, au-delà de ce franchissement, de ce saut marqué, ce qui au départ de la dialectique se présentait comme κτήμα \[ktèma\]*,* comme but de *possession.*
+L’ἐραστής \[erastès\], l’ἔρόν \[erôn\] *l’amant, en quête* d’un lointain ἐρώμενος \[erômenos\] est conduit par tous les ἐρώμενον \[erômenon\], par tout ce qui est *aimable*, *digne d’être aimé*, un lointain ἐρώμενος \[erômenos\] ou ἐρώμενον \[erômenon\] (*c’est aussi bien un but neutre*). Et le problème est de ce que signifie, de ce que peut continuer à signifier, au-delà de ce franchissement, de ce saut marqué, ce qui au départ de la dialectique se présentait comme κτήμα \[ktèma\], comme but de *possession.*
 
 <!-- id: s8-09-0039 -->
 
@@ -166,7 +166,7 @@ Or le commentaire que nous sommes en train de faire du *Banquet* me semble juste
 
 <!-- id: s8-09-0041 -->
 
-N’oublions pas que DIOTIME a introduit *l’amour* d’abord comme n’étant point *de la nature des dieux*, mais de celle des *démons* en tant qu’elle \[la nature des démons\] est - entre les *immortels* et les *mortels - intermédiaire* \[[202e](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\]. N’oublions pas que pour l’illustrer, faire sentir ce dont il s’agit, ce n’est rien moins que *de la comparaison avec cet « intermédiaire » entre* l’ἐπιστήμη \[épistèmè\]*, la science au sens socratique*, *et l’*άμαθία \[amathia\]*,* l’*ignorance,* qu’elle s’est servie de *cet intermédiaire qui, dans le discours platonicien, s’appelle la* δοχα \[doxa\]*,* l’*opinion vraie* [^117] en tant sans doute qu’elle est vraie, mais telle que le sujet est incapable d’en rendre compte, qu’il ne sait pas en quoi c’est vrai.
+N’oublions pas que DIOTIME a introduit *l’amour* d’abord comme n’étant point *de la nature des dieux*, mais de celle des *démons* en tant qu’elle \[la nature des démons\] est - entre les *immortels* et les *mortels - intermédiaire* \[[202e](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\]. N’oublions pas que pour l’illustrer, faire sentir ce dont il s’agit, ce n’est rien moins que *de la comparaison avec cet « intermédiaire » entre* l’ἐπιστήμη \[épistèmè\]*, la science au sens socratique*, *et l’*άμαθία \[amathia\], l’*ignorance,* qu’elle s’est servie de *cet intermédiaire qui, dans le discours platonicien, s’appelle la* δοχα \[doxa\], l’*opinion vraie* [^117] en tant sans doute qu’elle est vraie, mais telle que le sujet est incapable d’en rendre compte, qu’il ne sait pas en quoi c’est vrai.
 
 <!-- id: s8-09-0042 -->
 
@@ -174,11 +174,11 @@ Et j’ai souligné ces deux *formules* si frappantes \[[202e](http://remacle.or
 
 <!-- id: s8-09-0043 -->
 
-- l’« ἄνευ τοῦ ἔχειν λόγον δοῦναι » \[aneu tou echein logon dounai\], qui caractérise la δοχα \[doxa\]*,* de « *donner la formule,* *le logos, sans l’avoir* »[^118]*,* de l’écho que cette formule fait avec ce que nous donnons ici même pour celle de *l’amour* qui est justement de « *donner ce qu’on n’a pas* »,
+- l’« ἄνευ τοῦ ἔχειν λόγον δοῦναι » \[aneu tou echein logon dounai\], qui caractérise la δοχα \[doxa\], de « *donner la formule,* *le logos, sans l’avoir* »[^118], de l’écho que cette formule fait avec ce que nous donnons ici même pour celle de *l’amour* qui est justement de « *donner ce qu’on n’a pas* »,
 
 <!-- id: s8-09-0044 -->
 
-- et l’autre formule, celle qui fait face à la première, non moins digne d’être soulignée, sur la cour, si je puis dire, à savoir regardant du côté de άμαθία \[amathia\], à savoir que *cette* δοχα \[doxa\] *n’est pas non plus ignorance*, οὔτε ἀμαθία, \[oute amathia\] \[[202a](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\]*,* car ce qui par chance atteint le *réel *: « τὸ γὰρ τοῦ ὄντος τυγχάνον » \[to gar tou ontos tugchanon\], *ce qui rencontre ce qui est*, comment serait-ce aussi absolument une ignorance ?[^119]
+- et l’autre formule, celle qui fait face à la première, non moins digne d’être soulignée, sur la cour, si je puis dire, à savoir regardant du côté de άμαθία \[amathia\], à savoir que *cette* δοχα \[doxa\] *n’est pas non plus ignorance*, οὔτε ἀμαθία, \[oute amathia\] \[[202a](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\], car ce qui par chance atteint le *réel *: « τὸ γὰρ τοῦ ὄντος τυγχάνον » \[to gar tou ontos tugchanon\], *ce qui rencontre ce qui est*, comment serait-ce aussi absolument une ignorance ?[^119]
 
 <!-- id: s8-09-0045 -->
 
@@ -326,7 +326,7 @@ La dimension de *l’amour* est en train de montrer devant nous ce quelque chose
 
 <!-- id: s8-09-0081 -->
 
-Chose singulière, il n’est pas donné dans les modes, dans les manifestations de l’amour, qu’on appelle *tous les autres* à aimer ce que l’on aime, ce que vous aimez, et à se fondre avec vous dans la montée vers l’ἐρώμενον \[erômenon\][^122]*.* SOCRATE, cet homme éminemment *aimable*, puisqu’on nous le produit dès les premiers mots comme un *personnage divin*, après tout, la première chose dont il s’agit, c’est qu’ALCIBIADE veut se le garder. Vous direz que vous n’y croyiez pas et que toutes sortes de choses le montraient, *la question n’est pas là*, nous suivons le texte et c’est de cela qu’il s’agit. Non seulement c’est de cela qu’il s’agit, mais c’est à proprement parler cette dimension qui est ici introduite.
+Chose singulière, il n’est pas donné dans les modes, dans les manifestations de l’amour, qu’on appelle *tous les autres* à aimer ce que l’on aime, ce que vous aimez, et à se fondre avec vous dans la montée vers l’ἐρώμενον \[erômenon\][^122]. SOCRATE, cet homme éminemment *aimable*, puisqu’on nous le produit dès les premiers mots comme un *personnage divin*, après tout, la première chose dont il s’agit, c’est qu’ALCIBIADE veut se le garder. Vous direz que vous n’y croyiez pas et que toutes sortes de choses le montraient, *la question n’est pas là*, nous suivons le texte et c’est de cela qu’il s’agit. Non seulement c’est de cela qu’il s’agit, mais c’est à proprement parler cette dimension qui est ici introduite.
 
 <!-- id: s8-09-0082 -->
 
@@ -334,11 +334,11 @@ Si le mot « *concurrence* » est à prendre dans le sens et la fonction que j
 
 <!-- id: s8-09-0083 -->
 
-C’est la même dimension dans laquelle se déroule cette confession publique connotée avec je ne sais quelle gêne dont lui–même, ALCIBIADE, a conscience qu’il la développe en parlant. Sans doute nous sommes dans « *la vérité du vin* »... et ceci est articulé : *In vino veritas* [^124]*,* que reprendra KIERKEGAARD lorsqu’il refera lui aussi *son banquet* ...sans doute, nous sommes dans « *la vérité du vin* », mais il faut vraiment avoir franchi toutes les bornes de la pudeur pour parler vraiment de l’amour comme ALCIBIADE en parle quand il exhibe ce qui lui est arrivé avec SOCRATE.
+C’est la même dimension dans laquelle se déroule cette confession publique connotée avec je ne sais quelle gêne dont lui–même, ALCIBIADE, a conscience qu’il la développe en parlant. Sans doute nous sommes dans « *la vérité du vin* »... et ceci est articulé : *In vino veritas* [^124], que reprendra KIERKEGAARD lorsqu’il refera lui aussi *son banquet* ...sans doute, nous sommes dans « *la vérité du vin* », mais il faut vraiment avoir franchi toutes les bornes de la pudeur pour parler vraiment de l’amour comme ALCIBIADE en parle quand il exhibe ce qui lui est arrivé avec SOCRATE.
 
 <!-- id: s8-09-0084 -->
 
-Qu’y a-t-il là derrière comme objet qui introduise dans le sujet lui-même cette vacillation ? C’est ici, c’est à la fonction de *l’objet*, en tant qu’elle est proprement indiquée dans tout ce texte que je vous laisse aujourd’hui pour vous y introduire *la prochaine fois* , c’est autour *d’un mot* qui est dans le texte. Je crois avoir retrouvé l’histoire et la fonction de cet objet dans ce que nous pouvons entrevoir de son usage en grec autour d’un mot : ἄγαλμα \[agalma\]*,* qui nous est dit là être ce que SOCRATE, cette espèce de silène hirsute, recèle. C’est autour du mot ἄγαλμα \[agalma\]*,* dont je vous laisse aujourd’hui - dans le discours même - fermée l’énigme, que je ferai tourner ce que je vous dirai la prochaine fois.
+Qu’y a-t-il là derrière comme objet qui introduise dans le sujet lui-même cette vacillation ? C’est ici, c’est à la fonction de *l’objet*, en tant qu’elle est proprement indiquée dans tout ce texte que je vous laisse aujourd’hui pour vous y introduire *la prochaine fois* , c’est autour *d’un mot* qui est dans le texte. Je crois avoir retrouvé l’histoire et la fonction de cet objet dans ce que nous pouvons entrevoir de son usage en grec autour d’un mot : ἄγαλμα \[agalma\], qui nous est dit là être ce que SOCRATE, cette espèce de silène hirsute, recèle. C’est autour du mot ἄγαλμα \[agalma\], dont je vous laisse aujourd’hui - dans le discours même - fermée l’énigme, que je ferai tourner ce que je vous dirai la prochaine fois.
 
 ## Notes
 
@@ -357,7 +357,7 @@ Qu’y a-t-il là derrière comme objet qui introduise dans le sujet lui-même c
     Avec : ce qui rencontre ce qui est, Lacan propose une traduction plus littérale que celle de L. Robin.
 
 
-[^120]: Victor Hugo : *La Légende des siècles*, « [*Booz endormi*](http://fr.wikisource.org/wiki/Booz_endormi)** **».
+[^120]: Victor Hugo : *La Légende des siècles*, « [*Booz endormi*](http://fr.wikisource.org/wiki/Booz_endormi) ».
 
 
 [^121]: [Mantique](http://www.cnrtl.fr/definition/mantique) : qui ressortit à l'art de la divination.
@@ -368,7 +368,7 @@ Qu’y a-t-il là derrière comme objet qui introduise dans le sujet lui-même c
     des occupations aux belles sciences… jusqu’à … ce qui est beau par soi seul.
 
 
-[^123]: Il ne s’agit pas de « *La Grande Illusion »,* mais de « *La Règle du Jeu »*, cf. séminaire « *Le désir et son interprétation »,* 10-12-1958*.*
+[^123]: Il ne s’agit pas de « *La Grande Illusion »,* mais de « *La Règle du Jeu »*, cf. séminaire « *Le désir et son interprétation »,* 10-12-1958.
 
 
 [^124]: S. Kierkegaard : « *In vino veritas* », *stades sur le chemin de la vie,* Paris, R. Laffont, 1993.

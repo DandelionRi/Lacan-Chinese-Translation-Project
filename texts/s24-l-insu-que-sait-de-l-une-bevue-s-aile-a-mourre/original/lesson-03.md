@@ -34,7 +34,7 @@ Le tore est là, et pour le signifier, pour le distinguer de la « *double boul
 
 <!-- id: s24-03-0008 -->
 
-> de la même couleur que le tore en question ...vous dessiner ici un petit rond qui a pour effet de désigner ce qui est à l’inté­rieur du tore et ce qui est à l’extérieur*.*
+> de la même couleur que le tore en question ...vous dessiner ici un petit rond qui a pour effet de désigner ce qui est à l’inté­rieur du tore et ce qui est à l’extérieur.
 
 <!-- id: s24-03-0009 -->
 

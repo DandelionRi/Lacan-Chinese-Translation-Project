@@ -185,7 +185,7 @@ comme l’appré­hension de quelque chose qui est *au-delà d’un masque*.
 <!-- id: s5-18-0038 -->
 
 Nous pouvons, maintenant que la psychanalyse est constituée, qu’elle s’est déve­loppée en un si ample et si mouvant discours, nous représenter - mais nous nous le représentons assez mal - ce qu’était la portée de ce qu’apportait FREUD quand il com­mençait à lire dans *les symptômes* de ses patients et dans *ses propres rêves*, et quand il commençait
-à nous apporter cette notion du « *désir inconscient* »*.* C’est bien d’ailleurs ce qui nous manque pour mesurer
+à nous apporter cette notion du « *désir inconscient* ». C’est bien d’ailleurs ce qui nous manque pour mesurer
 à leur juste valeur ce qui se présente dans FREUD comme interprétation.
 
 <!-- id: s5-18-0039 -->
@@ -278,7 +278,7 @@ derrière quelque chose qui se présente paradoxalement comme absolument *fermé
 
 <!-- id: s5-18-0056 -->
 
-Et tout un chacun ici *se gargarise* avec le terme de « *sens* »*.* Je ne crois pas que le terme de « *sens* » soit là autre chose qu’une espèce d’affaiblissement de ce dont il s’agit à l’origine. Le terme de *désir,* dans ce qu’il a l’occasion de nouer,
+Et tout un chacun ici *se gargarise* avec le terme de « *sens* ». Je ne crois pas que le terme de « *sens* » soit là autre chose qu’une espèce d’affaiblissement de ce dont il s’agit à l’origine. Le terme de *désir,* dans ce qu’il a l’occasion de nouer,
 de rassembler d’identique au sujet, donne toute sa portée à ce qui s’y rencontre dans cette première appréhension
 de l’expérience analytique, et c’est à cela qu’il convient de revenir si nous devons tâcher de rassembler, à la fois
 le point où nous en sommes et ce que signifie essentiellement, non seulement notre expérience, mais ses possibilités.
@@ -758,7 +758,7 @@ de se poursuivre plus loin.
 
 <!-- id: s5-18-0149 -->
 
-Mais il peut avoir à se poursuivre plus loin parce que *le visage* s’est montré *de bois*, que *la demande a été refusée*, et alors, comme je vous l’ai dit, ce qui est à l’origine de ce *besoin* et *désir*, apparaît ici sous une forme transformée, *le visage de bois* s’est transféré dans le circuit pour venir ici, d’ailleurs à un endroit dont ce n’est pas pour rien que c’est là que nous rencontrons l’*image de l’autre* \[*i(a)*\] et qu’est donnée cette transformation de la demande qui s’appelle l’*idéal du moi* \[I\]*,* cependant qu’ici en effet, *dans la ligne signifiante,* le principe, la place s’amorce de ce qui s’appelle *interdiction* et *surmoi,*
+Mais il peut avoir à se poursuivre plus loin parce que *le visage* s’est montré *de bois*, que *la demande a été refusée*, et alors, comme je vous l’ai dit, ce qui est à l’origine de ce *besoin* et *désir*, apparaît ici sous une forme transformée, *le visage de bois* s’est transféré dans le circuit pour venir ici, d’ailleurs à un endroit dont ce n’est pas pour rien que c’est là que nous rencontrons l’*image de l’autre* \[*i(a)*\] et qu’est donnée cette transformation de la demande qui s’appelle l’*idéal du moi* \[I\], cependant qu’ici en effet, *dans la ligne signifiante,* le principe, la place s’amorce de ce qui s’appelle *interdiction* et *surmoi,*
 de ce qui s’articule comme tel venant de l’Autre. La théorie analytique a toujours eu beaucoup de difficulté à concilier l’existence, la cœxistence, la co-dimensionnalité de l’*idéal du moi* et du *surmoi*, mais assuré­ment ils répondent
 
 <!-- id: s5-18-0150 -->
@@ -779,7 +779,7 @@ Il suffirait de faire cette distinction essentielle qu’il y a entre le besoin,
 
 <!-- id: s5-18-0154 -->
 
-- alors que c’est dans la ligne de la transformation du désir \[*d* <sub>→</sub> S **◊** *a*\], en tant que le désir est toujours lié à un certain *masque,* que se produit l’*idéal du moi*.
+- alors que c’est dans la ligne de la transformation du désir \[*d* <sub>→</sub> S ◊ *a*\], en tant que le désir est toujours lié à un certain *masque,* que se produit l’*idéal du moi*.
 
 <!-- id: s5-18-0155 -->
 
@@ -800,7 +800,7 @@ Et je dirai que c’est précisément dans l’intervention de *la troisième di
 
 <!-- id: s5-18-0158 -->
 
-- un *désir* qui n’est pas *besoin* mais qui est Ἔρως \[Éros\]*,*
+- un *désir* qui n’est pas *besoin* mais qui est Ἔρως \[Éros\],
 
 <!-- id: s5-18-0159 -->
 

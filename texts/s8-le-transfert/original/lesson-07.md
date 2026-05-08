@@ -102,7 +102,7 @@ Ce « *il ne savait pas* », pour tout dire, que je vous ai inscrit au haut du
 
 <!-- id: s8-07-0025 -->
 
-Un mythologue très amusant, je veux dire qui a fait une vaste collection, *un vaste rassemblement des mythes* qui est bien utile, c’est un ouvrage qui n’a aucune renommée, mais d’un bon usage pratique qui a réuni dans deux petits volumes parus aux *Penguin Books* toute la mythologie antique, croit pouvoir faire le malin en ce qui concerne le mythe de l’Œdipe dans FREUD[^90]**.**
+Un mythologue très amusant, je veux dire qui a fait une vaste collection, *un vaste rassemblement des mythes* qui est bien utile, c’est un ouvrage qui n’a aucune renommée, mais d’un bon usage pratique qui a réuni dans deux petits volumes parus aux *Penguin Books* toute la mythologie antique, croit pouvoir faire le malin en ce qui concerne le mythe de l’Œdipe dans FREUD[^90].
 
 <!-- id: s8-07-0026 -->
 
@@ -122,7 +122,7 @@ Je rappelle donc ceci, dans les mêmes termes annotés qui sont ceux que je vien
 
 <!-- id: s8-07-0030 -->
 
-Nous dirons donc que le mystère de SOCRATE - et il faut aller à ce document de première main pour le faire rebriller dans son originalité - c’est l’installation de ce qu’il appelle lui, *la science,* ἐπιστήμη \[épistèmè\]*,* et dont vous pourrez contrôler sur texte ce que ça veut dire. Il est bien évident que ça n’a pas *le même son*, *le même accent* que pour nous. Il est bien évident qu’il n’y avait pas le plus petit commencement de ce qui s’est articulé pour nous sous la rubrique de *science*.
+Nous dirons donc que le mystère de SOCRATE - et il faut aller à ce document de première main pour le faire rebriller dans son originalité - c’est l’installation de ce qu’il appelle lui, *la science,* ἐπιστήμη \[épistèmè\], et dont vous pourrez contrôler sur texte ce que ça veut dire. Il est bien évident que ça n’a pas *le même son*, *le même accent* que pour nous. Il est bien évident qu’il n’y avait pas le plus petit commencement de ce qui s’est articulé pour nous sous la rubrique de *science*.
 
 <!-- id: s8-07-0031 -->
 
@@ -138,7 +138,7 @@ Dans le *Phédon* vous le verrez poussé à son dernier terme par l’incréduli
 
 <!-- id: s8-07-0034 -->
 
-Nous sommes là presque devant une sorte d’apparition qui nous est étrangère, quand SOCRATE - n’en doutez pas, d’une façon très exceptionnelle, d’une façon que, pour employer notre langage, et pour me faire comprendre, et pour aller vite, j’appellerai une façon qui est *de l’ordre du noyau psychotique -* déroule implacablement ses *arguments* qui n’en sont pas, mais aussi cette affirmation, plus *affirmante* que peut-être on n’en a entendue aucune*,* à ses disciples le jour même de sa mort, concernant le fait que lui SOCRATE, sereinement quitte cette vie pour une vie plus vraie, pour une vie immortelle. Il ne doute pas de rejoindre ceux qui, ne l’oublions pas, existent pour lui encore : les *Immortels*. Car la notion des *Immortels* n’est pas, pour sa pensée, éliminable, réductible : c’est *en fonction de l’antinomie* - *les Immortels et les mortels -* absolument fondamentale dans la pensée antique, et non moins, croyez-moi, pour la nôtre, que son témoignage vivant, vécu, prend sa valeur.
+Nous sommes là presque devant une sorte d’apparition qui nous est étrangère, quand SOCRATE - n’en doutez pas, d’une façon très exceptionnelle, d’une façon que, pour employer notre langage, et pour me faire comprendre, et pour aller vite, j’appellerai une façon qui est *de l’ordre du noyau psychotique -* déroule implacablement ses *arguments* qui n’en sont pas, mais aussi cette affirmation, plus *affirmante* que peut-être on n’en a entendue aucune, à ses disciples le jour même de sa mort, concernant le fait que lui SOCRATE, sereinement quitte cette vie pour une vie plus vraie, pour une vie immortelle. Il ne doute pas de rejoindre ceux qui, ne l’oublions pas, existent pour lui encore : les *Immortels*. Car la notion des *Immortels* n’est pas, pour sa pensée, éliminable, réductible : c’est *en fonction de l’antinomie* - *les Immortels et les mortels -* absolument fondamentale dans la pensée antique, et non moins, croyez-moi, pour la nôtre, que son témoignage vivant, vécu, prend sa valeur.
 
 <!-- id: s8-07-0035 -->
 
@@ -146,7 +146,7 @@ Je résume donc. *Cet infatigable questionneur*, qui n’est pas un « *parleur
 
 <!-- id: s8-07-0036 -->
 
-Car dans l’au-delà, s’il est sûr de rejoindre les *Immortels*, il est aussi - dit-il - à peu près sûr de pouvoir continuer pendant l’éternité avec des interlocuteurs dignes de lui - ceux qui l’ont précédé et tous les autres qui viendront le rejoindre *-* ses petits exercices[^95]. Ce qui, avouez-le, est une conception qui, pour satisfaisante qu’elle soit pour les gens qui aiment l’allégorie ou le tableau allégorique, est tout de même une imagination qui sent quand même singulièrement le délire.
+Car dans l’au-delà, s’il est sûr de rejoindre les *Immortels*, il est aussi - dit-il - à peu près sûr de pouvoir continuer pendant l’éternité avec des interlocuteurs dignes de lui - ceux qui l’ont précédé et tous les autres qui viendront le rejoindre - ses petits exercices[^95]. Ce qui, avouez-le, est une conception qui, pour satisfaisante qu’elle soit pour les gens qui aiment l’allégorie ou le tableau allégorique, est tout de même une imagination qui sent quand même singulièrement le délire.
 
 <!-- id: s8-07-0037 -->
 
@@ -182,7 +182,7 @@ Je n’y réponds pas, à cette question, je la pose parce qu’elle est vraisem
 
 <!-- id: s8-07-0045 -->
 
-Et par conséquent la question se pose, d’articuler, d’une façon un petit peu plus poussée qu’il n’avait été fait jusqu’à présent, ce que doit être le « *désir de l’analyste* ». Il ne suffit pas maintenant de parler de la καθαρσις \[catharsis\], de la *purification didactique*, si je puis dire, du plus gros de l’inconscient chez *l’analyste*, tout ceci reste très vague. Il faut rendre cette justice aux analystes, que depuis quelque temps ils ne s’en contentent pas, il faut aussi s’apercevoir - non pas pour les critiquer, mais pour comprendre à quel obstacle nous avons affaire - que nous ne sommes même pas au plus petit commencement de ce que l’on pourrait articuler tellement facilement*,* sous forme de questions concernant ce qui doit être obtenu chez quelqu’un, pour qu’il puisse être un analyste : il en saurait maintenant un tout petit peu plus de *la dialectique de son inconscient* ? Qu’est-ce qu’il en sait, *en fin de compte*, exactement ? Et surtout, jusqu’où ce qu’il sait a-t-il dû *aller* concernant les effets du savoir ?
+Et par conséquent la question se pose, d’articuler, d’une façon un petit peu plus poussée qu’il n’avait été fait jusqu’à présent, ce que doit être le « *désir de l’analyste* ». Il ne suffit pas maintenant de parler de la καθαρσις \[catharsis\], de la *purification didactique*, si je puis dire, du plus gros de l’inconscient chez *l’analyste*, tout ceci reste très vague. Il faut rendre cette justice aux analystes, que depuis quelque temps ils ne s’en contentent pas, il faut aussi s’apercevoir - non pas pour les critiquer, mais pour comprendre à quel obstacle nous avons affaire - que nous ne sommes même pas au plus petit commencement de ce que l’on pourrait articuler tellement facilement, sous forme de questions concernant ce qui doit être obtenu chez quelqu’un, pour qu’il puisse être un analyste : il en saurait maintenant un tout petit peu plus de *la dialectique de son inconscient* ? Qu’est-ce qu’il en sait, *en fin de compte*, exactement ? Et surtout, jusqu’où ce qu’il sait a-t-il dû *aller* concernant les effets du savoir ?
 
 <!-- id: s8-07-0046 -->
 
@@ -234,7 +234,7 @@ Après avoir fait un discours dont *le moins qu’on puisse dire* est qu’il a 
 
 <!-- id: s8-07-0058 -->
 
-- *ni de la part d’un homme ni à l’égard d’un homme*... ». 
+- *ni de la part d’un homme ni à l’égard d’un homme*... ».
 
 <!-- id: s8-07-0059 -->
 
@@ -258,7 +258,7 @@ Moralité : L’amour est donc ce qui est au principe des lois de la cité, et 
 
 <!-- id: s8-07-0064 -->
 
-Manifestement on s’amuse. Qui s’amuse ? Est-ce seulement nous, les lecteurs ? Je crois que nous aurions tout à fait tort de croire que nous soyons les seuls. AGATHON est ici en une posture qui n’est certes pas secondaire ne serait-ce que, parce que - au moins dans le principe, dans les termes, dans la position de la situation - il est *l’aimé* de SOCRATE**.**
+Manifestement on s’amuse. Qui s’amuse ? Est-ce seulement nous, les lecteurs ? Je crois que nous aurions tout à fait tort de croire que nous soyons les seuls. AGATHON est ici en une posture qui n’est certes pas secondaire ne serait-ce que, parce que - au moins dans le principe, dans les termes, dans la position de la situation - il est *l’aimé* de SOCRATE.
 
 <!-- id: s8-07-0065 -->
 
@@ -271,7 +271,7 @@ Je crois que PLATON, nous lui faisons ce crédit, s’amuse aussi de ce que j’
 
 <!-- id: s8-07-0067 -->
 
-« εἰρήνην μὲν ἐν ἀνθρώποις » \[eirènèn men en anthrôpois\] : « *Paix parmi les humains* » dit M. Léon ROBIN, ce qui veut dire : *l’amour c’est la fin du rififi.* Singulière conception, il faut bien le dire, car jusqu’à cette modulation idyllique, on ne s’en était guère douté. Mais pour mettre *les points sur les i*, il en remet : « πελάγει δὲ γαλήνην » \[pelagei de galènèn\]*,* cela veut absolument dire : *tout est en panne, calme plat sur la mer*. Autrement dit, il faut se souvenir de ce que ça veut dire « *calme plat sur la mer* », pour *les anciens* cela veut dire : « *plus rien ne marche, les vaisseaux restent bloqués à Aulis* » et quand ça vous arrive en pleine mer, on est excessivement embêté, tout aussi embêté que quand ça vous arrive au lit.
+« εἰρήνην μὲν ἐν ἀνθρώποις » \[eirènèn men en anthrôpois\] : « *Paix parmi les humains* » dit M. Léon ROBIN, ce qui veut dire : *l’amour c’est la fin du rififi.* Singulière conception, il faut bien le dire, car jusqu’à cette modulation idyllique, on ne s’en était guère douté. Mais pour mettre *les points sur les i*, il en remet : « πελάγει δὲ γαλήνην » \[pelagei de galènèn\], cela veut absolument dire : *tout est en panne, calme plat sur la mer*. Autrement dit, il faut se souvenir de ce que ça veut dire « *calme plat sur la mer* », pour *les anciens* cela veut dire : « *plus rien ne marche, les vaisseaux restent bloqués à Aulis* » et quand ça vous arrive en pleine mer, on est excessivement embêté, tout aussi embêté que quand ça vous arrive au lit.
 
 <!-- id: s8-07-0068 -->
 
@@ -291,7 +291,7 @@ Cela sonne d’ailleurs comme les vers à jamais *comiques* d’une certaine tra
 
 <!-- id: s8-07-0072 -->
 
-Nous sommes dans ce registre-là. Et « κοίτην » \[koitèn\] en plus, ce qui veut dire : *à la couche, coucouche panier, rien au lit, plus de vent* *dans les vents, tous les vents sont couchés.* Et puis « ὕπνον τ᾽ ἐνὶ κήδει » \[hupnon t’eni kèdei\]*.* Chose *singulière* : l’amour nous apporte « *le sommeil au sein des soucis* » Pourrait-on traduire au premier abord.
+Nous sommes dans ce registre-là. Et « κοίτην » \[koitèn\] en plus, ce qui veut dire : *à la couche, coucouche panier, rien au lit, plus de vent* *dans les vents, tous les vents sont couchés.* Et puis « ὕπνον τ᾽ ἐνὶ κήδει » \[hupnon t’eni kèdei\]. Chose *singulière* : l’amour nous apporte « *le sommeil au sein des soucis* » Pourrait-on traduire au premier abord.
 
 <!-- id: s8-07-0073 -->
 
@@ -303,11 +303,11 @@ D’ailleurs à partir de ce moment-là, *littéralement il se déchaîne* et no
 
 <!-- id: s8-07-0075 -->
 
-Quoi qu’il en soit, si vous êtes d’accord que *l’amour* est bien « *l’artisan de l’humeur facile »,* qu’« *il bannit toute mauvaise humeur »,* qu’« *il est libéral »,* qu’« *il est incapable d’être mal intentionné », *il y a là une énumération sur laquelle j’aimerais avec vous longuement m’attarder : c’est qu’il est dit être *le père* \[πατήρ\] *-* de quoi ? - *le père* de Τρυϕῆς \[Truphès\], d’ Ἁβρότητος \[Habrotos\], de Χλιδῆς \[Chlidès\], de Χαρίτων \[Chariton\], d’ Ἱμέρου \[Himeron\] et de Πόθου \[Pothon\].
+Quoi qu’il en soit, si vous êtes d’accord que *l’amour* est bien « *l’artisan de l’humeur facile »,* qu’« *il bannit toute mauvaise humeur »,* qu’« *il est libéral »,* qu’« *il est incapable d’être mal intentionné », *il y a là une énumération sur laquelle j’aimerais avec vous longuement m’attarder : c’est qu’il est dit être *le père* \[πατήρ\] - de quoi ? - *le père* de Τρυϕῆς \[Truphès\], d’ Ἁβρότητος \[Habrotos\], de Χλιδῆς \[Chlidès\], de Χαρίτων \[Chariton\], d’ Ἱμέρου \[Himeron\] et de Πόθου \[Pothon\].
 
 <!-- id: s8-07-0076 -->
 
-Il nous faudrait plus de temps que nous n’en disposons ici pour faire le parallèle de ces termes qu’on peut traduire au premier abord comme *Bien-être, Délicatesse, Langueur, Gracieusetés, Ardeurs, Passion,* et pour faire le double travail qui consisterait à les confronter avec le registre des *bienfaits*, de *l’honnêteté* dans *l’amour courtois* tel que je l’avais rappelé devant vous l’année dernière. Il vous serait facile alors de voir la distance, et qu’il est tout à fait impossible de se contenter du rapprochement que fait en note M. Léon ROBIN avec *la Carte du Tendre,* ou avec les vertus du chevalier dans *La Minne* [^101] - il ne l’évoque d’ailleurs pas*,* il ne parle que de la *Carte du Tendre.*
+Il nous faudrait plus de temps que nous n’en disposons ici pour faire le parallèle de ces termes qu’on peut traduire au premier abord comme *Bien-être, Délicatesse, Langueur, Gracieusetés, Ardeurs, Passion,* et pour faire le double travail qui consisterait à les confronter avec le registre des *bienfaits*, de *l’honnêteté* dans *l’amour courtois* tel que je l’avais rappelé devant vous l’année dernière. Il vous serait facile alors de voir la distance, et qu’il est tout à fait impossible de se contenter du rapprochement que fait en note M. Léon ROBIN avec *la Carte du Tendre,* ou avec les vertus du chevalier dans *La Minne* [^101] - il ne l’évoque d’ailleurs pas, il ne parle que de la *Carte du Tendre.*
 
 <!-- id: s8-07-0077 -->
 
@@ -315,7 +315,7 @@ Car ce que je vous montrerais, texte en main, c’est qu’il n’y a pas un de 
 
 <!-- id: s8-07-0078 -->
 
-Τρυϕῆς \[Truphès\] par exemple dans ARISTOPHANE, désigne ce qui chez une femme, chez une épouse, est introduit tout d’un coup dans la vie, dans la paix d’un homme, de ses insupportables prétentions. La femme qui est dite τρυϕερός \[Truphéros\], ou τρυϕερα \[Truphéra\] au féminin, est une insupportable *snobinette* : c’est celle qui ne cesse un seul instant de faire valoir devant son mari les supériorités de son rang et la qualité de sa famille et ainsi de suite. Il n’y a pas un seul de ces termes qui ne soit habituellement et en grande majorité, par les *auteurs* - qu’il s’agisse cette fois des tragiques, voire même de poètes comme HÉSIODE - conjoint, juxtaposé*,* Χλιδῆς \[Chlidès\]*, langueur* par exemple - avec l’emploi de αὐθαδία \[authadia\]*,* signifiant cette fois *une des formes les plus insupportables de* l’ὕβρις \[hubris\] et de *l’infatuation*[^102].
+Τρυϕῆς \[Truphès\] par exemple dans ARISTOPHANE, désigne ce qui chez une femme, chez une épouse, est introduit tout d’un coup dans la vie, dans la paix d’un homme, de ses insupportables prétentions. La femme qui est dite τρυϕερός \[Truphéros\], ou τρυϕερα \[Truphéra\] au féminin, est une insupportable *snobinette* : c’est celle qui ne cesse un seul instant de faire valoir devant son mari les supériorités de son rang et la qualité de sa famille et ainsi de suite. Il n’y a pas un seul de ces termes qui ne soit habituellement et en grande majorité, par les *auteurs* - qu’il s’agisse cette fois des tragiques, voire même de poètes comme HÉSIODE - conjoint, juxtaposé, Χλιδῆς \[Chlidès\]*, langueur* par exemple - avec l’emploi de αὐθαδία \[authadia\], signifiant cette fois *une des formes les plus insupportables de* l’ὕβρις \[hubris\] et de *l’infatuation*[^102].
 
 <!-- id: s8-07-0079 -->
 
@@ -331,7 +331,7 @@ Je ne veux que vous *indiquer* ces choses en passant. On continue \[[197d](http:
 
 <!-- id: s8-07-0082 -->
 
-- ἐν πόνῳ \[en ponô\]*,* ça veut dire « *dans le pétrin* »*,* ἐν ϕόβῳ \[en phobô\]*,* «* dans la crainte* »*,* ἐν λόγῳ \[en logô\]*,* « *dans le discours* »*.*
+- ἐν πόνῳ \[en ponô\], ça veut dire « *dans le pétrin* », ἐν ϕόβῳ \[en phobô\], «* dans la crainte* », ἐν λόγῳ \[en logô\], « *dans le discours* ».
 
 <!-- id: s8-07-0083 -->
 
@@ -339,7 +339,7 @@ Je ne veux que vous *indiquer* ces choses en passant. On continue \[[197d](http:
 
 <!-- id: s8-07-0084 -->
 
-C’est « *celui qui tient le gouvernail* »*.* C’est aussi «* celui qui est toujours prêt à diriger* »*.* Autrement dit, on s’amuse beaucoup. πόνῳ \[ponô\]*,* ϕόβῳ \[phobô\]*,* λόγῳ \[logô\] sont dans *le plus grand désordre*. Ce dont il s’agit, c’est toujours de produire le même effet d’ironie, voire de désorientation, qui chez *un poète tragique*, n’a vraiment pas d’autre sens que de souligner que *l’amour* est vraiment : ce qui est inclassable, ce qui vient se mettre en travers de toutes les situations significatives, ce qui n’est jamais à sa place, ce qui est toujours hors de saison.
+C’est « *celui qui tient le gouvernail* ». C’est aussi «* celui qui est toujours prêt à diriger* ». Autrement dit, on s’amuse beaucoup. πόνῳ \[ponô\], ϕόβῳ \[phobô\], λόγῳ \[logô\] sont dans *le plus grand désordre*. Ce dont il s’agit, c’est toujours de produire le même effet d’ironie, voire de désorientation, qui chez *un poète tragique*, n’a vraiment pas d’autre sens que de souligner que *l’amour* est vraiment : ce qui est inclassable, ce qui vient se mettre en travers de toutes les situations significatives, ce qui n’est jamais à sa place, ce qui est toujours hors de saison.
 
 <!-- id: s8-07-0085 -->
 
@@ -367,7 +367,7 @@ Il est bien certain qu’il n’y a rien là qui doive de toute façon désorien
 
 <!-- id: s8-07-0091 -->
 
-Ainsi passe Ἄτη*,* rapide, indifférente, et frappant et dominant à jamais et courbant les têtes, les rendant fous : telle est Ἄτη. Chose singulière que dans ce discours ce soit sous la référence de nous dire que, comme Ἄτη*, l’Amour* doit avoir la plante des pieds bien fragile pour ne pouvoir, *lui aussi,* que se déplacer sur la tête des hommes ! Et là-dessus, une fois de plus, pour confirmer \[[195e](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\] le caractère *fantaisiste* du discours, on fait quelques plaisanteries sur le fait qu’après tout, les crânes, c’est peut-être pas *si tendre que ça !*
+Ainsi passe Ἄτη, rapide, indifférente, et frappant et dominant à jamais et courbant les têtes, les rendant fous : telle est Ἄτη. Chose singulière que dans ce discours ce soit sous la référence de nous dire que, comme Ἄτη*, l’Amour* doit avoir la plante des pieds bien fragile pour ne pouvoir, *lui aussi,* que se déplacer sur la tête des hommes ! Et là-dessus, une fois de plus, pour confirmer \[[195e](http://remacle.org/bloodwolf/philosophes/platon/cousin/banquet.htm)\] le caractère *fantaisiste* du discours, on fait quelques plaisanteries sur le fait qu’après tout, les crânes, c’est peut-être pas *si tendre que ça !*
 
 <!-- id: s8-07-0092 -->
 
@@ -387,7 +387,7 @@ Bref, nous voici au carrefour où - comme il sera rappelé à la fin dans les de
 
 <!-- id: s8-07-0096 -->
 
-**  **
+&nbsp;
 
 ## Notes
 
@@ -403,7 +403,7 @@ Bref, nous voici au carrefour où - comme il sera rappelé à la fin dans les de
     par des mouvements circulaires et uniformes » (*Almageste* III, ch. 2, cité par Duhem, p. 487, in Koestler : *Les somnambules*, Calmann-Lévy, 1960, p. 70).
 
 
-[^88]: *Iphigénie*, Acte IV*,* scène VI, v. 1318.
+[^88]: *Iphigénie*, Acte IV, scène VI, v. 1318.
 
 
 [^89]: *Apologie de Socrate*, 28cd.

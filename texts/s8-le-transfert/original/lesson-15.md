@@ -18,7 +18,7 @@ Il est très important de voir dans quelle mesure la vue *naturaliste* impliqué
 
 <!-- id: s8-15-0004 -->
 
-- que c’est *cette marge de la demande qui constitue son lieu*, ...que, pour pointer ce qu’ici je veux dire - c’est dans un *au-delà* et un *en deçà* - dans ce double creux qui s’esquisse déjà dès que *le cri de la faim* passe à s’articuler - qu’à l’autre extrême nous voyons que l’objet qu’on appelle le *nipple* en anglais, le « *bout de sein* », le mamelon prend à terme, dans l’érotisme humain, sa valeur d’ἄγαλμα \[agalma\], de *merveille*, d’*objet précieux,* devenant le support de cette volupté, de *ce plaisir* d’un mordillement où se perpétue ce que nous pouvons bien appeler une « *voracité sublimée* » en tant qu’elle prend ce *Lust,* ce *plaisir* et aussi bien ces *Lüste,* ces *désirs* - vous savez l’équivoque que conserve en lui le terme allemand qui s’exprime dans ce *glissement de signification* produit du passage *du singulier au pluriel* [^191] *-* donc son plaisir et ses désirs, sa convoitise, cet objet oral les prend d’ailleurs.
+- que c’est *cette marge de la demande qui constitue son lieu*, ...que, pour pointer ce qu’ici je veux dire - c’est dans un *au-delà* et un *en deçà* - dans ce double creux qui s’esquisse déjà dès que *le cri de la faim* passe à s’articuler - qu’à l’autre extrême nous voyons que l’objet qu’on appelle le *nipple* en anglais, le « *bout de sein* », le mamelon prend à terme, dans l’érotisme humain, sa valeur d’ἄγαλμα \[agalma\], de *merveille*, d’*objet précieux,* devenant le support de cette volupté, de *ce plaisir* d’un mordillement où se perpétue ce que nous pouvons bien appeler une « *voracité sublimée* » en tant qu’elle prend ce *Lust,* ce *plaisir* et aussi bien ces *Lüste,* ces *désirs* - vous savez l’équivoque que conserve en lui le terme allemand qui s’exprime dans ce *glissement de signification* produit du passage *du singulier au pluriel* [^191] - donc son plaisir et ses désirs, sa convoitise, cet objet oral les prend d’ailleurs.
 
 <!-- id: s8-15-0005 -->
 
@@ -182,7 +182,7 @@ La mère du petit Hans, et aussi bien *toutes les mères* - « *j’en appelle 
 
 <!-- id: s8-15-0045 -->
 
-Mais ceci est strictement corrélatif d’*un intérêt* non moins douteux *pour quelque chose qui est ici l’objet*, celui auquel nous avons appris à donner toute son importance, à savoir *le phallus*. D’une façon sans doute allusive mais non ambiguë, combien de mères - toutes les mères - devant le petit robinet du petit Hans, ou de quelque autre, devant le « *Wiwimacher* »*,* le « *fait-pipi* », de quelque façon qu’on l’appelle, feront des réflexions comme : « *il est fort bien doué mon petit* », ou bien : « *tu auras beaucoup d’enfants* ». Bref, l’appréciation en tant que portée sur l’objet, lui, bel et bien *partiel* encore ici, est quelque chose qui contraste avec le refus du désir.
+Mais ceci est strictement corrélatif d’*un intérêt* non moins douteux *pour quelque chose qui est ici l’objet*, celui auquel nous avons appris à donner toute son importance, à savoir *le phallus*. D’une façon sans doute allusive mais non ambiguë, combien de mères - toutes les mères - devant le petit robinet du petit Hans, ou de quelque autre, devant le « *Wiwimacher* », le « *fait-pipi* », de quelque façon qu’on l’appelle, feront des réflexions comme : « *il est fort bien doué mon petit* », ou bien : « *tu auras beaucoup d’enfants* ». Bref, l’appréciation en tant que portée sur l’objet, lui, bel et bien *partiel* encore ici, est quelque chose qui contraste avec le refus du désir.
 
 <!-- id: s8-15-0046 -->
 
@@ -226,7 +226,7 @@ En d’autres termes, *le petit(a)*...
 
 <!-- id: s8-15-0055 -->
 
-...*le petit(a), c’est le* A *moins phi : (a)* = A – ϕ*.*
+...*le petit(a), c’est le* A *moins phi : (a)* = A – ϕ.
 
 <!-- id: s8-15-0056 -->
 
@@ -252,7 +252,7 @@ C’est ici que nous allons trouver la pointe de ce qui constitue l’impasse et
 
     *sexuelles préliminaires qui fournissent simultanément une part de satisfaction et un apport à la tension sexuelle. « Lust » est à double sens et désigne aussi bien la sensation de la*
 
-    *tension sexuelle (j’ai envie = je voudrais, j’éprouve l’impulsion) que celle de la satisfaction.* » (S. Freud, *Trois essais sur la théorie du sexuel,* n°3*,* *La Transa,* n° spécial, p. 23*.)*
+    *tension sexuelle (j’ai envie = je voudrais, j’éprouve l’impulsion) que celle de la satisfaction.* » (S. Freud, *Trois essais sur la théorie du sexuel,* n°3, *La Transa,* n° spécial, p. 23*.)*
 
 
 [^192]: Ce n’est pas un numéro de *l’Évolution psychiatrique* que Henri Ey a consacré aux perversions animales mais, sous sa direction avec Brion, est paru :

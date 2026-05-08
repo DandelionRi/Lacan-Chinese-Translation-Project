@@ -214,7 +214,7 @@ Et je le prends chez *un des meilleurs auteurs* qui soit, chez *un des plus souc
 
 <!-- id: s6-20-0053 -->
 
-Je prends un exemple d’un des nombreux articles qu’il faut que vous lisiez, celui qui est paru dans le *International Journal of Psycho-analysis, d’Octobre* 1933*, part* 4* *: « *De la relation de la formation perverse au développement du sens de la réalité* »[^98]. Beaucoup de choses sont importantes à discuter dans cet article, ne seraient­ce que les termes de départ qu’il nous donne dans le dessein de *manier* correctement ce qu’il s’agit pour lui de nous montrer, nommément :
+Je prends un exemple d’un des nombreux articles qu’il faut que vous lisiez, celui qui est paru dans le *International Journal of Psycho-analysis, d’Octobre* 1933*, part* 4: « *De la relation de la formation perverse au développement du sens de la réalité* »[^98]. Beaucoup de choses sont importantes à discuter dans cet article, ne seraient­ce que les termes de départ qu’il nous donne dans le dessein de *manier* correctement ce qu’il s’agit pour lui de nous montrer, nommément :
 
 <!-- id: s6-20-0054 -->
 
@@ -394,11 +394,11 @@ C’est par une confusion donc entre :
 
 <!-- id: s6-20-0098 -->
 
-C’est m’opposant à cela que j’essaie pour vous d’articuler autrement, et d’une façon que je prétends plus conforme à notre expérience, à savoir de vous permettre de saisir à chaque instant quelle est la véritable articulation entre *le désir et* ce qu’on appelle à l’occasion *son objet*. C’est cela que j’appelle l’articulation synchronique - que j’essaye d’introduire auprès de vous - du rapport du désir à son objet. C’est la forme vraie de la prétendue relation d’objet telle qu’elle est jusqu’ici pour vous articulée. La formule symbolique S**◊***a*, pour autant qu’elle est celle qui vous permet de donner sa forme à ce que j’appelle le fantasme – je l’appelle ici *fondamental* – cela ne veut rien dire d’autre, si ce n’est dans la perspective synchronique qui assure la structure minima à ce qui doit être le support du désir. Dans cette structure minima, deux termes dont la relation l’un à l’autre constitue le fantasme lui-même, complexe pour autant que *c’est dans un rapport tiers avec ce fantasme que le sujet se constitue comme désir.*
+C’est m’opposant à cela que j’essaie pour vous d’articuler autrement, et d’une façon que je prétends plus conforme à notre expérience, à savoir de vous permettre de saisir à chaque instant quelle est la véritable articulation entre *le désir et* ce qu’on appelle à l’occasion *son objet*. C’est cela que j’appelle l’articulation synchronique - que j’essaye d’introduire auprès de vous - du rapport du désir à son objet. C’est la forme vraie de la prétendue relation d’objet telle qu’elle est jusqu’ici pour vous articulée. La formule symbolique S◊*a*, pour autant qu’elle est celle qui vous permet de donner sa forme à ce que j’appelle le fantasme – je l’appelle ici *fondamental* – cela ne veut rien dire d’autre, si ce n’est dans la perspective synchronique qui assure la structure minima à ce qui doit être le support du désir. Dans cette structure minima, deux termes dont la relation l’un à l’autre constitue le fantasme lui-même, complexe pour autant que *c’est dans un rapport tiers avec ce fantasme que le sujet se constitue comme désir.*
 
 <!-- id: s6-20-0099 -->
 
-Nous prenons aujourd’hui la perspective tierce de ce fantasme en faisant passer l’assomption du sujet par *a*, ce qui est tout aussi légitime que de le faire passer par S, étant donné que c’est dans le rapport de confrontation : S**◊***a* que se tient *le désir*. Vous m’avez déjà entendu articuler les choses assez loin pour n’être point, je pense, étonnés, déroutés ni surpris, si j’avance que *l’objet(a) se définit d’abord comme le support que le sujet se donne pour autant qu’il défaille.*
+Nous prenons aujourd’hui la perspective tierce de ce fantasme en faisant passer l’assomption du sujet par *a*, ce qui est tout aussi légitime que de le faire passer par S, étant donné que c’est dans le rapport de confrontation : S◊*a* que se tient *le désir*. Vous m’avez déjà entendu articuler les choses assez loin pour n’être point, je pense, étonnés, déroutés ni surpris, si j’avance que *l’objet(a) se définit d’abord comme le support que le sujet se donne pour autant qu’il défaille.*
 
 <!-- id: s6-20-0100 -->
 

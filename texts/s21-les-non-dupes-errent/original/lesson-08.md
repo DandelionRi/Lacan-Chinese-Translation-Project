@@ -10,7 +10,7 @@ Alors, cher Rondepierre, je vous l’ai barboté, hein ? Je vous l’ai barboté
 
 <!-- id: s21-08-0002 -->
 
-C’était vous qui l’aviez commandé, mais je l’ai pris*.* Voilà !
+C’était vous qui l’aviez commandé, mais je l’ai pris. Voilà !
 
 <!-- id: s21-08-0003 -->
 
@@ -238,7 +238,7 @@ Quoi qu’il en soit, *science,* donc, *sans conscience*. Il y a quelqu’un qui
 
 <!-- id: s21-08-0058 -->
 
-...« *Science sans conscience -* a-t-il dit - *n’est que ruine de l’âme* »*.*
+...« *Science sans conscience -* a-t-il dit - *n’est que ruine de l’âme* ».
 
 <!-- id: s21-08-0059 -->
 
@@ -454,7 +454,7 @@ Mais s’il y a alors un savoir dont ça se touche du doigt que ça s’*invente
 
 <!-- id: s21-08-0110 -->
 
-Faut dire que le personnage en question *-* là, que j’ai félicité au tournant c’était pas un clinicien, mais il avait seulement lu Sacher-Masoch [^17].
+Faut dire que le personnage en question - là, que j’ai félicité au tournant c’était pas un clinicien, mais il avait seulement lu Sacher-Masoch [^17].
 
 <!-- id: s21-08-0111 -->
 
@@ -704,7 +704,7 @@ Il est vrai que, si c’est vrai que ça ne se situe que là où je vous le dis,
 
 <!-- id: s21-08-0172 -->
 
-Vous voyez bien qu’entre le « *ne cesse pas de s’écrire : p* » et le « *ne cesse pas de s’écrire : non-p* »*,* nous sommes là dans l’*artefact* dont témoigne justement, et qui témoigne en même temps de cette béance concernant la vérité, et que l’ordre du *possible* est - comme l’indique Aristote - connecté au *nécessaire*.
+Vous voyez bien qu’entre le « *ne cesse pas de s’écrire : p* » et le « *ne cesse pas de s’écrire : non-p* », nous sommes là dans l’*artefact* dont témoigne justement, et qui témoigne en même temps de cette béance concernant la vérité, et que l’ordre du *possible* est - comme l’indique Aristote - connecté au *nécessaire*.
 
 <!-- id: s21-08-0173 -->
 
@@ -752,7 +752,7 @@ Ce qui bien sûr, naturellement, n’est pas du *dire* courant de tous les jours
 
 <!-- id: s21-08-0184 -->
 
-Et c’est bien en quoi ce que j’ai marqué concernant l’*impossible*, c’est­-à-dire ce qui sépare, mais autrement que ne fait le possible, ce n’est pas un « *ou-ou* », c’est un « *et-et *»*.* En d’autres termes, que ce soit à la fois *p* et *non­-p*, c’est impossible, c’est très précisément ce que vous rejetez au nom du *principe de contra­diction*.
+Et c’est bien en quoi ce que j’ai marqué concernant l’*impossible*, c’est­-à-dire ce qui sépare, mais autrement que ne fait le possible, ce n’est pas un « *ou-ou* », c’est un « *et-et *». En d’autres termes, que ce soit à la fois *p* et *non­-p*, c’est impossible, c’est très précisément ce que vous rejetez au nom du *principe de contra­diction*.
 
 <!-- id: s21-08-0185 -->
 

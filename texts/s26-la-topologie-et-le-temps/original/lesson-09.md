@@ -680,7 +680,7 @@ Très brièvement je pense qu’on est peut-être fondé à repérer au moins tr
 
 <!-- id: s26-09-0165 -->
 
-- *une incorporation pré-œdipienne*, celle que Freud repère dans le couple *Bejahung*-*Ausstossung*, incorporation qui a été repérée par Mélanie Klein d’ailleurs quand elle repère que l’enfant dans la mère incorpore un signifiant du père, le signifiant phallique,
+- *une incorporation pré-œdipienne*, celle que Freud repère dans le couple *Bejahung-Ausstossung*, incorporation qui a été repérée par Mélanie Klein d’ailleurs quand elle repère que l’enfant dans la mère incorpore un signifiant du père, le signifiant phallique,
 
 <!-- id: s26-09-0166 -->
 

@@ -100,7 +100,7 @@ Autrement dit, que spécia­lement pour la femme, c’est en tant que *ce phallu
 
 <!-- id: s4-09-0019 -->
 
-mais n’avoir pas le *phallus* \[réel\]*,* *symboliquement* c’est en participer à titre d’absence,
+mais n’avoir pas le *phallus* \[réel\], *symboliquement* c’est en participer à titre d’absence,
 c’est l’avoir en quelque sorte \[le phallus symbolique\]
 …que ce *phallus* est toujours au­-delà de toute relation entre l’homme et la femme, et que ce *phallus* qui peut faire à l’occasion l’objet d’une nostalgie imaginaire de la part de la femme, en tant qu’elle n’a qu’un tout petit *phallus*, ce n’est pas le seul
 qui entre en fonction pour elle. En tant qu’elle est prise dans *la relation intersubjective*, il y a au-delà d’elle pour l’homme, *ce phallus qu’elle n’a pas*, c’est à dire *le phallus symbolique qui existe là en tant qu’absence*. Pas seulement parce qu’*elle n’en a qu’un tout petit insuffisant*. C’est tout à fait indépendant de l’infériorité qu’elle peut res­sentir sur le plan *imaginaire*, pour ce qu’elle a de participation réelle avec le *phallus*.
@@ -150,7 +150,7 @@ que la femme *se donne*, c’est précisément dans la mesure où symboliquement
 <!-- id: s4-09-0027 -->
 
 Comment ne voyons-nous pas là tout de suite que s’il est indispensable que quelque chose de cet ordre se produise,
-qu’il y ait cette sorte de renversement initial pour que nous puissions comprendre des choses tout à fait paradoxales autrement, c’est-à-dire par exemple que *c’est toujours le garçon qui est le fétichiste et jamais la fille***.**
+qu’il y ait cette sorte de renversement initial pour que nous puissions comprendre des choses tout à fait paradoxales autrement, c’est-à-dire par exemple que *c’est toujours le garçon qui est le fétichiste et jamais la fille**.*
 
 <!-- id: s4-09-0028 -->
 

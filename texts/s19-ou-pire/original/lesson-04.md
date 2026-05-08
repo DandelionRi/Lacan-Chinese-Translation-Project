@@ -54,7 +54,7 @@ Et s’il est vrai que l’apparition d’une nouvelle structure de discours pre
 
 <!-- id: s19-04-0013 -->
 
-> comme je l’ai appelé dans un texte publié ailleurs ...par le dernier glissement de ce qui s’articule au nom de *la signifiance* \[**S<sub>1</sub>** **◊ S<sub>2</sub>**\], il devient sensible que quelque chose d’original se produit de ce cercle qui se ferme.
+> comme je l’ai appelé dans un texte publié ailleurs ...par le dernier glissement de ce qui s’articule au nom de *la signifiance* \[**S<sub>1</sub> ◊ S<sub>2</sub>**\], il devient sensible que quelque chose d’original se produit de ce cercle qui se ferme.
 
 <!-- id: s19-04-0014 -->
 
@@ -206,7 +206,7 @@ Dans cette question, ce n’est pas *ce qui est inexistant* qui compte, c’est 
 
 <!-- id: s19-04-0051 -->
 
-Ce n’est pas par *la jouissance* ni par *la vérité* que *l’inexistence* prend statut*,* qu’elle peut inexister, c’est-à-dire venir au symbole qui la désigne comme inexistence, non pas au sens de ne pas avoir d’existence, mais de n’être existence que du symbole qui la ferait inexistante et qui, *lui,* existe : c’est un nombre, comme vous le savez généralement désigné par zéro.
+Ce n’est pas par *la jouissance* ni par *la vérité* que *l’inexistence* prend statut, qu’elle peut inexister, c’est-à-dire venir au symbole qui la désigne comme inexistence, non pas au sens de ne pas avoir d’existence, mais de n’être existence que du symbole qui la ferait inexistante et qui, *lui,* existe : c’est un nombre, comme vous le savez généralement désigné par zéro.
 
 <!-- id: s19-04-0052 -->
 
@@ -270,7 +270,7 @@ Ce que le discours fait...
 
 <!-- id: s19-04-0067 -->
 
-- de *l’acide désoxyribonucléique* \[ADN\]*,*
+- de *l’acide désoxyribonucléique* \[ADN\],
 
 <!-- id: s19-04-0068 -->
 
@@ -586,7 +586,7 @@ Néanmoins c’est sur cette hypothèse que Frege constitue la notion que *le co
 
 <!-- id: s19-04-0143 -->
 
-> selon la formule qu’il a donnée d’abord pour celle qui est du *nombre prédécesseur* ...donne un nombre différent de ce qu’il en est du 0 défi­ni, tenu - et bel et bien - pour le néant, c’est-à-dire de celui auquel convient *non pas l’égalité à* 0, mais *le nombre* 0*.*
+> selon la formule qu’il a donnée d’abord pour celle qui est du *nombre prédécesseur* ...donne un nombre différent de ce qu’il en est du 0 défi­ni, tenu - et bel et bien - pour le néant, c’est-à-dire de celui auquel convient *non pas l’égalité à* 0, mais *le nombre* 0.
 
 <!-- id: s19-04-0144 -->
 
@@ -626,7 +626,7 @@ Assurément la discussion pourrait se poursuivre par les voies purement fregeien
 
 <!-- id: s19-04-0153 -->
 
-Néanmoins, pour votre éclaircissement, j’ai cru devoir reproduire ce qui peut être dit n’avoir pas de rapport avec le nombre entier, à savoir le triangle arithmétique. Le [*tria**ngle arithmétique*](#TriangleRetour) s’organise de la façon suivante : il part, comme donnée, de la suite des nombres entiers.
+Néanmoins, pour votre éclaircissement, j’ai cru devoir reproduire ce qui peut être dit n’avoir pas de rapport avec le nombre entier, à savoir le triangle arithmétique. Le [*triangle arithmétique*](#TriangleRetour) s’organise de la façon suivante : il part, comme donnée, de la suite des nombres entiers.
 
 <!-- id: s19-04-0154 -->
 
@@ -642,7 +642,7 @@ Chaque *terme* à s’inscrire est constitué sans autre commentaire, il s’agi
 
 <!-- id: s19-04-0157 -->
 
-Vous vérifierez aisément qu’il s’agit ici de quelque chose qui nous donne... 
+Vous vérifierez aisément qu’il s’agit ici de quelque chose qui nous donne...
 
 <!-- id: s19-04-0158 -->
 

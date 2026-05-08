@@ -72,11 +72,11 @@ S’il est vrai, comme je l’énonce, que *la vérité parle* « *je* » il 
 
 <!-- id: s16-05-0017 -->
 
-- par la même conséquence : « *Tu aimeras* - *comme il se dit aussi* - *ton prochain comme toi*-*même* », « *toi*-*même* » n’étant rien d’autre que ce à quoi il est dit, dans ces *commandements* mêmes, ce à quoi on s’adresse comme à un « *Tu* » et même à un « *Tu es* », dont j’ai souligné *depuis longtemps* l’ambiguïté vraiment magique dans la langue française.
+- par la même conséquence : « *Tu aimeras* - *comme il se dit aussi* - *ton prochain comme toi-même* », « *toi-même* » n’étant rien d’autre que ce à quoi il est dit, dans ces *commandements* mêmes, ce à quoi on s’adresse comme à un « *Tu* » et même à un « *Tu es* », dont j’ai souligné *depuis longtemps* l’ambiguïté vraiment magique dans la langue française.
 
 <!-- id: s16-05-0018 -->
 
-Ce commandement dont le prélude sous-jacent est ce « *Tu es* » qui vous institue comme « *je* », c’est aussi la même pente offerte à ce « *tu*-*ant* » qu’il y a dans toute invocation, et l’on sait qu’il n’y a pas loin de l’ordre à ce qu’on y réponde : tout HEGEL est construit pour montrer ce qui s’édifie là-dessus.
+Ce commandement dont le prélude sous-jacent est ce « *Tu es* » qui vous institue comme « *je* », c’est aussi la même pente offerte à ce « *tu-ant* » qu’il y a dans toute invocation, et l’on sait qu’il n’y a pas loin de l’ordre à ce qu’on y réponde : tout HEGEL est construit pour montrer ce qui s’édifie là-dessus.
 
 <!-- id: s16-05-0019 -->
 
@@ -100,7 +100,7 @@ Il convient donc…
 
 <!-- id: s16-05-0024 -->
 
-Pour nous, dans un abord qui est celui que j’ai commencé de frayer*,* c’est devant l’Autre - comme permettant de cerner une défaillance logique, comme lieu d’un défaut d’origine porté dans la parole en tant qu’elle pourrait répondre, c’est là qu’apparaît le « *je* » comme premièrement *assujetti*, comme *a*-*sujet* ai-je écrit quelque part pour désigner *ce sujet*, en tant que dans le discours il ne se produit jamais que divisé.
+Pour nous, dans un abord qui est celui que j’ai commencé de frayer, c’est devant l’Autre - comme permettant de cerner une défaillance logique, comme lieu d’un défaut d’origine porté dans la parole en tant qu’elle pourrait répondre, c’est là qu’apparaît le « *je* » comme premièrement *assujetti*, comme *a-sujet* ai-je écrit quelque part pour désigner *ce sujet*, en tant que dans le discours il ne se produit jamais que divisé.
 
 <!-- id: s16-05-0025 -->
 
@@ -172,7 +172,7 @@ C’est ça l’événement du discours par lequel celui même qui le dit, se po
 
 <!-- id: s16-05-0042 -->
 
-> d’ailleurs, que vous retrouverez baladeur dans toutes sortes de coins du français …lui-même, *pourquoi nous revient*-*il se loger là où il n’a que faire ?* Dans un « *orne*-*t*-*il* » par exemple ? C’est-à-dire là où il n’était pas du tout dans la conjugaison. *Ce sujet grammatical donc*, si difficile à bien cerner, *n’est que la place où quelque chose vient à se représenter*.
+> d’ailleurs, que vous retrouverez baladeur dans toutes sortes de coins du français …lui-même, *pourquoi nous revient-il se loger là où il n’a que faire ?* Dans un « *orne-t-il* » par exemple ? C’est-à-dire là où il n’était pas du tout dans la conjugaison. *Ce sujet grammatical donc*, si difficile à bien cerner, *n’est que la place où quelque chose vient à se représenter*.
 
 <!-- id: s16-05-0043 -->
 
@@ -344,7 +344,7 @@ C’est donc d’abord en tant que l’Autre *n’est pas consistant* que l’é
 
 <!-- id: s16-05-0084 -->
 
-Ici s’inscrit sous la forme S **◊** D, S *poinçon de* D. Il ne s’agit que de ceci - qui s’énonce d’une façon qui n’est pas énoncée - en ceci qui distingue tout énoncé : c’est qu’*il y est soustrait ce* « *je dis que* » qui est la forme où le « *je* » est limité.
+Ici s’inscrit sous la forme S ◊ D, S *poinçon de* D. Il ne s’agit que de ceci - qui s’énonce d’une façon qui n’est pas énoncée - en ceci qui distingue tout énoncé : c’est qu’*il y est soustrait ce* « *je dis que* » qui est la forme où le « *je* » est limité.
 
 <!-- id: s16-05-0085 -->
 
@@ -352,7 +352,7 @@ Le « *je* » de la grammaire peut s’isoler hors de tout risque essentiel, p
 
 <!-- id: s16-05-0086 -->
 
-Au niveau de ce S **◊** D, la question double c’est :
+Au niveau de ce S ◊ D, la question double c’est :
 
 <!-- id: s16-05-0087 -->
 
@@ -360,11 +360,11 @@ Au niveau de ce S **◊** D, la question double c’est :
 
 <!-- id: s16-05-0088 -->
 
-- et son double qui est précisément la question que nous pointons aujourd’hui, à savoir : « *je te demande -* non qui je suis, mais plus loin encore - *ce qu’est «Je»* »*.*
+- et son double qui est précisément la question que nous pointons aujourd’hui, à savoir : « *je te demande -* non qui je suis, mais plus loin encore - *ce qu’est «Je»* ».
 
 <!-- id: s16-05-0089 -->
 
-Ici s’installe le nœud même, qui est celui que j’ai formulé en proférant que *le désir de l’homme c’est le désir de l’Autre*, c’est-à-dire que, si je puis dire, si vous prenez les vecteurs tels qu’ils se définissent sur ce graphe, à savoir venant ici du départ de *la chaîne signi­fiante pure*, pour ici - du carrefour désigné par S **◊** D - avoir ce retour qui complète *la rétroaction* ici marquée, c’est bel et bien en ce point dit *d(A),* désir de l’Autre, que convergent ces deux éléments que j’ai articulés sous la forme « *je me demande ce que tu désires* »*.*
+Ici s’installe le nœud même, qui est celui que j’ai formulé en proférant que *le désir de l’homme c’est le désir de l’Autre*, c’est-à-dire que, si je puis dire, si vous prenez les vecteurs tels qu’ils se définissent sur ce graphe, à savoir venant ici du départ de *la chaîne signi­fiante pure*, pour ici - du carrefour désigné par S ◊ D - avoir ce retour qui complète *la rétroaction* ici marquée, c’est bel et bien en ce point dit *d(A),* désir de l’Autre, que convergent ces deux éléments que j’ai articulés sous la forme « *je me demande ce que tu désires* ».
 
 <!-- id: s16-05-0090 -->
 
@@ -408,7 +408,7 @@ Cette signification quelle est-elle ? Car n’est-il pas sensible que tout ce di
 
 <!-- id: s16-05-0100 -->
 
-> que je file pour donner l’armature au « *je* » de l’interrogation dont s’institue cette expérience …n’est-il pas sensible *que je le poursuis en ne laissant en*-*dehors* - au moins jusqu’à ce point où nous arrivons ici - *aucune signification* ?
+> que je file pour donner l’armature au « *je* » de l’interrogation dont s’institue cette expérience …n’est-il pas sensible *que je le poursuis en ne laissant en-dehors* - au moins jusqu’à ce point où nous arrivons ici - *aucune signification* ?
 
 <!-- id: s16-05-0101 -->
 

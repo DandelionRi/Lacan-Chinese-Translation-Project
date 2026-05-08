@@ -6,7 +6,7 @@
 
 <!-- id: s9-23-0001 -->
 
-Nous allons continuer aujourd’hui à élaborer la fonction de ce qu’on peut appeler « *le signifiant de la coupure* », ou encore le « *huit intérieur* »*,* ou encore « *le lacs* »*,* ou encore ce que j’ai appelé la dernière fois le « *signifiant polonais* »*.* Je voudrais pouvoir lui donner un nom encore moins significatif, pour essayer d’approcher ce qu’il a de purement *signifiant*.
+Nous allons continuer aujourd’hui à élaborer la fonction de ce qu’on peut appeler « *le signifiant de la coupure* », ou encore le « *huit intérieur* », ou encore « *le lacs* », ou encore ce que j’ai appelé la dernière fois le « *signifiant polonais* ». Je voudrais pouvoir lui donner un nom encore moins significatif, pour essayer d’approcher ce qu’il a de purement *signifiant*.
 
 <!-- id: s9-23-0002 -->
 
@@ -70,7 +70,7 @@ pour employer les mêmes couleurs :
 
 <!-- id: s9-23-0017 -->
 
-- de là à là un cercle dit *cercle de la demande* \[D\]*,*
+- de là à là un cercle dit *cercle de la demande* \[D\],
 
 <!-- id: s9-23-0018 -->
 
@@ -182,7 +182,7 @@ La deuxième remarque est celle-ci, que vous pourrez constater du même coup : d
 
 <!-- id: s9-23-0045 -->
 
-La troisième remarque est liée à une seconde référence, à savoir que quelque chose va paraître - vous allez être régalés d’ici peu - qui est au moins aussi impor­tant - enfin, l’importance ne se mesure pas, dans des domaines différents, avec un centimètre - qui est très important aussi, disons, c’est le volume, qui n’est pas encore en librairie m’a-t-on dit, de Claude LÉVI-STRAUSS qui s’appelle *La Pensée sauvage*[^175]*.* Il est paru, me dites-vous ?
+La troisième remarque est liée à une seconde référence, à savoir que quelque chose va paraître - vous allez être régalés d’ici peu - qui est au moins aussi impor­tant - enfin, l’importance ne se mesure pas, dans des domaines différents, avec un centimètre - qui est très important aussi, disons, c’est le volume, qui n’est pas encore en librairie m’a-t-on dit, de Claude LÉVI-STRAUSS qui s’appelle *La Pensée sauvage*[^175]. Il est paru, me dites-vous ?
 
 <!-- id: s9-23-0046 -->
 
@@ -190,7 +190,7 @@ J’espère que vous avez déjà commencé à vous amuser ! Grâce aux soins que
 
 <!-- id: s9-23-0047 -->
 
-Et Claude LÉVI-STRAUSS nous montre qu’il est tout à fait impossible de mettre là une coupure si radicale puisque la pensée qui n’a pas encore conquis son statut *scientifique* est tout à fait déjà appropriée à porter *certains effets scientifiques*. Telle est du moins sa visée apparente à son départ, et il prend singulièrement comme exemple, pour illus­trer ce qu’il veut en dire, de la pensée sauvage, quelque chose où sans doute entend-il rejoindre ce quelque chose de commun qu’il y aurait avec la pensée, disons telle que - il le souligne - telle qu’elle a porté des fruits fondamentaux à par­tir du moment lui-même qu’on ne peut pas qualifier d’absolument *anhistorique* puisqu’il le précise : *la pensée à partir de l’ère néolithique*[^176] *donne* *-* nous dit-il - *encore tous ses fondements à notre assiette dans le monde*.
+Et Claude LÉVI-STRAUSS nous montre qu’il est tout à fait impossible de mettre là une coupure si radicale puisque la pensée qui n’a pas encore conquis son statut *scientifique* est tout à fait déjà appropriée à porter *certains effets scientifiques*. Telle est du moins sa visée apparente à son départ, et il prend singulièrement comme exemple, pour illus­trer ce qu’il veut en dire, de la pensée sauvage, quelque chose où sans doute entend-il rejoindre ce quelque chose de commun qu’il y aurait avec la pensée, disons telle que - il le souligne - telle qu’elle a porté des fruits fondamentaux à par­tir du moment lui-même qu’on ne peut pas qualifier d’absolument *anhistorique* puisqu’il le précise : *la pensée à partir de l’ère néolithique*[^176] *donne* - nous dit-il - *encore tous ses fondements à notre assiette dans le monde*.
 
 <!-- id: s9-23-0048 -->
 
@@ -198,7 +198,7 @@ Et Claude LÉVI-STRAUSS nous montre qu’il est tout à fait impossible de mettr
 
 <!-- id: s9-23-0049 -->
 
-Mais il m’a paru justement particulièrement *suggestif* pour moi, après la relecture que je venais de faire, grâce à M. de WAELHENS, des thèmes heideggeriens : précisément en tant qu’il prend comme exemple dans sa recherche du statut, si l’on peut dire, de la connaissance en tant qu’il peut s’établir dans une approche qui pour l’éta­blir prétend cheminer à partir de l’interrogation concernant ce qu’il appelle « *l’être là* »*,* c’est-à-dire *la forme la plus voilée* à la fois et la plus immédiate, d’un cer­tain type d’« *étant »* : *le fait d’être, qui est celui particulier à l’être humain*.
+Mais il m’a paru justement particulièrement *suggestif* pour moi, après la relecture que je venais de faire, grâce à M. de WAELHENS, des thèmes heideggeriens : précisément en tant qu’il prend comme exemple dans sa recherche du statut, si l’on peut dire, de la connaissance en tant qu’il peut s’établir dans une approche qui pour l’éta­blir prétend cheminer à partir de l’interrogation concernant ce qu’il appelle « *l’être là* », c’est-à-dire *la forme la plus voilée* à la fois et la plus immédiate, d’un cer­tain type d’« *étant »* : *le fait d’être, qui est celui particulier à l’être humain*.
 
 <!-- id: s9-23-0050 -->
 
@@ -598,7 +598,7 @@ L’heure est avancée et c’est bien là que je suis forcé de vous laisser. J
 
 <!-- id: s9-23-0149 -->
 
-C’est là que je reprendrai la prochaine fois. Je reviens donc sur ce que j’ai dit à l’entrée, le fait que je n’aie pu arriver que jusqu’à ce point de mon exposé, fera que *le séminaire de mer­credi prochain* - dites-le à ceux qui ont reçu la prochaine annonce *-* sera main­tenu dans le dessein de ne pas laisser trop d’espace, trop d’intervalle entre ces deux séminaires, car cet espace pourrait être nuisible à la suite de notre explication.
+C’est là que je reprendrai la prochaine fois. Je reviens donc sur ce que j’ai dit à l’entrée, le fait que je n’aie pu arriver que jusqu’à ce point de mon exposé, fera que *le séminaire de mer­credi prochain* - dites-le à ceux qui ont reçu la prochaine annonce - sera main­tenu dans le dessein de ne pas laisser trop d’espace, trop d’intervalle entre ces deux séminaires, car cet espace pourrait être nuisible à la suite de notre explication.
 
 ## Notes
 

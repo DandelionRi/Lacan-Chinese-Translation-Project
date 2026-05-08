@@ -53,7 +53,7 @@ qui en est la convention de départ.
 <!-- id: s4-14-0010 -->
 
 À partir de là, il s’agit d’appeler α, β, γ, δ, *une autre série de symboles* qui se construisent à partir de la seconde série, et ceci étant fondé sur cette remarque que lorsque l’on connaît les deux termes extrêmes dans la seconde série, le terme médian est univoque.
-Nous tiendrons donc compte pour définir les termes α, β, γ, δ, que les deux extrêmes dans la série étant un cas comme celui-là, vous voyez où cela va de *odd* à *odd***.** La convention est fondée donc d’inscrire un signe qui se trouve par son ampleur, attraper
+Nous tiendrons donc compte pour définir les termes α, β, γ, δ, que les deux extrêmes dans la série étant un cas comme celui-là, vous voyez où cela va de *odd* à *odd**.* La convention est fondée donc d’inscrire un signe qui se trouve par son ampleur, attraper
 
 <!-- id: s4-14-0011 -->
 
@@ -61,11 +61,11 @@ les cinq anté­cédents de la première ligne par le signe γ, donc *du même a
 
 <!-- id: s4-14-0012 -->
 
-- de 1 à 1, de 1 à 3, de 3 à 1 : *c’est* α**,**
+- de 1 à 1, de 1 à 3, de 3 à 1 : *c’est* α,
 
 <!-- id: s4-14-0013 -->
 
-- de *odd* à *odd*** **: *c’est* β,
+- de *odd* à *odd* : *c’est* β,
 
 <!-- id: s4-14-0014 -->
 
@@ -672,7 +672,7 @@ Nous en avons des traces : un rêve, il se réveille sanglotant parce que sa mè
 
 <!-- id: s4-14-0132 -->
 
-Nous pouvons compléter ces termes par mille autres traits* *: c’est en tant qu’il est séparé de sa mère et quand il est avec quelqu’un d’autre, que se manifestent ces angoisses. Ce qu’il y a de certain, c’est que ces angoisses apparaissent d’abord,
+Nous pouvons compléter ces termes par mille autres traits: c’est en tant qu’il est séparé de sa mère et quand il est avec quelqu’un d’autre, que se manifestent ces angoisses. Ce qu’il y a de certain, c’est que ces angoisses apparaissent d’abord,
 et FREUD le souligne : *le sentiment d’angoisse se distingue de la phobie*, c’est-à-dire de ce quelque chose qui n’est pas tellement facile
 à saisir, et que nous allons essayer de cerner.
 
@@ -843,7 +843,7 @@ je ne dirais pas la fonction, parce qu’il ne faut pas se précipiter, mais *le
 
 le monde de l’enfant une structure, une certaine façon de mettre au premier plan la fonction d’un intérieur et d’un extérieur.
 Jusque là l’enfant était en somme dans l’intérieur de sa mère, il vient d’en être rejeté, où de s’en imaginer rejeté dans l’angoisse,
-le voilà qui, à l’aide de quelque chose - c’est une tentative, nous abordons la phobie de ce côté *-* la phobie en somme instaure
+le voilà qui, à l’aide de quelque chose - c’est une tentative, nous abordons la phobie de ce côté - la phobie en somme instaure
 un nouvel ordre de l’intérieur et de l’extérieur, une série de seuils se mettent à structurer le monde.
 
 <!-- id: s4-14-0168 -->

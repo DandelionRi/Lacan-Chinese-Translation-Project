@@ -34,7 +34,7 @@ J’indique tout de suite, *le trait unaire* est ce dont se marque *la répétit
 
 <!-- id: s19-09-0008 -->
 
-*La répétition* ne fonde aucun *«* *tous* » ni n’identifie rien, parce que tautologiquement*,* si je puis dire, il ne peut pas y en avoir de première.
+*La répétition* ne fonde aucun *«* *tous* » ni n’identifie rien, parce que tautologiquement, si je puis dire, il ne peut pas y en avoir de première.
 
 <!-- id: s19-09-0009 -->
 
@@ -104,7 +104,7 @@ Mais non seulement ce pointage d’un support typique c’est-à-dire *imaginair
 
 <!-- id: s19-09-0025 -->
 
-Mais tout ce que j’ai dit, écrit, inscrit dans les graphes, schématisé dans le modèle optique à l’occasion*,* *où le sujet se réfléchit dans le trait unaire,* et où c’est seulement à partir de là qu’il se repère comme *moi-idéal,* tout cela insiste justement sur ce que *l’identification imaginaire* s’opère par une marque *symbolique.*
+Mais tout ce que j’ai dit, écrit, inscrit dans les graphes, schématisé dans le modèle optique à l’occasion, *où le sujet se réfléchit dans le trait unaire,* et où c’est seulement à partir de là qu’il se repère comme *moi-idéal,* tout cela insiste justement sur ce que *l’identification imaginaire* s’opère par une marque *symbolique.*
 
 <!-- id: s19-09-0026 -->
 
@@ -176,7 +176,7 @@ C’est ce dont s’habilitent aussi les philosophies présocratiques et c’est
 
 <!-- id: s19-09-0043 -->
 
-> et l’on peut dire nommément ...la relation à *l’objet(a)*, qui n’est rien d’autre que ce qu’il appelle « *âme* »*.*
+> et l’on peut dire nommément ...la relation à *l’objet(a)*, qui n’est rien d’autre que ce qu’il appelle « *âme* ».
 
 <!-- id: s19-09-0044 -->
 
@@ -606,31 +606,31 @@ Il faut recon­naître qu’elle ne s’y est pas limitée, et ce qui lui en res
 
 <!-- id: s19-09-0148 -->
 
-### Que l’analyste doive comprendre le discours de l’analysant, ça semble en effet préférable. 
+### Que l’analyste doive comprendre le discours de l’analysant, ça semble en effet préférable.
 
 <!-- id: s19-09-0149 -->
 
-### Mais savoir *d’où*, est une question qui ne semble pas s’imposer aux yeux, 
+### Mais savoir *d’où*, est une question qui ne semble pas s’imposer aux yeux,
 
 <!-- id: s19-09-0150 -->
 
-### de la seule notation de ce qu’il lui faille être dans le discours \[*Analytique*\] à occuper la position du *semblant*. 
+### de la seule notation de ce qu’il lui faille être dans le discours \[*Analytique*\] à occuper la position du *semblant*.
 
 <!-- id: s19-09-0151 -->
 
-### Il faut bien sûr accentuer que c’est en tant que (*a*) que cette position du *semblant*, il l’occupe. 
+### Il faut bien sûr accentuer que c’est en tant que (*a*) que cette position du *semblant*, il l’occupe.
 
 <!-- id: s19-09-0152 -->
 
-### L’analyste ne peut rien comprendre sinon au titre de ce que dit l’analysant, 
+### L’analyste ne peut rien comprendre sinon au titre de ce que dit l’analysant,
 
 <!-- id: s19-09-0153 -->
 
-### à savoir de se voir, non comme *cause* mais *effet* *de ce dis­cours*, ce qui ne l’empêche pas en droit de s’y reconnaître. 
+### à savoir de se voir, non comme *cause* mais *effet* *de ce dis­cours*, ce qui ne l’empêche pas en droit de s’y reconnaître.
 
 <!-- id: s19-09-0154 -->
 
-### Et c’est pour cela qu’il vaut mieux qu’il soit passé par là, dans l’analyse didactique, 
+### Et c’est pour cela qu’il vaut mieux qu’il soit passé par là, dans l’analyse didactique,
 
 <!-- id: s19-09-0155 -->
 
@@ -762,7 +762,7 @@ C’est de se compter comme tel de la différence comme propriété, que la mult
 
 <!-- id: s19-09-0187 -->
 
-Que c’est là que se révèle en tant que d’un *Un*, de l’*Un* qu’il s’agit, c’est d’un *autre* qu’il s’agit, que ce qui se constitue à partir de l’1 et du 0 comme inaccessibilité du 2 ne se livre qu’au niveau de l’*aleph zéro* \[א**<sub>0</sub>**\] c’est à dire de *l’infini actuel*.
+Que c’est là que se révèle en tant que d’un *Un*, de l’*Un* qu’il s’agit, c’est d’un *autre* qu’il s’agit, que ce qui se constitue à partir de l’1 et du 0 comme inaccessibilité du 2 ne se livre qu’au niveau de l’*aleph zéro* \[א<sub>0</sub>\] c’est à dire de *l’infini actuel*.
 
 <!-- id: s19-09-0188 -->
 
@@ -786,7 +786,7 @@ Avec 0 et 1, *que vous les additionniez, ou que vous les mettiez* l’un à l’
 
 <!-- id: s19-09-0193 -->
 
-Une remarque de Gödel est ici éclairante : c’est très précisément que l’*aleph zéro* \[א**<sub>0</sub>**\], à savoir l’infini actuel, est ce qui se trouve réaliser le même cas.
+Une remarque de Gödel est ici éclairante : c’est très précisément que l’*aleph zéro* \[א<sub>0</sub>\], à savoir l’infini actuel, est ce qui se trouve réaliser le même cas.
 
 <!-- id: s19-09-0194 -->
 
@@ -802,7 +802,7 @@ Alors que pour tout ce qu’il en est des nombres entiers à partir de 2, commen
 
 <!-- id: s19-09-0197 -->
 
-- et ainsi de suite, il n’y a pas un nombre qui ne puisse se réaliser par une de ces deux opérations à partir des nombres plus petits que lui. *C’est précisément ce qui fait défaut* et ce en quoi au niveau de l’*aleph zéro* \[א**<sub>0</sub>**\] se reproduit *cette faille que j’appelle de l’inaccessibilité*.
+- et ainsi de suite, il n’y a pas un nombre qui ne puisse se réaliser par une de ces deux opérations à partir des nombres plus petits que lui. *C’est précisément ce qui fait défaut* et ce en quoi au niveau de l’*aleph zéro* \[א<sub>0</sub>\] se reproduit *cette faille que j’appelle de l’inaccessibilité*.
 
 <!-- id: s19-09-0198 -->
 
@@ -822,7 +822,7 @@ Il est singulier...
 
 <!-- id: s19-09-0202 -->
 
-et ceci est ce qu’aujourd’hui je dois laisser de côté, quit­te à le reprendre si ça intéresse quelques-uns, dans un cercle plus étroit ...il est tout à fait frappant que de la construction de Cantor, il résulte qu’il n’y a pas d’*aleph* qui, à partir de l’*aleph zéro* \[א**<sub>0</sub>**\], ne puisse être tenu pour accessible.
+et ceci est ce qu’aujourd’hui je dois laisser de côté, quit­te à le reprendre si ça intéresse quelques-uns, dans un cercle plus étroit ...il est tout à fait frappant que de la construction de Cantor, il résulte qu’il n’y a pas d’*aleph* qui, à partir de l’*aleph zéro* \[א<sub>0</sub>\], ne puisse être tenu pour accessible.
 
 <!-- id: s19-09-0203 -->
 
@@ -842,19 +842,19 @@ Mais puisque la femme n’est *pas* « *tout* », pourquoi tout ce qui n’est
 
 <!-- id: s19-09-0207 -->
 
-### Cette bipartition, cette impossibilité d’appliquer en cette matière du genre, quelque chose qui soit *le principe de contradic­tion*, 
+### Cette bipartition, cette impossibilité d’appliquer en cette matière du genre, quelque chose qui soit *le principe de contradic­tion*,
 
 <!-- id: s19-09-0208 -->
 
-### qu’il ne faille rien de moins que d’admettre l’inaccessibilité de quelque chose *au-delà de l’aleph* pour que la *non contradiction* soit consistan­te, 
+### qu’il ne faille rien de moins que d’admettre l’inaccessibilité de quelque chose *au-delà de l’aleph* pour que la *non contradiction* soit consistan­te,
 
 <!-- id: s19-09-0209 -->
 
-### qu’il soit fondé de dire que ce qui n’est pas 1, soit 0, et que ce qui n’est pas 0, soit 1, 
+### qu’il soit fondé de dire que ce qui n’est pas 1, soit 0, et que ce qui n’est pas 0, soit 1,
 
 <!-- id: s19-09-0210 -->
 
-### c’est cela que je vous indique comme étant ce qui doit per­mettre à l’analyste d’entendre... 
+### c’est cela que je vous indique comme étant ce qui doit per­mettre à l’analyste d’entendre...
 
 <!-- id: s19-09-0211 -->
 

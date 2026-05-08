@@ -10,7 +10,7 @@ Aujourd’hui, les vacances approchent, il fait beau, on va faire quelque chose 
 
 <!-- id: s2-16-0002 -->
 
-C’est-à-dire que c’est de là qu’il faut partir. Je vous ai montré aussi *les limites* de ce que nous pouvons fonder sur cette *intersubjectivité duelle*, qui n’est pas due - au moins dans certains cas limites - tel­lement du tout à notre impossibilité d’appréhender ce qu’est l’autre, certaines qualités psychologiques, par exemple qu’il est bête ou intelligent, et ce n’est pas si facile à voir qu’on croit. Mais enfin ça a un sens et quand on est doué il arrive qu’on se rende compte. Quand on est intelligent, on voit assez rarement que les autres sont bêtes. Quand on est bête on voit quelquefois que l’autre est intelli­gent. On ne le reconnaît que rarement. C’est une autre question. Les limites de cette appréhension de l’autre dans certains cas - je vous l’ai mon­tré, je vous l’ai indiqué*,* pointé au passage - ne sont donc pas tellement dues \- c’est là-dessus que j’ai attiré votre attention - à cette impossibilité ou ces difficultés. Ces pro­priétés de connotation psychologique de l’autre tiennent au fait que dans certains cas la sanction se limite à une alternative elle-même duelle, et intraduisible, si je puis dire, ou plus exactement qui ne se traduit pas.
+C’est-à-dire que c’est de là qu’il faut partir. Je vous ai montré aussi *les limites* de ce que nous pouvons fonder sur cette *intersubjectivité duelle*, qui n’est pas due - au moins dans certains cas limites - tel­lement du tout à notre impossibilité d’appréhender ce qu’est l’autre, certaines qualités psychologiques, par exemple qu’il est bête ou intelligent, et ce n’est pas si facile à voir qu’on croit. Mais enfin ça a un sens et quand on est doué il arrive qu’on se rende compte. Quand on est intelligent, on voit assez rarement que les autres sont bêtes. Quand on est bête on voit quelquefois que l’autre est intelli­gent. On ne le reconnaît que rarement. C’est une autre question. Les limites de cette appréhension de l’autre dans certains cas - je vous l’ai mon­tré, je vous l’ai indiqué, pointé au passage - ne sont donc pas tellement dues \- c’est là-dessus que j’ai attiré votre attention - à cette impossibilité ou ces difficultés. Ces pro­priétés de connotation psychologique de l’autre tiennent au fait que dans certains cas la sanction se limite à une alternative elle-même duelle, et intraduisible, si je puis dire, ou plus exactement qui ne se traduit pas.
 
 <!-- id: s2-16-0003 -->
 
@@ -78,7 +78,7 @@ Mais oui, bien sûr mon cher ami, vous l’avez bien vu d’ailleurs la dernièr
 
 <!-- id: s2-16-0019 -->
 
-Octave MANNONI *-* Cela introduit la lutte des deux sujets.
+Octave MANNONI - Cela introduit la lutte des deux sujets.
 
 <!-- id: s2-16-0020 -->
 
@@ -118,7 +118,7 @@ La différence qui se marquera entre cette *inertie symbolique*, que nous pourro
 
 <!-- id: s2-16-0029 -->
 
-Vous n’imaginez pas ce que c’est difficile. Il a fallu des générations de mathématiciens pour arriver à bien se parer à droite et à gauche pour que ce soit véritablement des nombres choisis au hasard. Nous verrons la différence - grâce à une petite machine que je vais écrire au tableau *-* la différence qu’on obtient à un certain niveau d’éla­boration, significatif, car c’est ça le sens de la machine en l’occasion, la différence que l’on obtient avec des nombres choisis au hasard ou avec des nombres exprès. Ce jeu auquel je vais vous demander de participer tous, mais dans un certain ordre et d’une certaine manière, que j’ai élaborée à votre intention aujourd’hui, voici comment nous allons procéder.
+Vous n’imaginez pas ce que c’est difficile. Il a fallu des générations de mathématiciens pour arriver à bien se parer à droite et à gauche pour que ce soit véritablement des nombres choisis au hasard. Nous verrons la différence - grâce à une petite machine que je vais écrire au tableau - la différence qu’on obtient à un certain niveau d’éla­boration, significatif, car c’est ça le sens de la machine en l’occasion, la différence que l’on obtient avec des nombres choisis au hasard ou avec des nombres exprès. Ce jeu auquel je vais vous demander de participer tous, mais dans un certain ordre et d’une certaine manière, que j’ai élaborée à votre intention aujourd’hui, voici comment nous allons procéder.
 
 <!-- id: s2-16-0030 -->
 
@@ -134,7 +134,7 @@ RIGUET, vous serez le notateur de cette première partie. Maintenant, pour les a
 
 <!-- id: s2-16-0033 -->
 
-Octave MANNONI *-* Moi je triche à ce jeu-là.
+Octave MANNONI - Moi je triche à ce jeu-là.
 
 <!-- id: s2-16-0034 -->
 
@@ -154,11 +154,11 @@ C’est très simple, toutes les fois que j’ai dit au hasard, j’ai gagné. Q
 
 <!-- id: s2-16-0038 -->
 
-LACAN *-* Combien de coups avez–vous joués avec *la première loi*.
+LACAN - Combien de coups avez–vous joués avec *la première loi*.
 
 <!-- id: s2-16-0039 -->
 
-Octave MANNONI *-* C’est quand j’ai vraiment gagné.
+Octave MANNONI - C’est quand j’ai vraiment gagné.
 
 <!-- id: s2-16-0040 -->
 

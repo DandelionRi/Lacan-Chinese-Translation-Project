@@ -160,7 +160,7 @@ C’est bien en quoi le dialogue, le dialogue classique...
 
 <!-- id: s20-13-0038 -->
 
-Si j’ai dit que *le langage* c’est *ce comme quoi l’inconscient est structuré,* c’est bien parce que *le langage,* d’abord ça n’existe pas*.*
+Si j’ai dit que *le langage* c’est *ce comme quoi l’inconscient est structuré,* c’est bien parce que *le langage,* d’abord ça n’existe pas.
 
 <!-- id: s20-13-0039 -->
 
@@ -226,7 +226,7 @@ J’en prendrai comme exemple ceci, que
 
 <!-- id: s20-13-0054 -->
 
-- on se demande ce que peut bien être le savoir de ceux qui ne parlent pas*.*
+- on se demande ce que peut bien être le savoir de ceux qui ne parlent pas.
 
 <!-- id: s20-13-0055 -->
 
@@ -288,7 +288,7 @@ Est-ce qu’un rat, non plus considéré dans son *être* mais dans son *unité*
 
 > *« trials and errors »,* comme vous savez, ça s’appelle : on a laissé la chose en anglais,
 >
-> vu ceux qui se sont trouvés frayer cette voie concernant le *savoir* *...*on va voir si le taux des « *trials and errors »*, combien de temps ce taux va se mettre à diminuer assez pour que s’enregistre que l’unité ratière est capable d’apprendre quelque chose.
+> vu ceux qui se sont trouvés frayer cette voie concernant le *savoir...*on va voir si le taux des « *trials and errors »*, combien de temps ce taux va se mettre à diminuer assez pour que s’enregistre que l’unité ratière est capable d’apprendre quelque chose.
 
 <!-- id: s20-13-0070 -->
 
@@ -348,7 +348,7 @@ Mais l’intérêt de cet exemple ne se limite pas à ce fait, à ce fait d’in
 
 <!-- id: s20-13-0084 -->
 
-- ce qu’il en est du *savoir,* \[*le savoir scientifique renvoie à lalangue : le rapport de* S<sub>1</sub> *à* S<sub>2</sub> *et l’éviction de a *(H : S<sub>→</sub> S<sub>1→</sub> ↓S<sub>2</sub> **◊***a*)<sub> </sub>\]
+- ce qu’il en est du *savoir,* \[*le savoir scientifique renvoie à lalangue : le rapport de* S<sub>1</sub> *à* S<sub>2</sub> *et l’éviction de a *(H : S<sub>→</sub> S<sub>1→</sub> ↓S<sub>2</sub> ◊*a*)<sub> </sub>\]
 
 <!-- id: s20-13-0085 -->
 
@@ -372,7 +372,7 @@ Si cette année j’ai rappelé où il a pu surgir \[*le discours scientifique*\
 
 <!-- id: s20-13-0090 -->
 
-> *fingere*, *fingo*, dit Newton... *non fingo*, croit-il pouvoir dire : *hypotheses non fingo* : « *je ne suppose rien* » ...et ce n’est pas par hasard que cette année j’ai spécifié que *c’est bien sur une hypothèse*, *au contraire*, *que tout tourne* : que la fameuse « *révolution* » - qui n’est point du tout copernicienne mais newtonienne *-* a joué.
+> *fingere*, *fingo*, dit Newton... *non fingo*, croit-il pouvoir dire : *hypotheses non fingo* : « *je ne suppose rien* » ...et ce n’est pas par hasard que cette année j’ai spécifié que *c’est bien sur une hypothèse*, *au contraire*, *que tout tourne* : que la fameuse « *révolution* » - qui n’est point du tout copernicienne mais newtonienne - a joué.
 
 <!-- id: s20-13-0091 -->
 
@@ -400,7 +400,7 @@ Je fais remarquer que l’inconscient, je n’y entre - pas plus que Newton - sa
 
 <!-- id: s20-13-0097 -->
 
-Ce que j’énonce sous cette formule minimale : *qu’un signifiant* \[**S**<sub>1</sub>\] *représente un sujet* \[**S**\] *pour un autre signifiant* \[**S<sub>2</sub>**\]* *:
+Ce que j’énonce sous cette formule minimale : *qu’un signifiant* \[**S**<sub>1</sub>\] *représente un sujet* \[**S**\] *pour un autre signifiant* \[**S<sub>2</sub>**\]:
 
 <!-- id: s20-13-0098 -->
 
@@ -408,7 +408,7 @@ Ce que j’énonce sous cette formule minimale : *qu’un signifiant* \[**S**<s
 
 <!-- id: s20-13-0099 -->
 
-Je réduis, autrement dit, l’hypothèse*,* selon la formule même qui la substantifie, à ceci :
+Je réduis, autrement dit, l’hypothèse, selon la formule même qui la substantifie, à ceci :
 
 <!-- id: s20-13-0100 -->
 
@@ -420,7 +420,7 @@ Je réduis, autrement dit, l’hypothèse*,* selon la formule même qui la subst
 
 <!-- id: s20-13-0102 -->
 
-*La seule preuve que nous en ayons* est ceci : que le sujet se confonde avec cette hypothèse et que ce soit l’individu*,* l’individu parlant qui le supporte, *c’est que le signifiant devienne signe*.
+*La seule preuve que nous en ayons* est ceci : que le sujet se confonde avec cette hypothèse et que ce soit l’individu, l’individu parlant qui le supporte, *c’est que le signifiant devienne signe*.
 
 <!-- id: s20-13-0103 -->
 
@@ -584,7 +584,7 @@ L’important, pour virer, faire tourner ici le volet, l’important de ce qu’
 
 <!-- id: s20-13-0143 -->
 
-- ce *« savoir »,* qui structure d’une cohabitation spécifique, ce qu’il en est de l’être qui parle*,*
+- ce *« savoir »,* qui structure d’une cohabitation spécifique, ce qu’il en est de l’être qui parle,
 
 <!-- id: s20-13-0144 -->
 
@@ -620,7 +620,7 @@ S’il est vrai qu’*il n’y a pas de rapport sexuel* parce que simplement *la
 
 <!-- id: s20-13-0151 -->
 
-Est-ce que ce n’est pas de l’affrontement à cette *impasse*, à cette *impossibilité* définissant comme tel un *Réel*, qu’est mis à l’épreuve l’amour*,* en tant que du partenaire il ne peut réaliser que ce que j’ai appelé...
+Est-ce que ce n’est pas de l’affrontement à cette *impasse*, à cette *impossibilité* définissant comme tel un *Réel*, qu’est mis à l’épreuve l’amour, en tant que du partenaire il ne peut réaliser que ce que j’ai appelé...
 
 <!-- id: s20-13-0152 -->
 
@@ -652,7 +652,7 @@ Si je me suis complu au *nécessaire* comme à « *ce qui ne cesse pas de ne p
 
 <!-- id: s20-13-0159 -->
 
-Le déplacement de cette négation qui pose, qui nous pose au passage la question de ce qu’il en est de la négation*,* quand elle vient prendre la place d’une *inexistence*.
+Le déplacement de cette négation qui pose, qui nous pose au passage la question de ce qu’il en est de la négation, quand elle vient prendre la place d’une *inexistence*.
 
 <!-- id: s20-13-0160 -->
 
@@ -720,7 +720,7 @@ Assurément ceci : que le déplacement de cette négation, à savoir le passage
 
 <!-- id: s20-13-0176 -->
 
-> à ce que tout à l’heure j’ai manqué si bien d’un [*lap*<span id="Lapsus" class="anchor"></span>*sus*](#Retour_Lapsus), lui-même bien significatif ...à savoir le passage de la négation*,* au « *ne cesse pas de s’écrire »*, à *la nécessité* substituée à cette *contingence* \[« *cesse de ne pas s’écrire* »\], c’est bien là le point de suspension à quoi s’attache tout *amour *: tout *amour* de ne subsister que de « *cesser de ne pas s’écrire* », tend à faire passer cette négation au « *ne cesse pas, ne cesse pas, ne cessera pas de s’écrire* » \[*nécessaire* \].
+> à ce que tout à l’heure j’ai manqué si bien d’un [*lap*<span id="Lapsus" class="anchor"></span>*sus*](#Retour_Lapsus), lui-même bien significatif ...à savoir le passage de la négation, au « *ne cesse pas de s’écrire »*, à *la nécessité* substituée à cette *contingence* \[« *cesse de ne pas s’écrire* »\], c’est bien là le point de suspension à quoi s’attache tout *amour *: tout *amour* de ne subsister que de « *cesser de ne pas s’écrire* », tend à faire passer cette négation au « *ne cesse pas, ne cesse pas, ne cessera pas de s’écrire* » \[*nécessaire* \].
 
 <!-- id: s20-13-0177 -->
 
@@ -764,7 +764,7 @@ J’ai posé expressément la question : est-ce que ce n’est pas là que surg
 
 <!-- id: s20-13-0186 -->
 
-J’ai parlé de « *rat *» tout à l’heure, c’était de ça qu’il s’agissait \[*Rires*\] : ce n’est pas pour rien qu’on a choisi le rat \[*Rires*\], c’est parce que le rat*,* ça se *rature* \[*Rires*\], on en fait facilement une unité.
+J’ai parlé de « *rat *» tout à l’heure, c’était de ça qu’il s’agissait \[*Rires*\] : ce n’est pas pour rien qu’on a choisi le rat \[*Rires*\], c’est parce que le rat, ça se *rature* \[*Rires*\], on en fait facilement une unité.
 
 <!-- id: s20-13-0187 -->
 

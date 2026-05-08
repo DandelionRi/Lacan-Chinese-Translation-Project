@@ -58,7 +58,7 @@ Néanmoins, *même à une première lecture la plus sommairement superficielle*,
 
 <!-- id: s11-14-0012 -->
 
-- *puis deuxième versant* : l’examen de ce qu’il faut concevoir comme étant non point *die sexual,* mais conformément à l’esprit de l’article* *: *das Lieben, l’acte d’amour*.
+- *puis deuxième versant* : l’examen de ce qu’il faut concevoir comme étant non point *die sexual,* mais conformément à l’esprit de l’article: *das Lieben, l’acte d’amour*.
 
 <!-- id: s11-14-0013 -->
 
@@ -87,7 +87,7 @@ des restes des *pulsions partielles*.
 
 Les pulsions, dans leur structure, dans la tension qu’elles établissent, sont liées à quelque chose que nous pouvons appeler
 en l’occasion *le fac­teur économique*. Ce *facteur économique* dépend des conditions dans lesquelles s’exerce la fonction du *principe du plaisir*
-à un niveau que nous reprendrons, quand le moment sera venu de notre discours, sous le terme de *Real*-*Ich.* Disons tout de suite que *ce Real*-*Ich,* nous pouvons - dans une approximation rapide, mais que dès maintenant vous pouvez tenir pour exacte -
+à un niveau que nous reprendrons, quand le moment sera venu de notre discours, sous le terme de *Real-Ich.* Disons tout de suite que *ce Real-Ich,* nous pouvons - dans une approximation rapide, mais que dès maintenant vous pouvez tenir pour exacte -
 *nous pouvons le concevoir comme étant l’appareil nerveux, le système nerveux central*, en tant qu’il fonctionne non pas comme un système
 de relation, mais comme un système destiné à assu­rer - *des tensions internes* - une certaine homéostase.
 
@@ -107,7 +107,7 @@ En d’autres termes, si nous plaçons aux deux extrêmes de ce qui est notre ex
 
 <!-- id: s11-14-0021 -->
 
-2)  L’autre extrémité est celle de notre *interprétation*. Cette interprétation concerne ce facteur d’une structure temporelle spéciale, que j’ai essayé de définir par la métonymie. L’interprétation, dans son terme, pointe, non pas essentiellement les étapes de la construction, mais le désir auquel - dans un certain sens, dans le sens du vecteur que j’essaie ici de vous faire sentir - elle est identique. *Le désir c’est en somme l’interpréta­tion elle*-*même.* \[*Cf. Séminaire* 1958-59 : *Le désir et son interprétation*\]
+2)  L’autre extrémité est celle de notre *interprétation*. Cette interprétation concerne ce facteur d’une structure temporelle spéciale, que j’ai essayé de définir par la métonymie. L’interprétation, dans son terme, pointe, non pas essentiellement les étapes de la construction, mais le désir auquel - dans un certain sens, dans le sens du vecteur que j’essaie ici de vous faire sentir - elle est identique. *Le désir c’est en somme l’interpréta­tion elle-même.* \[*Cf. Séminaire* 1958-59 : *Le désir et son interprétation*\]
 
 <!-- id: s11-14-0022 -->
 
@@ -121,7 +121,7 @@ qu’elles sont intervenues efficacement en temps et lieu. Et ceci non pas seule
 <!-- id: s11-14-0024 -->
 
 Si la sexualité s’est avérée tout de suite, et je dois dire avec une pré­gnance dont après coup on peut être surpris, à savoir que dès
-les *[Trois essais sur la théorie de la sexualité](http://zenisis.de/images/ebook/Buch00098-Sigmund-Freud-auf-www.zenisis.de.pdf)* [^76]*,* FREUD a pu poser comme essentiel ce qui lui est apparu alors comme perversion polymorphe, comme sexualité aberrante, comme rupture du charme d’une prétendue inno­cence, innocence infantile.
+les *[Trois essais sur la théorie de la sexualité](http://zenisis.de/images/ebook/Buch00098-Sigmund-Freud-auf-www.zenisis.de.pdf)* [^76], FREUD a pu poser comme essentiel ce qui lui est apparu alors comme perversion polymorphe, comme sexualité aberrante, comme rupture du charme d’une prétendue inno­cence, innocence infantile.
 Cette sexualité, pour s’être imposée si tôt, je dirai presque trop tôt, nous a fait passer trop vite sur l’examen de ce qu’elle représente en son essence. C’est à savoir :
 
 <!-- id: s11-14-0025 -->
@@ -157,11 +157,11 @@ soit la mort, puisque la présence du *sexe* chez le vivant est liée à cette *
 
 Et si j’ai fait aujourd’hui reproduire au tableau cette citation : τῷ τόξῳ ὄνομα βίος, ἔργον δὲ θάνατος. Plus exactement
 ce n’est pas une citation, c’est un *fragment* d’HÉRACLITE recueilli dans l’ouvrage monumental où DIELS a rassemblé
-ce qui nous reste - épars - de l’époque présocratique : βιός \[bios\]*,* écrit-il \[*l’arc :* τῷ τόξῳ *terme usuel* synonyme de βιός *: arc*\] - et ceci nous émerge comme de ses leçons de sagesse dont on peut dire, qu’avant tout le circuit de notre élaboration scientifique, elles vont au but et tout droit - βιός \[bios\] - *et à un accent près ce n’est pas* *la vie* \[βίος\] *mais c’est* *l’arc* \[βιός\] - HÉRACLITE nous dit :
+ce qui nous reste - épars - de l’époque présocratique : βιός \[bios\], écrit-il \[*l’arc :* τῷ τόξῳ *terme usuel* synonyme de βιός *: arc*\] - et ceci nous émerge comme de ses leçons de sagesse dont on peut dire, qu’avant tout le circuit de notre élaboration scientifique, elles vont au but et tout droit - βιός \[bios\] - *et à un accent près ce n’est pas* *la vie* \[βίος\] *mais c’est* *l’arc* \[βιός\] - HÉRACLITE nous dit :
 
 <!-- id: s11-14-0032 -->
 
-« *À l’arc est donné ce nom* βιός \[bios\] *-* L’accent serait sur la premiè­re syllabe si c’était « *la vie* » - *mais son œuvre, c’est la mort*. » \[*Cf. supra : note* 74\]
+« *À l’arc est donné ce nom* βιός \[bios\] - L’accent serait sur la premiè­re syllabe si c’était « *la vie* » - *mais son œuvre, c’est la mort*. » \[*Cf. supra : note* 74\]
 
 <!-- id: s11-14-0033 -->
 
@@ -189,7 +189,7 @@ Mais ce que dès l’abord il pose, il nous présente comme étant fondamentalem
 <!-- id: s11-14-0038 -->
 
 Mais quand il l’illustre, et nous verrons qu’il est remarquable de savoir quelle pulsion il va choisir pour l’illustrer, très nommément
-*la* *Schaulust, la* *joie de voir*, et ce qu’il ne peut désigner autrement que par l’accolement des deux termes « *sado*-*masochisme* »,
+*la* *Schaulust, la* *joie de voir*, et ce qu’il ne peut désigner autrement que par l’accolement des deux termes « *sado-masochisme* »,
 quand il parlera de ces deux pulsions, et plus spécialement de la troisième, il tiendra à bien marquer que ce n’est pas de 2 temps
 qu’il s’agit dans ces pulsions, mais de 3.
 
@@ -209,7 +209,7 @@ de l’économie du sujet, quelque chose qui ne peut être désolidarisé de son
 
 <!-- id: s11-14-0042 -->
 
-Ici s’éclaircit le mystère du *zielgehemmt* \[*but inhibé*\]*,* de cette forme que peut prendre la pulsion, d’atteindre sa *satisfaction* sans avoir pour autant atteint - quoi ? - son « *but* », en tant qu’il serait défini par *la fonction biolo­gique*, par la réalisation effective de *l’appariage reproductif*. Mais ce n’est pas là le but de la pulsion partielle. Quel est-il ?
+Ici s’éclaircit le mystère du *zielgehemmt* \[*but inhibé*\], de cette forme que peut prendre la pulsion, d’atteindre sa *satisfaction* sans avoir pour autant atteint - quoi ? - son « *but* », en tant qu’il serait défini par *la fonction biolo­gique*, par la réalisation effective de *l’appariage reproductif*. Mais ce n’est pas là le but de la pulsion partielle. Quel est-il ?
 
 <!-- id: s11-14-0043 -->
 
@@ -218,11 +218,11 @@ et que pour les différencier, j’ai choisi ici de noter par une langue dans la
 
 <!-- id: s11-14-0044 -->
 
-- le « *aim* » - quelqu’un que vous chargez d’une mission, ça ne veut pas dire lui dire *ce qu’il doit rapporter*. Ça veut dire lui dire *par quel chemin il doit passer -* « *the aim* »*,* c’est *le trajet*.
+- le « *aim* » - quelqu’un que vous chargez d’une mission, ça ne veut pas dire lui dire *ce qu’il doit rapporter*. Ça veut dire lui dire *par quel chemin il doit passer -* « *the aim* », c’est *le trajet*.
 
 <!-- id: s11-14-0045 -->
 
-- Le but a une autre forme qui est le « *Goal* »*.* Le *Goal* ça n’est pas non plus dans *le tir à l’arc*, le but, ça n’est pas l’oiseau que vous abattez, c’est *d’avoir marqué* le coup, *d’avoir atteint* votre but.
+- Le but a une autre forme qui est le « *Goal* ». Le *Goal* ça n’est pas non plus dans *le tir à l’arc*, le but, ça n’est pas l’oiseau que vous abattez, c’est *d’avoir marqué* le coup, *d’avoir atteint* votre but.
 
 <!-- id: s11-14-0046 -->
 
@@ -305,7 +305,7 @@ et n’a de rapport au sujet, que de communauté topologique.
 
 <!-- id: s11-14-0061 -->
 
-C’est pour autant que l’incons­cient, j’ai pu vous l’articuler comme se situant dans ces béances que la distribution des investissements signifiants instaure dans le sujet et se figurent dans *l’algorithme en losange* \[**◊**\] que je mets au cœur de tout rap­port proprement
+C’est pour autant que l’incons­cient, j’ai pu vous l’articuler comme se situant dans ces béances que la distribution des investissements signifiants instaure dans le sujet et se figurent dans *l’algorithme en losange* \[◊\] que je mets au cœur de tout rap­port proprement
 de l’inconscient entre la réalité et le sujet, c’est pour autant que quelque chose, dans l’appareil du corps est strictement struc­turé
 de la même façon, *c’est en raison de cette unité topologique des béances en jeu, que la pulsion prend son rôle dans le fonctionnement de l’inconscient*.
 
@@ -388,7 +388,7 @@ le retour, l’*insertion* sur le corps propre, du départ et de la fin de *la p
 
 <!-- id: s11-14-0076 -->
 
-> « *Mais à quel moment voyons*-*nous* - dit Freud - *s’introduire, dans la pulsion sadomasochiste, la possibilité de la douleur ?* »
+> « *Mais à quel moment voyons-nous* - dit Freud - *s’introduire, dans la pulsion sadomasochiste, la possibilité de la douleur ?* »
 
 <!-- id: s11-14-0077 -->
 
@@ -418,13 +418,13 @@ de la pulsion aura fait entrer en jeu l’action de l’autre, et que ce dont il
 
 <!-- id: s11-14-0083 -->
 
-Le sujet s’apercevra que son désir n’est que vain détour à la pêche, à l’accrochage, de la jouissance de l’autre, pour autant que l’autre inter­venant, il s’apercevra *qu’il y a une jouissance au-delà du principe du plaisir*. Ce forçage du *principe du plaisir* par l’incidence de la pulsion partiel­le, voilà ce par quoi nous pouvons concevoir que ces pulsions partielles, ambiguës, installées sur la limite d’une *Erhaltungstrieb* \[*préservation*\]*,* du maintien d’une homéostase, de sa capture par *la figure voilée* qui est celle de *la sexualité*, nous la voyons,
+Le sujet s’apercevra que son désir n’est que vain détour à la pêche, à l’accrochage, de la jouissance de l’autre, pour autant que l’autre inter­venant, il s’apercevra *qu’il y a une jouissance au-delà du principe du plaisir*. Ce forçage du *principe du plaisir* par l’incidence de la pulsion partiel­le, voilà ce par quoi nous pouvons concevoir que ces pulsions partielles, ambiguës, installées sur la limite d’une *Erhaltungstrieb* \[*préservation*\], du maintien d’une homéostase, de sa capture par *la figure voilée* qui est celle de *la sexualité*, nous la voyons,
 nous commençons de voir à quel niveau ce dont il s’agit se dévoile.
 
 <!-- id: s11-14-0084 -->
 
 C’est pour autant que *la pulsion* nous témoigne du *forçage du princi­pe du plaisir* qu’il nous est en même temps témoigné,
-qu’au-delà du *Real*-*Ich* une autre réalité intervient, dont nous verrons par quel retour c’est elle, en dernier terme qui *-* ce *Real*-*Ich –*
+qu’au-delà du *Real-Ich* une autre réalité intervient, dont nous verrons par quel retour c’est elle, en dernier terme qui - ce *Real-Ich –*
 lui a donné sa structure et sa diversification.
 
 <!-- id: s11-14-0085 -->
@@ -517,14 +517,14 @@ Qu’est-ce que FREUD nous apprend dans ses premières constructions qui peuvent
 <!-- id: s11-14-0104 -->
 
 Quelque part FREUD dit formellement : c’est la pression de ce qui, dans la sexualité est à *refouler* pour maintenir *le principe du plaisir*, qui a per­mis sur la base de cet appareil, ajoutons même, admirablement riche et, il y en a trop bien sûr, il y a trop de cellules dans
-le système nerveux cen­tral pour y loger tout ce que nous pouvons y loger, mais c’est de la façon dont elles fonctionnent en tant que lieu de ce que j’ai appelé cette homéostase, de l’investissement du *Real*-*Ich,* qu’elle a pris cette forme qui y instaure ces courants
+le système nerveux cen­tral pour y loger tout ce que nous pouvons y loger, mais c’est de la façon dont elles fonctionnent en tant que lieu de ce que j’ai appelé cette homéostase, de l’investissement du *Real-Ich,* qu’elle a pris cette forme qui y instaure ces courants
 de dérivation constants, de déplacement constant de l’excitation qui fait qu’en quelque sorte l’incidence, qui peut venir,
 qui peut venir biologiquement de la pression de cet X que FREUD appelle « *libido* », a permis - FREUD l’articule quelque part,
 en propres termes - a permis le progrès de l’appareil mental lui-même, en tant que tel, l’instauration par exemple, dans l’appareil mental, de cette *possibi­lité d’investissement* que nous appelons *Aufmerksamkeit, possibilité* *d’attention*.
 
 <!-- id: s11-14-0105 -->
 
-La détermination, le progrès du fonctionnement du *Real*-*Ich* : à la fois satisfaire au *principe du plaisir* et en même temps qui est investi sans défense par les montées de la sexualité, voilà qui est responsable de *sa structure*. À ce niveau, nous ne sommes même pas forcés de faire entrer en ligne de compte aucune subjectivation à proprement parler du sujet, le sujet est un appareil. Cet appareil représente *quelque chose de lacunaire*, et c’est dans *la lacune* que le sujet instaure cette fonction d’un certain objet en tant *qu’objet perdu*.
+La détermination, le progrès du fonctionnement du *Real-Ich* : à la fois satisfaire au *principe du plaisir* et en même temps qui est investi sans défense par les montées de la sexualité, voilà qui est responsable de *sa structure*. À ce niveau, nous ne sommes même pas forcés de faire entrer en ligne de compte aucune subjectivation à proprement parler du sujet, le sujet est un appareil. Cet appareil représente *quelque chose de lacunaire*, et c’est dans *la lacune* que le sujet instaure cette fonction d’un certain objet en tant *qu’objet perdu*.
 Ceci c’est le statut de l’*objet(a)* en tant qu’il est présent dans la pulsion.
 
 <!-- id: s11-14-0106 -->
@@ -545,7 +545,7 @@ C’est le sujet qui se détermine lui-même comme objet dans sa rencontre avec 
 
 Je vous montrerai - je n’ai pu aujourd’hui que m’arrêter là, à cause de l’heure et je le déplore - que le sujet, comme lui-même assumant ce rôle de l’objet, c’est exactement ce qui soutient la réalité de la situation de ce qu’on appelle pulsion sadomasochique
 et qui n’est qu’un seul point dans la situation masochique elle-même. C’est pour autant que *le sujet se fait l’objet d’une volonté autre*
-*-* nous verrons aussi ce que veut dire le mot volonté, à cette occasion - c’est là que non seulement se clôt, mais se *constitue*
+- nous verrons aussi ce que veut dire le mot volonté, à cette occasion - c’est là que non seulement se clôt, mais se *constitue*
 ce qu’il en est de la pulsion sadomasochique.
 
 <!-- id: s11-14-0110 -->
@@ -553,8 +553,8 @@ ce qu’il en est de la pulsion sadomasochique.
 Ce n’est que dans un deuxième temps, comme FREUD nous l’indique dans ce texte, que le désir sadique est possible par rapport
 à *un fantas­me*, le désir sadique existe dans une foule de configurations, à savoir aussi bien *dans les névroses*, mais ce n’est pas encore
 le sadisme. Le sadisme comme tel, en tant qu’il est vécu par le sadique et qu’il ne peut être soutenu que par une profonde référence à l’autre, qui vient à un certain non pas demi-tour, mais quart de tour qui a été fait dans la situation où il se place, en un point
-\- je vous prie de vous y reporter - que j’ai défini dans mon article « *Kant avec Sade* » qui est paru dans *Critique en avril* 1963* *:
-*le sadique occupe effectivement lui*-*même, à proprement parler la place de l’objet, mais sans le savoir, au bénéfice d’un autre pour la jouissance duquel*
+\- je vous prie de vous y reporter - que j’ai défini dans mon article « *Kant avec Sade* » qui est paru dans *Critique en avril* 1963:
+*le sadique occupe effectivement lui-même, à proprement parler la place de l’objet, mais sans le savoir, au bénéfice d’un autre pour la jouissance duquel*
 *il exerce son action de pervers sadique.*
 
 <!-- id: s11-14-0111 -->
@@ -619,6 +619,7 @@ Est-ce que je vous ai donné quelques lumières par cet exposé ?
 <!-- id: s11-14-0124 -->
 
 Jacques-Alain MILLER - Quelques lumières et quelques obscurités...
+
 ## Notes
 
 [^74]: Cf. Marcel Conche : *Héraclite, Fragments*, PUF 1986, Coll. Epiméthée, p. 423.

@@ -82,7 +82,7 @@ Nous tenons à une phénoménologie du langage *paraphasique*, autrement dit à 
 
 <!-- id: s3-19-0020 -->
 
-Et c’est dans ce sens où *la paraphrase*, qui chez lui domine, qui est son mode d’expression*,* s’oppose strictement à ce qu’on pourrait lui opposer sous le titre de « *métaphrase* », et dont il est strictement incapable, si on appelle « *métaphrase* » tout ce qui est de l’ordre d’une *traduction littérale*, car c’est justement ce dont il est incapable.
+Et c’est dans ce sens où *la paraphrase*, qui chez lui domine, qui est son mode d’expression, s’oppose strictement à ce qu’on pourrait lui opposer sous le titre de « *métaphrase* », et dont il est strictement incapable, si on appelle « *métaphrase* » tout ce qui est de l’ordre d’une *traduction littérale*, car c’est justement ce dont il est incapable.
 
 <!-- id: s3-19-0021 -->
 
@@ -102,7 +102,7 @@ C’est la proposition qu’ils ne sont pas capables de construire, malgré que 
 
 <!-- id: s3-19-0025 -->
 
-Dans cette sorte de *jeu de cache-cache*, si on peut dire, qui est celui que nous proposent les phénomènes du langage, car en fin de compte c’est à peu près comme ceci que vous devez réaliser la difficulté à laquelle nous sommes affrontés, c’est qu’on peut dire qu’en raison même de ces propriétés du signifiant et du signifié, on peut dire que ce qui est le piège, la tentation éternelle dans laquelle tombe *le linguiste* lui*-*même, à plus forte raison ceux qui n’étant pas linguistes sont plongés, de par la nature même des phénomènes auxquels ils ont affaire dans les fonctions du langage et qui n’ayant aucune formation concernant la nature du langage, bien entendu, sont absolument et d’avance victimes de cette sorte d’illusion qui consiste à considérer que ce qui est le plus apparent dans le phénomène, qui donne le tout de ce phénomène, et je dis jusqu’à un certain point que des linguistes y sont tombés car par exemple l’accent que les linguistes mettent sur *la métaphore*, et que j’élude, a toujours été beaucoup plus poussé que tout ce qui est dans le langage, est de l’ordre de *la métonymie*.
+Dans cette sorte de *jeu de cache-cache*, si on peut dire, qui est celui que nous proposent les phénomènes du langage, car en fin de compte c’est à peu près comme ceci que vous devez réaliser la difficulté à laquelle nous sommes affrontés, c’est qu’on peut dire qu’en raison même de ces propriétés du signifiant et du signifié, on peut dire que ce qui est le piège, la tentation éternelle dans laquelle tombe *le linguiste* lui-même, à plus forte raison ceux qui n’étant pas linguistes sont plongés, de par la nature même des phénomènes auxquels ils ont affaire dans les fonctions du langage et qui n’ayant aucune formation concernant la nature du langage, bien entendu, sont absolument et d’avance victimes de cette sorte d’illusion qui consiste à considérer que ce qui est le plus apparent dans le phénomène, qui donne le tout de ce phénomène, et je dis jusqu’à un certain point que des linguistes y sont tombés car par exemple l’accent que les linguistes mettent sur *la métaphore*, et que j’élude, a toujours été beaucoup plus poussé que tout ce qui est dans le langage, est de l’ordre de *la métonymie*.
 
 <!-- id: s3-19-0026 -->
 
@@ -345,6 +345,7 @@ C’est-à-dire que c’est sur le plan d’une équivalence phonématique, sign
 <!-- id: s3-19-0084 -->
 
 Cette promotion du signifiant comme tel - de même que je parlais tout à l’heure de la promotion du détail - cette mise en valeur, cette *sortie de cette sous-structure* toujours cachée de la fonction du langage, qui est *la métonymie*, est ce quelque chose sur lequel il convient d’abord de mettre le pivot et l’accent avant toute investigation possible des troubles fonctionnels du langage dans *la névrose* ou *la* *psychose*.
+
 ## Notes
 
 [^28]: Édouard Pichon : « *Des mots à la pensée, essai de Grammaire de la langue française »* (en collaboration avec Jean Damourette)

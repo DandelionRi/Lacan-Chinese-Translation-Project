@@ -398,7 +398,7 @@ Vous n’êtes pas tout à fait contre ce que je dis là ?
 
 <!-- id: s13-18-0099 -->
 
-FOUCAULT* *: … LACAN
+FOUCAULT: … LACAN
 
 <!-- id: s13-18-0100 -->
 
@@ -468,7 +468,7 @@ C’est bien l’entière présence de tout le bataclan qui permet à HEIDEGGER 
 
 > parce que je pense que vous l’avez lu, et comme cet ouvrage est introuvable il doit y en avoir peu
 >
-> qui l’aient lu jusqu’ici, ici, mais j’en ai tout de même quelque peu parlé …c’est-à-dire de faire dire à PLATON beaucoup plus qu’on n’y lit ordinairement, et de montrer, en tout cas, la valeur fondamentale d’un certain nombre de *mouvements du sujet* qui sont très exactement quelque chose qui, comme il le souligne, lie la vérité à une certaine formation, une certaine παιδεία \[paideia\]*.* À savoir à ces mouvements que nous connaissons bien, en tout cas dont ceux qui suivent mon enseignement, connaissent bien la valeur de signifiant : mouvement de tour et de retour, mouvement de celui qui se retourne et qui doit se maintenir dans ce *retournement*.
+> qui l’aient lu jusqu’ici, ici, mais j’en ai tout de même quelque peu parlé …c’est-à-dire de faire dire à PLATON beaucoup plus qu’on n’y lit ordinairement, et de montrer, en tout cas, la valeur fondamentale d’un certain nombre de *mouvements du sujet* qui sont très exactement quelque chose qui, comme il le souligne, lie la vérité à une certaine formation, une certaine παιδεία \[paideia\]. À savoir à ces mouvements que nous connaissons bien, en tout cas dont ceux qui suivent mon enseignement, connaissent bien la valeur de signifiant : mouvement de tour et de retour, mouvement de celui qui se retourne et qui doit se maintenir dans ce *retournement*.
 
 <!-- id: s13-18-0117 -->
 
@@ -810,7 +810,7 @@ Je le lui ai remontré hier soir, je dois dire que, il m’a dit que c’était 
 
 <!-- id: s13-18-0201 -->
 
-Il regrettait d’avoir fait une concession qu’il avait cru devoir. C’était une espèce de contre-concession. Il avait dit : « *Après tout, je fais peut-être ça pour embêter les gens alors pourquoi ne pas le lâcher* » 
+Il regrettait d’avoir fait une concession qu’il avait cru devoir. C’était une espèce de contre-concession. Il avait dit : « *Après tout, je fais peut-être ça pour embêter les gens alors pourquoi ne pas le lâcher* »
 
 <!-- id: s13-18-0202 -->
 

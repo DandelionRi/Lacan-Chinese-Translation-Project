@@ -26,7 +26,7 @@ Vous savez que c’est en insistant sur cette notion du *symbolique* et en vous 
 
 <!-- id: s1-10-0006 -->
 
-Nous voici donc arrivés à insister beaucoup sur cette face de la résistance qui se situe au niveau même de l’émission de *la parole* pour autant qu’elle peut exprimer l’être du sujet, pour autant qu’elle y parvient - et peut-on dire qu’elle y parvient ? Jusqu’à un certain point elle n’y parviendra jamais - nous voici, dis-­je*,* arrivés à ce moment où nous nous posons la question : qu’est-ce alors, par rapport à cet élément fondamental de la communication, de la parole, qu’est­-ce et comment se situent tous ces affects, toutes ces références - appelons-les maintenant par leur nom - *imaginaires*, qui sont proprement, communément évoqués quand on évoque, quand on veut définir l’action inter-psychologique du transfert dans l’expérience analytique ? Vous avez bien senti que ça n’allait pas de soi. \[...\]
+Nous voici donc arrivés à insister beaucoup sur cette face de la résistance qui se situe au niveau même de l’émission de *la parole* pour autant qu’elle peut exprimer l’être du sujet, pour autant qu’elle y parvient - et peut-on dire qu’elle y parvient ? Jusqu’à un certain point elle n’y parviendra jamais - nous voici, dis-­je, arrivés à ce moment où nous nous posons la question : qu’est-ce alors, par rapport à cet élément fondamental de la communication, de la parole, qu’est­-ce et comment se situent tous ces affects, toutes ces références - appelons-les maintenant par leur nom - *imaginaires*, qui sont proprement, communément évoqués quand on évoque, quand on veut définir l’action inter-psychologique du transfert dans l’expérience analytique ? Vous avez bien senti que ça n’allait pas de soi. \[...\]
 
 <!-- id: s1-10-0007 -->
 
@@ -70,7 +70,7 @@ Vous sentez que le terme d’*accord* y est encore, mais que l’important est d
 
 <!-- id: s1-10-0017 -->
 
-Bien entendu ceci, ce terme « *objet* » - nous ne l’envisageons que dans sa réfé­rence à la parole *-* est quelque chose qui est d’ores et déjà partiellement tout donné par toutes sortes d’hypothèses qui ne sont pas toutes des hypothèses conformes à la réalité, dans ce système objectal, ou objectif, et en y intégrant toute la somme de préjugés qui constituent une communauté culturelle, jusque et y compris des hypothèses ou voire les préjugés psychologiques depuis les plus élaborés par le travail scientifique jusqu’aux plus naïfs et aux plus sponta­nés, qui ne sont certainement pas sans communiquer largement avec les réfé­rences proprement scientifiques, et même jusqu’à les imprégner.
+Bien entendu ceci, ce terme « *objet* » - nous ne l’envisageons que dans sa réfé­rence à la parole - est quelque chose qui est d’ores et déjà partiellement tout donné par toutes sortes d’hypothèses qui ne sont pas toutes des hypothèses conformes à la réalité, dans ce système objectal, ou objectif, et en y intégrant toute la somme de préjugés qui constituent une communauté culturelle, jusque et y compris des hypothèses ou voire les préjugés psychologiques depuis les plus élaborés par le travail scientifique jusqu’aux plus naïfs et aux plus sponta­nés, qui ne sont certainement pas sans communiquer largement avec les réfé­rences proprement scientifiques, et même jusqu’à les imprégner.
 
 <!-- id: s1-10-0018 -->
 
@@ -166,7 +166,7 @@ Ce dont il s’agit, ce que nous avons vu se manifester dans la suite de ces dis
 
 <!-- id: s1-10-0041 -->
 
-Et vous savez aussi combien sur ce point la théorie est hésitante et combien, pour prendre les choses au point actuel où elles en sont venues, il est extrême­ment difficile de savoir. Prenez par exemple la lecture d’un article sur ce sujet, sur le ressort de l’effi­cacité thérapeutique, par exemple celui de James STRACHEY[^20] dans l’*International Journal of Psychoanalysis* *-* article fondamental, c’est un des mieux élaborés - qui met tout l’accent sur *le rôle du surmoi.*
+Et vous savez aussi combien sur ce point la théorie est hésitante et combien, pour prendre les choses au point actuel où elles en sont venues, il est extrême­ment difficile de savoir. Prenez par exemple la lecture d’un article sur ce sujet, sur le ressort de l’effi­cacité thérapeutique, par exemple celui de James STRACHEY[^20] dans l’*International Journal of Psychoanalysis* - article fondamental, c’est un des mieux élaborés - qui met tout l’accent sur *le rôle du surmoi.*
 
 <!-- id: s1-10-0042 -->
 
@@ -258,11 +258,11 @@ Pour l’exclure, c’est bien ce que je dis. Pour considérer que *le narcissis
 
 <!-- id: s1-10-0064 -->
 
-LACAN - Pourquoi dites-vous « *du monde extérieur* » *?*
+LACAN - Pourquoi dites-vous « *du monde extérieur* » ?
 
 <!-- id: s1-10-0065 -->
 
-Serge LECLAIRE - «* Außenwelt* »*.*
+Serge LECLAIRE - «* Außenwelt* ».
 
 <!-- id: s1-10-0066 -->
 
@@ -322,7 +322,7 @@ Vous permettez ? Je vais citer ce que vous ne citez pas. Ce que vous dites-là e
 
 <!-- id: s1-10-0080 -->
 
-C’est là que le problème est le plus aigu, car poser le problème dans ces termes engendre des difficultés extrêmes par rapport à la théorie analytique telle qu’elle est déjà existante, déjà constituée à ce moment-là. Cela se rapporte aux « *Trois essais sur la sexualité »* auxquels se réfère cette notion de l’*auto-érotisme primordial*, hors duquel - par une sorte d’évasion, de prolongement, de pseudopodes *-* *cette libido* constitutive comme telle d’objets d’intérêt de cet auto-érotisme, *se répartit, est constituée* par la voie d’une certaine émission par le sujet de ses investissements libidi­naux : les différentes formes et étapes où - selon sa structure instinctuelle propre et par une sorte d’élaboration du monde - se constituerait le progrès instinctuel du sujet.
+C’est là que le problème est le plus aigu, car poser le problème dans ces termes engendre des difficultés extrêmes par rapport à la théorie analytique telle qu’elle est déjà existante, déjà constituée à ce moment-là. Cela se rapporte aux « *Trois essais sur la sexualité »* auxquels se réfère cette notion de l’*auto-érotisme primordial*, hors duquel - par une sorte d’évasion, de prolongement, de pseudopodes - *cette libido* constitutive comme telle d’objets d’intérêt de cet auto-érotisme, *se répartit, est constituée* par la voie d’une certaine émission par le sujet de ses investissements libidi­naux : les différentes formes et étapes où - selon sa structure instinctuelle propre et par une sorte d’élaboration du monde - se constituerait le progrès instinctuel du sujet.
 
 <!-- id: s1-10-0081 -->
 
@@ -463,6 +463,7 @@ Je voudrais la prochaine fois avoir une collaboration aussi efficace que pos­si
 <!-- id: s1-10-0115 -->
 
 Il y a un troisième article, j’aimerais bien le confier à quelqu’un pour une fois prochaine, et qui est un article qui se situe dans la métapsychologie de la même époque. Il concerne étroitement notre objet, et ça n’est autre chose que l’article : *« Complément métapsychologique à la doctrine des rêves »,* qu’on traduit en fran­çais « *La doctrine des rêves »,* et que je voudrais donner à quiconque voudra bien s’en charger, par exemple notre cher PERRIER, à qui ça donnera l’occasion d’in­tervenir sur le sujet des schizophrènes. Vous pourrez à l’avance prendre cet article, point de départ que désigne son titre à toutes ces questions que nous avons à peine introduites aujourd’hui.
+
 ## Notes
 
 [^20]: James Strachey : « *The nature of the therapeutic action of psycho-analysis* », International Journal of Psycho-Analysis, Vol. XV 1934, pp. 127-159.

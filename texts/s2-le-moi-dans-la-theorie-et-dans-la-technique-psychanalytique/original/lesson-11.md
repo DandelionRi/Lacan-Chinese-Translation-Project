@@ -132,7 +132,7 @@ Ainsi dans le premier paragraphe sur *L’oubli des rêves*, FREUD dit que nous 
 
 <!-- id: s2-11-0032 -->
 
-LACAN *-* Répétez ce que vous venez de dire.
+LACAN - Répétez ce que vous venez de dire.
 
 <!-- id: s2-11-0033 -->
 
@@ -144,15 +144,15 @@ Nous ne connaissons pas le rêve que nous voulons interpréter. Nous l’avons o
 
 <!-- id: s2-11-0035 -->
 
-LACAN *-* Expliquez bien dans quel sens il entend ça.
+LACAN - Expliquez bien dans quel sens il entend ça.
 
 <!-- id: s2-11-0036 -->
 
-Jean-Paul VALABREGA *-* Il fait allusion à des travaux d’auteurs qu’il a réfutés.
+Jean-Paul VALABREGA - Il fait allusion à des travaux d’auteurs qu’il a réfutés.
 
 <!-- id: s2-11-0037 -->
 
-LACAN *-* Dites-le ! C’est intéressant.
+LACAN - Dites-le ! C’est intéressant.
 
 <!-- id: s2-11-0038 -->
 
@@ -190,7 +190,7 @@ C’est la même chose et ça joue un rôle considérable dans sa pensée, c’e
 
 <!-- id: s2-11-0046 -->
 
-Par exemple*,* *la force qui refoule* est la même, celle que l’on trouve dans son travail d’*interprétation*, est identiquement la même qui se manifeste dans le déroulement, l’élaboration d’un processus. C’est par conséquent par un détour de l’étude, dirigée sur l’obs­tacle qu’on rencontre, qu’il peut arriver de la façon la plus profonde, semble-t-il, à réfuter les objections qu’on lui présente.
+Par exemple, *la force qui refoule* est la même, celle que l’on trouve dans son travail d’*interprétation*, est identiquement la même qui se manifeste dans le déroulement, l’élaboration d’un processus. C’est par conséquent par un détour de l’étude, dirigée sur l’obs­tacle qu’on rencontre, qu’il peut arriver de la façon la plus profonde, semble-t-il, à réfuter les objections qu’on lui présente.
 
 <!-- id: s2-11-0047 -->
 
@@ -198,7 +198,7 @@ LACAN
 
 <!-- id: s2-11-0048 -->
 
-Il y a deux points, deux petites phrases qui, du point de vue que nous développons ici, méritent d’être relevées. Au moment où il remet en cause toute la question des constructions qu’il a faites dans les chapitres précédents, par exemple à propos de l’élaboration du rêve*,* tout ce qui est le gros-œuvre de la *Traumdeutung,* tout d’un coup il dit :
+Il y a deux points, deux petites phrases qui, du point de vue que nous développons ici, méritent d’être relevées. Au moment où il remet en cause toute la question des constructions qu’il a faites dans les chapitres précédents, par exemple à propos de l’élaboration du rêve, tout ce qui est le gros-œuvre de la *Traumdeutung,* tout d’un coup il dit :
 
 <!-- id: s2-11-0049 -->
 
@@ -210,7 +210,7 @@ Relevons au passage pour nous cette métaphore, parce que dans FREUD les métaph
 
 <!-- id: s2-11-0051 -->
 
-Non seulement il l’a traité comme *un texte sacré* mais il faut accorder toute son importance au mot *« texte »* qu’il emploie. Nous sommes vraiment là rapprochés de ce que ce cher VALABREGA essaie de vous montrer, cette dialectique très particulière qu’il y a dans ce chapitre introductif* *: au moment où il va parler du *processus du rêve*, il va à la question de l’oubli.
+Non seulement il l’a traité comme *un texte sacré* mais il faut accorder toute son importance au mot *« texte »* qu’il emploie. Nous sommes vraiment là rapprochés de ce que ce cher VALABREGA essaie de vous montrer, cette dialectique très particulière qu’il y a dans ce chapitre introductif: au moment où il va parler du *processus du rêve*, il va à la question de l’oubli.
 
 <!-- id: s2-11-0052 -->
 
@@ -330,7 +330,7 @@ Qu’est-ce qui vous y mènera ? C’est ce que le chapitre suivant va vous dém
 
 <!-- id: s2-11-0079 -->
 
-VALABREGA *-* Par conséquent, l’oubli du rêve c’est l’obstacle.
+VALABREGA - Par conséquent, l’oubli du rêve c’est l’obstacle.
 
 <!-- id: s2-11-0080 -->
 
@@ -398,7 +398,7 @@ LACAN *–* Mais justement ça n’est pas la censure, non !
 
 <!-- id: s2-11-0096 -->
 
-Jean-Paul VALABREGA *-* Mais si, Monsieur.
+Jean-Paul VALABREGA - Mais si, Monsieur.
 
 <!-- id: s2-11-0097 -->
 
@@ -450,7 +450,7 @@ Et toute *l’aventure de la dactylo*, à partir de ce moment-là - elle est aid
 
 <!-- id: s2-11-0109 -->
 
-Jean-Paul VALABREGA - Le titre est « *Pitié pour les femmes »* [^12]*.*
+Jean-Paul VALABREGA - Le titre est « *Pitié pour les femmes »* [^12].
 
 <!-- id: s2-11-0110 -->
 
@@ -626,7 +626,7 @@ Il faut en venir maintenant à la régression.
 
 <!-- id: s2-11-0153 -->
 
-LACAN *-* Oui. Allez-y.
+LACAN - Oui. Allez-y.
 
 <!-- id: s2-11-0154 -->
 
@@ -654,7 +654,7 @@ LACAN
 
 <!-- id: s2-11-0160 -->
 
-Il y a *le présent* et aussi *la notion de disparition du vielleicht* \[« *peut-être* »\]*.*
+Il y a *le présent* et aussi *la notion de disparition du vielleicht* \[« *peut-être* »\].
 
 <!-- id: s2-11-0161 -->
 
@@ -791,6 +791,7 @@ Je ne fais que vous indiquer là ce qui fera l’objet de notre prochain sémina
 <!-- id: s2-11-0193 -->
 
 …aussi les conditions limitées dans lesquelles nous devons faire usage de ce terme de *régression* et comprendre ce que ça veut dire, et jusqu’à quel point nous devons - comme je le disais hier soir - pour un certain temps renoncer à toutes sortes d’usages abusifs qui en ont été faits.
+
 ## Notes
 
 [^11]: Raymond Queneau : *On est toujours trop bon avec les femmes*, Gallimard Folio, 1981.

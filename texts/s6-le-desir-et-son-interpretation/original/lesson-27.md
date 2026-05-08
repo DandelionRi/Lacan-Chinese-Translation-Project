@@ -422,7 +422,7 @@ Il est passé au niveau du *(a)*, pour autant justement qu’à ce dernier terme
 
 <!-- id: s6-27-0103 -->
 
-Mais justement ce qu’il importe de maintenir, c’est l’opposition à partir de laquelle cet échange s’opère, à savoir le groupement S en face de *a,* S**◊***a* …
+Mais justement ce qu’il importe de maintenir, c’est l’opposition à partir de laquelle cet échange s’opère, à savoir le groupement S en face de *a,* S◊*a* …
 
 <!-- id: s6-27-0104 -->
 

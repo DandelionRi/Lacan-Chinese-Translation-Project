@@ -55,7 +55,7 @@ par FREUD en ceci, dit-il, que : « *Rien ne peut être appréhendé « in effi
 
 \[« *Es ist unleugbar, daß die Bezwingung der Übertragungsphänomene dem Psychoanalytiker die größten Schwierigkeiten bereitet, aber man darf nicht vergessen, daß gerade sie uns*
 *den unschätzbaren Dienst erweisen, die verborgenen und vergessenen Liebesregungen der Kranken aktuell und manifest zu machen, denn schließlich kann niemand*
-*in absentia oder in effigie erschlagen werden.* » (S. Freud : *Zu**r Dynamik der Übertragung*, 1912)
+*in absentia oder in effigie erschlagen werden.* » (S. Freud : *Zur Dynamik der Übertragung*, 1912)
 « *Ich antwortete : Es ist schwer möglich, jemand in absentia zu erschlagen.* » (S. Freud : *Der Rat Man Bemerkungen über einen Fall von Zwangsneurose*, 1909)\]
 
 <!-- id: s11-05-0012 -->
@@ -86,7 +86,7 @@ Ceci nous indique qu’il n’y a pas à prendre les choses au pied de la décla
 
 <!-- id: s11-05-0017 -->
 
-De cette fonction de la τύχη \[tuché\] *-* du *réel comme rencontre*, de la *rencontre* en tant qu’elle peut être *manquée*, qu’essentiellement
+De cette fonction de la τύχη \[tuché\] - du *réel comme rencontre*, de la *rencontre* en tant qu’elle peut être *manquée*, qu’essentiellement
 elle serait *« présence » comme « rencontre manquée »*, voilà ce qui d’abord s’est présenté dans l’histoire de la psychanalyse
 sous la forme première, qui à elle toute seule suffit déjà à faire naître notre attention, celle du traumatisme.
 
@@ -118,7 +118,7 @@ en français se traduirait par le mot même, en sa superbe ambiguïté dans la l
 
 <!-- id: s11-05-0023 -->
 
-Et ce *Zwang,* cette *contrainte* à quoi nous sommes obligés, dit FREUD, qu’il définit par la *Wiederholung* \[*répétition*\]*,*
+Et ce *Zwang,* cette *contrainte* à quoi nous sommes obligés, dit FREUD, qu’il définit par la *Wiederholung* \[*répétition*\],
 *ce quelque chose par où toujours nous ne pouvons que cerner ce point central où elle commande le détour même du processus primaire*.
 Ce *processus primaire*, qui n’est autre que ce que j’ai essayé pour vous de définir dans les dernières leçons sous la forme de *l’inconscient*, il nous faut bien une fois de plus le saisir dans son expérience de rupture « *entre perception et conscience* », vous ai-je dit, *dans ce lieu,*
 *ce lieu intem­porel* et qui force à ce que FREUD appelle : « *einer anderen Lokalität* » [^29] qui est *une autre localité, un autre espace, une autre scène*.
@@ -145,11 +145,11 @@ Il n’est point *explé­tif*, il est plutôt *l’explétion* *de mon impléan
 
 <!-- id: s11-05-0027 -->
 
-- Je dis : « *Aurez*-*vous fini avant qu’il ne vienne ?* » quand cela m’importe que vous ayez fini, *à Dieu ne plaise qu’il vînt avant* !
+- Je dis : « *Aurez-vous fini avant qu’il ne vienne ?* » quand cela m’importe que vous ayez fini, *à Dieu ne plaise qu’il vînt avant* !
 
 <!-- id: s11-05-0028 -->
 
-- Je dis : « *Passerez*-*vous avant qu’il vienne ?* » car déjà quand il viendra, vous ne serez plus là.
+- Je dis : « *Passerez-vous avant qu’il vienne ?* » car déjà quand il viendra, vous ne serez plus là.
 
 <!-- id: s11-05-0029 -->
 
@@ -180,7 +180,7 @@ Notez comme ce rêve, tout entier fait aussi sur *l’incident, le bruit,* qui d
 > qui a été prendre, dans la chambre voisi­ne de celle où repose son enfant mort, quelque repos,
 >
 > laissant l’enfant à la garde, nous dit le texte, d’un grison, d’un autre vieillard
-> …qui, atteint, réveillé, par quelque chose qui, non seulement est la réalité, le choc, le *knocking* d’un bruit fait pour le rappeler au réel*,*
+> …qui, atteint, réveillé, par quelque chose qui, non seulement est la réalité, le choc, le *knocking* d’un bruit fait pour le rappeler au réel,
 > mais qui dans son rêve, traduit juste la quasi identité de ce qui se passe, à savoir la réalité même d’un cierge renversé
 > et en train de mettre le feu au lit où repose cet enfant.
 
@@ -226,7 +226,7 @@ Est-ce que cela n’est pas une autre réalité, celle que dans le rêve, FREUD 
 
 <!-- id: s11-05-0044 -->
 
-> et qui lui auront été dits, suppose-t-il, « *peut*-*être à cause de la fièvre* », mais qui sait ?
+> et qui lui auront été dits, suppose-t-il, « *peut-être à cause de la fièvre* », mais qui sait ?
 >
 > ...pour lui, *perpétue la question, l’angoisse, le remords*, de ce dont FREUD pointe la question concernant ce qui, chez le père peut perpétuer le désir qu’aussi celui qu’il a mis près du lit de son fils à veiller : le grison, ne sera peut-être pas « *à la hauteur de bien tenir sa tâche* » *Besorgnis* \[…\] *gewachsen* il ne sera pas, peut-être, en mesure, à la hau­teur de sa tâche. *Et en effet, il s’est endormi*.
 >
@@ -284,7 +284,7 @@ Car la véritable formule de l’athéisme n’est pas que « *Dieu est mort* »
 
 <!-- id: s11-05-0057 -->
 
-« *Ce qui serait peut*-*être* » il faut le chercher, le voir dans la réalité avant le réveil. Le réveil nous montre l’éveil de la conscience du sujet dans la représentation de ce qui s’est passé, à savoir le fâcheux accident de la réa­lité à quoi on n’a plus qu’à parer.
+« *Ce qui serait peut-être* » il faut le chercher, le voir dans la réalité avant le réveil. Le réveil nous montre l’éveil de la conscience du sujet dans la représentation de ce qui s’est passé, à savoir le fâcheux accident de la réa­lité à quoi on n’a plus qu’à parer.
 
 <!-- id: s11-05-0058 -->
 
@@ -296,11 +296,11 @@ Mais *qu’était donc cet accident* quand tout le monde dort…
 
 <!-- id: s11-05-0060 -->
 
-- et celui dont sans doute, devant son lit, quelqu’un de bien intentionné a dû dire : « *On dirait qu’il dort* » ? …*qu’était cet accident* quand nous n’en savons qu’une chose, c’est que dans ce monde tout entier assoupi, *seule la voix s’est fait entendre :* « *Père, ne vois*-*tu pas, je brûle ?* ».
+- et celui dont sans doute, devant son lit, quelqu’un de bien intentionné a dû dire : « *On dirait qu’il dort* » ? …*qu’était cet accident* quand nous n’en savons qu’une chose, c’est que dans ce monde tout entier assoupi, *seule la voix s’est fait entendre :* « *Père, ne vois-tu pas, je brûle ?* ».
 
 <!-- id: s11-05-0061 -->
 
-Cette phrase elle-même est un brandon : à elle seule elle porte le feu là où elle tombe, on ne voit pas *ce qui brûle*, car la flamme aveugle sur ce qu’il porte, sur *l’un­terlegt,* sur l’ὑποχείμενον \[upokeimenon\]*,* *mais non sur le réel*.
+Cette phrase elle-même est un brandon : à elle seule elle porte le feu là où elle tombe, on ne voit pas *ce qui brûle*, car la flamme aveugle sur ce qu’il porte, sur *l’un­terlegt,* sur l’ὑποχείμενον \[upokeimenon\], *mais non sur le réel*.
 
 <!-- id: s11-05-0062 -->
 
@@ -427,7 +427,7 @@ Car s’il est vrai de dire que le signifiant est la première marque du sujet, 
 <!-- id: s11-05-0087 -->
 
 Il en reste bien que l’ensemble de l’activité *symbolise la répétition*, non pas du tout d’un besoin qui en appellerait au retour de la mère
-et qui se manifesterait tout simplement dans le cri, mais de son *départ* comme cause d’une *Spaltung* dans le sujet, celle que surmonte une alternative qui est un *vel : fort*-*da* qui est un « *ici ou là* » et qui ne vise en son alternance que d’être « *fort »* d’un « *da »* et *da* d’un *fort.*
+et qui se manifesterait tout simplement dans le cri, mais de son *départ* comme cause d’une *Spaltung* dans le sujet, celle que surmonte une alternative qui est un *vel : fort-da* qui est un « *ici ou là* » et qui ne vise en son alternance que d’être « *fort »* d’un « *da »* et *da* d’un *fort.*
 
 <!-- id: s11-05-0088 -->
 
@@ -445,7 +445,7 @@ le *Vorstellungsrepräsentanz* manquera ?
 
 <!-- id: s11-05-0090 -->
 
-Ce dessin qu’aujourd’hui je vous ai donné de la fonction de la τύχη \[tuché\]*,* vous verrez qu’elle nous sera essentielle pour interpréter, pour diriger, pour rectifier, ce qu’est le devoir de l’analyste dans *l’interprétation du transfert*. Qu’il me suffise d’accentuer aujourd’hui que ce n’est point en vain que l’analyse se pose comme modulant d’une façon plus radicale ce rapport de l’homme au monde qui s’est longtemps pris pour « *connaissance* ».
+Ce dessin qu’aujourd’hui je vous ai donné de la fonction de la τύχη \[tuché\], vous verrez qu’elle nous sera essentielle pour interpréter, pour diriger, pour rectifier, ce qu’est le devoir de l’analyste dans *l’interprétation du transfert*. Qu’il me suffise d’accentuer aujourd’hui que ce n’est point en vain que l’analyse se pose comme modulant d’une façon plus radicale ce rapport de l’homme au monde qui s’est longtemps pris pour « *connaissance* ».
 
 <!-- id: s11-05-0091 -->
 
@@ -490,17 +490,18 @@ Il a dit, répondant à la question qui est la nôtre, celle de l’idéalisme :
 
 <!-- id: s11-05-0100 -->
 
-> « *rien peut*-*être ?* ».
+> « *rien peut-être ?* ».
 > Il n’a pas répondu :
 
 <!-- id: s11-05-0101 -->
 
-> « *peut*-*être rien* »
+> « *peut-être rien* »
 > mais pas \[*non plus*\] :
 
 <!-- id: s11-05-0102 -->
 
 > « *rien* ».
+
 ## Notes
 
 [^29]: [Gustav Theodor Fechner](http://fr.wikipedia.org/wiki/Gustav_Fechner) (1801-1887). Cf. Isabelle Dupéron : *G. T. Fechner : Le parallélisme psychophysiologique*, PUF 2000.

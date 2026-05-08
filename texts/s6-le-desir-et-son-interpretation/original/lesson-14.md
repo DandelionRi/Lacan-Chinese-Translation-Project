@@ -896,7 +896,7 @@ Et il dit :
 
 <!-- id: s6-14-0220 -->
 
-Jamais on n’a entendu dire qu’il est danois, il les vomit les Danois. Tout d’un coup le voilà absolument révolutionné par quelque chose dont je peux dire qu’il est tout à fait significatif par rapport à notre schéma : c’est dans la mesure où quelque chose, S, est là dans un certain rapport avec *a* \[S**◊***a*\], qu’il fait tout d’un coup cette identification qui lui fait retrouver pour la première fois son désir dans sa totalité. Cela dure un certain temps qu’ils sont dans le trou à se colleter, on les voit disparaître dans le trou et à la fin on les tire pour les séparer. Ce serait ce que l’on verrait dans le tableau : ce trou d’où l’on verrait des choses s’échapper. Nous verrons comment on peut concevoir ce que cela peut vouloir dire.
+Jamais on n’a entendu dire qu’il est danois, il les vomit les Danois. Tout d’un coup le voilà absolument révolutionné par quelque chose dont je peux dire qu’il est tout à fait significatif par rapport à notre schéma : c’est dans la mesure où quelque chose, S, est là dans un certain rapport avec *a* \[S◊*a*\], qu’il fait tout d’un coup cette identification qui lui fait retrouver pour la première fois son désir dans sa totalité. Cela dure un certain temps qu’ils sont dans le trou à se colleter, on les voit disparaître dans le trou et à la fin on les tire pour les séparer. Ce serait ce que l’on verrait dans le tableau : ce trou d’où l’on verrait des choses s’échapper. Nous verrons comment on peut concevoir ce que cela peut vouloir dire.
 
 <!-- id: s6-14-0221 -->
 
@@ -1170,7 +1170,7 @@ The Ghost at once confirms this misgiving by answering,
 
 <!-- id: s6-14-0278 -->
 
-  1.  How the very core of the problem is contained in these four words!
+1.  How the very core of the problem is contained in these four words!
 
 <!-- id: s6-14-0279 -->
 
@@ -1370,19 +1370,19 @@ We have finally to return to the subject with which we started, namely poetic cr
 
 <!-- id: s6-14-0320 -->
 
-    - "I do not know
+- "I do not know
 
 <!-- id: s6-14-0321 -->
 
-    - Why yet I live to say ‘This thing’s to do,’
+- Why yet I live to say ‘This thing’s to do,’
 
 <!-- id: s6-14-0322 -->
 
-    - Sith I have cause, and will, and strength, and means,
+- Sith I have cause, and will, and strength, and means,
 
 <!-- id: s6-14-0323 -->
 
-    - To do’t."
+- To do’t."
 
 <!-- id: s6-14-0324 -->
 
@@ -1501,7 +1501,7 @@ There is therefore reason to believe that the new life which Shakspere poured in
     (XXI-1), pp. 72 -113.
 
 
-[^60]: Edward Payson Vining : *The mystery of Hamlet, An attempt to solve an old problem*, 1881 ou Adamant Media Corporation**,** 2005**.**
+[^60]: Edward Payson Vining : *The mystery of Hamlet, An attempt to solve an old problem*, 1881 ou Adamant Media Corporation, 2005.
 
 
 [^61]: Hamlet : « *Un drame est le piège où je surprendrai la conscience du roi*. » (II, 2)

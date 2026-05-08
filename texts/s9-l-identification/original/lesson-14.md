@@ -158,7 +158,7 @@ Réfléchissez sur ces petits problèmes jamais épuisés - car les logiciens de
 
 <!-- id: s9-14-0038 -->
 
-Et toute la critique des logiciens ne fera pas qu’il nous advienne, pour peu que nous soyons engagés dans un véritable dialogue avec quelqu’un, à savoir qu’il s’agisse, d’une façon quelconque, d’une certaine condition essentielle à nos rap­ports avec lui, qui est celle à laquelle je pense arriver tout à l’heure, qu’il est essentiel que quelque chose entre nous s’institue comme *ignorance,* que je glis­serai à lui dire, si savant et si puriste que je sois : « *vous n’êtes pas sans ignorer* »*.*
+Et toute la critique des logiciens ne fera pas qu’il nous advienne, pour peu que nous soyons engagés dans un véritable dialogue avec quelqu’un, à savoir qu’il s’agisse, d’une façon quelconque, d’une certaine condition essentielle à nos rap­ports avec lui, qui est celle à laquelle je pense arriver tout à l’heure, qu’il est essentiel que quelque chose entre nous s’institue comme *ignorance,* que je glis­serai à lui dire, si savant et si puriste que je sois : « *vous n’êtes pas sans ignorer* ».
 
 <!-- id: s9-14-0039 -->
 
@@ -270,7 +270,7 @@ C’est un point, *et un point c’est tout*. La place du *trait unaire* est là
 
 <!-- id: s9-14-0066 -->
 
-« *Peut-être rien* » *c’est la première formulation du* *message*. « *Peut-être : rien* »*,* ce peut être *une réponse*, mais est-ce la réponse à la question « *Rien peut-être ?* » ? Justement pas ! Ici, l’énonciatif « *rien* », comme posant la *possibilité* du non lieu de conclure, d’abord, comme antérieur à la cote d’existence, à la puissance d’être, cet énonciatif au niveau de la question prend toute sa valeur d’une substantification du néant de la question elle-même.
+« *Peut-être rien* » *c’est la première formulation du* *message*. « *Peut-être : rien* », ce peut être *une réponse*, mais est-ce la réponse à la question « *Rien peut-être ?* » ? Justement pas ! Ici, l’énonciatif « *rien* », comme posant la *possibilité* du non lieu de conclure, d’abord, comme antérieur à la cote d’existence, à la puissance d’être, cet énonciatif au niveau de la question prend toute sa valeur d’une substantification du néant de la question elle-même.
 
 <!-- id: s9-14-0067 -->
 
@@ -306,11 +306,11 @@ Seule l’éventualité du *Réel* permet de déterminer quelque chose, et la no
 
 <!-- id: s9-14-0075 -->
 
-- « *Rien peut-être  ?* »*,* au niveau de la question, ne donne qu’*une métaphore*, à savoir que *la puissance d’être est de l’au-delà.*
+- « *Rien peut-être  ?* », au niveau de la question, ne donne qu’*une métaphore*, à savoir que *la puissance d’être est de l’au-delà.*
 
 <!-- id: s9-14-0076 -->
 
-- 
+-
 
 <!-- id: s9-14-0077 -->
 

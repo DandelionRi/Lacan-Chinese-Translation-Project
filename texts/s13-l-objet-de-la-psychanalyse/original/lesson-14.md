@@ -206,7 +206,7 @@ Et je fais allusion à une forme sous laquelle ceci nous revint et qui est très
 
 <!-- id: s13-14-0049 -->
 
-> « *Bien sûr, c’est vrai de l’expérience des psychologues par quoi nous avons introduit le grelot.* - report au paragraphe VIGOTSKY, PIAGET - *Mais c’est aussi rester comme psychothérapeute*… 
+> « *Bien sûr, c’est vrai de l’expérience des psychologues par quoi nous avons introduit le grelot.* - report au paragraphe VIGOTSKY, PIAGET - *Mais c’est aussi rester comme psychothérapeute*…
 
 <!-- id: s13-14-0050 -->
 

@@ -92,7 +92,7 @@ C’est cela qui, dans la notion d’*ensemble*, et très précisément pour aut
 
 <!-- id: s14-07-0022 -->
 
-Au niveau de *la théorie des ensembles* la transfor­mation de MORGAN s’exprime ainsi : que dans toute for­mule où nous avons 
+Au niveau de *la théorie des ensembles* la transfor­mation de MORGAN s’exprime ainsi : que dans toute for­mule où nous avons
 
 <!-- id: s14-07-0023 -->
 
@@ -128,7 +128,7 @@ Au niveau de *la théorie des ensembles* la transfor­mation de MORGAN s’expri
 
 <!-- id: s14-07-0031 -->
 
-Tel est, fondamentalement, ce que veut dire que nous substituons au « *Je pense, donc je suis* » ce quelque chose, qui exige que nous le regardions de plus près dans son ma­niement mais qui - tout brutalement, tout massivement, tout aveuglément, dirai-je *-* peut d’abord s’articuler comme quel­que chose dont le « *ou* » de la réunion, est à regarder de plus près et qui unit un « *je ne pense pas* » avec un « *je ne suis pas* »*.*
+Tel est, fondamentalement, ce que veut dire que nous substituons au « *Je pense, donc je suis* » ce quelque chose, qui exige que nous le regardions de plus près dans son ma­niement mais qui - tout brutalement, tout massivement, tout aveuglément, dirai-je - peut d’abord s’articuler comme quel­que chose dont le « *ou* » de la réunion, est à regarder de plus près et qui unit un « *je ne pense pas* » avec un « *je ne suis pas* ».
 
 <!-- id: s14-07-0032 -->
 
@@ -268,7 +268,7 @@ C’est pour en poser la question que nous avons in­troduit ces guillemets auto
 
 <!-- id: s14-07-0062 -->
 
-Mais si seulement cet « *ergo* » représente cette nécessité, est-ce que nous ne pouvons pas voir ce qui résulte de ceci : que « *ergo sum* » *n’est que refus du dur chemin du* « *penser* » *à* « *l’être* », et du savoir qui doit - ce chemin *-* le parcourir.
+Mais si seulement cet « *ergo* » représente cette nécessité, est-ce que nous ne pouvons pas voir ce qui résulte de ceci : que « *ergo sum* » *n’est que refus du dur chemin du* « *penser* » *à* « *l’être* », et du savoir qui doit - ce chemin - le parcourir.
 
 <!-- id: s14-07-0063 -->
 
@@ -280,7 +280,7 @@ Mais à penser qu’il n’est même pas besoin d’interroger *l’étant* sur 
 
 <!-- id: s14-07-0065 -->
 
-Se poser *ego,* « *je pense* » comme pur « *pense–être* »*,* comme substitut subsistant d’être, le « *je* » d’un « *ne suis pas *» *local*, qui veut dire
+Se poser *ego,* « *je pense* » comme pur « *pense–être* », comme substitut subsistant d’être, le « *je* » d’un « *ne suis pas *» *local*, qui veut dire
 
 <!-- id: s14-07-0066 -->
 
@@ -300,7 +300,7 @@ Se poser *ego,* « *je pense* » comme pur « *pense–être* »*,* comme su
 
 <!-- id: s14-07-0070 -->
 
-C’est en ceci, au reste, que c’est une démarche fé­conde, et qui a… qu’elle a à proprement parler le même pro­fil que celle du raisonnement par récurrence, qui est en quelque sorte ceci : de mener l’autre longtemps sur un che­min, sur un chemin qui est ici, à proprement parler, le che­min de renoncer à telle et telle, et bientôt à toutes les voies du savoir, et puis *à un tournant,* de *le surprendre* en cet aveu : *que là au moins*, de lui avoir fait par­courir ce chemin, *il faut bien que* « *je sois* » *.*
+C’est en ceci, au reste, que c’est une démarche fé­conde, et qui a… qu’elle a à proprement parler le même pro­fil que celle du raisonnement par récurrence, qui est en quelque sorte ceci : de mener l’autre longtemps sur un che­min, sur un chemin qui est ici, à proprement parler, le che­min de renoncer à telle et telle, et bientôt à toutes les voies du savoir, et puis *à un tournant,* de *le surprendre* en cet aveu : *que là au moins*, de lui avoir fait par­courir ce chemin, *il faut bien que* « *je sois* » .
 
 <!-- id: s14-07-0071 -->
 
@@ -308,7 +308,7 @@ Mais *la dimension de cet Autre* y est si essentielle qu’on peut dire qu’ell
 
 <!-- id: s14-07-0072 -->
 
-Ce cadre ne vaut que pour autant que le « *je pense* »*,* je le pense, c’est-à-dire que *j’argumente le cogito avec l’Au­tre*.
+Ce cadre ne vaut que pour autant que le « *je pense* », je le pense, c’est-à-dire que *j’argumente le cogito avec l’Au­tre*.
 
 <!-- id: s14-07-0073 -->
 
@@ -316,7 +316,7 @@ Ce cadre ne vaut que pour autant que le « *je pense* »*,* je le pense, c’e
 
 <!-- id: s14-07-0074 -->
 
-Si ce n’est pas du niveau du « *je pense* » *-* qui prépare cet aveu d’un ensemble vide - qu’il s’agit, c’est du vidage d’un autre ensemble.
+Si ce n’est pas du niveau du « *je pense* » - qui prépare cet aveu d’un ensemble vide - qu’il s’agit, c’est du vidage d’un autre ensemble.
 
 <!-- id: s14-07-0075 -->
 
@@ -324,7 +324,7 @@ C’est après que DESCARTES ait fait la mise à l’épreuve de tous les accès
 
 <!-- id: s14-07-0076 -->
 
-Quoi ? si ce n’est ce qui en résulte dans ce qu’il appelle, pour employer ses propres termes, non pas « le fonc­tionnement mental », comme on le traduit faussement quand on traduit l’allemand en anglais*,* mais le *psychische Geschehen, l’évènement psychique*.
+Quoi ? si ce n’est ce qui en résulte dans ce qu’il appelle, pour employer ses propres termes, non pas « le fonc­tionnement mental », comme on le traduit faussement quand on traduit l’allemand en anglais, mais le *psychische Geschehen, l’évènement psychique*.
 
 <!-- id: s14-07-0077 -->
 
@@ -344,7 +344,7 @@ Si ce *quelque chose* qui s’appelle « *l’être de l’homme* » est en ef
 
 <!-- id: s14-07-0081 -->
 
-Et pour trouver ce nom, comme aussi bien ce qu’il désigne, il suffit de sortir de chez soi, un jour à la cam­pagne, pour aller faire une promenade et, traversant la route, vous rencontrez un lieu de « *camping* », et sur le « *camping* », ou plus exactement tout autour, le marquant du cercle d’une écume, ce que vous rencontrez c’est cet « *être de l’homme* », en tant que *verworfen* il reparaît dans le *réel*, il a un nom : ceci s’appelle le « *d(être)itus* »*.*\[Rires\]
+Et pour trouver ce nom, comme aussi bien ce qu’il désigne, il suffit de sortir de chez soi, un jour à la cam­pagne, pour aller faire une promenade et, traversant la route, vous rencontrez un lieu de « *camping* », et sur le « *camping* », ou plus exactement tout autour, le marquant du cercle d’une écume, ce que vous rencontrez c’est cet « *être de l’homme* », en tant que *verworfen* il reparaît dans le *réel*, il a un nom : ceci s’appelle le « *d(être)itus* ».\[Rires\]
 
 <!-- id: s14-07-0082 -->
 
@@ -364,7 +364,7 @@ Le *détritus* c’est bien là le point à retenir, qui repré­sente…
 
 <!-- id: s14-07-0086 -->
 
-L’*aliénation* a une face patente*,* qui n’est pas que nous sommes l’Autre, ou que « les autres » comme on dit, *en nous reprenant* nous défigurent ou nous déforment. *Le fait de l’aliénation n’est pas que nous soyons repris, refaits, repré­sentés dans* l’Autre, mais il est *essentiellement* fondé au contraire sur le rejet de *l’Autre*, pour autant que cet *Autre*, celui que je signale d’un grand A, est ce qui est venu *à la place* de cette interrogation de l’*Être*, autour de quoi je fais tourner aujourd’hui essentiellement la limite, le franchissement du *cogito*.
+L’*aliénation* a une face patente, qui n’est pas que nous sommes l’Autre, ou que « les autres » comme on dit, *en nous reprenant* nous défigurent ou nous déforment. *Le fait de l’aliénation n’est pas que nous soyons repris, refaits, repré­sentés dans* l’Autre, mais il est *essentiellement* fondé au contraire sur le rejet de *l’Autre*, pour autant que cet *Autre*, celui que je signale d’un grand A, est ce qui est venu *à la place* de cette interrogation de l’*Être*, autour de quoi je fais tourner aujourd’hui essentiellement la limite, le franchissement du *cogito*.
 
 <!-- id: s14-07-0087 -->
 
@@ -384,7 +384,7 @@ Mais assurément, ce fondement *fidéiste* qui reste si profondément ancré enc
 
 <!-- id: s14-07-0091 -->
 
-Mais pour nous « *les perdre *», est-ce que vous allez perdre *la vie* ? Les choses ne se lisent, déjà ici, pas clairement. Mais pour nous ce dont il s’agit est de savoir ce qu’il va en être d’*entre* cet « *Ou je ne pense pas, ou je ne suis pas* »*,* je veux dire : « *je* » comme « *ne suis pas* »*.* Quel va être le résultat ? Le résultat où *nous n’avons pas le choix* ! Nous n’avons pas le choix, à partir du mo­ment où ce « *je* »*,* comme instauration de l’être a été choisi, *nous n’avons pas* *le choix*, c’est le « *je ne pense pas* » vers quoi il nous faut aller.
+Mais pour nous « *les perdre *», est-ce que vous allez perdre *la vie* ? Les choses ne se lisent, déjà ici, pas clairement. Mais pour nous ce dont il s’agit est de savoir ce qu’il va en être d’*entre* cet « *Ou je ne pense pas, ou je ne suis pas* », je veux dire : « *je* » comme « *ne suis pas* ». Quel va être le résultat ? Le résultat où *nous n’avons pas le choix* ! Nous n’avons pas le choix, à partir du mo­ment où ce « *je* », comme instauration de l’être a été choisi, *nous n’avons pas* *le choix*, c’est le « *je ne pense pas* » vers quoi il nous faut aller.
 
 <!-- id: s14-07-0092 -->
 
@@ -392,7 +392,7 @@ Car cette instauration du « *je* » *comme seul et unique fondement de l’ê
 
 <!-- id: s14-07-0093 -->
 
-*Das* *Denken* \[la pensée\]*,* écrit-il dans les formulations sur le double principe de l’évènement psychique , ce n’est rien d’autre qu’une formule, *une formule d’essai* et en quelque sorte de frayage, qui est toujours à faire avec le moindre investissement psychique, qui nous per­met d’interroger, de mesurer, de tracer aussi bien, la voie par où nous avons à trouver satisfaction de ce qui nous presse et nous stimule - par quelque démarche motrice - à tracer dans le *réel*.
+*Das* *Denken* \[la pensée\], écrit-il dans les formulations sur le double principe de l’évènement psychique , ce n’est rien d’autre qu’une formule, *une formule d’essai* et en quelque sorte de frayage, qui est toujours à faire avec le moindre investissement psychique, qui nous per­met d’interroger, de mesurer, de tracer aussi bien, la voie par où nous avons à trouver satisfaction de ce qui nous presse et nous stimule - par quelque démarche motrice - à tracer dans le *réel*.
 
 <!-- id: s14-07-0094 -->
 
@@ -472,7 +472,7 @@ Et il n’est pas hasard si FREUD remarque que - dans l’analyse de *Ein Kind i
 
 <!-- id: s14-07-0113 -->
 
-> pour nous*,* dans la *reconstruc­tion* que nous en faisons, dans la *Bedeutung* que nous allons lui donner,
+> pour nous, dans la *reconstruc­tion* que nous en faisons, dans la *Bedeutung* que nous allons lui donner,
 >
 > dans *l’interprétation* nécessaire : à savoir qu’à un moment ce soit lui qui soit le battu …mais dans l’énoncé du fantasme, nous dit FREUD, ce temps - et pour cause - n’est jamais avoué, car le « *je* » comme tel, est pré­cisément exclu du fantasme. De ceci nous ne pouvons nous rendre compte, qu’à mar­quer la ligne de division de deux compléments tels le « *je bats* » ou le « *pas-je* » où bascule cet être qu’il est, comme refus de l’être, avec ce qui reste comme articulation de la pensée et qui est la structure grammaticale de la phrase.
 
@@ -494,15 +494,15 @@ Le fondement de cette *surprise*, tel qu’il apparaît au niveau de toute inter
 
 <!-- id: s14-07-0118 -->
 
-C’est pour cela que le *mot d’esprit* est le plus révéla­teur et le plus caractéristique des effets de ce que j’ai appelé *les formations de l’inconscient* [^35]. *Le rire* dont il s’agit se produit au niveau de ce «* je ne suis pas *»*.* Prenez­-en n’importe quel exemple, et pour prendre le premier qui s’offre à l’ouverture du livre, celui du *famillionnaire,* est­-ce qu’il n’est pas manifeste que l’effet de dérision de ce qu’y dit Hirsch–Hyacinthe, quand il dit qu’avec Salomon de ROTSCHILD il est dans une relation « *tout à fait famillionnai­re* », résonne à la fois de l’inexistence de la position du ri­che, pour autant qu’elle n’est que de fiction, et de celle de ce quelque chose où celui qui parle \- ou le sujet - se trouve dans cette inexistence même, réduit lui-même à une sorte d’être pour qui il n’y a de place nulle part ?
+C’est pour cela que le *mot d’esprit* est le plus révéla­teur et le plus caractéristique des effets de ce que j’ai appelé *les formations de l’inconscient* [^35]. *Le rire* dont il s’agit se produit au niveau de ce «* je ne suis pas *». Prenez­-en n’importe quel exemple, et pour prendre le premier qui s’offre à l’ouverture du livre, celui du *famillionnaire,* est­-ce qu’il n’est pas manifeste que l’effet de dérision de ce qu’y dit Hirsch–Hyacinthe, quand il dit qu’avec Salomon de ROTSCHILD il est dans une relation « *tout à fait famillionnai­re* », résonne à la fois de l’inexistence de la position du ri­che, pour autant qu’elle n’est que de fiction, et de celle de ce quelque chose où celui qui parle \- ou le sujet - se trouve dans cette inexistence même, réduit lui-même à une sorte d’être pour qui il n’y a de place nulle part ?
 
 <!-- id: s14-07-0119 -->
 
-N’est-il pas manifeste que c’est là que réside l’effet de dérision de ce *famillionnaire* ? Mais là, tout au contraire, tout au contraire de ce qui se passe quand nous définissions le *Ça* et où vous avez pu reconnaître dans cette référence à la structure gram­maticale qu’il s’agit d’un effet de *Sinn* ou de *sens*, nous avons affaire à la *Bedeutung*[^36]*.*
+N’est-il pas manifeste que c’est là que réside l’effet de dérision de ce *famillionnaire* ? Mais là, tout au contraire, tout au contraire de ce qui se passe quand nous définissions le *Ça* et où vous avez pu reconnaître dans cette référence à la structure gram­maticale qu’il s’agit d’un effet de *Sinn* ou de *sens*, nous avons affaire à la *Bedeutung*[^36].
 
 <!-- id: s14-07-0120 -->
 
-C’est-à-dire que là où « *je ne suis pas* », ce qui se passe, c’est quelque chose que nous avons à repérer de la même sorte d’inversion qui nous a guidés tout à l’heure. Le « *je* » du « *je ne pense pas* » s’inverse, s’aliène lui aussi en quelque chose qui est un « *pense-choses* »*.*
+C’est-à-dire que là où « *je ne suis pas* », ce qui se passe, c’est quelque chose que nous avons à repérer de la même sorte d’inversion qui nous a guidés tout à l’heure. Le « *je* » du « *je ne pense pas* » s’inverse, s’aliène lui aussi en quelque chose qui est un « *pense-choses* ».
 
 <!-- id: s14-07-0121 -->
 
@@ -510,15 +510,15 @@ C’est ceci qui donne son véritable sens à ce que FREUD dit de *l’inconscie
 
 <!-- id: s14-07-0122 -->
 
-Pour désigner ce qu’il en est de l’inconscient, quant au registre de *l’existence* et de son rapport avec le « *je* »*,* je dirai que :
+Pour désigner ce qu’il en est de l’inconscient, quant au registre de *l’existence* et de son rapport avec le « *je* », je dirai que :
 
 <!-- id: s14-07-0123 -->
 
-- de même que nous avons vu que le *Ça*, c’est une pensée mordue de quelque chose qui est non pas le retour de l’être, mais comme d’un « *désêtre* »*,*
+- de même que nous avons vu que le *Ça*, c’est une pensée mordue de quelque chose qui est non pas le retour de l’être, mais comme d’un « *désêtre* »,
 
 <!-- id: s14-07-0124 -->
 
-- de même *l’inexistence* au niveau de l’inconscient, est quelque chose qui est mordu d’un « *je pense* » qui n’est pas « *je* »*.*
+- de même *l’inexistence* au niveau de l’inconscient, est quelque chose qui est mordu d’un « *je pense* » qui n’est pas « *je* ».
 
 <!-- id: s14-07-0125 -->
 
@@ -542,7 +542,7 @@ Si les deux cercles, les deux champs que nous venons d’opposer comme représen
 
 <!-- id: s14-07-0130 -->
 
-C’est à la place du « *je ne suis pas* » que le *Ça* va venir, bien entendu, le positivant en un « *je suis ça* » qui n’est que de pur impératif, d’un impératif qui est très proprement celui que FREUD a formulé dans le « *Wo es war, soll Ich werden* »*.* Si ce « *Wo es war* » est quelque chose, il est ce que nous avons dit tout à l’heure : mais si *Ich*, *soll* (*doit*) y *werden* - dirais-je : y *verdir* ? - c’est qu’il n’y est pas !
+C’est à la place du « *je ne suis pas* » que le *Ça* va venir, bien entendu, le positivant en un « *je suis ça* » qui n’est que de pur impératif, d’un impératif qui est très proprement celui que FREUD a formulé dans le « *Wo es war, soll Ich werden* ». Si ce « *Wo es war* » est quelque chose, il est ce que nous avons dit tout à l’heure : mais si *Ich*, *soll* (*doit*) y *werden* - dirais-je : y *verdir* ? - c’est qu’il n’y est pas !
 
 <!-- id: s14-07-0131 -->
 
@@ -562,7 +562,7 @@ Ce qu’il nous ré­vèle alors, c’est justement ce qui *dans la Bedeutung de
 
 <!-- id: s14-07-0135 -->
 
-De même que dans le premier type d’occultation, ce que nous avions c’était, à la place du « *je ne suis pas* »*,* la *révélation* de quelque chose qui est la vérité de la structure, et nous verrons quel est ce facteur, nous dirons ce qu’il est : c’est *l’objet(a)*… De même, dans l’autre forme d’oc­cultation, cette faille, ce défaut de la pensée, ce trou dans la *Bedeutung,* ceci à quoi nous n’avons pu accéder qu’après le chemin, entièrement tracé par FREUD, du procès de l’aliénation, son sens, sa révélation, c’est : *l’incapacité de toute Bedeutung à couvrir ce qu’il en est du sexe.*
+De même que dans le premier type d’occultation, ce que nous avions c’était, à la place du « *je ne suis pas* », la *révélation* de quelque chose qui est la vérité de la structure, et nous verrons quel est ce facteur, nous dirons ce qu’il est : c’est *l’objet(a)*… De même, dans l’autre forme d’oc­cultation, cette faille, ce défaut de la pensée, ce trou dans la *Bedeutung,* ceci à quoi nous n’avons pu accéder qu’après le chemin, entièrement tracé par FREUD, du procès de l’aliénation, son sens, sa révélation, c’est : *l’incapacité de toute Bedeutung à couvrir ce qu’il en est du sexe.*
 
 <!-- id: s14-07-0136 -->
 

@@ -34,7 +34,7 @@ Il est bien certain qu’il y a certaine proportion des dits *rapports* à un c
 
 <!-- id: s9-16-0008 -->
 
-C’est bien là que nous retrou­vons cette dimension du « *pas sans* »*,* en tant que fondatrice du point même où nous nous introduisons dans le désir, et pour autant que l’accès du désir exige que le sujet ne soit pas sans l’avoir... L’avoir : quoi ? C’est là toute la question. Autrement dit, que *l’accès au désir réside dans* un fait, dans *ce fait que la convoitise de l’être dit « humain »* ait à se déprimer inauguralement, pour se restaurer sur les échelons d’une puissance dont c’est la question de savoir :
+C’est bien là que nous retrou­vons cette dimension du « *pas sans* », en tant que fondatrice du point même où nous nous introduisons dans le désir, et pour autant que l’accès du désir exige que le sujet ne soit pas sans l’avoir... L’avoir : quoi ? C’est là toute la question. Autrement dit, que *l’accès au désir réside dans* un fait, dans *ce fait que la convoitise de l’être dit « humain »* ait à se déprimer inauguralement, pour se restaurer sur les échelons d’une puissance dont c’est la question de savoir :
 
 <!-- id: s9-16-0009 -->
 
@@ -166,7 +166,7 @@ Image fondamentale de toutes sortes de pensées quand on spécule sur les effets
 
 <!-- id: s9-16-0040 -->
 
-Si on ne met pas ça d’abord dans toute *Science de l’expérience* - quand on a le titre de HEGEL, le vrai titre de la *Phénoménologie* *de l’Esprit* [^151] *-* on peut tout se permettre, y compris les prêcheries délirantes sur les bienfaits de la génitalité ! C’est ça et rien d’autre que veut dire mon introduction du symbole ![](assets/image72.wmf) : c’est quelque chose destiné à vous suggérer
+Si on ne met pas ça d’abord dans toute *Science de l’expérience* - quand on a le titre de HEGEL, le vrai titre de la *Phénoménologie* *de l’Esprit* [^151] - on peut tout se permettre, y compris les prêcheries délirantes sur les bienfaits de la génitalité ! C’est ça et rien d’autre que veut dire mon introduction du symbole ![](assets/image72.wmf) : c’est quelque chose destiné à vous suggérer
 
 <!-- id: s9-16-0041 -->
 
@@ -234,7 +234,7 @@ Ici d’ailleurs, qu’est-ce que vous retrouvez comme vérité première, si ce
 
 <!-- id: s9-16-0057 -->
 
-*Ce que la configuration ici demande, vous le voyez bien, c’est un* « *medium* » *entre demande et désir. Ce medium, il a un nom, ça s’appelle* «* le phallus *»*.* *La fonction phallique*, ça n’a absolument pas d’autre sens que d’être ce qui donne la mesure de ce champ à définir, à l’intérieur de la demande, comme le champ du désir.
+*Ce que la configuration ici demande, vous le voyez bien, c’est un* « *medium* » *entre demande et désir. Ce medium, il a un nom, ça s’appelle* «* le phallus *». *La fonction phallique*, ça n’a absolument pas d’autre sens que d’être ce qui donne la mesure de ce champ à définir, à l’intérieur de la demande, comme le champ du désir.
 
 <!-- id: s9-16-0058 -->
 
@@ -278,7 +278,7 @@ Car pour autant qu’il vit, qu’il développe la consti­tution de son rapport
 
 <!-- id: s9-16-0068 -->
 
-C’est dans la mesure où la thérapeutique n’arrive point à *résoudre* mieux qu’elle ne l’a fait *la terminaison de l’analyse*, n’arrive pas à la faire sortir du cercle propre à la demande, qu’elle bute, qu’elle se termine à la fin sur cette forme revendicatoire, cette forme inassouvissable, *unendliche,* que FREUD dans son der­nier article : *L’analyse terminée et interminable* [^153]*,* désigne : comme angoisse non résolue de la castration chez l’homme, comme *Penisneid* chez la femme.
+C’est dans la mesure où la thérapeutique n’arrive point à *résoudre* mieux qu’elle ne l’a fait *la terminaison de l’analyse*, n’arrive pas à la faire sortir du cercle propre à la demande, qu’elle bute, qu’elle se termine à la fin sur cette forme revendicatoire, cette forme inassouvissable, *unendliche,* que FREUD dans son der­nier article : *L’analyse terminée et interminable* [^153], désigne : comme angoisse non résolue de la castration chez l’homme, comme *Penisneid* chez la femme.
 
 <!-- id: s9-16-0069 -->
 
@@ -290,7 +290,7 @@ Cela prouverait déjà au moins jusqu’où nous pouvons aller, alors que ce don
 
 <!-- id: s9-16-0071 -->
 
-Qu’est-ce que fait, par exemple, *l’hystérique* ou *la névrose obses­sionnelle* dans le registre que nous venons d’essayer de construire ? Qu’est-ce qu’ils font l’un et l’autre en cet endroit du désir de l’Autre comme tel ? Avant que nous soyons tombés dans leur panneau en les incitant à jouer tout le jeu sur le plan de la demande, à nous imaginer - ce qui n’est pas d’ailleurs une imagina­tion absurde *-* que nous arriverons à la limite à définir le champ phallique comme *l’intersection de deux frustrations*, qu’est-ce qu’ils font spontanément ?
+Qu’est-ce que fait, par exemple, *l’hystérique* ou *la névrose obses­sionnelle* dans le registre que nous venons d’essayer de construire ? Qu’est-ce qu’ils font l’un et l’autre en cet endroit du désir de l’Autre comme tel ? Avant que nous soyons tombés dans leur panneau en les incitant à jouer tout le jeu sur le plan de la demande, à nous imaginer - ce qui n’est pas d’ailleurs une imagina­tion absurde - que nous arriverons à la limite à définir le champ phallique comme *l’intersection de deux frustrations*, qu’est-ce qu’ils font spontanément ?
 
 <!-- id: s9-16-0072 -->
 

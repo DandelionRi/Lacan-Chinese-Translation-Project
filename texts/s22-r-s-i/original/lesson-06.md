@@ -932,7 +932,7 @@ Et j’ai même fait allusion à ceci : c’est que dans Freud, il y a élision
 
 <!-- id: s22-06-0226 -->
 
-> *à ce qu’il appelle « la réalité psy­chique », nommément à la réalité religieuse, car c’est exactement la même chose* *...que c’est ainsi par cette fonction, par cette fonction de rêve, que Freud instaure le lien du Symbolique, de l’Imaginaire et du Réel.*
+> *à ce qu’il appelle « la réalité psy­chique », nommément à la réalité religieuse, car c’est exactement la même chose...que c’est ainsi par cette fonction, par cette fonction de rêve, que Freud instaure le lien du Symbolique, de l’Imaginaire et du Réel.*
 
 <!-- id: s22-06-0227 -->
 

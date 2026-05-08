@@ -270,11 +270,11 @@ Vous sentez bien combien ceci, au niveau où je l’édifie, peut être conditio
 
 <!-- id: s16-03-0066 -->
 
-Quand **H**irsch **H**YACINTHE…
+Quand Hirsch HYACINTHE…
 
 <!-- id: s16-03-0067 -->
 
-> dont il est essentiel qu’ici ce ne soit pas par **H**enri **H**EINE (autre **H**.**H**.) qu’il soit raconté …quand Hirsch HYACINTHE, parlant de Salomon ROTHSCHILD, dit qu’il l’a reçu d’une façon « *tout à fait familière* »…
+> dont il est essentiel qu’ici ce ne soit pas par Henri HEINE (autre **H.H**.) qu’il soit raconté …quand Hirsch HYACINTHE, parlant de Salomon ROTHSCHILD, dit qu’il l’a reçu d’une façon « *tout à fait familière* »…
 
 <!-- id: s16-03-0068 -->
 
@@ -290,7 +290,7 @@ C’est-à-dire qu’il y inscrit, qu’il y fait entrer ces phonèmes suppléme
 
 <!-- id: s16-03-0071 -->
 
-- si vous l’exprimez, si ça apparaît, si cela perce, sous la forme « *famillionnaire* »*,* le rire ne manque pas.
+- si vous l’exprimez, si ça apparaît, si cela perce, sous la forme « *famillionnaire* », le rire ne manque pas.
 
 <!-- id: s16-03-0072 -->
 
@@ -366,7 +366,7 @@ C’est cette duplicité du rapport à l’Autre qui fait que nous avons ici dé
 
 <!-- id: s16-03-0090 -->
 
-D’une façon ici déjà parfai­tement indiquée, ce sujet barré S est mis dans une conjonction… *celle définie par ce que j’appelle provisoi­rement le poinçon* **◊** …avec *la demande* D, articulée comme telle, S **◊** D. C’est d’ailleurs ce dont ce texte \[« *Subversion du sujet* », in *Écrits*, p.805 (ou t.2 p.285)\] et ce relevé portent le témoignage que déjà, c’est bel et bien comme *demande* que cette ligne est constituée.
+D’une façon ici déjà parfai­tement indiquée, ce sujet barré S est mis dans une conjonction… *celle définie par ce que j’appelle provisoi­rement le poinçon* ◊ …avec *la demande* D, articulée comme telle, S ◊ D. C’est d’ailleurs ce dont ce texte \[« *Subversion du sujet* », in *Écrits*, p.805 (ou t.2 p.285)\] et ce relevé portent le témoignage que déjà, c’est bel et bien comme *demande* que cette ligne est constituée.
 
 <!-- id: s16-03-0091 -->
 
@@ -390,7 +390,7 @@ L’interrogation sur le désir de l’Autre est ici \[*d* \] le ressort d’*id
 
 <!-- id: s16-03-0096 -->
 
-Ici, vous le savez, apparut pour la première fois *la formule du fantasme*, sous la forme de S *poinçon de (a) *: S **◊** *a*.
+Ici, vous le savez, apparut pour la première fois *la formule du fantasme*, sous la forme de S *poinçon de (a) *: S ◊ *a*.
 
 <!-- id: s16-03-0097 -->
 
@@ -582,7 +582,7 @@ En d’autres termes, ce que nous savons déjà d’une expérience fondamentale
 
 <!-- id: s16-03-0142 -->
 
-> qui n’est point expérience de hasard, production caduque des prêtres …à savoir la question « *Dieu existe-t-il ?* »*,* nous nous apercevons que cette question ne prend son poids que de précisément reposer sur une structure plus fondamentale, c’est à savoir : *au lieu du savoir pouvons-nous dire qu’en quelque façon le savoir se sache lui-même ?*
+> qui n’est point expérience de hasard, production caduque des prêtres …à savoir la question « *Dieu existe-t-il ?* », nous nous apercevons que cette question ne prend son poids que de précisément reposer sur une structure plus fondamentale, c’est à savoir : *au lieu du savoir pouvons-nous dire qu’en quelque façon le savoir se sache lui-même ?*
 
 <!-- id: s16-03-0143 -->
 

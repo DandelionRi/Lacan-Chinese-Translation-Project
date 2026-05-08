@@ -70,7 +70,7 @@ Je ne le commen­terai pas aujourd’hui car ça nous emmènerait trop loin. Je 
 
 <!-- id: s12-13-0017 -->
 
-Voici notre *major* et voilà *l’objet(a)*, la capsule ce serait le S**,** et alors où est le désir, sinon au niveau du grand Autre : U.R.S.S. ?
+Voici notre *major* et voilà *l’objet(a)*, la capsule ce serait le S, et alors où est le désir, sinon au niveau du grand Autre : U.R.S.S. ?
 
 <!-- id: s12-13-0018 -->
 
@@ -310,7 +310,7 @@ LECLAIRE
 
 <!-- id: s12-13-0077 -->
 
-Dans le choix que nous avons de répondre immédiatement en détail à chaque intervention d’une part, ou d’autre part, d’en souligner un point, quitte à le laisser en suspens et donner la parole à d’autres, j’ai choisi la seconde formule, parce que je ne pense pas qu’il soit opportun, ni que moi, ni que LACAN reprenions *-* pour commencer *-* la parole. Je pense qu’il convient que ceux qui se sont exprimés par écrit le fassent aujourd’hui devant tous. Le point particulier que je voudrais souligner et qui, à moi me fait problème, est la prévalence de l’élément scopique que OURY avance comme constitutive du fantasme.
+Dans le choix que nous avons de répondre immédiatement en détail à chaque intervention d’une part, ou d’autre part, d’en souligner un point, quitte à le laisser en suspens et donner la parole à d’autres, j’ai choisi la seconde formule, parce que je ne pense pas qu’il soit opportun, ni que moi, ni que LACAN reprenions - pour commencer - la parole. Je pense qu’il convient que ceux qui se sont exprimés par écrit le fassent aujourd’hui devant tous. Le point particulier que je voudrais souligner et qui, à moi me fait problème, est la prévalence de l’élément scopique que OURY avance comme constitutive du fantasme.
 
 <!-- id: s12-13-0078 -->
 
@@ -706,7 +706,7 @@ En fait tout se passe comme si Bernard avait pour mission d’annuler Norbert. P
 
 <!-- id: s12-13-0176 -->
 
-Qu’est Bernard pour cette femme ? Ne serait-il pas l’antidote, le contrepoison, celui qui annulera Norbert ? Le premier parricide que la jeune femme va commettre va être de se marier à Bernard. À partir de là, il semble que c’est Bernard lui–même qui s’en chargera. D’abord en détruisant la marque, l’empreinte de Norbert dans le visage de sa femme*.* Ensuite en tuant *s*on fils : le Norbert ressuscité pour deux ans, et avec - on ne peut mieux choisir - de l’insecticide.
+Qu’est Bernard pour cette femme ? Ne serait-il pas l’antidote, le contrepoison, celui qui annulera Norbert ? Le premier parricide que la jeune femme va commettre va être de se marier à Bernard. À partir de là, il semble que c’est Bernard lui–même qui s’en chargera. D’abord en détruisant la marque, l’empreinte de Norbert dans le visage de sa femme. Ensuite en tuant *s*on fils : le Norbert ressuscité pour deux ans, et avec - on ne peut mieux choisir - de l’insecticide.
 
 <!-- id: s12-13-0177 -->
 
@@ -834,7 +834,7 @@ La littérature, dans cette perspective, serait une analyse magnifiée en - et p
 
 <!-- id: s12-13-0208 -->
 
-LECLAIRE 
+LECLAIRE
 
 <!-- id: s12-13-0209 -->
 

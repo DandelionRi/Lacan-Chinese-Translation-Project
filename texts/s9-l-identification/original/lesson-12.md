@@ -80,7 +80,7 @@ On peut dire une seule chose, qu’en fin de compte c’est bien plutôt d’un 
 
 <!-- id: s9-12-0019 -->
 
-Et nommément c’est ce qui rend un ouvrage, malheureusement introuvable, paru chez VRIN en 1942, qui s’appelle *Classe, relation et nombres* [^106]*,* un ouvrage très instructif, parce que là on y met en valeur *les relations structurales*, logiques, *entre classe, relation et nombres*, à savoir tout ce qu’on prétend par la suite ou auparavant retrouver chez l’enfant qui manifestement est déjà construit *a priori*, et à très juste titre l’expérience ne nous montre là que ce que *l’on a organisé* pour le trouver tout d’abord.
+Et nommément c’est ce qui rend un ouvrage, malheureusement introuvable, paru chez VRIN en 1942, qui s’appelle *Classe, relation et nombres* [^106], un ouvrage très instructif, parce que là on y met en valeur *les relations structurales*, logiques, *entre classe, relation et nombres*, à savoir tout ce qu’on prétend par la suite ou auparavant retrouver chez l’enfant qui manifestement est déjà construit *a priori*, et à très juste titre l’expérience ne nous montre là que ce que *l’on a organisé* pour le trouver tout d’abord.
 
 <!-- id: s9-12-0020 -->
 
@@ -164,7 +164,7 @@ Ce que l’on peut dire, c’est qu’elle nous fait, concernant le maniement de
 
 <!-- id: s9-12-0040 -->
 
-Autrement dit, si nous considérons comme logiquement originel quant au sujet ceci - que je ne découvre pas, qui est à la portée d’un *logicien de classe moyenne -* c’est que le vrai fondement de la classe n’est ni son extension, ni sa compréhension* *: *que la classe suppose toujours <u>le classement</u>*. Autrement dit, les mammifères par exemple, pour éclairer tout de suite ma lanterne, c’est ce qu’on exclut des vertébrés par *le trait unaire* *mamme.* Qu’est-ce que cela veut dire ?
+Autrement dit, si nous considérons comme logiquement originel quant au sujet ceci - que je ne découvre pas, qui est à la portée d’un *logicien de classe moyenne -* c’est que le vrai fondement de la classe n’est ni son extension, ni sa compréhension: *que la classe suppose toujours <u>le classement</u>*. Autrement dit, les mammifères par exemple, pour éclairer tout de suite ma lanterne, c’est ce qu’on exclut des vertébrés par *le trait unaire* *mamme.* Qu’est-ce que cela veut dire ?
 
 <!-- id: s9-12-0041 -->
 
@@ -236,7 +236,7 @@ Plus tard - je veux dire l’année dernière, et à propos de PLATON[^113], et 
 
 <!-- id: s9-12-0058 -->
 
-*La sphère, cet objet obtus* si je puis dire, *il n’y a qu’à la regarder pour le voir,* c’est peut-être une *bonne forme*, mais ce *qu’elle est bête* ! Elle est cos­mologique, c’est entendu. La nature est censée nous en montrer beaucoup - pas tellement que cela, quand on y regarde de près *-* et celles qu’elle nous montre, nous y tenons. Exemple : la lune, qui pourtant serait d’un usage bien meilleur si nous la prenions comme exemple d’un objet unaire, mais laissons cela de côté.
+*La sphère, cet objet obtus* si je puis dire, *il n’y a qu’à la regarder pour le voir,* c’est peut-être une *bonne forme*, mais ce *qu’elle est bête* ! Elle est cos­mologique, c’est entendu. La nature est censée nous en montrer beaucoup - pas tellement que cela, quand on y regarde de près - et celles qu’elle nous montre, nous y tenons. Exemple : la lune, qui pourtant serait d’un usage bien meilleur si nous la prenions comme exemple d’un objet unaire, mais laissons cela de côté.
 
 <!-- id: s9-12-0059 -->
 

@@ -62,7 +62,7 @@ LACAN
 
 <!-- id: s1-13-0015 -->
 
-Parfaitement. Parce que c’est une *image réelle*, pour autant que l’œil accommode sur un certain plan, d’ailleurs désigné par *l’objet réel*. Dans l’expérience réelle, il s’agissait d’un bouquet renversé qui venait se situer dans l’encolure d’un vase réel. Pour autant que l’œil accommode sur *l’image réelle*, il voit cette image. Elle arrive à se former nettement dans la mesure où les rayons lumineux viennent tous converger sur un même point d’espace virtuel, c’est-à-dire où, à chaque point de l’objet correspond un point de l’image*.*
+Parfaitement. Parce que c’est une *image réelle*, pour autant que l’œil accommode sur un certain plan, d’ailleurs désigné par *l’objet réel*. Dans l’expérience réelle, il s’agissait d’un bouquet renversé qui venait se situer dans l’encolure d’un vase réel. Pour autant que l’œil accommode sur *l’image réelle*, il voit cette image. Elle arrive à se former nettement dans la mesure où les rayons lumineux viennent tous converger sur un même point d’espace virtuel, c’est-à-dire où, à chaque point de l’objet correspond un point de l’image.
 
 <!-- id: s1-13-0016 -->
 
@@ -98,7 +98,7 @@ Jean HYPPOLITE
 
 <!-- id: s1-13-0024 -->
 
-J’ai recommencé les constructions, comme au temps du *bachot* ou du P.C.B*.* \[*Physique Chimie Biologie : année préparatoire à la 1<sup>ère</sup> année de médecine*\]: une *image réelle* d’un *objet réel*, une *image virtuelle*, etc. Mais il y a l’œil qui regarde dans ce miroir, pour apercevoir l’image virtuelle de l’image réelle.
+J’ai recommencé les constructions, comme au temps du *bachot* ou du P.C.B. \[*Physique Chimie Biologie : année préparatoire à la 1<sup>ère</sup> année de médecine*\]: une *image réelle* d’un *objet réel*, une *image virtuelle*, etc. Mais il y a l’œil qui regarde dans ce miroir, pour apercevoir l’image virtuelle de l’image réelle.
 
 <!-- id: s1-13-0025 -->
 
@@ -218,7 +218,7 @@ Jean HYPPOLITE
 
 <!-- id: s1-13-0054 -->
 
-J’ai fait dire cette phrase à HEGEL, en commentant votre image, qu’en fait : « *Le savoir* *-* c’est-à-dire l’humanité *-* *est l’échec de la sexualité* ».
+J’ai fait dire cette phrase à HEGEL, en commentant votre image, qu’en fait : « *Le savoir* - c’est-à-dire l’humanité - *est l’échec de la sexualité* ».
 
 <!-- id: s1-13-0055 -->
 
@@ -404,7 +404,7 @@ De plus cette *image d’image*, si vous voulez, s’explique justement : c’e
 
 <!-- id: s1-13-0099 -->
 
-Cette prématuration de la naissance, ce n’est pas les psychanalystes qui l’ont inventée. Il est évident - histologiquement au moins - que cet appa­reil nerveux qui joue dans l’organisme ce rôle encore sujet à discussion*,* est inachevé à sa naissance. C’est pour autant qu’il a à rejoindre l’achève­ment de sa *libido* avant d’en rejoindre l’objet, que s’introduit cette faille spéciale qui se perpétue chez lui dans *cette relation* alors *à un autre*, infi­niment plus mortelle pour lui que pour tout autre animal, et *qu’il confond cette « image du maître »*, qui est en somme ce qu’il voit sous la forme de l’image spéculaire alors, qu’il confond d’une façon tout à fait authentique, qu’il peut nommer, *avec l’image de la mort*. Il peut être en présence du « *maître absolu* », il y est originellement, qu’on le lui ait enseigné ou pas, pour autant qu’il est déjà soumis à cette image.
+Cette prématuration de la naissance, ce n’est pas les psychanalystes qui l’ont inventée. Il est évident - histologiquement au moins - que cet appa­reil nerveux qui joue dans l’organisme ce rôle encore sujet à discussion, est inachevé à sa naissance. C’est pour autant qu’il a à rejoindre l’achève­ment de sa *libido* avant d’en rejoindre l’objet, que s’introduit cette faille spéciale qui se perpétue chez lui dans *cette relation* alors *à un autre*, infi­niment plus mortelle pour lui que pour tout autre animal, et *qu’il confond cette « image du maître »*, qui est en somme ce qu’il voit sous la forme de l’image spéculaire alors, qu’il confond d’une façon tout à fait authentique, qu’il peut nommer, *avec l’image de la mort*. Il peut être en présence du « *maître absolu* », il y est originellement, qu’on le lui ait enseigné ou pas, pour autant qu’il est déjà soumis à cette image.
 
 <!-- id: s1-13-0100 -->
 
@@ -436,7 +436,7 @@ LACAN
 
 <!-- id: s1-13-0107 -->
 
-En effet ! Je vois que je n’ai pas montré assez le bout de l’oreille. Vous avez vu le bout de l’oreille, mais pas son point d’insertion. Il est certain que ce dont il s’agit, là aussi, peut jouer sur plusieurs plans, soit que nous interprétions les choses au niveau de la structuration, de la description, ou du maniement de la cure. Mais vous voyez qu’il est particulièrement commode d’avoir un *schéma* tel que *le sujet -* l’observateur dans mon schéma *-* restant tou­jours à la même place, il est commode que ce puisse être de la mobilisation d’un plan de réflexion que dépende à un moment donné toute l’apparence de cette image.
+En effet ! Je vois que je n’ai pas montré assez le bout de l’oreille. Vous avez vu le bout de l’oreille, mais pas son point d’insertion. Il est certain que ce dont il s’agit, là aussi, peut jouer sur plusieurs plans, soit que nous interprétions les choses au niveau de la structuration, de la description, ou du maniement de la cure. Mais vous voyez qu’il est particulièrement commode d’avoir un *schéma* tel que *le sujet -* l’observateur dans mon schéma - restant tou­jours à la même place, il est commode que ce puisse être de la mobilisation d’un plan de réflexion que dépende à un moment donné toute l’apparence de cette image.
 
 <!-- id: s1-13-0108 -->
 
@@ -719,7 +719,7 @@ Là aussi une difficulté que j’ai rencontrée, que nous avons rencontrée, av
 
 <!-- id: s1-13-0177 -->
 
-LACAN - Ce qu’il appelle *« le désir du rêve »,* c’est l’élément inconscient*.*
+LACAN - Ce qu’il appelle *« le désir du rêve »,* c’est l’élément inconscient.
 
 <!-- id: s1-13-0178 -->
 
@@ -743,7 +743,7 @@ LACAN
 
 <!-- id: s1-13-0183 -->
 
-Voilà ! Remarquez qu’il y a 2 façons d’accepter ça, à savoir comme on l’accepte d’habitude après l’avoir lu. C’est comme ça, il y a  ce qui est manifeste, ce qui est latent. Mais on entrera alors dans un certain nombre de complications. Ce qui est *manifeste* c’est la composition. Ce à quoi *l’élaboration du rêve* est parvenue pour faire - très joli virage de son premier aspect du souvenir*,* que le sujet est capable de vous évoquer - c’est extrêmement calé - ce qui est manifeste.
+Voilà ! Remarquez qu’il y a 2 façons d’accepter ça, à savoir comme on l’accepte d’habitude après l’avoir lu. C’est comme ça, il y a  ce qui est manifeste, ce qui est latent. Mais on entrera alors dans un certain nombre de complications. Ce qui est *manifeste* c’est la composition. Ce à quoi *l’élaboration du rêve* est parvenue pour faire - très joli virage de son premier aspect du souvenir, que le sujet est capable de vous évoquer - c’est extrêmement calé - ce qui est manifeste.
 
 <!-- id: s1-13-0184 -->
 
@@ -827,7 +827,7 @@ Mais même cela - je l’ai expliqué ailleurs - a aussi sa signification.
 
 <!-- id: s1-13-0204 -->
 
-Cette réalisation du langage qui ne sert plus que comme « …*une monnaie effacée que l’on se passe en silence…* »*,* cité dans mon *Rapport* [^24]*,* et qui est de MALLARMÉ, montre une fois de plus la fonction pure du langage, qui est justement de nous assurer que *nous sommes,* et rien de plus. Le fait qu’on puisse parler pour ne rien dire est tout aussi significatif que le fait que quand on parle en général, c’est pour quelque chose. Mais ce qui est frappant, c’est que même pour ne rien dire il y a beaucoup de cas où on parle, alors qu’on pourrait bien se taire. Mais alors se taire, c’est jus­tement ce qu’il y a de plus calé.
+Cette réalisation du langage qui ne sert plus que comme « …*une monnaie effacée que l’on se passe en silence…* », cité dans mon *Rapport* [^24], et qui est de MALLARMÉ, montre une fois de plus la fonction pure du langage, qui est justement de nous assurer que *nous sommes,* et rien de plus. Le fait qu’on puisse parler pour ne rien dire est tout aussi significatif que le fait que quand on parle en général, c’est pour quelque chose. Mais ce qui est frappant, c’est que même pour ne rien dire il y a beaucoup de cas où on parle, alors qu’on pourrait bien se taire. Mais alors se taire, c’est jus­tement ce qu’il y a de plus calé.
 
 <!-- id: s1-13-0205 -->
 
@@ -1025,7 +1025,8 @@ Werfen wir am Ende noch einen Blick auf die Bedeutung, welche eine *Topik* des V
 
 <!-- id: s1-13-0253 -->
 
-**  **
+&nbsp;
+
 ## Notes
 
 [^23]: Sigmund Freud : *Metapsychologische Ergänzung zur Traumlehre* (1915) ; *Compléments métapsychologiques de la théorie des rêves*, in *Métapsychologie*, Gallimard, 1968.

@@ -70,7 +70,7 @@ Sur l’originalité du passage de M. JAKOBSON, je compte en effet la plus forte
 
 <!-- id: s9-21-0017 -->
 
-« *Bien sûr, cette histoire de la métaphore et de la métonymie, nous avons tordu cela ensemble, souvenez-vous, le* 14 *Juillet* 1950*.* »
+« *Bien sûr, cette histoire de la métaphore et de la métonymie, nous avons tordu cela ensemble, souvenez-vous, le* 14 *Juillet* 1950. »
 
 <!-- id: s9-21-0018 -->
 
@@ -150,7 +150,7 @@ Au moment de reprendre la question du *signifiant* déjà abordée par la voie d
 
 <!-- id: s9-21-0037 -->
 
-Si les amants avaient été moins obnubilés par *l’objet de leur désir*, ils auraient été capables d’en tirer parti et d’y voir l’ébauche de cette *curieuse ligne* que je vous propose aujourd’hui. Telle est l’image de l’aveuglement que porte avec lui trop vif tout désir. Repartons donc de notre ligne, qu’il faut bien prendre sous la forme où elle nous est donnée, close et nullifiable, la ligne du zéro originel de l’histoire effec­tive de la logique. Si nous y apprenons, y revenant d’ores et déjà, que « *nul...*»*,* c’est la racine du « *tous*...» au moins l’expérience n’aura pas été faite en vain. Cette ligne, pour nous, nous l’appelons *la coupure,* une ligne - c’est notre départ - qu’il nous faut tenir *a priori* pour fermée.
+Si les amants avaient été moins obnubilés par *l’objet de leur désir*, ils auraient été capables d’en tirer parti et d’y voir l’ébauche de cette *curieuse ligne* que je vous propose aujourd’hui. Telle est l’image de l’aveuglement que porte avec lui trop vif tout désir. Repartons donc de notre ligne, qu’il faut bien prendre sous la forme où elle nous est donnée, close et nullifiable, la ligne du zéro originel de l’histoire effec­tive de la logique. Si nous y apprenons, y revenant d’ores et déjà, que « *nul...*», c’est la racine du « *tous*...» au moins l’expérience n’aura pas été faite en vain. Cette ligne, pour nous, nous l’appelons *la coupure,* une ligne - c’est notre départ - qu’il nous faut tenir *a priori* pour fermée.
 
 <!-- id: s9-21-0038 -->
 
@@ -158,7 +158,7 @@ C’est là *l’essence de sa nature signifiante* : rien ne pourra jamais nous 
 
 <!-- id: s9-21-0039 -->
 
-Aucun autre moyen d’introduire d’une façon correcte la fonction du *semblable*. Mais ce n’est là qu’une indication que je vous donne, à pousser plus loin. Il me semble que je l’ai maintes fois répétée, si ce n’est - pour n’avoir point à y revenir - que tout de même, la rappelant, je vous renvoie à cette œuvre d’un génie précoce, et comme tous les génies précoces, trop précocement disparu : Jean NICOD\[1893-1924\], *La géométrie du monde sensible* [^168]*,* où le pas­sage concernant *la ligne axiomatique*, au centre de l’ouvrage - Peut-être quelques-uns d’entre vous qui s’intéressent authentiquement à notre progrès peuvent s’y reporter - montre bien comment l’escamotage de la fonction du cercle signifiant, dans cette analyse de l’expérience sensible, est chimérique et mène l’auteur, malgré l’incontestable intérêt de ce qu’il promeut, au paralogisme que vous ne manquerez pas d’y trouver.
+Aucun autre moyen d’introduire d’une façon correcte la fonction du *semblable*. Mais ce n’est là qu’une indication que je vous donne, à pousser plus loin. Il me semble que je l’ai maintes fois répétée, si ce n’est - pour n’avoir point à y revenir - que tout de même, la rappelant, je vous renvoie à cette œuvre d’un génie précoce, et comme tous les génies précoces, trop précocement disparu : Jean NICOD\[1893-1924\], *La géométrie du monde sensible* [^168], où le pas­sage concernant *la ligne axiomatique*, au centre de l’ouvrage - Peut-être quelques-uns d’entre vous qui s’intéressent authentiquement à notre progrès peuvent s’y reporter - montre bien comment l’escamotage de la fonction du cercle signifiant, dans cette analyse de l’expérience sensible, est chimérique et mène l’auteur, malgré l’incontestable intérêt de ce qu’il promeut, au paralogisme que vous ne manquerez pas d’y trouver.
 
 <!-- id: s9-21-0040 -->
 
@@ -286,7 +286,7 @@ Donc, de représenter les choses ainsi, concernant cette forme de surface, ne ti
 
 <!-- id: s9-21-0071 -->
 
-En d’autres termes qu’est-ce que *cette surface* soutient ? Nous l’appellerons - puisque ce sont là *les thèses* que j’avance d’abord, et qui nous permettrons ensuite de donner son sens à l’usage que je vous proposerai de faire de ces diverses formes - nous l’appellerons, cette surface, non pas *le trou* - car comme vous le voyez *il y en a au moins un qu’elle escamote, qui disparaît* *com­plètement dans sa forme -* mais « *la place du trou* »*.*
+En d’autres termes qu’est-ce que *cette surface* soutient ? Nous l’appellerons - puisque ce sont là *les thèses* que j’avance d’abord, et qui nous permettrons ensuite de donner son sens à l’usage que je vous proposerai de faire de ces diverses formes - nous l’appellerons, cette surface, non pas *le trou* - car comme vous le voyez *il y en a au moins un qu’elle escamote, qui disparaît* *com­plètement dans sa forme -* mais « *la place du trou* ».
 
 <!-- id: s9-21-0072 -->
 
@@ -394,7 +394,7 @@ C’est ce que nous poursuivrons la prochaine fois.
 [^167]: Cf. Kjökkenmödding : Amas coquiller résultant de la consommation de mollusques par des populations néolithiques…
 
 
-[^168]: Jean Nicod** :** *La géométrie dans le monde sensible*, PUF, 1962.
+[^168]: Jean Nicod : *La géométrie dans le monde sensible*, PUF, 1962.
 
 
 [^169]: Terme didactique. Croisement en manière d'x. La décussation des nerfs optiques. Point de décussation, s'est dit dans l'optique, pour foyer.

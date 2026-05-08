@@ -44,13 +44,13 @@ Otto <span class="smallcaps">RANK :</span>
 
 Ceci est en rapport avec l’article initial de FREUD sur le développement théorique de la pensée analytique sur
 les névroses dans ce qui a suivi « *On bat un enfant »* [^35]. Cet article est le signal donné par FREUD à un retournement ou à un pas en avant de sa propre pensée, et du même coup à tout ce qui a suivi concernant l’étude de la perversion.
-Vous verrez que, si l’on regarde de près ce qui se passe à ce moment-là*,* la meilleure formule qu’on puisse en donner est celle qui per­met seulement de donner le registre dont j’essaye ici de vous montrer l’instance essentielle
+Vous verrez que, si l’on regarde de près ce qui se passe à ce moment-là, la meilleure formule qu’on puisse en donner est celle qui per­met seulement de donner le registre dont j’essaye ici de vous montrer l’instance essentielle
 dans la formation des *symptômes*, c’est-à-dire l’intervention de la notion de *signifiant*.
 
 <!-- id: s5-13-0011 -->
 
-Il apparaît clairement, dès que FREUD l’a montré, que dans *la perversion* *l’instinct, la pulsion* n’ont absolument nul droit à êtres promus ou déclarés comme plus nus, si on peut dire, dans *la perversion* que dans *la névrose*.Tout l’article de Hanns SACHS, qui est si remarquable sur la genèse des perver­sions*,* est pour montrer que dans toutes les *formations* dites *perverses* quelles qu’elles soient il y a exactement la même structure de compromis, d’élision, de dialectique
-du refoulé et du retour du refoulé*,* qu’il y a dans la névrose.
+Il apparaît clairement, dès que FREUD l’a montré, que dans *la perversion* *l’instinct, la pulsion* n’ont absolument nul droit à êtres promus ou déclarés comme plus nus, si on peut dire, dans *la perversion* que dans *la névrose*.Tout l’article de Hanns SACHS, qui est si remarquable sur la genèse des perver­sions, est pour montrer que dans toutes les *formations* dites *perverses* quelles qu’elles soient il y a exactement la même structure de compromis, d’élision, de dialectique
+du refoulé et du retour du refoulé, qu’il y a dans la névrose.
 
 <!-- id: s5-13-0012 -->
 
@@ -92,7 +92,7 @@ Elle apparaît, *la pulsion*, mais elle n’apparaît jamais que *partiellement*
 
 <!-- id: s5-13-0020 -->
 
-à l’instinct est tout à fait frappant - apparaît comme étant un élément détaché, *un signe*, à proprement parler, et allons jus­qu’à dire *un signifiant* de l’instinct*.* C’est pourquoi la dernière fois en vous quittant, j’insistais par exemple sur
+à l’instinct est tout à fait frappant - apparaît comme étant un élément détaché, *un signe*, à proprement parler, et allons jus­qu’à dire *un signifiant* de l’instinct. C’est pourquoi la dernière fois en vous quittant, j’insistais par exemple sur
 
 <!-- id: s5-13-0021 -->
 
@@ -147,7 +147,7 @@ de FREUD, l’un de ses derniers articles : [*Construc­t*<span id="ReourFreud_
 
 <!-- id: s5-13-0031 -->
 
-du rapport du *sujet* au *signifiant* comme étant absolument fondamentale pour concevoir tout ce que nous pouvons rassembler - et c’est un des derniers articles que FREUD aient écrits *-* de ce que représente en fin de compte
+du rapport du *sujet* au *signifiant* comme étant absolument fondamentale pour concevoir tout ce que nous pouvons rassembler - et c’est un des derniers articles que FREUD aient écrits - de ce que représente en fin de compte
 le mécanisme de la remémoration comme tel dans l’analyse, qui est essentiellement lié comme tel à *la chaîne signifiante*.
 
 <!-- id: s5-13-0032 -->
@@ -159,7 +159,7 @@ et en tant que cette *relation imaginaire* est utilisée et intégrée au mécan
 
 <!-- id: s5-13-0033 -->
 
-Prenons maintenant *le fantasme* « *On bat un enfant* »*.* FREUD s’arrête sur le sujet de ce que signifie ce *fantasme*
+Prenons maintenant *le fantasme* « *On bat un enfant* ». FREUD s’arrête sur le sujet de ce que signifie ce *fantasme*
 dans lequel paraît absorbée, sinon l’*entièreté*, du moins une partie importante des satisfactions libidinales du sujet.
 Il insiste : il l’a vu en grande majorité *chez des sujets féminins*, en moindre *chez des sujets masculins,* il ne s’agit pas
 de n’importe quel fantasme sadique ou pervers, il s’agit de ceux qui culmi­nent et se fixent sous cette forme
@@ -170,7 +170,7 @@ dont le sujet donne d’abord le thème d’une façon très réticente.
 
 <!-- id: s5-13-0035 -->
 
-Il semble qu’une assez grande charge de culpabilité se lie pour le sujet à la communication même de ce thème qui, une fois qu’il l’a révélé, donné, ne peut pas pour lui s’articuler différemment ni autrement que par « *On bat un enfant* »*.*
+Il semble qu’une assez grande charge de culpabilité se lie pour le sujet à la communication même de ce thème qui, une fois qu’il l’a révélé, donné, ne peut pas pour lui s’articuler différemment ni autrement que par « *On bat un enfant* ».
 « *On bat* », cela veut dire que pour le sujet, ce n’est pas lui qui bat, il est là en spec­tateur.
 
 <!-- id: s5-13-0036 -->
@@ -1062,7 +1062,7 @@ Diese, man möchte sagen, kniffige Behandlung der Realität entscheidet über da
 
 ## Notes
 
-[^35]: Sigmund Freud <span class="smallcaps">:</span> « *Ein Kind wird geschlagen. Beitrag zur Kenntnis der Enrstehung sexueller perversionen* », Internationale Zeitschrift für Psychoanalyse*,*
+[^35]: Sigmund Freud <span class="smallcaps">:</span> « *Ein Kind wird geschlagen. Beitrag zur Kenntnis der Enrstehung sexueller perversionen* », Internationale Zeitschrift für Psychoanalyse,
 
     1919, V. Traduction française : « *Un enfant est battu. Contribution à la connaissance de la genèse des perversions sexuelles* », in *Névrose, Psychose et perversion,*
 

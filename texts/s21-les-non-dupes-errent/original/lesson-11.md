@@ -154,7 +154,7 @@ Quel est le statut de ces « *autres* » dans l’occasion, si ce n’est que c
 
 <!-- id: s21-11-0038 -->
 
-> je ne dis pas au *lieu de l’Autre* *...*c’est «<u> *quelque part*</u>* »* qu’il s’agit de bien situer, savoir *<u>où</u>* ça s’écrit mes *formules quantiques de la sexuation*.
+> je ne dis pas au *lieu de l’Autre...*c’est «<u> *quelque part*</u>* »* qu’il s’agit de bien situer, savoir *<u>où</u>* ça s’écrit mes *formules quantiques de la sexuation*.
 
 <!-- id: s21-11-0039 -->
 
@@ -358,7 +358,7 @@ Ceci nous pousse...
 
 <!-- id: s21-11-0087 -->
 
-Il est tout à fait clair qu’il y a un lien, il s’agirait, ce lien, de le préciser, autrement dit - ce qui se touche du doigt - s’apercevoir, se poser la question : « *où se situe l’écriture* *?* ».
+Il est tout à fait clair qu’il y a un lien, il s’agirait, ce lien, de le préciser, autrement dit - ce qui se touche du doigt - s’apercevoir, se poser la question : « *où se situe l’écriture?* ».
 
 <!-- id: s21-11-0088 -->
 
@@ -376,7 +376,7 @@ Et c’est autour de *lettres*...
 
 > comme vous vous souvenez peut-être un peu, enfin, comme ça dans la brume,
 >
-> que S, S<sub>1</sub>, S<sub>2</sub>, etc., sur s, sur petit s*,* ...c’est tout ce que...
+> que S, S<sub>1</sub>, S<sub>2</sub>, etc., sur s, sur petit s, ...c’est tout ce que...
 
 <!-- id: s21-11-0092 -->
 
@@ -944,7 +944,7 @@ Et là, il y a un type qui est venu me voir, je pourrais pas dire il y a combien
 
 <!-- id: s21-11-0230 -->
 
-C’était pas une voix pour un vote *-* hein ?- c’était la voix.
+C’était pas une voix pour un vote - hein ?- c’était la voix.
 
 <!-- id: s21-11-0231 -->
 
@@ -984,7 +984,7 @@ puisque vous m’aimez, bien entendu...
 
 <!-- id: s21-11-0240 -->
 
-...être aimé, pour l’un ou pour l’autre, c’est pas du tout pareil*.*
+...être aimé, pour l’un ou pour l’autre, c’est pas du tout pareil.
 
 <!-- id: s21-11-0241 -->
 
@@ -1110,7 +1110,7 @@ Il est évident quand même que la religion a ses limites, quand même !
 
 <!-- id: s21-11-0270 -->
 
-Enfin, moi je reviens d’Italie, vous comprenez, là je suis dans un bain de corps qui ruissellent sur tous les murs, enfin il y a que ça, il y a des tableaux à s’en étouffer, c’est d’ailleurs tout à fait magnifique, moi je ne vois pas pourquoi je ferais « *proh pudor !* » \[*Oh honte !*\] devant ce ruissellement des corps*,* mais enfin ça donne quand même sa limite au machin, ça montre quand même qu’on est dans *la vérité*, et qu’on y reste, qu’on n’en sort pas.
+Enfin, moi je reviens d’Italie, vous comprenez, là je suis dans un bain de corps qui ruissellent sur tous les murs, enfin il y a que ça, il y a des tableaux à s’en étouffer, c’est d’ailleurs tout à fait magnifique, moi je ne vois pas pourquoi je ferais « *proh pudor !* » \[*Oh honte !*\] devant ce ruissellement des corps, mais enfin ça donne quand même sa limite au machin, ça montre quand même qu’on est dans *la vérité*, et qu’on y reste, qu’on n’en sort pas.
 
 <!-- id: s21-11-0271 -->
 
@@ -1298,7 +1298,7 @@ Et tout ce qu’ils veulent, c’est entendre quelque chose qui fait plaisir, mo
 
 > temps miraculeux, temps que je voudrais voir se reproduire sous la forme des psychanalystes,
 >
-> je voudrais voir s’y reproduire cette espèce de République, ...cette espèce de République qui faisait que Pascal correspondait avec Fermat, avec Roberval, avec Carcavi, avec des tas de gens*,* qui étaient tous entre eux pour ceci, qu’on ne sait pas quoi s’était produit...
+> je voudrais voir s’y reproduire cette espèce de République, ...cette espèce de République qui faisait que Pascal correspondait avec Fermat, avec Roberval, avec Carcavi, avec des tas de gens, qui étaient tous entre eux pour ceci, qu’on ne sait pas quoi s’était produit...
 
 <!-- id: s21-11-0317 -->
 
@@ -1334,7 +1334,7 @@ Ils ont fourni à *l’objet(a)*  bien sûr, mais justement c’était sans le 
 
     « *Nous ne courons aucun risque, Car nous sommes Sodomites. Seul le feu nous fera périr, Landeriri*... »
 
-    Cité dans : André Ducasse, « *La grande demoiselle. La plus riche héritière d’Europe, 1627-1693 »,* Hachette 1942 p. 60*.* ».
+    Cité dans : André Ducasse, « *La grande demoiselle. La plus riche héritière d’Europe, 1627-1693 »,* Hachette 1942 p. 60. ».
 
     Cf. la même citation in M. Proust : *La prisonnière,* in *La recherche du temps perdu*, T.3, Gallimard, coll. La Pléiade, 1954, p. 303.
 

@@ -846,11 +846,11 @@ Enfin ces histoires de couples ou de binaires sont toujours liées à des histoi
 
 <!-- id: s25-08-0210 -->
 
-Lacan *-* Le vert peut s’associer au bleu et au rouge.
+Lacan - Le vert peut s’associer au bleu et au rouge.
 
 <!-- id: s25-08-0211 -->
 
-Pierre Soury *-* Oui, oui.
+Pierre Soury - Oui, oui.
 
 <!-- id: s25-08-0212 -->
 
@@ -858,7 +858,7 @@ Lacan - Et d’un autre côté, le jaune peut s’associer aussi au bleu et au r
 
 <!-- id: s25-08-0213 -->
 
-Pierre Soury *-* Oui, oui
+Pierre Soury - Oui, oui
 
 <!-- id: s25-08-0214 -->
 
@@ -866,7 +866,7 @@ Pierre Soury *-* Oui, oui
 
 <!-- id: s25-08-0215 -->
 
-Pierre Soury *-* Oui, oui.
+Pierre Soury - Oui, oui.
 
 <!-- id: s25-08-0216 -->
 
@@ -874,7 +874,7 @@ Y - C’est-à-dire la séparation entre vert et jaune et l’axe et l’âme, e
 
 <!-- id: s25-08-0217 -->
 
-Pierre Soury *-* Tout à fait.
+Pierre Soury - Tout à fait.
 
 <!-- id: s25-08-0218 -->
 
@@ -890,11 +890,11 @@ Oui, c’est vrai que c’est la même chose pour une coupure méridienne ou une
 
 <!-- id: s25-08-0221 -->
 
-Pierre Soury - Si, si, oui, c’est bien… Lacan *-* Qui est-ce qui m’a envoyé ce papier ? C’est quelqu’un qui a assisté à ce que SOURY fait, de travaux pratiques.
+Pierre Soury - Si, si, oui, c’est bien… Lacan - Qui est-ce qui m’a envoyé ce papier ? C’est quelqu’un qui a assisté à ce que SOURY fait, de travaux pratiques.
 
 <!-- id: s25-08-0222 -->
 
-Χ *-* C’est moi.
+Χ - C’est moi.
 
 <!-- id: s25-08-0223 -->
 
@@ -914,7 +914,7 @@ Je veux dire l’objet Α et l’objet qui est désigné comme ça. Je suis int�
 
 <!-- id: s25-08-0227 -->
 
-Lacan *-* Comment ? Dans le papier, oui. Dans le papier que vous m’avez envoyé, oui.
+Lacan - Comment ? Dans le papier, oui. Dans le papier que vous m’avez envoyé, oui.
 
 <!-- id: s25-08-0228 -->
 

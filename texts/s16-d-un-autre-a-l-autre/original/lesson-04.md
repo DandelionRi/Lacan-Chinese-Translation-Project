@@ -124,7 +124,7 @@ Dire d’autre part que *le Réel c’est l’impossible*, c’est aussi énonce
 
 <!-- id: s16-04-0030 -->
 
-*Ce n’est pas n’importe quoi*, dans les choses*,* *qui fait sujet*. C’est là qu’il importe de reprendre les choses au point où nous ne versions pas dans la confusion au niveau de ce que nous disons, celle qui permettrait de *restaurer ce sujet comme sujet pensant*.
+*Ce n’est pas n’importe quoi*, dans les choses, *qui fait sujet*. C’est là qu’il importe de reprendre les choses au point où nous ne versions pas dans la confusion au niveau de ce que nous disons, celle qui permettrait de *restaurer ce sujet comme sujet pensant*.
 
 <!-- id: s16-04-0031 -->
 
@@ -172,7 +172,7 @@ Longtemps on sembla accepter ce que l’on appelait « *l’Esprit »*…
 
 <!-- id: s16-04-0042 -->
 
-La question est soulevée dans un recueil qui vient de paraître… j’en ai eu les prémices, je ne sais s’il est encore en circulation … « *Qu’est-ce que le structuralisme* [^15] *?* » que nous devons aux rappels battus auprès de certains par notre ami François WAHL.
+La question est soulevée dans un recueil qui vient de paraître… j’en ai eu les prémices, je ne sais s’il est encore en circulation … « *Qu’est-ce que le structuralisme* [^15] ? » que nous devons aux rappels battus auprès de certains par notre ami François WAHL.
 
 <!-- id: s16-04-0043 -->
 
@@ -224,7 +224,7 @@ Ce qui justifie cette règle c’est que la vérité, précisément, ne se dit p
 
 <!-- id: s16-04-0055 -->
 
-J’ai déjà relevé un de ces menus monuments qui s’étalent dans un champ où les énoncés prennent volontiers « patente » de l’ignorance : *Essence de la Manifestation*[^16]*,* tel est le titre d’un livre combien bien accueilli dans le champ universitaire, dont après tout je n’ai point raison de dire l’auteur puisque je suis en train de le qualifier de fat.
+J’ai déjà relevé un de ces menus monuments qui s’étalent dans un champ où les énoncés prennent volontiers « patente » de l’ignorance : *Essence de la Manifestation*[^16], tel est le titre d’un livre combien bien accueilli dans le champ universitaire, dont après tout je n’ai point raison de dire l’auteur puisque je suis en train de le qualifier de fat.
 
 <!-- id: s16-04-0056 -->
 
@@ -260,7 +260,7 @@ Plutôt - soyons plus modeste - « *Il y a de la souffrance qui est fait* » c
 
 <!-- id: s16-04-0064 -->
 
-*Je fais dire à la souffrance*, comme *j’ai fait dire à la vérité* dans une première approche - il faut tempérer les effets du discours - je leur ai fait dire - quoiqu’en des termes pour l’une ou l’autre modulés pas du même ton - « *je parle* »*.*
+*Je fais dire à la souffrance*, comme *j’ai fait dire à la vérité* dans une première approche - il faut tempérer les effets du discours - je leur ai fait dire - quoiqu’en des termes pour l’une ou l’autre modulés pas du même ton - « *je parle* ».
 
 <!-- id: s16-04-0065 -->
 
@@ -400,7 +400,7 @@ C’est tout à fait vrai. C’est pour ça que - sans doute - mon correspondant
 
 <!-- id: s16-04-0099 -->
 
-À ceci, je reconnais que la personne qui m’a envoyé ce papier sait ce qu’elle dit, c’est-à-dire qu’elle a au moins une ombre \- qui est probablement plus encore - d’instruction mathématique. C’est tout à fait vrai. On commence par articuler la fonction de ce que c’est qu’un ensemble et si on n’y introduit pas - en effet - *la fonction de la paire ordonnée* par cette sorte de *coup de force* qu’on appelle en logique *un axiome*, eh bien, il n’y a rien de plus à en faire que ce que vous avez d’abord défini comme ensemble. Entre parenthèses, ajoute-t-on : « *soit direct, soit indirect, l’ensemble a deux éléments. Le résultat de ce coup de force est de créer un signifiant* *qui remplace la coexistence de deux signifiants.* »*.*
+À ceci, je reconnais que la personne qui m’a envoyé ce papier sait ce qu’elle dit, c’est-à-dire qu’elle a au moins une ombre \- qui est probablement plus encore - d’instruction mathématique. C’est tout à fait vrai. On commence par articuler la fonction de ce que c’est qu’un ensemble et si on n’y introduit pas - en effet - *la fonction de la paire ordonnée* par cette sorte de *coup de force* qu’on appelle en logique *un axiome*, eh bien, il n’y a rien de plus à en faire que ce que vous avez d’abord défini comme ensemble. Entre parenthèses, ajoute-t-on : « *soit direct, soit indirect, l’ensemble a deux éléments. Le résultat de ce coup de force est de créer un signifiant* *qui remplace la coexistence de deux signifiants.* ».
 
 <!-- id: s16-04-0100 -->
 

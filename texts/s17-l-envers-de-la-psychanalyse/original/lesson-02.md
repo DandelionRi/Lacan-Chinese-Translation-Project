@@ -34,7 +34,7 @@ Moyennant quoi, à cette même date, j’ai cru pouvoir en illustrer ce que j’
 
 <!-- id: s17-02-0008 -->
 
-que c’est déjà trop d’appeler *quelque chose* *...*qu’il représente *x*, qui est justement ce qui est à élu­cider dans l’affaire.
+que c’est déjà trop d’appeler *quelque chose...*qu’il représente *x*, qui est justement ce qui est à élu­cider dans l’affaire.
 
 <!-- id: s17-02-0009 -->
 
@@ -248,7 +248,7 @@ Il est à produire par ceux-là qui se trouvent substitués à l’esclave antiq
 
 <!-- id: s17-02-0061 -->
 
-> et consommables tout autant que les autres ...d’une *société* dite « *de consommation* »* *: le *« matériel humain »,* comme on l’a énoncé dans un temps, aux applaudissements de certains qui y ont vu de la tendresse... Ceci mérite d’être pointé, puisque aussi bien ça nous concerne.
+> et consommables tout autant que les autres ...d’une *société* dite « *de consommation* »: le *« matériel humain »,* comme on l’a énoncé dans un temps, aux applaudissements de certains qui y ont vu de la tendresse... Ceci mérite d’être pointé, puisque aussi bien ça nous concerne.
 
 <!-- id: s17-02-0062 -->
 
@@ -268,7 +268,7 @@ S’il y a *un savoir qui ne se sait pas*, je l’ai déjà dit, il est à situe
 
 <!-- id: s17-02-0066 -->
 
-J’ai déjà assez insisté là-dessus l’année dernière : cet *autre signifiant* n’est pas seul, le ventre de *l’Autre,* du grand A*,* en est plein.
+J’ai déjà assez insisté là-dessus l’année dernière : cet *autre signifiant* n’est pas seul, le ventre de *l’Autre,* du grand A, en est plein.
 
 <!-- id: s17-02-0067 -->
 

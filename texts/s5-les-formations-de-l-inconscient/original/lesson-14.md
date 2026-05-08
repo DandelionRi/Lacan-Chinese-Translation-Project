@@ -47,7 +47,7 @@ comme si ces conditions étaient faites pour lui, et qu’il s’en satisfasse.
 
 <!-- id: s5-14-0009 -->
 
-Ceci*,* je vous l’indique déjà, nous fera déboucher - j’espère y arriver aujourd’hui - sur ce que je vous ai déjà indiqué
+Ceci, je vous l’indique déjà, nous fera déboucher - j’espère y arriver aujourd’hui - sur ce que je vous ai déjà indiqué
 au début de l’année en prenant les choses dans la perspective du *trait d’esprit*, sur la nature de *la comédie*.
 
 <!-- id: s5-14-0010 -->
@@ -139,7 +139,7 @@ Je vous ai demandé pendant cet intervalle de faire quelques lectures. J’espè
 
 <!-- id: s5-14-0029 -->
 
-*de la sexua­lité féminine* ». Je ne veux *-* puisque je dois avancer aujourd’hui *-* que vous ponctuer à propos d’un exemple qui est un exemple tout à fait localisé : je l’ai retrouvé en voyant ce qui avait été dit pour un certain anniversaire commémorant le cinquantième de JONES, et qui coïncidait avec l’époque où cette *Phase phallique* venait au premier plan de l’in­térêt des psychanalystes anglais.
+*de la sexua­lité féminine* ». Je ne veux - puisque je dois avancer aujourd’hui - que vous ponctuer à propos d’un exemple qui est un exemple tout à fait localisé : je l’ai retrouvé en voyant ce qui avait été dit pour un certain anniversaire commémorant le cinquantième de JONES, et qui coïncidait avec l’époque où cette *Phase phallique* venait au premier plan de l’in­térêt des psychanalystes anglais.
 
 <!-- id: s5-14-0030 -->
 
@@ -614,7 +614,7 @@ de quelque chose d’essentiellement signi­fiant.
 <!-- id: s5-14-0127 -->
 
 Autrement dit, en trois grandes scènes GENÊT nous présentifie, nous incarne sur le plan de la perversion ce qui,
-à partir de ce moment-là prend son nom, à savoir ce que dans un langage dru nous pouvons aux jours de grand désordre appeler : « *tout le bordel dans lequel nous vivons* »*,* en tant que c’est - comme toute société - toujours *plus ou moins*
+à partir de ce moment-là prend son nom, à savoir ce que dans un langage dru nous pouvons aux jours de grand désordre appeler : « *tout le bordel dans lequel nous vivons* », en tant que c’est - comme toute société - toujours *plus ou moins*
 en état de dégradation.
 
 <!-- id: s5-14-0128 -->
@@ -649,7 +649,7 @@ qui se crée à l’aide de l’instauration, comme étant *le centre* en fin de
 
 <!-- id: s5-14-0134 -->
 
-L’hypothèse est celle-ci, et elle est vraiment très jolie : c’est que *le Préfet de police*, à savoir celui qui sait essentiellement que sur lui repose ce maintien de l’ordre et qu’il est en quelque sorte le terme dernier, le résidu de tout pouvoir*,*
+L’hypothèse est celle-ci, et elle est vraiment très jolie : c’est que *le Préfet de police*, à savoir celui qui sait essentiellement que sur lui repose ce maintien de l’ordre et qu’il est en quelque sorte le terme dernier, le résidu de tout pouvoir,
 *le Préfet de police,* son image ne s’est pas encore élevée à une suffisante noblesse pour qu’aucun des petits vieux
 qui viennent dans le bordel, demandent à avoir les ornements, les attributs, le rôle et la fonction du *Préfet de police*.
 
@@ -1055,7 +1055,7 @@ The purely libidinal nature of the wishes manifests itself in many ways, of whic
 
 <!-- id: s5-14-0205 -->
 
-**\*\*\*\*\***
+---
 
 <!-- id: s5-14-0206 -->
 

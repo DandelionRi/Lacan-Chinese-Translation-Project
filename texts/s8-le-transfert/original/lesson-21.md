@@ -98,7 +98,7 @@ Bien sûr n’allez pas croire que ce soit là, au niveau où se tient la tragé
 
 <!-- id: s8-21-0022 -->
 
-Il serait bien facile de nous amuser à lire dans l’orthographe même donnée par CLAUDEL à ce nom singulier de « *Sygne* », qui commence par un S, qui est vraiment là comme une invite à bien y reconnaître un « *signe* », avec en plus justement, dans ce changement imperceptible dans le mot, cette substitution de l'« *y* » à l’« *i* »*,* ce que cela veut dire cette surimposition de la marque, et d’y reconnaître, par je ne sais quelle convergence une *mater lectionis* cabalistique[^270], quelque chose qui vient rencontrer notre S par quoi je vous montrais que cette imposition du signifiant sur l’homme est à la fois ce qui le marque et ce qui le définit.
+Il serait bien facile de nous amuser à lire dans l’orthographe même donnée par CLAUDEL à ce nom singulier de « *Sygne* », qui commence par un S, qui est vraiment là comme une invite à bien y reconnaître un « *signe* », avec en plus justement, dans ce changement imperceptible dans le mot, cette substitution de l'« *y* » à l’« *i* », ce que cela veut dire cette surimposition de la marque, et d’y reconnaître, par je ne sais quelle convergence une *mater lectionis* cabalistique[^270], quelque chose qui vient rencontrer notre S par quoi je vous montrais que cette imposition du signifiant sur l’homme est à la fois ce qui le marque et ce qui le définit.
 
 <!-- id: s8-21-0023 -->
 
@@ -122,7 +122,7 @@ Et si je voulais équivoquer pour trouver la meilleure traduction : « *la per
 
 <!-- id: s8-21-0028 -->
 
-Cette place c’est le μή \[mè\], ou ce « *ne* » très particulier dont nous ne saisissons dans le langage que les vestiges, au moment de son apparition paradoxale, dans des termes comme ce : « *je crains qu’il ne vienne* » ou « *avant qu’il n’apparaisse* », où il paraît aux grammairiens comme un *explétif*, alors que c’est là justement que se montre la pointe de ce désir où se désigne non point *le sujet de l’énoncé* - qui est le « *je* » : celui qui parle actuellement - mais *le sujet où s’origine l’énonciation*. μή ϕῦναι \[mè phunai\], ce « *ne sois-je* »*,* ou ce « *ne fus-je* »*,* pour être plus près : ce « *n’être* » qui *équivoque* si curieusement en français avec le verbe de la *naissance*, voilà où nous en sommes avec ŒDIPE.
+Cette place c’est le μή \[mè\], ou ce « *ne* » très particulier dont nous ne saisissons dans le langage que les vestiges, au moment de son apparition paradoxale, dans des termes comme ce : « *je crains qu’il ne vienne* » ou « *avant qu’il n’apparaisse* », où il paraît aux grammairiens comme un *explétif*, alors que c’est là justement que se montre la pointe de ce désir où se désigne non point *le sujet de l’énoncé* - qui est le « *je* » : celui qui parle actuellement - mais *le sujet où s’origine l’énonciation*. μή ϕῦναι \[mè phunai\], ce « *ne sois-je* », ou ce « *ne fus-je* », pour être plus près : ce « *n’être* » qui *équivoque* si curieusement en français avec le verbe de la *naissance*, voilà où nous en sommes avec ŒDIPE.
 
 <!-- id: s8-21-0029 -->
 
@@ -158,7 +158,7 @@ Quelque chose nous est proposé qui va plus loin que le malheur de JOB et que sa
 
 <!-- id: s8-21-0037 -->
 
-Tel est ce qu’ouvre comme possibilité, devant l’être qui parle, le fait d’être le support du *Verbe* au moment où il lui est demandé, ce *Verbe*, de le garantir. *L’homme est devenu l’otage du Verbe* parce qu’il s’est dit - ou aussi bien *pour* qu’il se soit dit - que Dieu est mort. À ce moment s’ouvre cette béance où rien de plus, rien d’autre ne peut être articulé que ce qui n’est que le commencement même de « *ne fus-je *»*,* qui ne serait plus être, qu’un refus, un « *non* », un « *ne* », ce tic, cette grimace, bref, ce fléchissement du corps, cette psychosomatique qui est le terme où nous avons à rencontrer la marque du signifiant.
+Tel est ce qu’ouvre comme possibilité, devant l’être qui parle, le fait d’être le support du *Verbe* au moment où il lui est demandé, ce *Verbe*, de le garantir. *L’homme est devenu l’otage du Verbe* parce qu’il s’est dit - ou aussi bien *pour* qu’il se soit dit - que Dieu est mort. À ce moment s’ouvre cette béance où rien de plus, rien d’autre ne peut être articulé que ce qui n’est que le commencement même de « *ne fus-je *», qui ne serait plus être, qu’un refus, un « *non* », un « *ne* », ce tic, cette grimace, bref, ce fléchissement du corps, cette psychosomatique qui est le terme où nous avons à rencontrer la marque du signifiant.
 
 <!-- id: s8-21-0038 -->
 
@@ -426,7 +426,7 @@ Ces perspectives, ces extrêmes, ces points d’écartèlement des termes, dont 
 
 <!-- id: s8-21-0104 -->
 
-**  **
+&nbsp;
 
 ## Notes
 

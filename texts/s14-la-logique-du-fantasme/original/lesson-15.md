@@ -104,7 +104,7 @@ Alors, ceci tempère beaucoup la valeur des termes dont je me suis hier soir ser
 
 <!-- id: s14-15-0025 -->
 
-Puis j’ai montré que celui qui reste, prend une toute autre valeur, en quelque sorte po­sitive, en se proposant - en s’imposant même - comme *terme d’échelle* qui se propose justement à la critique de ce que j’invoquais à ce moment-là, que j’invoquais de considérer que la position propre au candidat, c’est la critique*.* C’était très urgent.
+Puis j’ai montré que celui qui reste, prend une toute autre valeur, en quelque sorte po­sitive, en se proposant - en s’imposant même - comme *terme d’échelle* qui se propose justement à la critique de ce que j’invoquais à ce moment-là, que j’invoquais de considérer que la position propre au candidat, c’est la critique. C’était très urgent.
 
 <!-- id: s14-15-0026 -->
 
@@ -160,7 +160,7 @@ LACAN, au cours d’un de ses séminaires, a dit : « *Ce qui nous intéresse c
 
 <!-- id: s14-15-0039 -->
 
-En effet, cette prise de position est très importante, elle prévient contre une pseudo-orthodoxie freudienne, mais néanmoins, il y a des problèmes qui se posent autant à la comparaison de l’esprit et de la lettre, et ce n’est pas ici que je vous apprendrai que LACAN tient plus à la lettre qu’à l’esprit… Mais il s’agit précisément de constituer la lettre de FREUD et de tenter sa formalisation, j’ai déjà l’année dernière - au cours d’un séminaire fermé concernant la question de *l’objet(a)* - parlé dirai-je, devant *le petit séminaire*, c’est aujourd’hui devant *le grand séminaire* que je parle et je crois que cela n’est pas sans me poser un problème particulier, car devant l’assistance sélectionnée par LACAN lui-même du *petit séminaire*, je savais au moins à qui je parlais, alors qu’aujourd’hui, je dois vous dire que je ne sais pas à qui je parle, et que cela pose des problèmes pour moi en tant que je m’adresse surtout aux analystes. ** **
+En effet, cette prise de position est très importante, elle prévient contre une pseudo-orthodoxie freudienne, mais néanmoins, il y a des problèmes qui se posent autant à la comparaison de l’esprit et de la lettre, et ce n’est pas ici que je vous apprendrai que LACAN tient plus à la lettre qu’à l’esprit… Mais il s’agit précisément de constituer la lettre de FREUD et de tenter sa formalisation, j’ai déjà l’année dernière - au cours d’un séminaire fermé concernant la question de *l’objet(a)* - parlé dirai-je, devant *le petit séminaire*, c’est aujourd’hui devant *le grand séminaire* que je parle et je crois que cela n’est pas sans me poser un problème particulier, car devant l’assistance sélectionnée par LACAN lui-même du *petit séminaire*, je savais au moins à qui je parlais, alors qu’aujourd’hui, je dois vous dire que je ne sais pas à qui je parle, et que cela pose des problèmes pour moi en tant que je m’adresse surtout aux analystes.
 
 <!-- id: s14-15-0040 -->
 
@@ -232,7 +232,7 @@ Rapport - donc à propos du *Ça* - *de la pensée à l’être* : « *Ce n’e
 
 <!-- id: s14-15-0057 -->
 
-Enfin le point, la définition peut-on dire, qui est *pivotale*… pour employer un mot très employé ces dernières années …« *Le Ça est à proprement parler ce qui, dans le discours, en tant que structure logique est très exactement « tout ce qui n’est pas « je »* »*,* *c’est-à-dire tout le reste de la structure. Et quand je dis structure logique, entendez la grammaticale.* » (*séminaire du 11 janvier*).
+Enfin le point, la définition peut-on dire, qui est *pivotale*… pour employer un mot très employé ces dernières années …« *Le Ça est à proprement parler ce qui, dans le discours, en tant que structure logique est très exactement « tout ce qui n’est pas « je »* », *c’est-à-dire tout le reste de la structure. Et quand je dis structure logique, entendez la grammaticale.* » (*séminaire du 11 janvier*).
 
 <!-- id: s14-15-0058 -->
 
@@ -336,7 +336,7 @@ Quel est donc le sens de cette opération opérée par FREUD ? Puisque nous y re
 
 <!-- id: s14-15-0083 -->
 
-Ce qu’on n’a pas assez remarqué c’est la solidarité, je dirai la consubstantialité presque, de ce remaniement de la 2<sup>ème</sup> topique, avec l’introduction de la pulsion de mort. En fait, si nous voulons parler de 1a symbolisation, nous sommes ob1igés de parler de la structure et c’est le point central que je développerai au long de cet exposé, en ce que la structure naît d’une action liée à l’*antagonisme* d’éros et de la pulsion de mort**.**
+Ce qu’on n’a pas assez remarqué c’est la solidarité, je dirai la consubstantialité presque, de ce remaniement de la 2<sup>ème</sup> topique, avec l’introduction de la pulsion de mort. En fait, si nous voulons parler de 1a symbolisation, nous sommes ob1igés de parler de la structure et c’est le point central que je développerai au long de cet exposé, en ce que la structure naît d’une action liée à l’*antagonisme* d’éros et de la pulsion de mort.
 
 <!-- id: s14-15-0084 -->
 
@@ -366,11 +366,11 @@ Deuxième exemple : *Macbeth*. FREUD dans *Analyse* *terminée*, *analyse interm
 
 <!-- id: s14-15-0090 -->
 
-Interrogeons justement ces sorcières de MACBETH, celle dont FREUD fait l’analyse dans son article sur les exceptions : les sorcières sont penchées au-dessus du chaudron et elles font une prédiction, c’est-à-dire que c’est exactement la situation d’ŒDIPE à l’envers, là ce n’est pas l’Œdipe, ce n’est pas MACBETH qui répond à une énigme, c’est une réponse qui lui est donnée en tant que réponse fallacieuse, nous allons voir comment*.*
+Interrogeons justement ces sorcières de MACBETH, celle dont FREUD fait l’analyse dans son article sur les exceptions : les sorcières sont penchées au-dessus du chaudron et elles font une prédiction, c’est-à-dire que c’est exactement la situation d’ŒDIPE à l’envers, là ce n’est pas l’Œdipe, ce n’est pas MACBETH qui répond à une énigme, c’est une réponse qui lui est donnée en tant que réponse fallacieuse, nous allons voir comment.
 
 <!-- id: s14-15-0091 -->
 
-Car elles disent : « *for /.../.of woman born shall arm Macbeth*.* *» « *Car aucun, qui est né d’une femme, n’atteindra Macbeth* »
+Car elles disent : « *for /.../.of woman born shall arm Macbeth. *» « *Car aucun, qui est né d’une femme, n’atteindra Macbeth* »
 
 <!-- id: s14-15-0092 -->
 
@@ -430,15 +430,15 @@ Avant de passer a la répétition, je vous lirai un petit dialogue de ma facture
 
 <!-- id: s14-15-0106 -->
 
-- « *Comme ça.* »  
+- « *Comme ça.* »
 
 <!-- id: s14-15-0107 -->
 
-- « *Qu’est-ce que ça veut dire ?* » 
+- « *Qu’est-ce que ça veut dire ?* »
 
 <!-- id: s14-15-0108 -->
 
-- « *Ça désire.* » 
+- « *Ça désire.* »
 
 <!-- id: s14-15-0109 -->
 
@@ -578,19 +578,19 @@ LACAN de tirer sous sa référence *Les pulsions et leur destin*, et de l’exem
 
 <!-- id: s14-15-0143 -->
 
-La première remarque c’est que lorsqu’on est tenté de rattacher la fonction au langage on est toujours amené à la réserver à des travaux antérieurs à la pulsion de mort (1915-1919 pour les textes dont il s’agit ici). Le monde du langage est lié a la combinatoire des représentations. Or dans *Les pulsions et leur destin*, le *Vorstellung Repräsentanz* n’est jamais mentionné par FREUD, il n’apparaît qu’avec le refoulement (*texte sur le refoulement*). Toutes *les pulsions et leur destin* reposent sur l’analyse des pulsions partielles : scoptophilie et sado-masochisme. Les destins des pulsions sont quatre :  
+La première remarque c’est que lorsqu’on est tenté de rattacher la fonction au langage on est toujours amené à la réserver à des travaux antérieurs à la pulsion de mort (1915-1919 pour les textes dont il s’agit ici). Le monde du langage est lié a la combinatoire des représentations. Or dans *Les pulsions et leur destin*, le *Vorstellung Repräsentanz* n’est jamais mentionné par FREUD, il n’apparaît qu’avec le refoulement (*texte sur le refoulement*). Toutes *les pulsions et leur destin* reposent sur l’analyse des pulsions partielles : scoptophilie et sado-masochisme. Les destins des pulsions sont quatre :
 
 <!-- id: s14-15-0144 -->
 
-- retournement contre soi, 
+- retournement contre soi,
 
 <!-- id: s14-15-0145 -->
 
-- retournement en son contraire, 
+- retournement en son contraire,
 
 <!-- id: s14-15-0146 -->
 
-- refoulement, 
+- refoulement,
 
 <!-- id: s14-15-0147 -->
 
@@ -762,7 +762,7 @@ En somme à ce qui correspond à la retrouvaille ou à la recherche de la retrou
 
 <!-- id: s14-15-0189 -->
 
-J’aurais voulu développer ceci de façon plus précise.  
+J’aurais voulu développer ceci de façon plus précise.
 
 <!-- id: s14-15-0190 -->
 

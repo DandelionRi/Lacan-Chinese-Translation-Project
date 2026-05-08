@@ -330,7 +330,7 @@ Ce qui bien entendu est tellement loin d’être simple, que ça ouvre immédiat
 
 <!-- id: s3-03-0082 -->
 
-Nous entendons par là ce qui se passe réellement dans ces appareils - notion d’*endoscopie* qui surgit à tous les niveaux du texte *-* et c’est d’appréhender tous les phénomènes de *discordance subjective* comme telle, à tous les moments, que toute théorie qui se pose, qui se précise, comme centrant ce qui se passe dans le sujet, sur des phénomènes *intra-organiques,* est forcée.
+Nous entendons par là ce qui se passe réellement dans ces appareils - notion d’*endoscopie* qui surgit à tous les niveaux du texte - et c’est d’appréhender tous les phénomènes de *discordance subjective* comme telle, à tous les moments, que toute théorie qui se pose, qui se précise, comme centrant ce qui se passe dans le sujet, sur des phénomènes *intra-organiques,* est forcée.
 
 <!-- id: s3-03-0083 -->
 
@@ -472,7 +472,7 @@ Observez bien que lorsque notre paranoïaque de l’autre jour... celle à laque
 
 <!-- id: s3-03-0117 -->
 
-…à ceci : que justement elle essaie de vous blouser, c’est-à-dire que vous reconnaissez cliniquement « *un délire partiel »*, ça fait partie des hypothèses de la situation*.*
+…à ceci : que justement elle essaie de vous blouser, c’est-à-dire que vous reconnaissez cliniquement « *un délire partiel »*, ça fait partie des hypothèses de la situation.
 
 <!-- id: s3-03-0118 -->
 
@@ -532,7 +532,7 @@ Il s’agit là d’une notion générique observable, *behaviouristiquement* ob
 
 <!-- id: s3-03-0132 -->
 
-- que dans le rapport à cette *image de l’autre,* il est *« ensemble »* et *« collection »* incohérente de désirs …*qu’il est, littéralement*. C’est cela le vrai sens du terme « *corps morcelé* », et la première synthèse de l’*ego* est essentiellement alter*,* elle est *alter-ego*, elle est aliénée. Le centre de constitution du sujet humain désirant comme tel, c’est *l’autre* en tant qu’il lui donne *son* *unité*, et le premier abord qu’il a avec les objets, c’est de *l’objet en tant que vu comme objet du désir de l’autre*.
+- que dans le rapport à cette *image de l’autre,* il est *« ensemble »* et *« collection »* incohérente de désirs …*qu’il est, littéralement*. C’est cela le vrai sens du terme « *corps morcelé* », et la première synthèse de l’*ego* est essentiellement alter, elle est *alter-ego*, elle est aliénée. Le centre de constitution du sujet humain désirant comme tel, c’est *l’autre* en tant qu’il lui donne *son* *unité*, et le premier abord qu’il a avec les objets, c’est de *l’objet en tant que vu comme objet du désir de l’autre*.
 
 <!-- id: s3-03-0133 -->
 
@@ -684,7 +684,7 @@ D’autre part je vous fais bien toucher du doigt au passage que, à analyser ai
 
 <!-- id: s3-03-0170 -->
 
-…à savoir que *quand on est jaloux de sa femme*, c’est parce que soi-même on a quelques petites *peccadilles* à se reprocher*.*
+…à savoir que *quand on est jaloux de sa femme*, c’est parce que soi-même on a quelques petites *peccadilles* à se reprocher.
 
 <!-- id: s3-03-0171 -->
 
@@ -717,6 +717,7 @@ Le caractère fondamental des relations de tous les délires, est quelque chose 
 <!-- id: s3-03-0178 -->
 
 C’est autour de ces termes que nous essayerons de nous repérer, pour faire la distinction essentielle de ce qui se passe *dans la psychose* et *dans la névrose*.
+
 ## Notes
 
 [^8]: *[Écrits « inspirés » : schizographie](http://www.ecole-lacanienne.net/pictures/mynews/9FCDC1A87CCDF4D3FC1E55E6BC5232B4/1931-11-12a.pdf)* (E.L.P.), Annales Médico-Psychologiques, 1931 t. II, p. 508-522.

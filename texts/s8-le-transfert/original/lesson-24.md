@@ -26,7 +26,7 @@ C’est pourquoi comme support je viens de vous faire au tableau ce petit schém
 
 <!-- id: s8-24-0006 -->
 
-Simplement je vous rappelle cette vieille histoire dite de *l’illusion -* dans les expériences classiques de physique de niveau amusant *-* *du bouquet renversé* par quoi on fait apparaître, grâce à l’opération du miroir sphérique placé derrière un certain appareil, *l’image* - je le souligne - *réelle*, je veux dire que *ce n’est pas une image vue à travers l’espace, virtuelle, déployée à travers un miroir,* qui se dresse \- à condition de respecter certaines conditions d’éclairage tout autour, avec une précision suffisante *-* au-dessus d’un support, d’un bouquet qui se trouve en réalité dissimulé dans les dessous de ce support.
+Simplement je vous rappelle cette vieille histoire dite de *l’illusion -* dans les expériences classiques de physique de niveau amusant - *du bouquet renversé* par quoi on fait apparaître, grâce à l’opération du miroir sphérique placé derrière un certain appareil, *l’image* - je le souligne - *réelle*, je veux dire que *ce n’est pas une image vue à travers l’espace, virtuelle, déployée à travers un miroir,* qui se dresse \- à condition de respecter certaines conditions d’éclairage tout autour, avec une précision suffisante - au-dessus d’un support, d’un bouquet qui se trouve en réalité dissimulé dans les dessous de ce support.
 
 <!-- id: s8-24-0007 -->
 
@@ -118,7 +118,7 @@ Elle n’a pas encore été, vous le verrez, tout à fait vulgarisée, elle est 
 
 <!-- id: s8-24-0029 -->
 
-Pour dire de quoi il s’agit, c’est de la supposition que la propriété de ce champ est d’être investie d’une *énergie neutre*, ce qui veut dire l’introduction dans la dynamique analytique d’une *énergie neutre*, c’est-à-dire, au point d’évolution de la théorie où nous en sommes, *d’une énergie qui se distingue* - ça ne peut pas dire autre chose : *comme étant ni l’un ni l’autre* \[ni éros ni thanatos\], ce que veut dire *le neutre* [^306] *-* *de l’énergie proprement libidinale,* en tant que la deuxième topique de FREUD l’a obligé à introduire la notion d’une énergie distincte de la libido dans le *Todestrieb,* l’instinct de mort, et dans la fonction dès lors, par les analystes épinglée sous le terme de THANATOS \- ce qui ne contribue certes pas à éclaircir la notion - et dans un maniement opposé, coupler les termes d’ÉROS et THANATOS.
+Pour dire de quoi il s’agit, c’est de la supposition que la propriété de ce champ est d’être investie d’une *énergie neutre*, ce qui veut dire l’introduction dans la dynamique analytique d’une *énergie neutre*, c’est-à-dire, au point d’évolution de la théorie où nous en sommes, *d’une énergie qui se distingue* - ça ne peut pas dire autre chose : *comme étant ni l’un ni l’autre* \[ni éros ni thanatos\], ce que veut dire *le neutre* [^306] - *de l’énergie proprement libidinale,* en tant que la deuxième topique de FREUD l’a obligé à introduire la notion d’une énergie distincte de la libido dans le *Todestrieb,* l’instinct de mort, et dans la fonction dès lors, par les analystes épinglée sous le terme de THANATOS \- ce qui ne contribue certes pas à éclaircir la notion - et dans un maniement opposé, coupler les termes d’ÉROS et THANATOS.
 
 <!-- id: s8-24-0030 -->
 
@@ -166,7 +166,7 @@ Il n’en reste pas moins que tout *introjecté* qu’il soit, il continue de co
 
 <!-- id: s8-24-0041 -->
 
-Et ce sera en particulier dans un 2<sup>ème</sup> temps, ou plus exactement c’est en éprouvant le besoin de le scander comme un 2<sup>ème</sup> temps, que les auteurs réaliseront ce que FREUD avait introduit dès l’abord, à savoir *la fonction possible de l’idéal du moi* dans la *Verliebtheit,* comme aussi bien dans l’hypnose. Vous le savez, *Hypnose und Verliebtheit* [^307]*,* c’est là le titre d’un des articles que FREUD a écrits, dans lequel il analyse une *Massenpsychologie*.
+Et ce sera en particulier dans un 2<sup>ème</sup> temps, ou plus exactement c’est en éprouvant le besoin de le scander comme un 2<sup>ème</sup> temps, que les auteurs réaliseront ce que FREUD avait introduit dès l’abord, à savoir *la fonction possible de l’idéal du moi* dans la *Verliebtheit,* comme aussi bien dans l’hypnose. Vous le savez, *Hypnose und Verliebtheit* [^307], c’est là le titre d’un des articles que FREUD a écrits, dans lequel il analyse une *Massenpsychologie*.
 
 <!-- id: s8-24-0042 -->
 
@@ -354,7 +354,7 @@ La métaphore du *désirant* \[ἐραστής (erastès)\] dans l’amour impli
 
 <!-- id: s8-24-0088 -->
 
-Mais ce que nous devons voir à ce niveau, *ce point* que je ne peux pas manquer aujourd’hui parce qu’il sera essentiel à ce que nous le trouvions dans la suite de notre propos, c’est ce que nous ne devons pas *oublier*, *c’est que l’amour comme tel* - je vous l’ai toujours dit et nous le retrouverons nécessité par tous les bouts - *c’est donner ce qu’on n’a pas*. Et on ne peut *aimer* qu’à se faire comme « *n’ayant pas* », même si l’on a. *L’amour comme réponse implique le domaine du « non-avoir* ». Ce n’est pas moi, c’est PLATON qui l’a inventé, qui a inventé que seule la misère : Πενία \[Penia\]*,* peut concevoir l’Amour \[Ἔρως\] et l’idée de se faire engrosser un soir de fête. *Et en effet, donner ce qu’on a, c’est la fête, ce n’est pas l’amour.*
+Mais ce que nous devons voir à ce niveau, *ce point* que je ne peux pas manquer aujourd’hui parce qu’il sera essentiel à ce que nous le trouvions dans la suite de notre propos, c’est ce que nous ne devons pas *oublier*, *c’est que l’amour comme tel* - je vous l’ai toujours dit et nous le retrouverons nécessité par tous les bouts - *c’est donner ce qu’on n’a pas*. Et on ne peut *aimer* qu’à se faire comme « *n’ayant pas* », même si l’on a. *L’amour comme réponse implique le domaine du « non-avoir* ». Ce n’est pas moi, c’est PLATON qui l’a inventé, qui a inventé que seule la misère : Πενία \[Penia\], peut concevoir l’Amour \[Ἔρως\] et l’idée de se faire engrosser un soir de fête. *Et en effet, donner ce qu’on a, c’est la fête, ce n’est pas l’amour.*
 
 <!-- id: s8-24-0089 -->
 
@@ -378,7 +378,7 @@ Ce qu’il y a de certain c’est que la richesse a une tendance à rendre impui
 
 <!-- id: s8-24-0094 -->
 
-Mais en voilà assez pour les riches. Léon BLOY a fait un jour *La* *femme pauvre* [^311]. Je suis très embêté, depuis quelque temps je parle tout le temps d’auteurs catholiques, mais ce n’est pas de ma faute s’il y a longtemps que j’ai repéré des choses fort intéressantes. J’aimerais que quelqu’un, un jour, s’aperçoive des énormités, des choses faramineuses comme bienfaits analytiques, qui sont cachées dans *La* *femme pauvre* qui est un livre à la limite du supportable, que seul un analyste peut comprendre - je n’ai encore jamais vu aucun analyste s’y intéresser *-* mais il aurait bien fait aussi d’écrire *La femme riche* . Il est certain que seule la femme peut incarner dignement la férocité de la richesse, mais enfin ça ne suffit pas, et ça pose pour elle et tout à fait spécialement pour celui qui postule son amour, des problèmes tout à fait particuliers. Cela nécessiterait un retour à la sexualité féminine. Je m’excuse, je serai simplement forcé de vous indiquer ceci comme une sorte de pierre d’amorce.
+Mais en voilà assez pour les riches. Léon BLOY a fait un jour *La* *femme pauvre* [^311]. Je suis très embêté, depuis quelque temps je parle tout le temps d’auteurs catholiques, mais ce n’est pas de ma faute s’il y a longtemps que j’ai repéré des choses fort intéressantes. J’aimerais que quelqu’un, un jour, s’aperçoive des énormités, des choses faramineuses comme bienfaits analytiques, qui sont cachées dans *La* *femme pauvre* qui est un livre à la limite du supportable, que seul un analyste peut comprendre - je n’ai encore jamais vu aucun analyste s’y intéresser - mais il aurait bien fait aussi d’écrire *La femme riche* . Il est certain que seule la femme peut incarner dignement la férocité de la richesse, mais enfin ça ne suffit pas, et ça pose pour elle et tout à fait spécialement pour celui qui postule son amour, des problèmes tout à fait particuliers. Cela nécessiterait un retour à la sexualité féminine. Je m’excuse, je serai simplement forcé de vous indiquer ceci comme une sorte de pierre d’amorce.
 
 <!-- id: s8-24-0095 -->
 
@@ -392,7 +392,7 @@ Je voudrais quand même, puisqu’en somme nous ne pourrons pas aller plus loin 
 
 <!-- id: s8-24-0097 -->
 
-Il ne vient pas là complètement *comme des cheveux sur la soupe*, car nous n’avons pas fini avec notre CLAUDEL. Comme vous le savez, tout à fait à la fin, dans la solution donnée au problème du *désir*, nous avons *un saint*, le nommé ORIAN, dont il est expressément dit que s’il ne veut rien donner à la petite PENSÉE - qui heureusement est assez armée pour le lui prendre de force *-* c’est parce qu’il a beaucoup trop *la Joie*, rien que ça, *la joie tout entière*, et qu’il ne s’agit pas de ravaler *une telle richesse* à une petite aventure - *c’est dit dans le texte* - une de ces choses qui se passent comme ça, une affaire de trois nuits à l’hôtel. Drôle d’histoire.
+Il ne vient pas là complètement *comme des cheveux sur la soupe*, car nous n’avons pas fini avec notre CLAUDEL. Comme vous le savez, tout à fait à la fin, dans la solution donnée au problème du *désir*, nous avons *un saint*, le nommé ORIAN, dont il est expressément dit que s’il ne veut rien donner à la petite PENSÉE - qui heureusement est assez armée pour le lui prendre de force - c’est parce qu’il a beaucoup trop *la Joie*, rien que ça, *la joie tout entière*, et qu’il ne s’agit pas de ravaler *une telle richesse* à une petite aventure - *c’est dit dans le texte* - une de ces choses qui se passent comme ça, une affaire de trois nuits à l’hôtel. Drôle d’histoire.
 
 <!-- id: s8-24-0098 -->
 
@@ -412,7 +412,7 @@ Encore faut-il le dire car, à ne pas le dire, il resterait encore pour beaucoup
 
 <!-- id: s8-24-0102 -->
 
-**  **
+&nbsp;
 
 ## Notes
 
@@ -436,7 +436,7 @@ Encore faut-il le dire car, à ne pas le dire, il resterait encore pour beaucoup
 
 [^310]: *Grisélidis* appartient au répertoire des histoires médiévales reprises avec succès par l’édition de colportage du XVII<sup>e</sup> au XX<sup>e</sup> siècle. On trouve l’une de ces
 
-    versions « populaires » du texte dans le recueil d’Arlette Farge, *Le miroir des femmes,* coll. « Bibliothèque bleue* »*. Paris*,* Montalba, 1982. La version choisie
+    versions « populaires » du texte dans le recueil d’Arlette Farge, *Le miroir des femmes,* coll. « Bibliothèque bleue* »*. Paris, Montalba, 1982. La version choisie
 
     pour cette réédition est celle conservée à la BM de Troyes : *La* *patience de Grisélidis, femme du marquis de Saluces,* à Troyes, chez Pierre Garnier, (1736).
 

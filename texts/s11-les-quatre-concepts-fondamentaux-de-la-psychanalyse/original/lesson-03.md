@@ -160,7 +160,7 @@ de notre expérience a été faite d’une autre analyse, plutôt de dédain. Et
 
 Nous nous sommes intéressés à autre chose et *<u>ce</u>* que je suis là pour vous montrer cette année, c’est par quelles voies
 ces déplacements d’in­térêt ont toujours été plus dans le sens de se dégager *des structures *: des structures dont on parlait mal
-*-* *au moins à mes oreilles, à mon gré* *-* dans l’analyse, des structures dont on parle presque en prophète.
+- *au moins à mes oreilles, à mon gré* - dans l’analyse, des structures dont on parle presque en prophète.
 
 <!-- id: s11-03-0030 -->
 
@@ -273,7 +273,7 @@ tout ce qu’il en est du contenu de l’inconscient, et spécialement quand il 
 
 Et qui ne douterait pas à propos de la transmission du rêve quand, en effet, *l’abî­me est manifeste de ce qui a été vécu à ce qui est rapporté* ?
 Or c’est là que FREUD met l’accent de toute sa force. *Le doute, c’est l’appui de sa certitude*. Pas besoin tout de suite d’accentuer
-\- j’irai tout à l’heure voir de plus près *les différences* *-* tout de suite d’accentuer plus le rapprochement avec la démarche cartésienne.
+\- j’irai tout à l’heure voir de plus près *les différences* - tout de suite d’accentuer plus le rapprochement avec la démarche cartésienne.
 
 <!-- id: s11-03-0052 -->
 
@@ -387,7 +387,7 @@ De même c’est au désir du père...
 <!-- id: s11-03-0072 -->
 
 Relisez l’observation et vous verrez le caractè­re de *provocation* évidente qu’a toute la conduite de cette jeune fille qui,
-s’attachant aux pas d’une *demi*-*mondaine* bien repérée dans la ville, ne cesse d’étaler les soins chevaleresques qu’elle lui donne. Jusqu’au jour où rencontrant son père, ce qu’elle rencontre dans le regard du père, c’est *la dérobade*, le mépris, l’annulation
+s’attachant aux pas d’une *demi-mondaine* bien repérée dans la ville, ne cesse d’étaler les soins chevaleresques qu’elle lui donne. Jusqu’au jour où rencontrant son père, ce qu’elle rencontre dans le regard du père, c’est *la dérobade*, le mépris, l’annulation
 de ce qui se fait devant lui, et aussitôt elle *se précipite* par-dessus la balustrade d’un petit pont de chemin de fer.
 
 <!-- id: s11-03-0073 -->
@@ -407,6 +407,7 @@ la distinction de la fonction du *sujet de la certitude* par rapport à *la rech
 La prochaine fois, nous aborderons *le concept de répétition*, nous demandant comment le concevoir, comment à l’intérieur
 de cette expé­rience en tant qu’expérience décevante, c’est justement de *la répétition* comme *répétition de la déception*, que FREUD coordonne son expérience avec un *réel* qui sera désormais, dans ce champ de la science, situé comme essentiellement
 ce que le sujet est condamné à manquer, mais que ce manquement même révèle.
+
 ## Notes
 
 [^20]: Exergue à la *Traumdeutung*, citation empruntée à Virgile : [*Enéide* (chant VII, vers 312)](http://bcs.fltr.ucl.ac.be/Virg/V07-286-340.html) : « *Si je ne puis fléchir les dieux d'en haut, j'ébranlerai l'Achéron. »*

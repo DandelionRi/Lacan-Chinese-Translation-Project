@@ -24,7 +24,7 @@ La notion que nous pouvons nous en faire doit tout de même subir quelqu’effet
 <!-- id: s10-02-0005 -->
 
 Ιl joue sur ce temps si essentiel que j’ai déjà accentué à plusieurs reprises, à partir de plusieurs sujets pour vous,
-sujets que nous laisserons indéter­minés donc en le rassemblant dans un « *on ne savait pas* »*.*
+sujets que nous laisserons indéter­minés donc en le rassemblant dans un « *on ne savait pas* ».
 Par rapport à cet « *on ne savait pas* », l’analyste est censé savoir quelque chose.
 Pourquoi pas même admettre qu’il en sait *un bout* ?
 
@@ -201,7 +201,7 @@ Et l’expérience nous prouve que tout abandon trop grand dans cette direction 
 > et même si centralement nous le portions, par rapport à notre expérience,
 >
 > à cette partie sur laquelle tout à l’heure, j’ai mis le trait, l’accent : de *la théorie*
-> ...qu’à des impasses manifestes, dont un très beau témoignage par exemple est donné par cet article, qui est celui du *tome* 34*,*
+> ...qu’à des impasses manifestes, dont un très beau témoignage par exemple est donné par cet article, qui est celui du *tome* 34,
 > *du volume* 34*, troisième partie, de* 1953, de l’*International Journal* où M. David Rapaport [^16] *tente une « théorie psychanalytique de l’affect* ».
 
 <!-- id: s10-02-0039 -->
@@ -353,7 +353,7 @@ Cet Autre...
 
 > avant de savoir ce que ça veut dire *mon rapport avec son désir quand je suis dans l’angoisse*
 > ...cet Autre je le mets d’abord là. Pour nous rapprocher de son désir, je prendrai - mon Dieu - les voies que j’ai déjà frayées.
-> Je vous ai dit : « *Le désir de l’homme est le désir de l’Autre* »*.*
+> Je vous ai dit : « *Le désir de l’homme est le désir de l’Autre* ».
 
 <!-- id: s10-02-0067 -->
 
@@ -409,7 +409,7 @@ j’ai affaire, de la façon la plus certaine et la plus articulée à *l’Autr
 
 L’Autre est celui qui me voit, en quoi cela intéresse mon *désir*, vous le savez, vous l’entrevoyez déjà assez,
 mais j’y reviendrai tout à l’heu­re, pour l’instant je fais *les oppositions massives,* l’Autre est celui qui me voit et c’est sur ce plan,
-*sur ce plan* dont vous voyez qu’à lui tout seul il engage, selon les bases où Hegel inaugure la *Phénoménologie de l’Esprit* [^19]*,*
+*sur ce plan* dont vous voyez qu’à lui tout seul il engage, selon les bases où Hegel inaugure la *Phénoménologie de l’Esprit* [^19],
 la lutte sur le plan de ce qu’il appelle « *de pur prestige* », que mon désir y est intéressé.
 
 <!-- id: s10-02-0076 -->
@@ -468,7 +468,7 @@ qu’il en a besoin pour *que l’Autre le reconnaisse*, pour recevoir de lui *l
 Ça veut dire quoi ?
 Que l’Autre, comme tel, va instituer quelque chose : *petit(a)*, qui est juste­ment ce dont il s’agit au niveau de ce qui désire.
 C’est là qu’est toute l’im­passe : exigeant d’être reconnu par lui, je suis reconnu comme *« objet »*,
-puisqu’il est dans son essence une conscience*,* une *Selbst­bewusstsein,* et *il n’y a plus d’autre médiation possible que celle de la violence *:
+puisqu’il est dans son essence une conscience, une *Selbst­bewusstsein,* et *il n’y a plus d’autre médiation possible que celle de la violence *:
 j’obtiens ce que je désire, je suis objet, et je ne puis me supporter comme objet, je ne puis me supporter reconnu dans le mode, le seul mode de reconnaissance que je puisse obtenir. Il faut donc à tout prix qu’on en tranche entre nos deux consciences.
 
 <!-- id: s10-02-0084 -->
@@ -612,8 +612,7 @@ cette fausse infinitude est liée à cette sorte de *métonymie* que, concernant
 
 Mais ce que nous démontre notre expérience...
 et je vous l’articulerai dans les divers champs qui lui sont proposés,
-nommément, et distinctement : le *névrosé*, le *pervers*, voire le *psychotique*
-*...c’est que ce* **1**...
+nommément, et distinctement : le *névrosé*, le *pervers*, voire le *psychotique...c’est que ce* **1**...
 auquel se réduit en dernière analyse la succession des éléments signifiants,
 le fait qu’ils soient distincts et qu’ils se succèdent
 ...*n’épuise pas la fonction de l’Autre*.
@@ -650,9 +649,9 @@ Et c’est pourquoi les deux termes, S et *a*...
 
 <!-- id: s10-02-0120 -->
 
-*Le fantasme* \[S **◊** *a*\]*, appui de mon désir*, est dans sa totalité du côté de l’Autre, S et *a*.
-Ce qui est de mon coté maintenant, c’est justement ce qui me constitue comme *inconscient  *: à savoir **A***,*
-l’Autre en tant que je ne l’at­teins pas*.* Vais-je ici vous mener plus loin ? Non, car le temps me manque.
+*Le fantasme* \[S ◊ *a*\]*, appui de mon désir*, est dans sa totalité du côté de l’Autre, S et *a*.
+Ce qui est de mon coté maintenant, c’est justement ce qui me constitue comme *inconscient  *: à savoir **A**,
+l’Autre en tant que je ne l’at­teins pas. Vais-je ici vous mener plus loin ? Non, car le temps me manque.
 
 <!-- id: s10-02-0121 -->
 
@@ -708,6 +707,7 @@ C’est-à-dire que par ce circuit où je suis obli­gé pour atteindre l’obje
 <!-- id: s10-02-0130 -->
 
 Je vous quitte là-dessus, sur cette recette, et je vous dis « *à la prochaine fois* ».
+
 ## Notes
 
 [^13]: Charles Blondel : *La Conscience Morbide, Essai De Psychopathologie Générale*, Paris, F. Alcan, 1914.
@@ -716,7 +716,7 @@ Je vous quitte là-dessus, sur cette recette, et je vous dis « *à la prochain
 [^14]: Kierkegaard : *Le concept de l’angoisse*, Paris, Gallimard, 1990.
 
 
-[^15]: Thomas d'Aquin : [*Questions disputées* IV* *: *de l'âme*](http://docteurangelique.free.fr/), L'Harmattan, 2003.
+[^15]: Thomas d'Aquin : [*Questions disputées* IV: *de l'âme*](http://docteurangelique.free.fr/), L'Harmattan, 2003.
 
 
 [^16]: David Rapaport : *On the psychoanalytic theory of affect*, *International Journal of* psychoanalysis, Vol. 34, N°3, 1953.

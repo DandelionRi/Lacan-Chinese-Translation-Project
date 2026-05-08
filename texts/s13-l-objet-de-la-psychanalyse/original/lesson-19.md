@@ -126,7 +126,7 @@ Comme je l’ai déjà avancé, la présence dans le tableau de ce qui, seulemen
 
 <!-- id: s13-19-0030 -->
 
-celle du tableau lui-même, qui lui, est là comme *représentant de la représentation* *...*a la même fonction dans le tableau qu’un cristal dans une solution sursaturée, c’est que tout ce qui est dans le tableau se manifeste comme n’étant plus représentation mais *représentant de la représentation*.
+celle du tableau lui-même, qui lui, est là comme *représentant de la représentation...*a la même fonction dans le tableau qu’un cristal dans une solution sursaturée, c’est que tout ce qui est dans le tableau se manifeste comme n’étant plus représentation mais *représentant de la représentation*.
 
 <!-- id: s13-19-0031 -->
 
@@ -138,7 +138,7 @@ Encore que là gît l’ambiguïté qui nous permet de remarquer que, comme il s
 
 <!-- id: s13-19-0033 -->
 
-> « *Tu ne me vois pas d’où je te regarde* » 
+> « *Tu ne me vois pas d’où je te regarde* »
 
 <!-- id: s13-19-0034 -->
 
@@ -394,7 +394,7 @@ Tout le monde leur tourne le dos et ne leur présente, en tout cas, que ce qu’
 
 <!-- id: s13-19-0097 -->
 
-- *Ce Dieu là sait-il qu’il est Dieu ?* 
+- *Ce Dieu là sait-il qu’il est Dieu ?*
 
 <!-- id: s13-19-0098 -->
 

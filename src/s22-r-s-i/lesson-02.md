@@ -1,0 +1,3725 @@
+# Leçon 02 | 10 Décembre 1974
+
+<div class="reading-controls" role="group" aria-label="显示选项">
+  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+</div>
+
+<div class="parallel-text">
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0001">
+<div class="paragraph-id">s22-02-0001</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0001</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0001">
+
+Voilà ! Vous avez donc vu mon affiche, ça se lit comme ça : « *Rsi* », ça peut se lire comme ça.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0002">
+<div class="paragraph-id">s22-02-0002</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0002</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0002">
+
+Ça peut aussi se lire, puisque c’est en grandes lettres, ça peut se lire R S I.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0003">
+<div class="paragraph-id">s22-02-0003</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0003</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0003">
+
+Ce qui, peut-être, a suggéré à ceux qui sont avertis : le *Réel*, le *Symbolique* et l’*Imaginaire*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0004">
+<div class="paragraph-id">s22-02-0004</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0004</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0004">
+
+Je voudrais cette année vous parler du *Réel*, et commencer par vous faire remarquer que ces trois mots : *Réel*, *Symbolique* et *Imaginaire,* ont un sens.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0005">
+<div class="paragraph-id">s22-02-0005</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0005</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0005">
+
+Ce sont 3 sens différents, mais vous pouvez aussi remarquer que j’ai dit 3 *sens*, comme ça parce que ça semble aller tout seul, mais s’ils sont différents, ça suffit-il pour qu’ils fassent 3, s’ils sont aussi différents que je le dis ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0006">
+<div class="paragraph-id">s22-02-0006</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0006</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0006">
+
+D’où la notion de *commune mesure*, qui est difficile à saisir, sinon à y définir *l’unité comme fonction de mesure,* y’en a *tant *: 1,2,3.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0007">
+<div class="paragraph-id">s22-02-0007</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0007</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0007">
+
+Encore faut-il...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0008">
+<div class="paragraph-id">s22-02-0008</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0008</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0008">
+
+> pour qu’on puisse dire qu’il y en a tant ...encore faut-il fonder cette unité sur le *signe *:
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0009">
+<div class="paragraph-id">s22-02-0009</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0009</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0009">
+
+- que ce soit un signe,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0010">
+<div class="paragraph-id">s22-02-0010</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0010</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0010">
+
+- ou que ce soit écrit « *égale* »,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0011">
+<div class="paragraph-id">s22-02-0011</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0011</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0011">
+
+- ou bien que vous fassiez deux petits traits pour signifier égale l’équivalence de ces unités.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0012">
+<div class="paragraph-id">s22-02-0012</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0012</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0012">
+
+Mais si par hasard ils étaient *« autres » -* si je puis dire - l’un à l’autre, nous serions bien embarrassés, et après tout, ce qui en témoignerait ce serait le sens lui-même du mot « *autre* ».
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0013">
+<div class="paragraph-id">s22-02-0013</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0013</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0013">
+
+Encore faut-il distinguer, dans ce sens d’*autre,* l’autre fait d’une distinction définie par un rapport extérieur/intérieur par exemple, comme Freud le fait, qu’il le veuille ou pas, dans sa 2<sup>nde</sup> topique qui se supporte d’une « *géométrie du sac* » où vous voyez une chose...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0014">
+<div class="paragraph-id">s22-02-0014</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0014</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0014">
+
+> quelque part dans les « *Nouvelles Conférences... »...*une chose qui est censée contenir - contenir quoi ? - c’est drôle à dire : c’est les pulsions. C’est ça qu’il appelle le *Ça*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0015">
+<div class="paragraph-id">s22-02-0015</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0015</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0015">
+
+Naturellement, ça le force à y rajouter un certain nombre d’ustensiles, une sorte de *lunule*, qui tout d’un coup transforme ça en une sorte de *vitellus* sur lequel se différencierait un embryon.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0016">
+<div class="paragraph-id">s22-02-0016</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0016</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0016">
+
+Ce n’est évidemment pas ce qu’il veut dire, mais c’est regrettable que ça le suggère.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0017">
+<div class="paragraph-id">s22-02-0017</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0017</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0017">
+
+Tels sont les désavantages des figurations imagées.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0018">
+<div class="paragraph-id">s22-02-0018</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0018</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0018">
+
+Je ne vous dis pas tout ce qu’il est forcé de rajouter encore, sans compter je ne sais quelles hachures qu’il intitule du *surmoi*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0019">
+<div class="paragraph-id">s22-02-0019</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0019</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0019">
+
+Cette « *géométrie du sac* », c’est bien ce quelque chose à quoi nous avons affaire au niveau de la topologie.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0020">
+<div class="paragraph-id">s22-02-0020</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0020</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0020">
+
+À ceci près que - comme peut-être l’idée vous en est venue - ça se crayonne sur une *surface*, et que le sac, nous sommes forcés de l’y mettre : sur une surface ça fait un rond, et de ce rond il y a un intérieur et un extérieur.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0021">
+<div class="paragraph-id">s22-02-0021</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0021</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0021">
+
+C’est avec ça qu’on est amené à écrire l’*inclusion*, à savoir que quelque chose, I par exemple*, est inclus dans un* E, *un ensemble*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0022">
+<div class="paragraph-id">s22-02-0022</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0022</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0022">
+
+L’inclusion, vous savez peut-être comment ça s’écrit, comme ça : ⊂, d’où l’on a déduit un peu vite qu’on pouvait glisser de *l’inclusion*, qui est là au-des­sus, *au signe « inférieur à »* \[ **\<** \], à savoir que I est plus petit que E, ce qui est une imbécillité manifeste.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0023">
+<div class="paragraph-id">s22-02-0023</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0023</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0023">
+
+Voilà donc le premier autre: « *autre »* défini de l’extérieur à l’intérieur.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0024">
+<div class="paragraph-id">s22-02-0024</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0024</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0024">
+
+Seulement, il y a un autre Autre...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0025">
+<div class="paragraph-id">s22-02-0025</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0025</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0025">
+
+> celui que j’ai marqué d’un grand A ...qui lui se définit de n’avoir pas le moindre rapport, si petit que vous l’imaginiez.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0026">
+<div class="paragraph-id">s22-02-0026</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0026</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0026">
+
+Quand on commence à se véhiculer avec des mots, on est tout de suite dans des chausses-trappes.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0027">
+<div class="paragraph-id">s22-02-0027</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0027</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0027">
+
+Parce que ce « *si petit que vous l’imaginiez* », eh ben ça remet dans le coup l’*Imaginaire*, et quand vous remettez dans le coup l’*Imaginaire*, vous avez toutes les chances de vous empêtrer.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0028">
+<div class="paragraph-id">s22-02-0028</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0028</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0028">
+
+C’est comme ça même qu’on est parti pour l’*infinitésimal*, il a fallu se donner un mal de chien pour le sortir de l’*Imaginaire*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0029">
+<div class="paragraph-id">s22-02-0029</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0029</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0029">
+
+Qu’ils soient 3, ce *Réel*, ce *Symbolique* et cet *Imaginaire,* qu’est-ce que ça veut dire ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0030">
+<div class="paragraph-id">s22-02-0030</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0030</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0030">
+
+Il y a deux pentes. Une pente qui nous entraîne à *les homogénéiser*, ce qui est raide !
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0031">
+<div class="paragraph-id">s22-02-0031</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0031</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0031">
+
+Parce que quel rapport ont-ils entre eux ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0032">
+<div class="paragraph-id">s22-02-0032</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0032</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0032">
+
+Eh bien, c’est justement là ce dans quoi cette année je voudrais vous frayer la voie.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0033">
+<div class="paragraph-id">s22-02-0033</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0033</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0033">
+
+On pourrait dire que le *Réel*, c’est ce qui est strictement impensable, ça serait au moins un départ.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0034">
+<div class="paragraph-id">s22-02-0034</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0034</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0034">
+
+Ça ferait un trou dans l’affaire, et ça nous permettrait d’interroger ce qu’il en est de ce dont - n’oubliez pas - je suis parti, à savoir de trois termes en tant qu’ils véhiculent *un sens*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0035">
+<div class="paragraph-id">s22-02-0035</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0035</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0035">
+
+Qu’est-ce que c’est que cette histoire de *sens*, surtout si vous y intro­duisez ce que je m’efforce de vous faire sentir ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0036">
+<div class="paragraph-id">s22-02-0036</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0036</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0036">
+
+C’est que pour ce qu’il en est de la pratique analytique, c’est de là que vous opérez, mais que d’un autre côté, ce sens, vous n’opérez qu’à le réduire, que c’est dans la mesure où l’inconscient se supporte de *ce quelque chose*...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0037">
+<div class="paragraph-id">s22-02-0037</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0037</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0037">
+
+> il faut bien le dire : le plus difficile de ce que j’ai eu à introduire ...*ce quelque chose* qui est par moi défini, structuré, comme le *Symbolique*, c’est de l’équi­voque, fondamentale à ce *ce quelque chose* dont il s’agit sous ce terme du *Symbolique*, que toujours vous opérez, je parle à ceux qui sont ici dignes du nom d’analyste.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0038">
+<div class="paragraph-id">s22-02-0038</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0038</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0038">
+
+L’équivoque ça n’est pas le sens.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0039">
+<div class="paragraph-id">s22-02-0039</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0039</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0039">
+
+Le sens c’est ce par quoi répond *ce quelque chose* qui est autre que *le Symbolique*, et *ce quelque chose*, il n’y a pas moyen de le supporter autrement que de *l’Imaginaire*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0040">
+<div class="paragraph-id">s22-02-0040</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0040</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0040">
+
+Mais, qu’est-ce que c’est que *l’Imaginaire* ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0041">
+<div class="paragraph-id">s22-02-0041</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0041</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0041">
+
+Est-ce que même ça existe, puisque vous soufflez dessus rien que de prononcer ce terme d’*Imaginaire*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0042">
+<div class="paragraph-id">s22-02-0042</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0042</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0042">
+
+Il y a quelque chose qui fait que l’être parlant vous démontre voué à la débilité mentale.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0043">
+<div class="paragraph-id">s22-02-0043</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0043</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0043">
+
+Et ceci résulte de la seule notion d’*Imaginaire*, en tant que le départ de celle-ci est la référence au corps et au fait que sa *représentation*...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0044">
+<div class="paragraph-id">s22-02-0044</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0044</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0044">
+
+> je veux dire : tout ce qui pour lui se représente ...n’est que le reflet de son organisme.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0045">
+<div class="paragraph-id">s22-02-0045</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0045</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0045">
+
+C’est la moindre des suppositions qu’im­plique le corps.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0046">
+<div class="paragraph-id">s22-02-0046</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0046</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0046">
+
+Seulement là, il y a quelque chose qui tout de suite nous fait achop­per, c’est que dans cette notion de corps, il faut y impliquer tout de suite ceci qui est sa définition même : que c’est quelque chose dont on présume *qu’il a des fonctions spécifiées dans des organes*, de sorte qu’une auto­mobile, voire un ordinateur aux dernières nouvelles, c’est aussi un corps.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0047">
+<div class="paragraph-id">s22-02-0047</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0047</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0047">
+
+Ça ne va pas de soi, pour le dire, qu’un corps soit *vivant*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0048">
+<div class="paragraph-id">s22-02-0048</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0048</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0048">
+
+De sorte que ce qui atteste le mieux qu’il soit *vivant*, c’est précisément ce « *mens »* à propos de quoi, ou plus exactement que j’ai introduit par la voie, le chemi­nement, de *la débilité mentale* : il n’est pas donné à tous les corps, en tant qu’ils fonctionnent, de suggérer la dimension de *l’imbécillité*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0049">
+<div class="paragraph-id">s22-02-0049</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0049</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0049">
+
+Cette dimension s’introduit de ce quelque chose que la langue, et pas n’importe laquelle, la latine...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0050">
+<div class="paragraph-id">s22-02-0050</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0050</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0050">
+
+> ceci pour remettre à leur place ceux qui, à la latine, lui imputent justement cette imbécillité ...c’est justement la seule qui au lieu de foutre là *un terme opaque* comme le νοῦς \[nouss\], ou autre métaphore d’on ne sait quoi...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0051">
+<div class="paragraph-id">s22-02-0051</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0051</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0051">
+
+> d’un savoir dont lui, pour sûr, nous ne savons pas s’il existe, puisque c’est le savoir supposé par le *Réel*.
+>
+> Le savoir de Dieu, c’est certain qu’il *ex-siste*. Nous avons assez de peine à nous donner pour l’épeler,
+>
+> il existe, mais seulement au sens que j’inscris du terme « *ex-sistence »*, à l’écrire autrement qu’il ne se fait
+>
+> d’habitude : il « *siste* » peut-être, *mais on ne sait pas où*, tout ce qu’on peut dire,
+>
+> c’est que *ce qui consiste* n’en donne nul témoignage ...alors il y a quelque chose d’un tout petit peu frappant à voir que la langue soupçonnée d’être « *la plus bête* » est justement celle-là qui forge ce terme « *intelligere* »*, lire entre les lignes*, à savoir *ailleurs* que la façon dont le *Symbolique s’écrit*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0052">
+<div class="paragraph-id">s22-02-0052</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0052</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0052">
+
+C’est dans cet *effet d’écriture du Symbolique* que tient *l’effet de sens*, autrement dit d’*imbécillité*, celui dont témoignent jusqu’à ce jour tous les systèmes dits « de la nature ».
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0053">
+<div class="paragraph-id">s22-02-0053</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0053</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0053">
+
+Sans le langage, pas le moindre soup­çon ne pourrait nous venir de cette *imbécillité*, qui est aussi ce par quoi le support qu’est le corps nous témoigne...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0054">
+<div class="paragraph-id">s22-02-0054</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0054</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0054">
+
+> je vous le rappelle, de l’avoir dit tout à l’heure, mais ça vous a fait ni chaud ni froid ...nous témoigne d’être vivant.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0055">
+<div class="paragraph-id">s22-02-0055</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0055</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0055">
+
+À la vérité cette « *mens »* attestée de la débilité mentale, est quelque chose dont je n’espère pas - sous aucun mode - sortir : je ne vois pas pourquoi ce que je vous apporterais serait moins débi­le que le reste.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0056">
+<div class="paragraph-id">s22-02-0056</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0056</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0056">
+
+Ce serait bien là que prendrait son sens cette peau de banane qu’on m’a glissée sous le pied, en me coinçant comme ça au télé­phone, pour que j’aille faire à Nice une conférence.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0057">
+<div class="paragraph-id">s22-02-0057</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0057</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0057">
+
+Je vous le donne en mille, on m’a foutu le titre sous la patte « *le phénomène lacanien* » ! \[*Rires*\]
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0058">
+<div class="paragraph-id">s22-02-0058</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0058</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0058">
+
+Eh oui ! Ce que je suis en train de vous dire, c’est que justement je ne m’attends pas à ce que ce soit un phénomène, à savoir que ce que je dis soit moins bête que tout le reste.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0059">
+<div class="paragraph-id">s22-02-0059</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0059</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0059">
+
+La seule chose qui fait que je persévère...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0060">
+<div class="paragraph-id">s22-02-0060</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0060</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0060">
+
+> et vous savez que je ne persé­vère pas sans y regarder à deux fois,
+>
+> je vous ai dit la dernière fois ce en quoi j’hésitais à remettre ça cette année ...c’est qu’il y a quelque chose que je crois avoir saisi...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0061">
+<div class="paragraph-id">s22-02-0061</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0061</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0061">
+
+> je peux même pas dire avec mes mains, avec mes pieds ...c’est l’entrée en jeu de cette trace que dessine, ce qui bien appa­remment n’est pas aisément supporté, notamment par les analystes, c’est l’expérience analytique.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0062">
+<div class="paragraph-id">s22-02-0062</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0062</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0062">
+
+De sorte que s’il y a un phénomène, ce ne peut être que le phénomène *laca-n’a-lyste* ou bien *laca-pas d’analyste.*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0063">
+<div class="paragraph-id">s22-02-0063</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0063</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0063">
+
+Il y a quelque chose qui s’est produit pourtant...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0064">
+<div class="paragraph-id">s22-02-0064</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0064</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0064">
+
+> je vous en fais part comme ça, parce que je me laisse entraîner ...naturellement je ne pouvais rien leur expliquer de tout ça, puisque pour eux j’étais un *phénomène*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0065">
+<div class="paragraph-id">s22-02-0065</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0065</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0065">
+
+Les organisateurs, en fait ce qu’ils voulaient c’était l’attroupement, il y a toujours de l’attroupement pour regarder un phénomène.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0066">
+<div class="paragraph-id">s22-02-0066</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0066</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0066">
+
+Alors j’al­lais pas leur dire : « *Mais vous savez, je suis pas un phénomène !* », ç’au­rait été de la *Verneinung.*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0067">
+<div class="paragraph-id">s22-02-0067</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0067</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0067">
+
+Enfin, j’ai débloqué une bonne petite heure un quart.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0068">
+<div class="paragraph-id">s22-02-0068</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0068</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0068">
+
+Je peux pas dire que je sois content du tout de ce que je leur ai raconté, parce que : qu’est-ce que vous voulez raconter en une heure un quart ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0069">
+<div class="paragraph-id">s22-02-0069</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0069</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0069">
+
+Moi, avec vous, je m’imagine bien sûr que j’ai un nombre d’heures, comme c’est *un tout petit peu plus que* 3, *c’est sans limite*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0070">
+<div class="paragraph-id">s22-02-0070</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0070</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0070">
+
+J’ai bien tort, parce qu’en réalité, elles sont pas plus de 50, en mettant tout ce que j’aurai d’ici la fin de l’année, mais c’est ça qui aide à prendre le chemin.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0071">
+<div class="paragraph-id">s22-02-0071</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0071</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0071">
+
+Bref, au bout d’une heure un quart de déblocage, je leur ai posé des questions, je veux dire : je leur ai demandé de m’en poser. C’était une *demande*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0072">
+<div class="paragraph-id">s22-02-0072</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0072</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0072">
+
+Eh bien, vous m’en croirez si vous voulez : contrairement à vous, ils m’en ont posées pendant trois quarts d’heure !
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0073">
+<div class="paragraph-id">s22-02-0073</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0073</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0073">
+
+Et je dirai plus : ces questions avaient ceci de frappant, c’est qu’elles étaient des ques­tions pertinentes, pertinentes, bien sûr comme ça, dans une deuxième zone.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0074">
+<div class="paragraph-id">s22-02-0074</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0074</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0074">
+
+Enfin, c’était le témoignage de ceci que dans un certain contexte, celui où je n’insiste pas, il pouvait me venir des questions, et des ques­tions pas bêtes, des questions, en tout cas, qui m’imposaient de répondre.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0075">
+<div class="paragraph-id">s22-02-0075</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0075</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0075">
+
+De sorte que je me trouvais dans cette situation : sans avoir eu à récuser le « *phénomène lacanien* », de l’avoir démontré.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0076">
+<div class="paragraph-id">s22-02-0076</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0076</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0076">
+
+Ça, naturelle­ment, c’était même pas sûr qu’ils s’en aperçoivent eux-mêmes, que c’était ça le phénomène lacanien.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0077">
+<div class="paragraph-id">s22-02-0077</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0077</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0077">
+
+À savoir que j’étais « effet » pour un public, qui n’a entendu comme ça, par répercussion, que de très loin ce que je peux articuler dans cet endroit qui est ici, et où je fais mon ensei­gnement, mon enseignement pour frayer pour l’analyste, le discours même qui le supporte. Si tant est que ce soit bien du discours, et du dis­cours toujours : que *cette Chose,* que nous essayons de manipuler dans l’analyse, *pâtit d’un discours*. Je dis donc que c’est ça le phénomène.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0078">
+<div class="paragraph-id">s22-02-0078</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0078</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0078">
+
+Il est en somme de la vague...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0079">
+<div class="paragraph-id">s22-02-0079</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0079</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0079">
+
+> si vous me permettez d’employer un terme qui aurait pu me tenter ...d’écri­re les lettres dans un autre ordre, au lieu de RSI : « RIS », ça aurait fait un « *ris* », le fameux « *ris de l’eau* », sur lequel justement, quelque part dans mes *Écrits,* j’équivoque.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0080">
+<div class="paragraph-id">s22-02-0080</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0080</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0080">
+
+J’ai recherché la page tout à l’heure...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0081">
+<div class="paragraph-id">s22-02-0081</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0081</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0081">
+
+> il y avait quel­qu’un là, un copain du premier rang, qui les avait ces *Écrits...*je l’ai trou­vé : c’est à la page 166 que je joue sur ce *ris d’eau* \[*rideau*\], voire à y impliquer « *mon cher ami Leiris dominant...* » je ne sais pas quoi [^3].
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0082">
+<div class="paragraph-id">s22-02-0082</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0082</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0082">
+
+Il faut évidemment que je me réconforte en me disant que ce phéno­mène n’est pas unique, il n’est que particulier.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0083">
+<div class="paragraph-id">s22-02-0083</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0083</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0083">
+
+Je veux dire qu’il se dis­tingue de l’universel.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0084">
+<div class="paragraph-id">s22-02-0084</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0084</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0084">
+
+L’ennuyeux c’est qu’il soit, jusqu’à ce jour, unique au niveau de l’analyste.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0085">
+<div class="paragraph-id">s22-02-0085</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0085</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0085">
+
+Il est pourtant indispensable que l’analyste soit au moins deux :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0086">
+<div class="paragraph-id">s22-02-0086</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0086</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0086">
+
+- l’analyste, pour avoir des effets,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0087">
+<div class="paragraph-id">s22-02-0087</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0087</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0087">
+
+- et l’analyste qui, ces effets, les théorise.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0088">
+<div class="paragraph-id">s22-02-0088</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0088</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0088">
+
+C’est bien en ça que m’était précieux que m’accom­pagne une personne, qui peut-être...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0089">
+<div class="paragraph-id">s22-02-0089</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0089</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0089">
+
+> je ne lui ai pas demandé ...à ce niveau précis du phénomène, du phénomène dit « *lacanien* » a pu s’apercevoir, pré­cisément là, au niveau de ce que j’avais à dire, de ce que je viens mainte­nant d’énoncer, à savoir que ce phénomène je l’ai simplement, cette fois-là, *démontré* par le fait que de là, de cette attroupement j’ai reçu des questions, et que *là seulement* est le phénomène.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0090">
+<div class="paragraph-id">s22-02-0090</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0090</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0090">
+
+Si cette personne...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0091">
+<div class="paragraph-id">s22-02-0091</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0091</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0091">
+
+ce dont je ne doute pas ...est analyste, elle a pu s’apercevoir que *ce phéno­mène je l’avais...*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0092">
+<div class="paragraph-id">s22-02-0092</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0092</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0092">
+
+de ce peu que j’ai dit, qui était, je vous le répète, détes­table *...démontré*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0093">
+<div class="paragraph-id">s22-02-0093</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0093</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0093">
+
+Voici fermée la parenthèse, et je veux maintenant venir à ce dans quoi j’ai aujourd’hui à avancer.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0094">
+<div class="paragraph-id">s22-02-0094</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0094</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0094">
+
+C’est à savoir que je n’ai *trouvé* - pour dire le mot - qu’une seule façon de leur donner...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0095">
+<div class="paragraph-id">s22-02-0095</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0095</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0095">
+
+> à ces 3 termes : *Réel, Symbolique, Imaginaire,...*commune mesure, qu’à les nouer de ce nœud bobo, borroméen.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0096">
+<div class="paragraph-id">s22-02-0096</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0096</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0096">
+
+En d’autres termes, qu’il faut s’intéresser à ce que j’ai figuré là sur le tableau, et vous avez pu voir : pas sans mal, pour m’être plusieurs fois trompé de couleur.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0097">
+<div class="paragraph-id">s22-02-0097</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0097</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0097">
+
+Car c’est bien là que nous retrouverons tout le temps la question : qu’est-ce qui distingue ce en quoi *consiste* chacun...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0098">
+<div class="paragraph-id">s22-02-0098</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0098</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0098">
+
+> de ces choses que dans un temps, j’ai désignées de « ronds de ficelle* »...*qu’est-ce qui distingue chacun des autres ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0099">
+<div class="paragraph-id">s22-02-0099</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0099</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0099">
+
+Absolument rien que le *sens*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0100">
+<div class="paragraph-id">s22-02-0100</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0100</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0100">
+
+Et c’est en quoi nous avons l’espoir*...*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0101">
+<div class="paragraph-id">s22-02-0101</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0101</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0101">
+
+> un espoir - mon Dieu - sur quoi vous pouvez faire fonds, parce que l’espoir il n’est que pour moi
+>
+> dans cette affaire. Et si je n’avais pas la réponse, comme vous le savez, je ne poserais pas la question *...*nous avons l’espoir...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0102">
+<div class="paragraph-id">s22-02-0102</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0102</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0102">
+
+> je vous laisse l’espoir à court terme, il n’y en a pas d’autre ...que nous fassions cette année un pas ensemble, un pas qui seulement consiste en ceci :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0103">
+<div class="paragraph-id">s22-02-0103</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0103</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0103">
+
+- que si vous avons gagné quelque part quelque chose, c’est forcément - c’est sûr - au dépens d’autre chose,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0104">
+<div class="paragraph-id">s22-02-0104</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0104</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0104">
+
+- qu’en d’autres termes, si *le discours analytique* fonctionne, c’est sûrement que nous y perdions quelque chose ailleurs.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0105">
+<div class="paragraph-id">s22-02-0105</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0105</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0105">
+
+D’ailleurs, qu’est-ce que nous pour­rions bien perdre, si vraiment ce que je viens de dire, à savoir que tous les systèmes de la nature, jusqu’ici surgis, sont marqués de la débilité mentale, à quoi bon tellement y tenir !
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0106">
+<div class="paragraph-id">s22-02-0106</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0106</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0106">
+
+Il nous reste quand même ces appareils-pivots dont la manipulation peut nous permettre de rendre compte de notre propre – j’entends à nous analystes – opération.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0107">
+<div class="paragraph-id">s22-02-0107</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0107</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0107">
+
+Sur le nœud borroméen, je voudrais un instant vous retenir.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0108">
+<div class="paragraph-id">s22-02-0108</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0108</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0108">
+
+Le nœud borroméen consiste en strictement ceci que 3 en est le minimum.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0109">
+<div class="paragraph-id">s22-02-0109</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0109</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0109">
+
+Si vous faites une *chaîne,* avec ce que ce mot pour vous a de sens ordinaire, si vous dénouez deux anneaux de la chaîne, les autres anneaux demeurent noués :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0110">
+<div class="paragraph-id">s22-02-0110</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0110</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0110">
+
+<img src="assets/image3.png" style="width:3.08333in;height:0.64145in" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0111">
+<div class="paragraph-id">s22-02-0111</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0111</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0111">
+
+La définition du nœud borroméen part de 3. C’est à savoir que si des 3, vous rompez un des anneaux, ils sont libres tous les 3, c’est-à-dire que les deux autres anneaux sont libérés.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0112">
+<div class="paragraph-id">s22-02-0112</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0112</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0112">
+
+<img src="assets/image4.jpeg" style="width:1.35965in;height:1.06124in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\2.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0113">
+<div class="paragraph-id">s22-02-0113</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0113</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0113">
+
+Le remarquable dans ceci, qui est un fait de *consistance*, c’est que d’an­neaux - à partir de là - vous pouvez en mettre un nombre indéfini, il sera toujours vrai que si vous rompez un de ces anneaux, tous les autres - si nombreux soient-ils - seront libres.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0114">
+<div class="paragraph-id">s22-02-0114</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0114</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0114">
+
+Je vous ai déjà, je pense, suffisam­ment fait sentir, dans un temps déjà périmé, que pour prendre l’exemple d’un anneau ainsi fabriqué :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0115">
+<div class="paragraph-id">s22-02-0115</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0115</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0115">
+
+<img src="assets/image5.jpeg" style="width:1.65789in;height:0.71in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\3.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0116">
+<div class="paragraph-id">s22-02-0116</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0116</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0116">
+
+il est tout à fait concevable qu’un autre vienne passer dans la boucle qui consiste, qui est réalisée par *le plia­ge de ce petit cercle* :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0117">
+<div class="paragraph-id">s22-02-0117</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0117</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0117">
+
+<img src="assets/image6.jpeg" style="width:1.52872in;height:1.01292in" alt="4a.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0118">
+<div class="paragraph-id">s22-02-0118</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0118</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0118">
+
+et que vous saisissez immédiatement, qu’à simplement rompre le cercle qui ici empêche le tiers de se libérer, la boucle pliée va glisser de ceci, et qu’à mettre un nombre indéfini de ces cercles pliés, vous voyez par quel mécanisme vraiment sensible, immédiatement imaginable, tous les anneaux se libèrent, quel qu’en soit le nombre.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0119">
+<div class="paragraph-id">s22-02-0119</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0119</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0119">
+
+Cette propriété est à elle seule ce qui homogénéise tout ce qu’il y a de nombre à partir de 3.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0120">
+<div class="paragraph-id">s22-02-0120</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0120</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0120">
+
+Ce qui veut dire que *dans la suite des nombres entiers, 1 et 2 sont détachés*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0121">
+<div class="paragraph-id">s22-02-0121</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0121</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0121">
+
+*Quelque chose commence à 3, qui inclut tous les nombres, aussi loin qu’ils soient dénombrables*, et c’est bien ce sur quoi j’ai entendu mettre l’accent, dans mon séminaire, notamment de l’année dernière.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0122">
+<div class="paragraph-id">s22-02-0122</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0122</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0122">
+
+Ce n’est pas tout.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0123">
+<div class="paragraph-id">s22-02-0123</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0123</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0123">
+
+Pour « *borroméaniser* » un certain nombre de tores consistants, il y a beaucoup plus d’une seule manière.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0124">
+<div class="paragraph-id">s22-02-0124</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0124</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0124">
+
+Je vous l’ai indiqué déjà en son temps : il y a très probablement une quantité qu’il n’y a aucune raison de ne pas qualifier d’*infinie*...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0125">
+<div class="paragraph-id">s22-02-0125</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0125</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0125">
+
+> *d’infinie au sens du numérable* ...puisque vous n’avez un instant qu’à supposer la façon suivante de faire une boucle : pour vous apercevoir que vous pouvez la multiplier indéfiniment. Vous y êtes ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0126">
+<div class="paragraph-id">s22-02-0126</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0126</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0126">
+
+<img src="assets/image7.jpeg" style="width:1.16073in;height:0.6683in" alt="5a.jpg" /> <img src="assets/image8.jpeg" style="width:1.35965in;height:0.51872in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\5ab.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0127">
+<div class="paragraph-id">s22-02-0127</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0127</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0127">
+
+À savoir en faire, de ces boucles, autant de tours que vous voulez pour nouer ensemble deux tores, et qu’il n’y a aucune limite plausible à cet arran­gement, et que par conséquent, rien que déjà dans cette dimension, il y a moyen de nouer ensemble l’un à l’autre autant de façons qu’il est pos­sible d’en rêver à l’occasion.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0128">
+<div class="paragraph-id">s22-02-0128</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0128</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0128">
+
+Que vous pouvez même en trouver d’autres, qu’il n’en sera pas moins vrai que le nœud borroméen, quel qu’il soit, a pour limite inférieure le nombre 3, que c’est toujours de 3 que le nœud borroméen portera la marque, et qu’à ce titre vous avez tout de suite à vous poser la question : à quel registre appartient le nœud borroméen ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0129">
+<div class="paragraph-id">s22-02-0129</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0129</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0129">
+
+Est-ce au *Symbolique*, à l’*Imaginaire* ou au *Réel* ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0130">
+<div class="paragraph-id">s22-02-0130</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0130</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0130">
+
+J’avance dès aujourd’hui...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0131">
+<div class="paragraph-id">s22-02-0131</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0131</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0131">
+
+> ce que dans la suite je me permettrai de démontrer ...j’avance ceci : *le nœud borroméen*, en tant qu’il se suppor­te du nombre 3*, est du registre de l’Imaginaire*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0132">
+<div class="paragraph-id">s22-02-0132</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0132</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0132">
+
+C’est en tant que *l’Imaginaire s’enracine des 3 dimensions de l’espace...*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0133">
+<div class="paragraph-id">s22-02-0133</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0133</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0133">
+
+> j’avance ceci qui ne va nulle part se conjurer avec une « esthétique transcendantale » *...*c’est au contraire parce que le nœud borroméen appartient à l’*Imaginaire*, c’est-à-dire supporte la triade de *l’Imaginaire, du Symbolique et du Réel*, c’est en tant que cette triade existe de ce que s’y conjoigne l’addition de l’*Imaginaire,* que l’espace en tant que sen­sible se trouve réduit à ce minimum de 3 dimensions, soit de son attache au *Symbolique* et au *Réel*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0134">
+<div class="paragraph-id">s22-02-0134</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0134</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0134">
+
+D’autres dimensions sont imaginables, et elles ont été imaginées.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0135">
+<div class="paragraph-id">s22-02-0135</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0135</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0135">
+
+C’est pour tenir au *Symbolique* et au *Réel* que l’*Imaginaire* se réduit à ce qui n’est pas un maximum, imposé par le sac du corps, ce qui n’est pas un maximum, mais au contrai­re se définit d’un minimum, celui qui fait qu’il n’y a de nœud borro­méen que de ce qu’il en ait au moins 3.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0136">
+<div class="paragraph-id">s22-02-0136</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0136</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0136">
+
+Je vais ici, avant de vous quitter, vous donner une petite indication, quelques points, quelques ponctuations de ce que nous allons avoir cette année, à démontrer. Si tant est qu’ici :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0137">
+<div class="paragraph-id">s22-02-0137</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0137</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0137">
+
+- du rond bleu, j’ai figuré *le Réel*,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0138">
+<div class="paragraph-id">s22-02-0138</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0138</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0138">
+
+- du rond blanc, *le Symbolique*,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0139">
+<div class="paragraph-id">s22-02-0139</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0139</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0139">
+
+- et du rond rouge, celui qui se trouve se supporter du 3, être figuré ici, les dominant.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0140">
+<div class="paragraph-id">s22-02-0140</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0140</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0140">
+
+<img src="assets/image9.jpeg" style="width:1.74941in;height:1.45955in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\91.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0141">
+<div class="paragraph-id">s22-02-0141</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0141</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0141">
+
+Je voudrais vous faire remarquer qu’il n’est nullement impliqué dans la notion du nœud comme tel, du nœud borroméen...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0142">
+<div class="paragraph-id">s22-02-0142</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0142</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0142">
+
+> qu’il s’agisse de ronds de ficelle ou de tores ...qu’il est tout aussi concevable que conformément à l’intui­tion qui fut celle de Desargues dans la géométrie ordinaire, ces ronds s’ouvrent, ou pour le dire simplement, deviennent des cordes censées...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0143">
+<div class="paragraph-id">s22-02-0143</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0143</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0143">
+
+> pourquoi pas ? Rien ne nous empêche de le poser comme un postulat ...se rejoindre - pourquoi pas ? - à l’infini.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0144">
+<div class="paragraph-id">s22-02-0144</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0144</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0144">
+
+<img src="assets/image10.jpeg" style="width:1.57508in;height:1.3838in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\10a.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0145">
+<div class="paragraph-id">s22-02-0145</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0145</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0145">
+
+Il n’y en a pas moins, moyen de définir ce qu’on appelle un *point*, à savoir ce quelque chose d’étrange que la géométrie euclidienne ne défi­nit pas, et pourtant dont elle se sert comme support puisqu’à l’occasion, elle y ponctue l’individu.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0146">
+<div class="paragraph-id">s22-02-0146</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0146</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0146">
+
+C’est à savoir que le point, dans la géométrie euclidienne, n’a pas de dimension du tout, qu’il a zéro dimension, contrairement à la ligne, à la surface, voire au volume, qui respective­ment en ont une, deux, trois.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0147">
+<div class="paragraph-id">s22-02-0147</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0147</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0147">
+
+Est-ce qu’il n’y a pas...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0148">
+<div class="paragraph-id">s22-02-0148</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0148</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0148">
+
+> dans la définition que donne la géométrie euclidienne, du point comme de l’intersection de deux droites ...quelque chose... je me permettrai de dire : quelque chose qui pèche ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0149">
+<div class="paragraph-id">s22-02-0149</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0149</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0149">
+
+C’est-à-dire, qu’est-ce qui empêche deux droites de glisser l’une sur l’autre ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0150">
+<div class="paragraph-id">s22-02-0150</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0150</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0150">
+
+Seul peut permettre de définir comme tel un point, ce qui se présente comme ceci :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0151">
+<div class="paragraph-id">s22-02-0151</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0151</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0151">
+
+<img src="assets/image11.jpeg" style="width:0.94754in;height:0.67105in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\7.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0152">
+<div class="paragraph-id">s22-02-0152</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0152</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0152">
+
+À savoir 3 droites qui ne sont pas ici de simples arêtes, des traits de scie, des ombres, mais qui sont effectivement 3 droites consis­tantes qui, au point ici central, réalisent ce qui fait l’essence du nœud bor­roméen, c’est-à-dire qui déterminent un point comme tel, à savoir quelque chose pour quoi alors il nous faut inventer autre chose que simplement l’indication d’une dimension qui soit 0, c’est-à-dire qui ne « *dimense* » pas. Je vous suggère de faire l’essai de ceci, qu’il n’y a pas là simplement trait banal, à savoir que ceci se supporte aussi bien de trois surfaces :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0153">
+<div class="paragraph-id">s22-02-0153</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0153</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0153">
+
+<img src="assets/image12.jpeg" style="width:2.16876in;height:1.75008in" alt="8a.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0154">
+<div class="paragraph-id">s22-02-0154</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0154</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0154">
+
+Je veux dire :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0155">
+<div class="paragraph-id">s22-02-0155</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0155</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0155">
+
+- qu’avec 3 surfaces vous obtenez l’effet dit *« de point »* d’une façon aussi valable que celle figurée ici, disons, avec 3 cordes,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0156">
+<div class="paragraph-id">s22-02-0156</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0156</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0156">
+
+- que d’autre part, vous pouvez rendre sensible que ces droites ici, ces cordes, vous les obtiendriez de jeu libre, c’est-à-dire sur 3 surfaces ne se coinçant pas si vous partiez non pas de la chaîne telle qu’elle est consti­tuée dans le nœud borroméen, mais de cette chaîne 2 par 2, dont j’ai évoqué tout à l’heure le fantôme au passage : qu’à dénouer des boucles nouées 2 par 2, ce que vous obtenez ce sont 3 droites libres l’une sur l’autre, c’est-à-dire ne se coinçant pas, ne définissant pas le point comme tel.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0157">
+<div class="paragraph-id">s22-02-0157</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0157</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0157">
+
+Ce que je veux, avant de vous quitter, vous annoncer, c’est donc ceci.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0158">
+<div class="paragraph-id">s22-02-0158</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0158</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0158">
+
+C’est clair ici, du fait que nous pouvons voir que, avec deux droites infinies, nous pouvons, à nouer un seul rond de ficelle, maintenir la propriété du nœud borroméen, à cette seule condition que les 2 droites ne sauraient...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0159">
+<div class="paragraph-id">s22-02-0159</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0159</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0159">
+
+> quelque part, entre ce nœud et l’infini ...se recouper que d’une seule façon :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0160">
+<div class="paragraph-id">s22-02-0160</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0160</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0160">
+
+- c’est à savoir que pour prendre la ligne droite R, il faut la tirer, si je puis dire, en avant,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0161">
+<div class="paragraph-id">s22-02-0161</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0161</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0161">
+
+- alors que la ligne S de la figure de droite, on ne peut la tirer qu’en arrière, ...qu’il ne faut pas en quelque sorte qu’elles soient ame­nées à se boucler deux à deux.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0162">
+<div class="paragraph-id">s22-02-0162</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0162</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0162">
+
+<img src="assets/image13.jpeg" style="width:1.38596in;height:1.21765in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\10a.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0163">
+<div class="paragraph-id">s22-02-0163</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0163</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0163">
+
+Ce que, de toute façon, exclut la figure centrale, qui ayant déjà fait qu’une des boucles, qu’un des ronds, soit le rond blanc sur le rond rouge, définit de ce seul fait - quel que soit son sort ultérieur – la position stricte de la droite infinie bleue qui doit passer sous ce qui est dessous et sur ce qui est dessus, pour m’exprimer d’une façon simple ! À cette condition, le nœud borroméen fonctionne.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0164">
+<div class="paragraph-id">s22-02-0164</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0164</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0164">
+
+Je voudrais vous indiquer ceci : c’est que
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0165">
+<div class="paragraph-id">s22-02-0165</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0165</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0165">
+
+- si nous situons ce rond bleu du *Réel,*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0166">
+<div class="paragraph-id">s22-02-0166</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0166</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0166">
+
+- si nous situons ce rond du *Symbolique,*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0167">
+<div class="paragraph-id">s22-02-0167</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0167</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0167">
+
+- et celui-ci de l’*Imaginaire,* ...je me permets de vous indiquer qu’ils se situent d’une mise à plat \[2 *dimensions*\], autrement dit d’une réduction de l’*Imaginaire,* car il est clair que l’*Imaginaire* toujours tend à se réduire d’une mise à plat, que c’est là-dessus que se fonde toute figuration.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0168">
+<div class="paragraph-id">s22-02-0168</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0168</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0168">
+
+Étant bien entendu que ça n’est pas parce que nous aurions *chiffonné* ces 3 ronds de ficelle, qu’ils seraient moins noués borro­méennement dans le *Réel*, c’est-à-dire au regard de ceci : que chacun d’eux dénoué, libère les deux autres, la chose serait toujours vraie.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0169">
+<div class="paragraph-id">s22-02-0169</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0169</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0169">
+
+Comment se fait-il qu’il nous faille cette mise à plat pour pouvoir figu­rer une topologie quelconque ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0170">
+<div class="paragraph-id">s22-02-0170</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0170</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0170">
+
+C’est très certainement une question qui attient à celle de la débilité que j’ai qualifiée de mentale, pour autant qu’elle est enracinée du corps lui-même.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0171">
+<div class="paragraph-id">s22-02-0171</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0171</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0171">
+
+- *Petit(a)*, ai-je écrit ici, soit dans l’*Imaginaire* mais aussi bien dans le *Symbolique*, j’inscris la fonction dite du *sens*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0172">
+<div class="paragraph-id">s22-02-0172</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0172</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0172">
+
+- Les deux autres fonctions, celles qui relèvent de ce qui est à définir comme au regard du point central permettant d’y ajouter trois autres points, ceci est quelque chose à définir.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0173">
+<div class="paragraph-id">s22-02-0173</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0173</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0173">
+
+Nous avons : *jouissance*. Il s’agit de savoir - ces deux jouissances :
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0174">
+<div class="paragraph-id">s22-02-0174</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0174</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0174">
+
+<img src="assets/image14.jpeg" style="width:2.27315in;height:1.84844in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\11a.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0175">
+<div class="paragraph-id">s22-02-0175</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0175</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0175">
+
+\- par exemple, une, nous pourrions la définir - mais laquelle ? - « jouir de la vie », si le *Réel* c’est la vie...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0176">
+<div class="paragraph-id">s22-02-0176</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0176</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0176">
+
+> nous sommes amenés à l’y référer, mais est-ce sûr ? *...*si le *Réel* c’est la vie, la jouissance, pour autant qu’elle participe de l’*Imaginaire* du sens, le jouir de la vie pour tout dire, c’est quelque chose que nous pouvons situer dans ceci, qui notons-le, n’est pas moins un point que le point central, le point dit de *l’objet(a),* puisqu’il conjoint à l’occasion trois surfaces qui également se coincent.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0177">
+<div class="paragraph-id">s22-02-0177</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0177</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0177">
+
+- Qu’en est-il d’autre part de cet autre mode de *jouissance*, celui qui se figure d’un recoupement, d’un serrage où vient ici le *Réel* le coincer à la périphérie de deux autres ronds de ficelle ?
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0178">
+<div class="paragraph-id">s22-02-0178</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0178</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0178">
+
+- Qu’en est-il de cette *jouissance* ? Ce sont des traits, des points que nous aurons à élaborer, puisque aussi bien ce sont ceux qui vous interrogent.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0179">
+<div class="paragraph-id">s22-02-0179</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0179</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0179">
+
+Un point que je suggère est d’ores et déjà celui-ci, pour revenir à Freud, c’est à savoir que quelque chose de triadique, il l’a énoncé « *Inhibition, Symptôme, Angoisse ».*
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0180">
+<div class="paragraph-id">s22-02-0180</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0180</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0180">
+
+Je dirai que l’inhibition, comme Freud lui-même l’articule, est tou­jours affaire de corps, soit de fonction.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0181">
+<div class="paragraph-id">s22-02-0181</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0181</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0181">
+
+Et pour l’indiquer déjà sur ce schéma, je dirai que l’inhibition, c’est ce qui quelque part s’arrête de s’immiscer, si je puis dire, dans une figure qui est figure de trou, de trou du *Symbolique*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0182">
+<div class="paragraph-id">s22-02-0182</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0182</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0182">
+
+<img src="assets/image15.jpeg" style="width:2.87055in;height:1.91667in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S22\12a.jpg" />
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0183">
+<div class="paragraph-id">s22-02-0183</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0183</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0183">
+
+Nous aurons à discuter cette *inhibition* pour savoir si ce qui se rencontre chez l’animal, où il y a dans le système ner­veux des centres inhibiteurs, est quelque chose qui est du même ordre que cet arrêt du fonctionnement en tant qu’*Imaginaire*, en tant que spé­cifié chez l’être parlant, s’il est concevable que quelque chose soit du même ordre, à savoir la mise en fonction dans le névraxe, dans le systè­me nerveux central, d’une activité positive en tant qu’inhibitrice.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0184">
+<div class="paragraph-id">s22-02-0184</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0184</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0184">
+
+Comment est-il concevable que l’être, présumé n’avoir pas le langage, se trouve conjoindre dans le terme d’*inhibition* quelque chose du même ordre que ce que nous saisissons là, au niveau de l’extériorité du sens, que ce que nous saisissons là comme relevant de ce qui se trouve en somme extérieur au corps...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0185">
+<div class="paragraph-id">s22-02-0185</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0185</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0185">
+
+> à savoir cette surface, pour la topologiser de la façon dont je vous ai dit
+>
+> que c’est assurément seulement sur deux dimensions que ceci se figure ...comment l’*inhibition* peut avoir affaire à ce qui est effet d’arrêt qui résulte de son intrusion dans le champ du *Symbolique*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0186">
+<div class="paragraph-id">s22-02-0186</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0186</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0186">
+
+Il est, à partir de ceci - et pas seulement à partir - il est tout à fait saisis­sant de voir que l’*angoisse,* en tant qu’elle est quelque chose qui part du *Réel*, il est tout à fait sensible de voir que c’est cette *angoisse* qui va don­ner son sens à la nature de la *jouissance* qui se produit ici \[J<sub>Φ</sub>\] du recoupement mis en surface, du recoupement eulérien, du *Réel* et du *Symbolique*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0187">
+<div class="paragraph-id">s22-02-0187</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0187</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0187">
+
+Enfin, pour définir le 3<sup>ème</sup> terme, c’est dans le *symptôme* que nous identifions ce qui se produit dans le champ du *Réel *:
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0188">
+<div class="paragraph-id">s22-02-0188</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0188</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0188">
+
+- si le *Réel* se manifeste dans l’analyse, et pas seulement dans l’analyse,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0189">
+<div class="paragraph-id">s22-02-0189</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0189</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0189">
+
+- si la notion de « *symptôme »* a été introduite, bien avant Freud, par Marx de façon à en faire le signe de quelque chose qui est ce qui ne va pas dans le *Réel*,
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0190">
+<div class="paragraph-id">s22-02-0190</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0190</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0190">
+
+- si en d’autres termes, nous sommes capables d’opérer sur le *symptôme*, c’est pour autant que le *symptôme* est de l’effet du *Symbolique* dans le *Réel*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0191">
+<div class="paragraph-id">s22-02-0191</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0191</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0191">
+
+C’est pour autant que ce *Symbolique*...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0192">
+<div class="paragraph-id">s22-02-0192</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0192</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0192">
+
+> tel que je l’ai dessiné ici, doit se compléter ici, et pourquoi est-ce extérieur : c’est ce que j’aurai à manipuler pour vous dans la suite ...c’est pour autant que *l’inconscient* est pour tout dire ce qui répond du *symptôme*.
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0193">
+<div class="paragraph-id">s22-02-0193</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0193</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0193">
+
+C’est pour autant que ce nœud...
+
+</div>
+
+</details>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s22-02-0194">
+<div class="paragraph-id">s22-02-0194</div>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
+<details class="original-block" open>
+<summary>原文 · s22-02-0194</summary>
+
+<div class="original-paragraph" data-paragraph-id="s22-02-0194">
+
+> ce nœud, lui bien réel quoique seulement reflété dans l’*Imaginaire...*c’est pour autant que ce nœud rend compte d’un certain nombre d’inscriptions par quoi des surfaces se répondent, que nous verrons que l’inconscient peut être responsable de la réduction du *symptôme*.
+
+</div>
+
+</details>
+</section>
+
+</div>
+
+<section class="note-block original-notes">
+
+## Notes
+
+[^3]: *Écrits* pp. 166-67 : « *Le mot n’est pas signe, mais nœud de signification. Et que je dise le mot « rideau » par exemple, ce n’est pas seulement par convention,*
+
+    *désigner l’usage d’un objet que peuvent diversifier de mille manières les intentions sous lesquelles il est perçu par l’ouvrier, par le marchand, par le peintre ou par le psychologue*
+
+    *gestaltiste, comme travail, valeur d’échange, physionomie colorée ou structure spatiale. C’est par métaphore un rideau d’arbres; par calembour les rides et les ris de l’eau,*
+
+    *et mon ami Leiris dominant mieux que moi ces jeux glossolaliques*. »
+
+</section>

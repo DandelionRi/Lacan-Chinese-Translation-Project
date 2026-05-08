@@ -144,7 +144,7 @@ Mais nous voyons là que c’est autre chose que le *vrai* : c’est réel. Inco
 
 <!-- id: s2-20-0035 -->
 
-Qu’elles soient réelles, c’est je crois la première raison* *:
+Qu’elles soient réelles, c’est je crois la première raison:
 
 <!-- id: s2-20-0036 -->
 
@@ -428,7 +428,7 @@ Il y a de fortes raisons pour cela. Disons que, en voulant le préserver de ses 
 
 <!-- id: s2-20-0105 -->
 
-La question de la paranoïa post-analytique est une question très loin d’être une question mythique. Il n’y a pas du tout besoin qu’une cure ait été poussée extrêmement loin pour que l’analyse donne une paranoïa tout à fait consistan­te. Je l’ai vu pour ma part dans ma carrière, dans ce service[^56]*.* Et c’est dans ce ser­vice qu’on peut le mieux le voir, parce qu’on est amené tout doucement à les faire glisser vers les services libres, et de là, enfin, ils s’intègrent dans le service fermé. Cela arrive ! Il n’y a pas besoin d’avoir pour cela *un bon psychanalyste*. Il suffît de croire très fermement à la psychanalyse.
+La question de la paranoïa post-analytique est une question très loin d’être une question mythique. Il n’y a pas du tout besoin qu’une cure ait été poussée extrêmement loin pour que l’analyse donne une paranoïa tout à fait consistan­te. Je l’ai vu pour ma part dans ma carrière, dans ce service[^56]. Et c’est dans ce ser­vice qu’on peut le mieux le voir, parce qu’on est amené tout doucement à les faire glisser vers les services libres, et de là, enfin, ils s’intègrent dans le service fermé. Cela arrive ! Il n’y a pas besoin d’avoir pour cela *un bon psychanalyste*. Il suffît de croire très fermement à la psychanalyse.
 
 <!-- id: s2-20-0106 -->
 
@@ -526,7 +526,7 @@ Et ceci \[*a’<sub>→</sub> a*\] nous allons l’appeler *le mur du langage*. 
 
 <!-- id: s2-20-0129 -->
 
-Que va-t-il se passer quand ce sujet parle avec ses semblables ? Il parle avec ses semblables dans *le langage commun*, dans le langage qui tient leur *moi* *ima­ginaire* pour des choses non pas simplement *ex-sistantes,* mais *réelles*, c’est-à-dire que si, lui, il ne peut pas du tout savoir ce qui est dans le champ du *réel* - je veux dire là où le dialogue concret se tient *-* ici, eh bien, il a affaire à un cer­tain nombre de *a’* ou *a’’,* qui sont là des objets, et auxquels, par l’intermédiaire de *la réflexion* sur *le mur du langage,* il s’adresse.
+Que va-t-il se passer quand ce sujet parle avec ses semblables ? Il parle avec ses semblables dans *le langage commun*, dans le langage qui tient leur *moi* *ima­ginaire* pour des choses non pas simplement *ex-sistantes,* mais *réelles*, c’est-à-dire que si, lui, il ne peut pas du tout savoir ce qui est dans le champ du *réel* - je veux dire là où le dialogue concret se tient - ici, eh bien, il a affaire à un cer­tain nombre de *a’* ou *a’’,* qui sont là des objets, et auxquels, par l’intermédiaire de *la réflexion* sur *le mur du langage,* il s’adresse.
 
 <!-- id: s2-20-0130 -->
 
@@ -678,7 +678,7 @@ Et voyez quel avantage nous avons à concevoir ainsi le mouvement de l’ana­ly
 
 <!-- id: s2-20-0166 -->
 
-Pendant tout le temps de l’analyse, à cette seule condition que le *moi* de l’analyste veuille bien ne pas être là \[*a* = Ø\], à cette seule condition *que l’analyste* ne *soit* pas comme on dit*, « un miroir vivant »,* mais *un miroir vide*, eh bien ce qui se passera, se passera entre le *moi* du sujet \[*a’*\] - je n’ai pas besoin de le repérer pour que nous le sachions, c’est toujours le *moi* du sujet qui parle, en apparence - que le *moi* du sujet aura une relation avec les *Autres* \[S<sub>→</sub> *a’<sub>→</sub>* A<sub>1</sub>*,* A<sub>2</sub>...\].
+Pendant tout le temps de l’analyse, à cette seule condition que le *moi* de l’analyste veuille bien ne pas être là \[*a* = Ø\], à cette seule condition *que l’analyste* ne *soit* pas comme on dit*, « un miroir vivant »,* mais *un miroir vide*, eh bien ce qui se passera, se passera entre le *moi* du sujet \[*a’*\] - je n’ai pas besoin de le repérer pour que nous le sachions, c’est toujours le *moi* du sujet qui parle, en apparence - que le *moi* du sujet aura une relation avec les *Autres* \[S<sub>→</sub> *a’<sub>→</sub>* A<sub>1</sub>, A<sub>2</sub>...\].
 
 <!-- id: s2-20-0167 -->
 
@@ -702,11 +702,11 @@ Et que tout le progrès de l’analyse, et ce qu’on appelle *la réduction du 
 
 <!-- id: s2-20-0172 -->
 
-Il s’agit progressivement que se déplace le S’ qui est ici des *relations de transfert* de plus en plus vers un sujet qui puisse les assumer totalement à la place où il est et où il ne sait pas d’abord qu’il était. C’est-à-dire qu’il y a deux sens à donner à la phrase de FREUD : « *Wo es war, soll Ich werden* »*.*
+Il s’agit progressivement que se déplace le S’ qui est ici des *relations de transfert* de plus en plus vers un sujet qui puisse les assumer totalement à la place où il est et où il ne sait pas d’abord qu’il était. C’est-à-dire qu’il y a deux sens à donner à la phrase de FREUD : « *Wo es war, soll Ich werden* ».
 
 <!-- id: s2-20-0173 -->
 
-Ce *Es -* pre­nez-le avec le mot de la lettre S **-** il est là, il est toujours là, c’est le sujet. Il se reconnaît ou ne se reconnaît pas. Ce n’est même pas tellement le plus impor­tant. Il a ou il n’a pas la parole : *à la fin de l’analyse, c’est lui qui doit avoir la parole*. En S’, il doit entrer en relation avec les vrais *Autres*. Là où le *Es* était, c’est là que le *Ich* doit être. C’est une conception de l’analyse. C’est là où le sujet réintègre tous ses membres disjoints, où il reconnaît son expérience, *il la réagrège*.
+Ce *Es -* pre­nez-le avec le mot de la lettre S *-* il est là, il est toujours là, c’est le sujet. Il se reconnaît ou ne se reconnaît pas. Ce n’est même pas tellement le plus impor­tant. Il a ou il n’a pas la parole : *à la fin de l’analyse, c’est lui qui doit avoir la parole*. En S’, il doit entrer en relation avec les vrais *Autres*. Là où le *Es* était, c’est là que le *Ich* doit être. C’est une conception de l’analyse. C’est là où le sujet réintègre tous ses membres disjoints, où il reconnaît son expérience, *il la réagrège*.
 
 <!-- id: s2-20-0174 -->
 
@@ -735,6 +735,7 @@ Je veux que vous sachiez une chose, c’est que ceci est très important, parce 
 <!-- id: s2-20-0180 -->
 
 J’aurai à y revenir dans les séminaires qui sui­vront.
+
 ## Notes
 
 [^56]: À l’hôpital Sainte-Anne : service dirigé par Jean Delay, titulaire de la chaire de la clinique des maladies mentales depuis 1942.

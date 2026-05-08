@@ -260,7 +260,7 @@ C’est dire *que le réel n’a d’ex-sistence*...
 
 <!-- id: s23-03-0064 -->
 
-et c’est bien étonnant que je le formule ainsi ...n’a d’*ex-sistence* *qu’à rencontrer, du symbolique et de l’imaginaire, l’arrêt* 
+et c’est bien étonnant que je le formule ainsi ...n’a d’*ex-sistence* *qu’à rencontrer, du symbolique et de l’imaginaire, l’arrêt*
 
 <!-- id: s23-03-0065 -->
 
@@ -458,7 +458,7 @@ J’espère que il y en a ici suffisamment qui prennent des notes. Car ceci est 
 
 <!-- id: s23-03-0113 -->
 
-Important pour vous suggé­rer d’aller vérifier ce dont il s’agit, à savoir nommément que du *nœud à trois*, qui homogénéise le nœud borroméen*,* il y en a par contre qu’une espèce.
+Important pour vous suggé­rer d’aller vérifier ce dont il s’agit, à savoir nommément que du *nœud à trois*, qui homogénéise le nœud borroméen, il y en a par contre qu’une espèce.
 
 <!-- id: s23-03-0114 -->
 
@@ -498,7 +498,7 @@ Il fut un temps ou j’avançais dans une certaine voie, avant que je ne sois su
 
 <!-- id: s23-03-0123 -->
 
-Si j’ai si long­temps résisté à la republication de ma thèse, c’est simplement pour ceci, c’est que *la psychose paranoïaque et la personnalité -* comme telles *-* n’ont pas de rapport, simplement pour ceci : *c’est parce que c’est la même chose.*
+Si j’ai si long­temps résisté à la republication de ma thèse, c’est simplement pour ceci, c’est que *la psychose paranoïaque et la personnalité -* comme telles - n’ont pas de rapport, simplement pour ceci : *c’est parce que c’est la même chose.*
 
 <!-- id: s23-03-0124 -->
 
@@ -554,7 +554,7 @@ Et c’est en cela qu’un aperçu nous est donné sur ce qu’il en est de l’
 
 <!-- id: s23-03-0137 -->
 
-De même qu’ici dans *le nœud à* 3 noué *borroméennement à* 4* *: vous voyez qu’il y a une réponse particulière du rouge au brun \[bleu\], de même qu’il y a une réponse particulière du vert au noir.
+De même qu’ici dans *le nœud à* 3 noué *borroméennement à* 4: vous voyez qu’il y a une réponse particulière du rouge au brun \[bleu\], de même qu’il y a une réponse particulière du vert au noir.
 
 <!-- id: s23-03-0138 -->
 
@@ -702,4 +702,4 @@ Voilà !
 
     .- *Quatre romans analytiques*, éd. Galilée, 1974.
 
-    # 
+    #

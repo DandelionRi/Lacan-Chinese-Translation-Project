@@ -406,7 +406,7 @@ vu le moment précoce où il a été par lui poussé
 
 <!-- id: s10-03-0076 -->
 
-...[*un art**icle*](#Rank2801) en tous points, admirable : c’est l’attention qu’il a attirée sur *la fonction de la scène,* *sur « la scène »*.
+...[*un article*](#Rank2801) en tous points, admirable : c’est l’attention qu’il a attirée sur *la fonction de la scène,* *sur « la scène »*.
 
 <!-- id: s10-03-0077 -->
 
@@ -590,7 +590,7 @@ qu’il est réintégré sur la scène *par la voie de l’identification*, just
 
 > sous la forme ambiguë où il est employé en français, qui est celle qui donne sa force
 >
-> à la façon dont je répète devant vous le « *il ne savait pas* »*,* ce qui veut dire : « *au dernier moment n’a-t-il pas su ?*
+> à la façon dont je répète devant vous le « *il ne savait pas* », ce qui veut dire : « *au dernier moment n’a-t-il pas su ?*
 >
 > *Un peu plus il allait savoir* », cet *objet du désir* dont ce n’est pas pour rien que *désir* en latin se dit *desiderium,*
 >
@@ -764,7 +764,7 @@ entrer en action pour la satisfaction du désir : le *phallus,* le rapport de c
 
 <!-- id: s10-03-0145 -->
 
-- *ce reste, ce résidu, cet objet* dont le statut échappe au sta­tut de l’objet dérivé de *l’image spéculaire,* échappe aux lois de l’esthétique transcendantale*,*
+- *ce reste, ce résidu, cet objet* dont le statut échappe au sta­tut de l’objet dérivé de *l’image spéculaire,* échappe aux lois de l’esthétique transcendantale,
 
 <!-- id: s10-03-0146 -->
 
@@ -809,7 +809,7 @@ D’un S :
 
 S’il commence à parler, *le trait unaire* entre en jeu.
 L’identification primaire à ce point de départ que constitue le fait de pouvoir dire :
-1 et 1, et encore 1, et encore 1*,* et que c’est toujours d’un 1 qu’il faut qu’on parte, c’est à partir de là...
+1 et 1, et encore 1, et encore 1, et que c’est toujours d’un 1 qu’il faut qu’on parte, c’est à partir de là...
 
 <!-- id: s10-03-0156 -->
 
@@ -848,8 +848,8 @@ J’ai écrit (- φ) parce que nous aurons à l’y amener la prochaine fois :
 
 Le sort principiel, inau­gural, le temps - j’insiste - dont nous parlons tient ici en ceci...
 il faudra attendre la prochaine fois pour que je vous l’articule
-...que le désir tient dans la relation que je vous ai donnée pour être celle du fantasme S **◊** *a* :
-S, le poinçon ◊, *avec son sens que nous saurons lire encore différemment bientôt*, (*a*)*.*
+...que le désir tient dans la relation que je vous ai donnée pour être celle du fantasme S ◊ *a* :
+S, le poinçon ◊, *avec son sens que nous saurons lire encore différemment bientôt*, (*a*).
 
 <!-- id: s10-03-0164 -->
 
@@ -936,7 +936,7 @@ Ce qui constitue l’angoisse, c’est quand quelque chose, un mécanisme, fait 
 <!-- id: s10-03-0181 -->
 
 Je vous prie, d’ici la prochaine fois, de vous donner la peine, avec cette introduction que je vous y donne,
-de relire l’article sur l’*Unheimlich* [^27]*.* C’est un article que je n’ai jamais enten­du commenter - *jamais, jamais*, entendu commenter –
+de relire l’article sur l’*Unheimlich* [^27]. C’est un article que je n’ai jamais enten­du commenter - *jamais, jamais*, entendu commenter –
 et dont personne ne semble même s’apercevoir qu’*il est la cheville absolument indispensable pour aborder la question de l’angoisse*.
 
 <!-- id: s10-03-0182 -->
@@ -994,6 +994,7 @@ Alors avec cette clé, vous pourrez voir le véritable sens à donner, sous sa p
 <!-- id: s10-03-0193 -->
 
 C’est la la prochaine fois que je reprendrai et où j’espère donner son véritable sens à notre recherche de cette année.
+
 ## Notes
 
 [^20]: Jacques Lacan : *Écrits*, Paris, Seuil, 1966, p. 237. Cf. Jacques Lacan : Autres Écrits, Paris, Seuil, 2001, *[Discours de Rome](http://www.ecole-lacanienne.net/pictures/mynews/9917835CB831A5EB84B0E347B2992D86/1953-09-26a.pdf)* ([E.L.P.](http://www.ecole-lacanienne.net/fr/p/lacan)), p.133.

@@ -198,7 +198,7 @@ Ce que je produis chez *l’Autre* avec cette « *préparation* » c’est ass
 dans FREUD *Hemmung, inhibition* : quelque chose qui est simplement *cette opposition*, qui est la base fondamentale
 de la relation *duelle,* à tout ce que je pouvais devant vous, comme objet, vous opposer comme objections.
 C’est bien naturel : vous vous mettez en état d’en supporter le choc, l’approche, la pression.
-Quelque chose s’organise qu’on appelle habituellement *défense* \[ici inhibition\]*,* qui est la force la plus élémentaire.
+Quelque chose s’organise qu’on appelle habituellement *défense* \[ici inhibition\], qui est la force la plus élémentaire.
 Et c’est bien ce dont il s’agit dans *ces sortes de préludes* qui peuvent aussi bien être faits de mille façons.
 
 <!-- id: s5-07-0045 -->
@@ -355,7 +355,7 @@ qui sont venus assister à cette petite scène.
 
 Voilà le type de *la drôlerie*, ou de *la bonne histoire*, ou du *mot d’esprit « naïf »* tel que FREUD nous le présente.
 Il nous le donne sous une forme encore plus proche techniquement de ce que nous appelons *les procédés du langage*
-dans l’histoire de la petite fille qui propose pour son frère qui a un peu mal au ventre, une *Bubizin*[^15]**.**
+dans l’histoire de la petite fille qui propose pour son frère qui a un peu mal au ventre, une *Bubizin*[^15].
 
 <!-- id: s5-07-0072 -->
 
@@ -368,7 +368,7 @@ La petite fille a entendu parler *pour elle* d’une *Medizin*, et comme *Madi* 
 « Bubizin ? » fragt die Mutter, « was ist denn das ? » Wie ich krank war, « rechtfertigt sich das Kind » habe ich ja auch Medizin nehmen müssen.
 « Das Kind ist der Meinung, daß das vom Arzt verschriebene Mittel Mädi-zin heißt, wenn es für das Mädi bestimmt ist, und schließt,
 daß es Bubizin heißen wird, wenn das Bubi es nehmen soll. Dies ist nun gemacht wie ein Wortwitz, der mit der Technik des Gleichklangs arbeitet, und könnte sich ja auch als wirklicher Witz zugetragen haben, in welchem Falle wir ihm halb widerwillig ein Lächeln geschenkt hätten.
-Als Beispiel einer Naivität scheint es uns ganz ausgezeichnet und macht uns laut lachen. » *Der Witz ...*, VII : *De**r Witz und die Arten des Komischen*\]
+Als Beispiel einer Naivität scheint es uns ganz ausgezeichnet und macht uns laut lachen. » *Der Witz ...*, VII : *Der Witz und die Arten des Komischen*\]
 
 <!-- id: s5-07-0074 -->
 
@@ -454,21 +454,21 @@ auquel je la communique comme telle, pour la faire passer *au rang et au titre d
 <!-- id: s5-07-0088 -->
 
 Naturellement ici pourtant, par la promotion de l’*autre imaginaire* comme tel, dans cette analyse des métonymies,
-dans la satisfaction qu’il trouve pure et simple dans le langage, et qui lui sert à ne même pas s’apercevoir à quel point son désir est leurré, ceci nous introduit - et c’est pourquoi FREUD le met au joint du mot d’esprit et du comique *-* ceci nous introduit à la dimension du *comique* comme tel et nous en fait poser la question.
+dans la satisfaction qu’il trouve pure et simple dans le langage, et qui lui sert à ne même pas s’apercevoir à quel point son désir est leurré, ceci nous introduit - et c’est pourquoi FREUD le met au joint du mot d’esprit et du comique - ceci nous introduit à la dimension du *comique* comme tel et nous en fait poser la question.
 
 <!-- id: s5-07-0089 -->
 
 Ici nous ne sommes pas au bout de nos peines, car à la vérité, sur ce sujet du comique, on n’a pas manqué d’introduire quelques considérations, quelques théories toutes plus ou moins insatisfaisantes, et ce n’est certainement pas une question vaine que celle de nous poser, que celle de savoir pourquoi ces théories sont insatisfaisantes,
-et aussi pourquoi elles ont été promues*.* Assurément il faut là que nous franchissions toutes sortes de formes
+et aussi pourquoi elles ont été promues. Assurément il faut là que nous franchissions toutes sortes de formes
 sous lesquelles ces théories se sont présentées pour revenir dessus. Il n’y a pas moyen de les épeler, leur addition,
 
 <!-- id: s5-07-0090 -->
 
-leur suc­cession, leur historique*,* comme on dit, ne nous mènera, je crois, sur la trace de rien de fondamental.
+leur suc­cession, leur historique, comme on dit, ne nous mènera, je crois, sur la trace de rien de fondamental.
 
 <!-- id: s5-07-0091 -->
 
-La question du comique est en tous cas*,* disons le, éludée chaque fois qu’on tente de l’aborder - je ne dis pas
+La question du comique est en tous cas, disons le, éludée chaque fois qu’on tente de l’aborder - je ne dis pas
 
 <!-- id: s5-07-0092 -->
 
@@ -519,7 +519,7 @@ mais qui vaut bien la peine d’être lu, car quand même, sans se fatiguer, il 
 
 Bref. Le rire, bien entendu, dépasse lui-même très largement la question aussi bien *du spirituel* que *du comique*.
 Il n’est pas rare de voir rappelé qu’il y a dans le rire quelque chose qui est par exemple la simple communication
-du rire, *le rire du rire*, le rire de quelque chose qui est lié au fait qu’il ne faut pas rire. Le *fou*-*rire* des enfants
+du rire, *le rire du rire*, le rire de quelque chose qui est lié au fait qu’il ne faut pas rire. Le *fou-rire* des enfants
 dans certaines conditions est tout de même quelque chose qui mérite aussi de rete­nir l’attention.
 
 <!-- id: s5-07-0102 -->
@@ -738,13 +738,13 @@ C’est le lien qui unit l’« Autre » avec ce *« Je »,* son « *objet 
 
 <!-- id: s5-07-0147 -->
 
-qui la constitue, cette parole pleine, celle que je vous ai imagée par le « *Tu es mon maître* », ou le « *Tu es ma femme* »*,*
+qui la constitue, cette parole pleine, celle que je vous ai imagée par le « *Tu es mon maître* », ou le « *Tu es ma femme* »,
 se dessine en effet ainsi : *tu, toi, l’autre, es(t) ma femme.*
 
 <!-- id: s5-07-0148 -->
 
 C’est sous cette forme, vous disais-je, que l’homme donne l’exemple de la parole pleine dans laquelle il s’engage comme sujet, se fonde comme l’homme de celle à laquelle il parle et le lui annonce sous cette forme, et lui dit :
-« *Tu es ma femme* »*.* Je vous ai montré aussi le caractère étrangement paradoxal de ce « *Tu es ma femme* »*.*
+« *Tu es ma femme* ». Je vous ai montré aussi le caractère étrangement paradoxal de ce « *Tu es ma femme* ».
 
 <!-- id: s5-07-0149 -->
 
@@ -757,7 +757,7 @@ C’est que la méto­nymie que cela comporte, le passage de l’Autre à cet «
 <!-- id: s5-07-0151 -->
 
 Même s’il ne répond pas « *Mais non, pas du tout !* », quelque chose d’autre se pro­duit beaucoup plus communément, c’est qu’en raison même du fait que nulle pré­paration aussi habile que le *mot d’esprit*, ne vient à faire confondre
-cette ligne β’’’<sub>→</sub> β’’ avec la métonymie γ <sub>→</sub> α*,* c’est-à-dire que ces deux lignes restent parfaitement indépendantes,
+cette ligne β’’’<sub>→</sub> β’’ avec la métonymie γ <sub>→</sub> α, c’est-à-dire que ces deux lignes restent parfaitement indépendantes,
 c’est à savoir que le sujet dont il s’agit conserve, lui, bel et bien son système d’objets métonymiques.
 
 <!-- id: s5-07-0152 -->
@@ -964,7 +964,7 @@ ARNOLPHE a donc prononcé pour une petite fille :
 
 <!-- id: s5-07-0194 -->
 
-Il a donc choisi *sa petite bonne femme*, et il a d’ores et déjà posé le « *Tu es ma femme* »*.* C’est même pour cela qu’il entre dans une telle agitation quand il voit que ce cher ange va lui être ravi. C’est qu’au point où il en est, dit-il, elle est déjà ma femme, et il l’a déjà instaurée socialement comme telle, à laquelle il dit : « *Tu es ma femme* ». Et il a résolu élégamment la question. *C’est un homme* - lui dit son partenaire, le nommé CHRYSALDE - « *qui a des lumières* ».
+Il a donc choisi *sa petite bonne femme*, et il a d’ores et déjà posé le « *Tu es ma femme* ». C’est même pour cela qu’il entre dans une telle agitation quand il voit que ce cher ange va lui être ravi. C’est qu’au point où il en est, dit-il, elle est déjà ma femme, et il l’a déjà instaurée socialement comme telle, à laquelle il dit : « *Tu es ma femme* ». Et il a résolu élégamment la question. *C’est un homme* - lui dit son partenaire, le nommé CHRYSALDE - « *qui a des lumières* ».
 C’est dit quelque part, et en effet *il a telle­ment de lumières* qu’il s’est formulé ceci : il n’a pas besoin d’être le personnage monomane dont nous parlions au début. Ôtez-lui cette monomanie : c’est un édu­cateur.
 
 <!-- id: s5-07-0195 -->
@@ -979,14 +979,14 @@ Là, il a trouvé un très heureux principe : il a lui-même dit qu’il ordonna
 
 <!-- id: s5-07-0197 -->
 
-C’est cela qui aurait dû *lui mettre la puce à la même oreille*, car si en effet la fille avait eu une conception physiologique plus saine des choses, peut-être aurait-elle été moins dangereuse. « *Tu es ma femme* »*,* parole pleine, est la *métonymie*.
+C’est cela qui aurait dû *lui mettre la puce à la même oreille*, car si en effet la fille avait eu une conception physiologique plus saine des choses, peut-être aurait-elle été moins dangereuse. « *Tu es ma femme* », parole pleine, est la *métonymie*.
 Tout ce qu’il fait lire à la petite AGNÈS, à savoir les devoirs du mariage, est bel et bien congrûment expliqué.
 
 <!-- id: s5-07-0198 -->
 
 « *Elle est complètement idiote* », dit-il, et il croit pouvoir fonder là-dessus, comme tous les éducateurs, l’assurance
 de sa construction. Qu’est-ce que nous montre tout le développement de l’histoire ? Cela pourrait s’appeler
-« [*Comment l’esprit vient aux filles*](http://fr.wikisource.org/wiki/Comment_l%E2%80%99esprit_vient_aux_filles) »*.* L’esprit vient aux filles en ceci, la singula­rité du personnage d’AGNÈS
+« [*Comment l’esprit vient aux filles*](http://fr.wikisource.org/wiki/Comment_l%E2%80%99esprit_vient_aux_filles) ». L’esprit vient aux filles en ceci, la singula­rité du personnage d’AGNÈS
 
 <!-- id: s5-07-0199 -->
 
@@ -1061,7 +1061,7 @@ que c’est l’amour le plus authentiquement amour qui se déclare et qui se ma
 
 <!-- id: s5-07-0214 -->
 
-Il faut tout ce changement de perspective qui s’est produit autour du terme de « *l’amour* »*,* pour que nous ne puissions plus si facilement le concevoir. Car c’est un fait : plus la pièce est jouée, plus ARNOLPHE est joué dans sa note d’ARNOLPHE, et plus les gens sont fléchissants et se disent
+Il faut tout ce changement de perspective qui s’est produit autour du terme de « *l’amour* », pour que nous ne puissions plus si facilement le concevoir. Car c’est un fait : plus la pièce est jouée, plus ARNOLPHE est joué dans sa note d’ARNOLPHE, et plus les gens sont fléchissants et se disent
 
 <!-- id: s5-07-0215 -->
 

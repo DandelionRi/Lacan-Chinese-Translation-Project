@@ -104,7 +104,7 @@ Il y a un type, comme ça, il y a 3000 ans, qui était certainement à l'acmé d
 
 <!-- id: s19b-04-0025 -->
 
-\...« *Mené*, *Mené\... »* - que ça se disait - « \...*Tékel*, *Upharsîn.* » \[מנא מנא תקל ופרסין\], ce que d'habitude - je ne sais pas pourquoi - on articule : « *Mené*,*Thécel*,*Pharès* ».[^7]
+\...« *Mené*, *Mené\... »* - que ça se disait - « \...*Tékel*, *Upharsîn.* » \[מנא מנא תקל ופרסין\], ce que d'habitude - je ne sais pas pourquoi - on articule : « *Mené,Thécel,Pharès* ».[^7]
 
 <!-- id: s19b-04-0026 -->
 
@@ -168,7 +168,7 @@ Eh bien, c'est pas encourageant !
 
 <!-- id: s19b-04-0041 -->
 
-> Parce que depuis hier - hier, c'est-à-dire que c'était avant-hier *-* que j'ai commencé à le chercher
+> Parce que depuis hier - hier, c'est-à-dire que c'était avant-hier - que j'ai commencé à le chercher
 >
 > et comme je ne trouvais pas toujours, depuis hier j'ai téléphoné à une dizaine de personnes
 >
@@ -232,7 +232,7 @@ Cette menue forme que je viens de rappeler là, est là pour faire sentir de quo
 
 <!-- id: s19b-04-0056 -->
 
-- que le nombre des sommets soit égal à celui des surfaces est lié à ce même « *tria**ngle arithmétique* »
+- que le nombre des sommets soit égal à celui des surfaces est lié à ce même « *triangle arithmétique* »
 
 <!-- id: s19b-04-0057 -->
 
@@ -550,7 +550,7 @@ Mais l'important au moins quand il s'agit de *la fonction de la parole*, c'est q
 
 <!-- id: s19b-04-0131 -->
 
-S'il y avait chez l'homme, ce que nous imaginons de façon purement gratuite, qu'il y ait une jouissance spécifiée de la polarité sexuelle, ça se saurait* *!
+S'il y avait chez l'homme, ce que nous imaginons de façon purement gratuite, qu'il y ait une jouissance spécifiée de la polarité sexuelle, ça se saurait!
 
 <!-- id: s19b-04-0132 -->
 
@@ -624,7 +624,7 @@ Et comme vous pouvez peut-être en avoir des échos, dans ce sens il y a foule :
 
 <!-- id: s19b-04-0149 -->
 
-Et l'analyse est partie de là* *!
+Et l'analyse est partie de là!
 
 <!-- id: s19b-04-0150 -->
 
@@ -1030,7 +1030,7 @@ Il est très clair que quelqu'un\...
 
 <!-- id: s19b-04-0248 -->
 
-> dont vous avez entendu - sans doute, certains - parler pour la première fois ce matin 
+> dont vous avez entendu - sans doute, certains - parler pour la première fois ce matin
 
 <!-- id: s19b-04-0249 -->
 
@@ -1086,7 +1086,7 @@ Ce que je peux dire c'est qu'en tout cas *le clivage du mur *:
 
 <!-- id: s19b-04-0262 -->
 
-- le fait qu'il y ait quelque chose d'installé devant*,* que j'ai appelé : *parole* et *langage,*
+- le fait qu'il y ait quelque chose d'installé devant, que j'ai appelé : *parole* et *langage,*
 
 <!-- id: s19b-04-0263 -->
 

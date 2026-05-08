@@ -158,7 +158,7 @@ on ne comprend absolument rien du tout.
 
 Ceci n’explique toujours pas le phénomène qui vient de se passer devant lui, à savoir en quoi il se rattache à ce que nous pouvons appeler « *l’économie générale de la fonction de signifiant* ». Là-dessus il faut quand même que *j’insiste* pour que vous tous vous preniez connaissance de ce que j’ai écrit dans ce que j’ai appelé *L’instance de la lettre dans l’inconscient*,
 à savoir les exemples que j’ai donnés dans ce texte des deux fonctions que j’appelle « *les fonctions essentielles du signifiant »*
-en tant qu’elles sont celles par où, si l’on peut dire*,* *le soc du signifiant creuse dans le réel ce qu’on appelle le signifié*, littéralement l’évoque, le fait surgir, le manie, l’engendre*,* à savoir *les fonctions de <u>la métaphore</u> et de <u>la métonymie</u>*.
+en tant qu’elles sont celles par où, si l’on peut dire, *le soc du signifiant creuse dans le réel ce qu’on appelle le signifié*, littéralement l’évoque, le fait surgir, le manie, l’engendre, à savoir *les fonctions de <u>la métaphore</u> et de <u>la métonymie</u>*.
 
 <!-- id: s5-02-0030 -->
 
@@ -209,7 +209,7 @@ En d’autres termes, ce sont les deux rapports que je vais vous indiquer :
 
 <!-- id: s5-02-0038 -->
 
-- f(S...S<sub>1</sub>) S<sub>2</sub> = S (**-**) *s* : *diachronie - métonymie*
+- f(S...S<sub>1</sub>) S<sub>2</sub> = S (*-*) *s* : *diachronie - métonymie*
 
 <!-- id: s5-02-0039 -->
 
@@ -687,7 +687,7 @@ Je n’ai pas besoin de plus pour vous dire que
 
 <!-- id: s5-02-0132 -->
 
-- le « SIGNOR », comme la direction des flèches l’indique*,* a filé par là \[γ<sub>→</sub>α\] .
+- le « SIGNOR », comme la direction des flèches l’indique, a filé par là \[γ<sub>→</sub>α\] .
 
 <!-- id: s5-02-0133 -->
 
@@ -824,7 +824,7 @@ tout à l’heure : « *tout à fait famillionnairement* ».
 
 <!-- id: s5-02-0157 -->
 
-Qu’est-ce que ce « *tout à fait famillionnairement* » supporte ? Quelque chose qui est - sans que nous aboutissions d’aucune façon à cet être de poésie *-* quelque chose d’extraordinairement riche, *fourmillant*, pullulant à la façon
+Qu’est-ce que ce « *tout à fait famillionnairement* » supporte ? Quelque chose qui est - sans que nous aboutissions d’aucune façon à cet être de poésie - quelque chose d’extraordinairement riche, *fourmillant*, pullulant à la façon
 dont justement les choses se passent au niveau de la décomposition métonymique.
 
 <!-- id: s5-02-0158 -->
@@ -956,4 +956,4 @@ pour y voir un exemple particulier des formations de l’inconscient, c’est au
 [^8]: André Gide : *Le Prométhée mal enchaîné*, Gallimard, Coll. Blanche, 1925.
 
 
-[^9]: « *auri sacra fames* »* *: [Virgile : *Énéide*, III, 57](http://bcs.fltr.ucl.ac.be/Virg/V03-001-191.html), « Soif sacrée de l'or ».
+[^9]: « *auri sacra fames* »: [Virgile : *Énéide*, III, 57](http://bcs.fltr.ucl.ac.be/Virg/V03-001-191.html), « Soif sacrée de l'or ».

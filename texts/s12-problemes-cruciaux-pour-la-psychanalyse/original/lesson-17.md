@@ -178,7 +178,7 @@ Car enfin, nous l’avons dit - et même ne l’aurions-nous pas dit - il est cl
 
 <!-- id: s12-17-0044 -->
 
-Ce qu’il a à savoir se définit par ce *niveau primordial* où il y a *un sujet* qui est amené, dans notre opération, à ce temps de surgissement, qui s’articule : *Je ne savais pas*. 
+Ce qu’il a à savoir se définit par ce *niveau primordial* où il y a *un sujet* qui est amené, dans notre opération, à ce temps de surgissement, qui s’articule : *Je ne savais pas*.
 
 <!-- id: s12-17-0045 -->
 

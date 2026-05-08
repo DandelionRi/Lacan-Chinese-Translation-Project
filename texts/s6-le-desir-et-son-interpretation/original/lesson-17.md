@@ -148,7 +148,7 @@ C’est le sens de ce que j’ai à dire aujourd’hui : ce qu’on peut appele
 
 <!-- id: s6-17-0036 -->
 
-- de ce *quelque chose* que nous symbolisons par cet S *en présence de* *a* : S **◊** *a*, et que nous appelons *le fantasme*,
+- de ce *quelque chose* que nous symbolisons par cet S *en présence de* *a* : S ◊ *a*, et que nous appelons *le fantasme*,
 
 <!-- id: s6-17-0037 -->
 
@@ -168,7 +168,7 @@ Le mystère du *fantasme*, en tant qu’il est en quelque sorte le dernier terme
 
 <!-- id: s6-17-0041 -->
 
-Et au niveau, premièrement de la demande, si ce fantasme intervient - ou aussi bien n’intervient pas - c’est dans la mesure où *quelque chose* \[S**◊***a*\] qui normalement n’en parvient pas par cette voie \[S**◊***a* *→* *s*(A**)**\], n’en revient pas au niveau du message…
+Et au niveau, premièrement de la demande, si ce fantasme intervient - ou aussi bien n’intervient pas - c’est dans la mesure où *quelque chose* \[S◊*a*\] qui normalement n’en parvient pas par cette voie \[S◊*a* *→* *s*(A)\], n’en revient pas au niveau du message…
 
 <!-- id: s6-17-0042 -->
 
@@ -178,7 +178,7 @@ Et au niveau, premièrement de la demande, si ce fantasme intervient - ou aussi 
 
 <!-- id: s6-17-0043 -->
 
-…c’est en tant que ce *fantasme* \[S**◊***a*\] passe ou ne passe pas, pour arriver au message \[*s*(A)\], que nous nous trouvons dans une *situation normale* ou dans une *situation atypique*.
+…c’est en tant que ce *fantasme* \[S◊*a*\] passe ou ne passe pas, pour arriver au message \[*s*(A)\], que nous nous trouvons dans une *situation normale* ou dans une *situation atypique*.
 
 <!-- id: s6-17-0044 -->
 
@@ -218,7 +218,7 @@ Et cette confusion est explicable parce que dans les deux cas le sujet se trouve
 
 <!-- id: s6-17-0053 -->
 
-Pour autant que dans ces deux points de notre *gramme*, qu’il s’agisse du *code* au niveau de l’inconscient \[S**◊**D\]…
+Pour autant que dans ces deux points de notre *gramme*, qu’il s’agisse du *code* au niveau de l’inconscient \[S◊D\]…
 
 <!-- id: s6-17-0054 -->
 
@@ -226,7 +226,7 @@ Pour autant que dans ces deux points de notre *gramme*, qu’il s’agisse du *c
 
 <!-- id: s6-17-0055 -->
 
-…ou qu’il s’agisse du *rapport imaginaire* qui le constitue d’une façon privilégiée dans une certaine posture aussi définie par son rapport au signifiant devant un *objet(a)* \[S**◊***a*\], dans ces deux cas *le sujet est en position d’éclipse*.
+…ou qu’il s’agisse du *rapport imaginaire* qui le constitue d’une façon privilégiée dans une certaine posture aussi définie par son rapport au signifiant devant un *objet(a)* \[S◊*a*\], dans ces deux cas *le sujet est en position d’éclipse*.
 
 <!-- id: s6-17-0056 -->
 
@@ -356,7 +356,7 @@ Les rapports signifiants, les rapports de valeurs sont donnés d’abord, et tou
 
 <!-- id: s6-17-0087 -->
 
-Maintenant essayons de nous servir de *ce rapport* S *en présence du* *a* \[S**◊***a*\] qui est pour nous *le support fantasmatique du désir*. Il faut que nous l’*articulions* nettement, parce que *a*, cet *autre imaginaire*, qu’est-ce que cela veut dire ?
+Maintenant essayons de nous servir de *ce rapport* S *en présence du* *a* \[S◊*a*\] qui est pour nous *le support fantasmatique du désir*. Il faut que nous l’*articulions* nettement, parce que *a*, cet *autre imaginaire*, qu’est-ce que cela veut dire ?
 
 <!-- id: s6-17-0088 -->
 
@@ -602,7 +602,7 @@ Nous voici maintenant arrivés au point où OPHÉLIE a à remplir son rôle. Si 
 
 <!-- id: s6-17-0148 -->
 
-Je ne voudrais pas vous encourager à cette sorte de calembredaine dont les textes psychanalytiques fourmillent littéralement, je suis seulement étonné qu’on n’ait pas donné qu’OPHÉLIE est l’ὀμϕαλός \[omphalos\][^84] parce qu’on en trouve d’aussi *gros* et d’aussi *énormes*, des *pas piqués des hannetons* à seulement ouvrir les *Unfinished papers on Hamlet* qu’Ella SHARPE a peut-être laissés regrettablement inachevés avant sa mort, et qu’on a peut-être eu tort de publier. *Mais* OPHÉLIE *est évidemment essentielle. Elle correspond à ça, et est liée à jamais, pour les siècles à la figure d’*HAMLET*.*
+Je ne voudrais pas vous encourager à cette sorte de calembredaine dont les textes psychanalytiques fourmillent littéralement, je suis seulement étonné qu’on n’ait pas donné qu’OPHÉLIE est l’ὀμϕαλός \[omphalos\][^84] parce qu’on en trouve d’aussi *gros* et d’aussi *énormes*, des *pas piqués des hannetons* à seulement ouvrir les *Unfinished papers on Hamlet* qu’Ella SHARPE a peut-être laissés regrettablement inachevés avant sa mort, et qu’on a peut-être eu tort de publier. *Mais* OPHÉLIE *est évidemment essentielle. Elle correspond à ça, et est liée à jamais, pour les siècles à la figure d’*HAMLET.
 
 <!-- id: s6-17-0149 -->
 
@@ -626,7 +626,7 @@ On la voit apparaître à propos de quelque chose qui en fait déjà une personn
 
 <!-- id: s6-17-0154 -->
 
-- « *My lord, as I was sewing in my closet, Monseigneur, comme j’étais à coudre dans ma chambre, Le seigneur HAMLET, son pourpoint tout défait, Point de chapeau sur la tête, les bas crottés et qui sans jarretières tombaient sur ses talons, Pale as his shirt, his knees knocking each other, Pale comme sa chemise, ses genoux s’entrechoquant, Et l’air aussi malheureux que s’il eut été délivré de l’enfer pour parler de ses horreurs, Le voilà qui vient à moi* \[...\]*.*
+- « *My lord, as I was sewing in my closet, Monseigneur, comme j’étais à coudre dans ma chambre, Le seigneur HAMLET, son pourpoint tout défait, Point de chapeau sur la tête, les bas crottés et qui sans jarretières tombaient sur ses talons, Pale as his shirt, his knees knocking each other, Pale comme sa chemise, ses genoux s’entrechoquant, Et l’air aussi malheureux que s’il eut été délivré de l’enfer pour parler de ses horreurs, Le voilà qui vient à moi* \[...\].
 
 <!-- id: s6-17-0155 -->
 
@@ -686,7 +686,7 @@ En quoi OPHÉLIE est à ce moment-là le *phallus*, c’est en ceci, et pour aut
 
 <!-- id: s6-17-0169 -->
 
-Le temps un peu avancé me fait scrupule de vous donner toutes les coordonnées, et j’y reviendrai. Que c’est bien de cela qu’il s’agit, c’est-à-dire d’une transformation de la formule S**◊** ϕ, (ϕ : *le phallus*) et sous la forme du rejet, ceci est démontré une fois que vous vous en êtes aperçu, par tout à fait autre chose que l’étymologie d’OPHÉLIE. D’abord parce qu’il ne s’agit que de cela, à savoir de la fécondité.
+Le temps un peu avancé me fait scrupule de vous donner toutes les coordonnées, et j’y reviendrai. Que c’est bien de cela qu’il s’agit, c’est-à-dire d’une transformation de la formule S◊ ϕ, (ϕ : *le phallus*) et sous la forme du rejet, ceci est démontré une fois que vous vous en êtes aperçu, par tout à fait autre chose que l’étymologie d’OPHÉLIE. D’abord parce qu’il ne s’agit que de cela, à savoir de la fécondité.
 
 <!-- id: s6-17-0170 -->
 

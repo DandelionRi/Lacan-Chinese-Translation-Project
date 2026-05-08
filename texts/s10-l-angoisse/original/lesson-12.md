@@ -129,7 +129,7 @@ elle pourra ou ne pourra pas interpréter, en comprendre le sens.
 <!-- id: s10-12-0024 -->
 
 On peut у ajouter que à partir de là ce qui se *dessine*, c’est que par moment dans *la cure* nous nous trouverions face à nos patients exactement dans la même position qu’ils se trouvent face à nous, c’est-à-dire qu’*ils prendraient* dans un certain sens, pourrait-on dire,
-le rôle qu’a eu notre analyste, lors de notre propre analyse*.* C’est en tant que *personnage représentant les parents* que ils provoqueraientt en nous certaines réponses. Nous verrons tout à l’heure ce qu’on doit en penser de ces réponses, le rôle qu’y accorde
+le rôle qu’a eu notre analyste, lors de notre propre analyse. C’est en tant que *personnage représentant les parents* que ils provoqueraientt en nous certaines réponses. Nous verrons tout à l’heure ce qu’on doit en penser de ces réponses, le rôle qu’y accorde
 Margaret Little, et les applications, ou plutôt qu’est-ce que cela donne dans la pratique, dans la clinique.
 
 <!-- id: s10-12-0025 -->
@@ -236,7 +236,7 @@ Qu’est-ce à dire, eh bien il s’agit de deux choses : la première, c’est 
 <!-- id: s10-12-0045 -->
 
 Mais il *у* а quelque chose qui va plus loin. Vous vous souvenez que tout à l’heure, je vous ai défini ce qu’est pour Margaret Little le *contre-transfert* : ce noyau non analysé juste à ce moment-là, et qui provoque un certain type - bien sûr, comme chez tout être humain l’inconscient ça parle, justement - un certain type de paroles, qu’elles soient *verbales* ou *gestuelles*, peu impor­te, chez l’analyste.
-*Ce type de réponses sont celles que* Margaret Little *appelle «* *to react an impulse* »*,* c’est-à-dire *des réactions impulsives*. Ces *réactions impulsives*, nous dit-elle, non seulement elles existent, mais surtout, enfin, elles sont absolument bénéfiques pour le patient, dans certains cas, bien sûr, ajoute-t-elle. Là je dois dire que... enfin vraiment, je n’étais plus « *arrêtée* », j’étais vraiment profodément *étonnée* de lire ceci.
+*Ce type de réponses sont celles que* Margaret Little *appelle «* *to react an impulse* », c’est-à-dire *des réactions impulsives*. Ces *réactions impulsives*, nous dit-elle, non seulement elles existent, mais surtout, enfin, elles sont absolument bénéfiques pour le patient, dans certains cas, bien sûr, ajoute-t-elle. Là je dois dire que... enfin vraiment, je n’étais plus « *arrêtée* », j’étais vraiment profodément *étonnée* de lire ceci.
 
 <!-- id: s10-12-0046 -->
 
@@ -268,7 +268,7 @@ Quoi qu’il en soit, si on en revient à ce que Margaret Little nous dit sur «
 
 Et ceci pour deux raisons : la première - et là alors je m’ex­cuse de me référer à moi-même mais en tant qu’analyste, c’est bien la seule personne dont je puisse parler, je ne vois pas comment je pourrais parler d’un autre analys­te sinon de moi -
 c’est qu’il me semble que pour tout analyste, sa réalité n’est jamais aussi réelle, je dirais, qu’à partir du moment où il parle, justement,
-de sa place d’analyste, et que plus cette place d’analyste sera correcte, plus elle sera loin des « *react an impulse* »*,*
+de sa place d’analyste, et que plus cette place d’analyste sera correcte, plus elle sera loin des « *react an impulse* »,
 plus il me semble qu’il sera pour lui-même réel.
 
 <!-- id: s10-12-0053 -->
@@ -427,7 +427,7 @@ puisque *par deux fois*, des voisins vont lui dire : « *Vous savez, la malade q
 
 « *Médicalement, après tout, ces vols, bon elle n’en est pas responsable* »
 elle ajoute :
-« *car ce sujet est quelqu’un - reliable - d’absolument digne de confiance et de profondément honnête* »*.*
+« *car ce sujet est quelqu’un - reliable - d’absolument digne de confiance et de profondément honnête* ».
 
 <!-- id: s10-12-0087 -->
 
@@ -438,7 +438,7 @@ avec l’analyste, et que cette fois encore, elle refuse *de la façon la plus t
 
 <!-- id: s10-12-0088 -->
 
-Alors, quand est-ce que les choses changent *vraiment* ? Les choses chan­gent à partir d’une autre interprétation de l’analyste, à partir du moment où Margaret little est amenée à reconnaître ses propres limites. Et à ce moment-là, elle va parler, bien sûr, mais ce n’est plus du tout le « *react an impulse* »*,* ce n’est plus du tout une parole affective, mais *elle va parler de sa place d’analyste*. Dans un discours et dans une *interprétation* par­faitement consciente pour elle, et qui va amener la réponse que nous sommes en droit d’attendre ou d’espérer quand nous faisons ce type d’*interpréta­tion*, c’est-à-dire que le sujet va lui faire *cadeau* - pourrait-on dire, car c’est plutôt de leur côté que se situe le *cadeau* que du nôtre de toute façon - va lui faire *cadeau* de son *fantasme fondamental*.
+Alors, quand est-ce que les choses changent *vraiment* ? Les choses chan­gent à partir d’une autre interprétation de l’analyste, à partir du moment où Margaret little est amenée à reconnaître ses propres limites. Et à ce moment-là, elle va parler, bien sûr, mais ce n’est plus du tout le « *react an impulse* », ce n’est plus du tout une parole affective, mais *elle va parler de sa place d’analyste*. Dans un discours et dans une *interprétation* par­faitement consciente pour elle, et qui va amener la réponse que nous sommes en droit d’attendre ou d’espérer quand nous faisons ce type d’*interpréta­tion*, c’est-à-dire que le sujet va lui faire *cadeau* - pourrait-on dire, car c’est plutôt de leur côté que se situe le *cadeau* que du nôtre de toute façon - va lui faire *cadeau* de son *fantasme fondamental*.
 
 <!-- id: s10-12-0089 -->
 
@@ -518,7 +518,7 @@ Wladimir Granoff
 
 <!-- id: s10-12-0103 -->
 
-...« *quelque chose dont il dispose* », il faut peut-être compléter là, la notion du « *quelque chose dont il dispose* »*.*
+...« *quelque chose dont il dispose* », il faut peut-être compléter là, la notion du « *quelque chose dont il dispose* ».
 C’est assurément quelque chose *en trop*, mais à une nuance près tout de même assez particulière,
 c’est qu’à la limite, ce sont des pièces de rechange.
 Je veux dire que l’« *en trop* » est tout de même marqué du signe de l’interchangeable, non pas tant parce que la pièce de rechange la plus courante est une roue de rechange, qui s’appel­le en anglais *а spare-wheel,* mais parce que l’« *en trop* » est là véritablement,
@@ -1050,6 +1050,7 @@ Après tout, il vous est loisible de le prendre pour *pierre de scandale* ou, à
 
 Mais c’est là que j’entends que nous reprenions, la prochaine fois, la suite de ce dis­cours,
 pour у situer exactement la fonction indicative de l’angoisse, et ce à quoi elle nous permettra ensuite d’accéder.
+
 ## Notes
 
 [^82]: Albert Camus, Prix Nobel de littérature 1957 : «  *L'absurde naît de cette confrontation entre l'appel humain et le silence déraisonnable du monde.* » (Le Mythe de Sisyphe).

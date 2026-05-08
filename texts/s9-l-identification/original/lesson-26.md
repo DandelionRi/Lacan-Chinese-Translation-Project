@@ -6,7 +6,7 @@
 
 <!-- id: s9-26-0001 -->
 
-Aujourd’hui, dans le cadre de l’enseignement théorique que nous aurons réussi cette année à parcourir ensemble, je vous indique qu’il me faut choisir mon axe si je puis dire, et que je mettrai l’accent sur la formule support \[S**◊***a*\] de *la troisième espèce d’identification* que je vous ai notée dès longtemps, dès le temps du graphe, sous la forme de S**◊***a,* que vous savez lire maintenant comme *S barré cou­pure de petit(a)*.
+Aujourd’hui, dans le cadre de l’enseignement théorique que nous aurons réussi cette année à parcourir ensemble, je vous indique qu’il me faut choisir mon axe si je puis dire, et que je mettrai l’accent sur la formule support \[S◊*a*\] de *la troisième espèce d’identification* que je vous ai notée dès longtemps, dès le temps du graphe, sous la forme de S◊*a,* que vous savez lire maintenant comme *S barré cou­pure de petit(a)*.
 
 <!-- id: s9-26-0002 -->
 
@@ -42,7 +42,7 @@ L’objet aristotélicien - car c’est bien ainsi qu’il faut l’appeler - a 
 
 <!-- id: s9-26-0010 -->
 
-C’est l’introduction du trait unaire qui distingue la partie phasique, où il sera dit par exemple que « *tout trait est vertical* »*,* ce qui n’implique en soi l’existence d’aucun trait, de la partie lexique[^192], *où il peut y avoir des traits verticaux, mais où il peut* *n’y en pas avoir*. Dire que « *tout trait est vertical* » doit être la structure originelle, la fonction d*’universalité*, d’*universalisation* propre à une logique fondée sur *le trait de la privation*.
+C’est l’introduction du trait unaire qui distingue la partie phasique, où il sera dit par exemple que « *tout trait est vertical* », ce qui n’implique en soi l’existence d’aucun trait, de la partie lexique[^192], *où il peut y avoir des traits verticaux, mais où il peut* *n’y en pas avoir*. Dire que « *tout trait est vertical* » doit être la structure originelle, la fonction d*’universalité*, d’*universalisation* propre à une logique fondée sur *le trait de la privation*.
 
 <!-- id: s9-26-0011 -->
 
@@ -50,15 +50,15 @@ C’est l’introduction du trait unaire qui distingue la partie phasique, où 
 
 <!-- id: s9-26-0012 -->
 
-il évoque je ne sais quel écho du dieu PAN. C’est bien là une des coalescences mentales dont je vous prie de faire l’effort de la rayer de vos papiers. Le nom du dieu PAN[^194] n’a absolument rien à faire avec le « *tout* »*,* et les effets paniques auxquels il se joue le soir auprès des esprits simples de la campagne n’ont rien à voir avec quelque effusion mystique ou non. Le raptus alcoolique, dit par les vieux auteurs « *panto­phobique* »*,* est bien nommé en ce sens que, lui aussi Πανικός \[panikos\] quelque chose le traque, le perturbe, et qu’il passe par la fenêtre. Il n’y a rien de plus à mettre là-dedans, c’est une erreur des esprits trop hellénistes d’y apporter cette retouche sur laquelle un de mes maîtres anciens, pourtant bien-aimé de moi, nous apportait cette rectification, on doit dire le raptus « *panto­phobique* »*.* Absolument pas.
+il évoque je ne sais quel écho du dieu PAN. C’est bien là une des coalescences mentales dont je vous prie de faire l’effort de la rayer de vos papiers. Le nom du dieu PAN[^194] n’a absolument rien à faire avec le « *tout* », et les effets paniques auxquels il se joue le soir auprès des esprits simples de la campagne n’ont rien à voir avec quelque effusion mystique ou non. Le raptus alcoolique, dit par les vieux auteurs « *panto­phobique* », est bien nommé en ce sens que, lui aussi Πανικός \[panikos\] quelque chose le traque, le perturbe, et qu’il passe par la fenêtre. Il n’y a rien de plus à mettre là-dedans, c’est une erreur des esprits trop hellénistes d’y apporter cette retouche sur laquelle un de mes maîtres anciens, pourtant bien-aimé de moi, nous apportait cette rectification, on doit dire le raptus « *panto­phobique* ». Absolument pas.
 
 <!-- id: s9-26-0013 -->
 
-...Πᾶς \[pass\], c’est bien en effet le « *tout* »*,* et si cela se rapporte à quelque chose, c’est à πάσασθαι\[passastaï\]*,* à *la possession*. Et peut-être trouverai-je à me faire reprendre si je rapproche ce πᾶς du pos de *possidere* et de *possum*[^195], mais je n’hésite point à le faire. La pos­session ou non du *trait unaire*, du trait caractéristique, voilà autour de quoi tourne l’instauration d’une *nouvelle logique classificatoire* explicite des sources de l’objet aristotélicien.
+...Πᾶς \[pass\], c’est bien en effet le « *tout* », et si cela se rapporte à quelque chose, c’est à πάσασθαι\[passastaï\], à *la possession*. Et peut-être trouverai-je à me faire reprendre si je rapproche ce πᾶς du pos de *possidere* et de *possum*[^195], mais je n’hésite point à le faire. La pos­session ou non du *trait unaire*, du trait caractéristique, voilà autour de quoi tourne l’instauration d’une *nouvelle logique classificatoire* explicite des sources de l’objet aristotélicien.
 
 <!-- id: s9-26-0014 -->
 
-Ce terme « *classificatoire* »*,* je l’emploie intentionnellement, puisque c’est grâce à Claude LÉVI-STRAUSS si vous avez désormais le corpus, l’articulation dogma­tique de la fonction classificatoire à ce qu’il appelle lui-même, je lui en laisse la responsabilité humoristique, « *l’état sauvage* », bien plus proche de la dialectique platonicienne que de l’aristotélicisme : la division progressive du monde en une série de moitiés, couples de termes antipodiques qu’il enserre dans des types dont \- sur ce sujet lisez « *La pensée sauvage »*[^196] *-* vous verrez que l’essentiel tient en ceci : ce qui n’est pas « *hérisson* » mais ce que vous voudrez, « *musaraigne* » ou « *mar­motte* », est autre chose. Ce qui caractérise la structure de *l’objet aristotélicien*, c’est que ce qui n’est pas *hérisson* est non- *hérisson*. C’est pourquoi je dis que c’est la logique de l’objet de la privation.
+Ce terme « *classificatoire* », je l’emploie intentionnellement, puisque c’est grâce à Claude LÉVI-STRAUSS si vous avez désormais le corpus, l’articulation dogma­tique de la fonction classificatoire à ce qu’il appelle lui-même, je lui en laisse la responsabilité humoristique, « *l’état sauvage* », bien plus proche de la dialectique platonicienne que de l’aristotélicisme : la division progressive du monde en une série de moitiés, couples de termes antipodiques qu’il enserre dans des types dont \- sur ce sujet lisez « *La pensée sauvage »*[^196] - vous verrez que l’essentiel tient en ceci : ce qui n’est pas « *hérisson* » mais ce que vous voudrez, « *musaraigne* » ou « *mar­motte* », est autre chose. Ce qui caractérise la structure de *l’objet aristotélicien*, c’est que ce qui n’est pas *hérisson* est non- *hérisson*. C’est pourquoi je dis que c’est la logique de l’objet de la privation.
 
 <!-- id: s9-26-0015 -->
 
@@ -218,7 +218,7 @@ Ce rapport *complémentaire* de *(a)*, *l’objet d’une castration constitutiv
 
 <!-- id: s9-26-0054 -->
 
-Il ne saurait d’aucune façon y lire son image pour la bonne raison que s’il est quelque chose, ce S*,* ce n’est pas le complément de *petit i facteur de petit(a)* \[*i(a)*\], ça pourrait en être assez bien la cause dirons-nous, et j’emploie ce terme intentionnellement, car depuis quelque temps, justement depuis que les catégories de la logique flageolent un peu, la *cause*, bonne ou mauvaise, n’a en tout cas pas bonne presse, et l’on préfère éviter d’en parler.
+Il ne saurait d’aucune façon y lire son image pour la bonne raison que s’il est quelque chose, ce S, ce n’est pas le complément de *petit i facteur de petit(a)* \[*i(a)*\], ça pourrait en être assez bien la cause dirons-nous, et j’emploie ce terme intentionnellement, car depuis quelque temps, justement depuis que les catégories de la logique flageolent un peu, la *cause*, bonne ou mauvaise, n’a en tout cas pas bonne presse, et l’on préfère éviter d’en parler.
 
 <!-- id: s9-26-0055 -->
 
@@ -254,7 +254,7 @@ Nous savons par notre expérience qu’il n’y a rien qui pèse dans le monde v
 
 <!-- id: s9-26-0063 -->
 
-Voilà ce qui règle *les rapports du sujet avec l’Autre*, grand A, ce qui règle secrè­tement, mais d’une façon dont il est sûr qu’elle n’est pas moins efficace que ce rapport de *(a)* à *la réflexion imaginaire* qui le couvre et le surmonte. Qu’en d’autres termes dans la route - la seule qui nous soit offerte pour retrouver l’inci­dence de ce *petit(a) -* nous rencontrons d’abord la marque de l’occultation de l’Autre, sous le même désir. Telle est en effet la voie : *(a)* peut être abordé par cette voie qui est ce que l’Autre (avec un grand A) désire dans le sujet défaillant, dans le *fantasme*, le S*.*
+Voilà ce qui règle *les rapports du sujet avec l’Autre*, grand A, ce qui règle secrè­tement, mais d’une façon dont il est sûr qu’elle n’est pas moins efficace que ce rapport de *(a)* à *la réflexion imaginaire* qui le couvre et le surmonte. Qu’en d’autres termes dans la route - la seule qui nous soit offerte pour retrouver l’inci­dence de ce *petit(a) -* nous rencontrons d’abord la marque de l’occultation de l’Autre, sous le même désir. Telle est en effet la voie : *(a)* peut être abordé par cette voie qui est ce que l’Autre (avec un grand A) désire dans le sujet défaillant, dans le *fantasme*, le S.
 
 <!-- id: s9-26-0064 -->
 
@@ -306,7 +306,7 @@ jusqu’à la confrontation à laquelle je visais en vous évoquant ce passage :
 
 <!-- id: s9-26-0076 -->
 
-« *Ses mains cher­chèrent à toucher un corps impalpable et irréel. C’était un effort si pénible que cette chose qui s’éloignait de lui et,* *en s’éloignant, tentait de l’attirer, lui parut la même que celle qui indiciblement se rapprochait. Il tomba à terre. Il avait le sentiment d’être couvert d’impuretés. Chaque partie de son corps subissait une agonie. Sa tête était contrainte de toucher le mal, ses poumons de* *le respirer. Il était là sur le parquet, se tordant, puis rentrant en lui-même, puis sortant. Il ram­pait lourdement, à peine différent du serpent qu’il eût voulu devenir pour croire au venin qu’il sentait dans sa bouche* \[...\]*.*
+« *Ses mains cher­chèrent à toucher un corps impalpable et irréel. C’était un effort si pénible que cette chose qui s’éloignait de lui et,* *en s’éloignant, tentait de l’attirer, lui parut la même que celle qui indiciblement se rapprochait. Il tomba à terre. Il avait le sentiment d’être couvert d’impuretés. Chaque partie de son corps subissait une agonie. Sa tête était contrainte de toucher le mal, ses poumons de* *le respirer. Il était là sur le parquet, se tordant, puis rentrant en lui-même, puis sortant. Il ram­pait lourdement, à peine différent du serpent qu’il eût voulu devenir pour croire au venin qu’il sentait dans sa bouche* \[...\].
 
 <!-- id: s9-26-0077 -->
 
@@ -334,11 +334,11 @@ Le *désir*, ne l’oubliez pas, dans le graphe où se situe­-t-il ?
 
 <!-- id: s9-26-0083 -->
 
-Il vise S**◊***a,* le fantasme, sous un mode analogue à celui du *m* où le *moi* se réfère à *l’image spéculaire*. Qu’est-ce à dire, sinon qu’il y a quelque rapport de ce fantasme au désirant lui-même. Mais pouvons-nous, de ce désirant, faire purement et simplement l’agent du désir ? N’oublions pas qu’au deuxième étage du graphe, *d, le désir*, est un « *qui *» qui répond à une question, qui ne vise pas un « *qui *» mais un « *che voi ? *»*.*
+Il vise S◊*a,* le fantasme, sous un mode analogue à celui du *m* où le *moi* se réfère à *l’image spéculaire*. Qu’est-ce à dire, sinon qu’il y a quelque rapport de ce fantasme au désirant lui-même. Mais pouvons-nous, de ce désirant, faire purement et simplement l’agent du désir ? N’oublions pas qu’au deuxième étage du graphe, *d, le désir*, est un « *qui *» qui répond à une question, qui ne vise pas un « *qui *» mais un « *che voi ? *».
 
 <!-- id: s9-26-0084 -->
 
-À la question « *che voi ? *» le désirant est la réponse, la réponse qui ne désigne pas le « *qui *» de « *qui veut ?* »*,* mais la réponse de l’objet. Ce que je veux dans le fantasme détermine l’objet d’où le désirant qu’il contient doit s’avouer comme désirant.
+À la question « *che voi ? *» le désirant est la réponse, la réponse qui ne désigne pas le « *qui *» de « *qui veut ?* », mais la réponse de l’objet. Ce que je veux dans le fantasme détermine l’objet d’où le désirant qu’il contient doit s’avouer comme désirant.
 
 <!-- id: s9-26-0085 -->
 
@@ -402,7 +402,7 @@ L’année prochaine je traiterai pour vous, comme poursuivant strictement le po
 
 <!-- id: s9-26-0100 -->
 
-\[Fin du séminaire « *L’identification*\] 
+\[Fin du séminaire « *L’identification*\]
 
 <!-- id: s9-26-0101 -->
 

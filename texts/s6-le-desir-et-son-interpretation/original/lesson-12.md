@@ -230,7 +230,7 @@ Je m’excuse du *caractère algébrique* que prendront les choses, mais il faut
 
 <!-- id: s6-12-0056 -->
 
-Si dans la notation quelque chose se présente - et nous allons y revenir tout à l’heure - comme étant *le sujet barré* *en face de l’objet* : S**◊***a,* c’est-à-dire le sujet du désir, le sujet en tant que dans son rapport à l’objet, il est lui-même profondément mis en question et que c’est cela qui constitue la spécificité du rapport du désir dans le sujet lui-même. C’est en tant que le sujet est dans notre notation *le sujet barré*, qu’on peut dire qu’*il est possible, dans certaines conditions,* *de lui donner comme signifiant,* *le phallus* \[Φ *: signifiant, et non pas *ϕ *:* *phallus imaginaire*\]. Ceci en tant qu’il est *le sujet parlant*.
+Si dans la notation quelque chose se présente - et nous allons y revenir tout à l’heure - comme étant *le sujet barré* *en face de l’objet* : S◊*a,* c’est-à-dire le sujet du désir, le sujet en tant que dans son rapport à l’objet, il est lui-même profondément mis en question et que c’est cela qui constitue la spécificité du rapport du désir dans le sujet lui-même. C’est en tant que le sujet est dans notre notation *le sujet barré*, qu’on peut dire qu’*il est possible, dans certaines conditions,* *de lui donner comme signifiant,* *le phallus* \[Φ *: signifiant, et non pas *ϕ : *phallus imaginaire*\]. Ceci en tant qu’il est *le sujet parlant*.
 
 <!-- id: s6-12-0057 -->
 
@@ -594,7 +594,7 @@ Voyons si ce rapport *au désir*, ce rapport appelé *désir*…
 
 <!-- id: s6-12-0145 -->
 
-Si c’est S par rapport à *a* qui est *la formule du désir*, et si tout ceci s’inscrit dans ce rapport quadruple qui fait que le sujet dans l’*image de l’autre* \[*i(a)*\] - à savoir dans les successives identifications qui vont s’appeler « *moi* » \[*i(a <sub>→</sub> moi<sub>→</sub>* I(A)\] – trouve à se substituer une forme à ce quelque chose de foncièrement pali, de foncièrement angoissé, qu’est le rapport du sujet dans le désir \[S**◊***a*\].
+Si c’est S par rapport à *a* qui est *la formule du désir*, et si tout ceci s’inscrit dans ce rapport quadruple qui fait que le sujet dans l’*image de l’autre* \[*i(a)*\] - à savoir dans les successives identifications qui vont s’appeler « *moi* » \[*i(a <sub>→</sub> moi<sub>→</sub>* I(A)\] – trouve à se substituer une forme à ce quelque chose de foncièrement pali, de foncièrement angoissé, qu’est le rapport du sujet dans le désir \[S◊*a*\].
 
 <!-- id: s6-12-0146 -->
 

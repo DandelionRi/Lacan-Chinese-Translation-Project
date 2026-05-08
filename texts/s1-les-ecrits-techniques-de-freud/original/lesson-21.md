@@ -112,7 +112,7 @@ Et je crois de toute façon qu’il est assez exemplaire, significatif, enseigna
 
 <!-- id: s1-21-0027 -->
 
-…ont mis quinze siècles a redécouvrir, comme un soleil qui se relève ou comme une aube naissante*,* sont déjà exposées dans ce texte de Saint AUGUSTIN, qui est une des choses les plus admirables qu’on puisse lire.
+…ont mis quinze siècles a redécouvrir, comme un soleil qui se relève ou comme une aube naissante, sont déjà exposées dans ce texte de Saint AUGUSTIN, qui est une des choses les plus admirables qu’on puisse lire.
 
 <!-- id: s1-21-0028 -->
 
@@ -336,7 +336,7 @@ Non, pas encore : signifier quelque chose. Quoi ? On ne sait pas encore. Il pren
 
 <!-- id: s1-21-0083 -->
 
-- « *Si nihil ex tanta Superis placet urbe relinqui* » \[Énéide*,* II, 659 : *Si les dieux veulent que rien ne subsiste d’une si grande ville*\]
+- « *Si nihil ex tanta Superis placet urbe relinqui* » \[Énéide, II, 659 : *Si les dieux veulent que rien ne subsiste d’une si grande ville*\]
 
 <!-- id: s1-21-0084 -->
 
@@ -1503,6 +1503,7 @@ CHAPITRE XIV. L’HOMME PARLE AU DEHORS, LE CHRIST ENSEIGNE AU DEDANS.
 <!-- id: s1-21-0374 -->
 
 46\. Si l’on considère avec attention les avantages de la parole, ils sont importants ; une autre fois, si Dieu le permet, nous les examinerons tous. En te prévenant ici de ne pas les exagérer, j’ai voulu arriver avec toi, non plus seulement à croire, mais à commencer de comprendre combien est vrai le divin témoignage qui nous défend d’appeler sur la terre quelqu’un notre maître, car nous n’avons tous qu’un Maître dans le ciel. Quelle est la gloire de ce Maître dans le ciel ? lui–même nous l’apprendra. Il veut que les hommes nous avertissent au dehors par des signes, afin que recueillis intérieurement en lui–même nous soyons instruits par lui. L’aimer et le connaître, c’est la vie bienheureuse. Tous proclament qu’ils la cherchent ; et il en est peu qui goûtent la joie de l’avoir trouvée. Mais dis–moi ton sentiment sur tout ce discours. Reconnais–tu la vérité dans tout ce que j’ai dit ? C’est que, si l’on t’eût questionné sur chaque pensée, ta réponse aurait fait connaître que tu la savais déjà ; et tu vois de cette manière Qui te les a enseignées : ce n’est pas moi puisque tu m’aurais tout dit, si je te l’avais demandé. Remarques–tu que je n’ai pas dit vrai ? ce n’est ni Lui ni moi qui t’avons enseigné : moi, parce que jamais je ne puis rien enseigner ; Lui, parce que tu ne peux encore recevoir ses leçons. *Ad.* Voici ce que j’ai recueilli de l’avertissement donné par tes paroles : les paroles ne peuvent qu’exciter l’homme à s’instruire, et ce qui se montre à nous de la pensée, quelle qu’elle soit, de celui qui parle, est fort peu de chose. Celui–là seul nous apprend si l’on dit vrai, qui nous a avertis, quand il parlait aux oreilles, qu’il habite en nous. Désormais, par sa grâce, je l’aimerai avec d’autant plus d’ardeur que je comprendrai mieux ses leçons. Ce qui fait cependant que je te remercie de ce discours suivi, c’est que tu as prévenu et résolu les difficultés que je me préparais à élever ; il ne me reste aucun doute, et l’oracle intérieur m’a donné, sur tous ceux que j’avais, la même réponse que toi.
+
 ## Notes
 
 [^35]: Saint Augustin : [*De Mag*<span id="Retour_Saint_Augustin" class="anchor"></span>*istro*](#Saint_Augustin).

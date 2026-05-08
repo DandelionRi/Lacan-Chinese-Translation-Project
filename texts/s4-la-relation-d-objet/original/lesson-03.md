@@ -109,7 +109,7 @@ en jeu, et la puissance de l’usine est d’ores et déjà donnée précisémen
 
 <!-- id: s4-03-0020 -->
 
-À la vérité, il y a là plusieurs remarques à faire. La première est celle­-ci : c’est qu’ayant à vous parler de la réalité, et ayant commencé par la définir par la *Wirklichkeit***,** par l’efficacité de tout le système, dans l’occasion le système psychique,
+À la vérité, il y a là plusieurs remarques à faire. La première est celle­-ci : c’est qu’ayant à vous parler de la réalité, et ayant commencé par la définir par la *Wirklichkeit**,* par l’efficacité de tout le système, dans l’occasion le système psychique,
 qu’ayant d’autre part voulu vous préciser le caractère mythique d’une certaine façon de concevoir cette réalité,
 et l’ayant située par cet exemple, je ne suis pas arrivé au troisième point qui est encore celui sous lequel peut se présenter
 ce thème du réel, c’est à savoir justement *ce qui est avant*, nous y avons constamment affaire.
@@ -259,7 +259,7 @@ Reprenons cela à un autre niveau, avons-nous dit.
 
 <!-- id: s4-03-0051 -->
 
-Le *principe de réalité* et le *principe de plaisir*, tant que vous opposez les deux systèmes* *: *primaire* et *secondaire...*
+Le *principe de réalité* et le *principe de plaisir*, tant que vous opposez les deux systèmes: *primaire* et *secondaire...*
 qui représentent l’un et l’autre, en ne vous tenant qu’à ce qui les définit pris du dehors, à savoir
 
 <!-- id: s4-03-0052 -->

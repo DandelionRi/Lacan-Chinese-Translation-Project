@@ -50,7 +50,7 @@ La seule chose qui compte, c’est qu’une pièce a ou non *valeur d’échange
 
 <!-- id: s24-02-0012 -->
 
-Nous avançons là tout doucement vers la contradiction de ce que j’ai appelé « *l’Une-bévue* »*.*
+Nous avançons là tout doucement vers la contradiction de ce que j’ai appelé « *l’Une-bévue* ».
 
 <!-- id: s24-02-0013 -->
 
@@ -62,7 +62,7 @@ Nous avançons là tout doucement vers la contradiction de ce que j’ai appelé
 
 <!-- id: s24-02-0015 -->
 
-Son type, si je puis dire, c’est le signifiant, le signifiant *type*, c’est-à-dire, exemple* *: il n’y en a pas de plus type que « *le même et l’autre* ».
+Son type, si je puis dire, c’est le signifiant, le signifiant *type*, c’est-à-dire, exemple: il n’y en a pas de plus type que « *le même et l’autre* ».
 
 <!-- id: s24-02-0016 -->
 
@@ -586,7 +586,7 @@ Il est clair que ce n’est pas d’hier que j’ai fait usage de ces *enchaîne
 
 <!-- id: s24-02-0144 -->
 
-Déjà pour symboliser le circuit - la coupure du *désir* \[d\] et de la *demande* \[D\] - je m’étais servi de ceci, à savoir du tore* *:
+Déjà pour symboliser le circuit - la coupure du *désir* \[d\] et de la *demande* \[D\] - je m’étais servi de ceci, à savoir du tore:
 
 <!-- id: s24-02-0145 -->
 
@@ -694,7 +694,7 @@ Le *Symbolique* retourné ainsi...
 
 <!-- id: s24-02-0171 -->
 
-> à en retourner le *tore* *symbolique* *...*enveloppera totalement l’*Imaginaire* et le *Réel  *:
+> à en retourner le *tore* *symbolique...*enveloppera totalement l’*Imaginaire* et le *Réel  *:
 
 <!-- id: s24-02-0172 -->
 
@@ -758,4 +758,4 @@ Il est pourtant un fait, c’est qu’apparemment...
 
 <!-- id: s24-02-0187 -->
 
-C’est bien pourquoi Freud insistait pour qu’*au moins* les psychanalystes refas­sent ce qu’on appelle couramment 2 *tranches*, c’est-à-dire fassent une seconde fois la coupure que je désigne ici comme étant ce qui res­taure le nœud borroméen dans sa forme originale. Voilà !  
+C’est bien pourquoi Freud insistait pour qu’*au moins* les psychanalystes refas­sent ce qu’on appelle couramment 2 *tranches*, c’est-à-dire fassent une seconde fois la coupure que je désigne ici comme étant ce qui res­taure le nœud borroméen dans sa forme originale. Voilà !

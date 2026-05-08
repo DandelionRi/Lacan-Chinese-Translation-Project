@@ -82,7 +82,7 @@ Puisque j’espère que j’obtiendrai autant de bonne volonté pour les prochai
 
 <!-- id: s13-15-0020 -->
 
-Vous y trouverez - en outre - dans ce numéro sur la sexualité féminine \[n°7 de *La psychanalyse*\], sous le titre de 
+Vous y trouverez - en outre - dans ce numéro sur la sexualité féminine \[n°7 de *La psychanalyse*\], sous le titre de
 
 <!-- id: s13-15-0021 -->
 
@@ -802,7 +802,7 @@ Au niveau du couple père-fille, *la fonction de l’interdit*, telle qu’elle 
 
 <!-- id: s13-15-0187 -->
 
-Car si la spécificité d’une certaine sorte de vivant est qu’un organe à la fois érectile et comme tel privilégié comme support de la jouissance, en soit l’ambocepteur, eh bien, qu’est-ce que ça veut dire ? *C’est que pour elle*, il n’y a pas de problème : *faire l’amour*, si les choses avaient une valeur absolue bien sûr, est forcément alloplastique, si je puis dire*,* *implique qu’elle aille à celui qui l’a.*
+Car si la spécificité d’une certaine sorte de vivant est qu’un organe à la fois érectile et comme tel privilégié comme support de la jouissance, en soit l’ambocepteur, eh bien, qu’est-ce que ça veut dire ? *C’est que pour elle*, il n’y a pas de problème : *faire l’amour*, si les choses avaient une valeur absolue bien sûr, est forcément alloplastique, si je puis dire, *implique qu’elle aille à celui qui l’a.*
 
 <!-- id: s13-15-0188 -->
 
@@ -969,7 +969,7 @@ Mais j’espère qu’avec - je pense - suffisamment de temps, c’est-à-dire p
 
 [^155]: Ernest Jones : « *Le développement précoce de la sexualité féminine* », in « *Théorie et pratique de la psychanalyse* », Payot 1969, pp. 399-411. La traduction ici utilisée
 
-    par Muriel Drazien est celle du n°7 de la revue « La psychanalyse »*.*
+    par Muriel Drazien est celle du n°7 de la revue « La psychanalyse ».
 
 
 [^156]: *Écrits* p.697 ou t.2 p.175.

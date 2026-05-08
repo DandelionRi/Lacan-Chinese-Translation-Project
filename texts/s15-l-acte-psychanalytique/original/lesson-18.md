@@ -236,7 +236,7 @@ En tout cas, je voudrais prendre les choses d’un peu plus haut et puisque j’
 
 # Là il y a une fonction… naturellement, je m’excuse auprès des personnes qui sont ici - il y en a peu - qui viennent ici pour 
 
-# la première fois, et qui viennent histoire de voir un peu ce que je pourrais raconter si on m’interrogeait sur « *les événements* ». 
+# la première fois, et qui viennent histoire de voir un peu ce que je pourrais raconter si on m’interrogeait sur « *les événements* ».
 
 <!-- id: s15-18-0057 -->
 
@@ -320,7 +320,7 @@ Qui est ce « *je* » qui parle ?
 
 <!-- id: s15-18-0077 -->
 
-Ce morceau - à la vérité : *une prosopopée*, un de ces jeux enthousiastes *-* il se trouve que je me suis permis de l’articuler pour le centenaire de FREUD, et à Vienne. C’était un cri plutôt de l’ordre de ce qu’un MÜNCH[^121], a si bien mis dans une gravure célèbre : cette bouche qui se tord où nous voyons surgir l’anéantissement sublime de tout un paysage.
+Ce morceau - à la vérité : *une prosopopée*, un de ces jeux enthousiastes - il se trouve que je me suis permis de l’articuler pour le centenaire de FREUD, et à Vienne. C’était un cri plutôt de l’ordre de ce qu’un MÜNCH[^121], a si bien mis dans une gravure célèbre : cette bouche qui se tord où nous voyons surgir l’anéantissement sublime de tout un paysage.
 
 <!-- id: s15-18-0078 -->
 

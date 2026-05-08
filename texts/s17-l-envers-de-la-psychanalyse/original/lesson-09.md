@@ -246,7 +246,7 @@ C’est ce que je fais donc, non pas « *à l’improvisade »*, comme je vous
 
 <!-- id: s17-09-0061 -->
 
-*qu’on me permette de traduire celui qui le démontre, mon ami Jakobson* *...mangé des vers, qui trouvent entre eux leur arrangement, sans se soucier - c’est manifeste - de ce que le poète en a su.*
+*qu’on me permette de traduire celui qui le démontre, mon ami Jakobson...mangé des vers, qui trouvent entre eux leur arrangement, sans se soucier - c’est manifeste - de ce que le poète en a su.*
 
 <!-- id: s17-09-0062 -->
 
@@ -294,7 +294,7 @@ C’est ce que je fais donc, non pas « *à l’improvisade »*, comme je vous
 
 <!-- id: s17-09-0073 -->
 
-*« Influence sur le génie de Raymond de Saussure* \[*lapsus* : *Ferdinand de Saussure*\] *du génie de Freud »,* *...démontrer d’où vient au premier, le vent du second, avant qu’existât la radio !*
+*« Influence sur le génie de Raymond de Saussure* \[*lapsus* : *Ferdinand de Saussure*\] *du génie de Freud »,...démontrer d’où vient au premier, le vent du second, avant qu’existât la radio !*
 
 <!-- id: s17-09-0074 -->
 
@@ -322,7 +322,7 @@ C’est ce que je fais donc, non pas « *à l’improvisade »*, comme je vous
 
 <!-- id: s17-09-0080 -->
 
-*mais pour l’usage interne d’une Société que sa bâtardise universitaire a tuée* *...ont osé définir le passage à l’acte et l’acting-out très exactement des termes que je leur avais proposés pour les opposer l’un à l’autre,* *mais simplement à inverser ce que j’attribuais à chacun, façon - pensaient-ils - de s’approprier ce que personne n’avais su en articuler avant.*
+*mais pour l’usage interne d’une Société que sa bâtardise universitaire a tuée...ont osé définir le passage à l’acte et l’acting-out très exactement des termes que je leur avais proposés pour les opposer l’un à l’autre,* *mais simplement à inverser ce que j’attribuais à chacun, façon - pensaient-ils - de s’approprier ce que personne n’avais su en articuler avant.*
 
 <!-- id: s17-09-0081 -->
 
@@ -370,7 +370,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0092 -->
 
-*quel qu’il soit, « moi » ou organisme adapté de connaissance* *...implique le « quelqu’un » dont je parlais tout à l’heure.*
+*quel qu’il soit, « moi » ou organisme adapté de connaissance...implique le « quelqu’un » dont je parlais tout à l’heure.*
 
 <!-- id: s17-09-0093 -->
 
@@ -590,7 +590,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0147 -->
 
-*c’est le terme de Lévi-Strauss* *...dont une mythologisation définitive les articulera.*
+*c’est le terme de Lévi-Strauss...dont une mythologisation définitive les articulera.*
 
 <!-- id: s17-09-0148 -->
 
@@ -598,7 +598,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0149 -->
 
-*et du fait de qui le démontre, Lévi-Strauss en l’occasion* *...sans que l’illusion s’en pro­duise, car ce n’est pas d’un jeu de mythèmes qu’opère la psychanalyse.*
+*et du fait de qui le démontre, Lévi-Strauss en l’occasion...sans que l’illusion s’en pro­duise, car ce n’est pas d’un jeu de mythèmes qu’opère la psychanalyse.*
 
 <!-- id: s17-09-0150 -->
 
@@ -606,7 +606,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0151 -->
 
-> *fût-ce même à jouer en cours d’analyse de la traduction* *...y fait garantie « qu’il n’y a pas de métalangage », selon ma formule.*
+> *fût-ce même à jouer en cours d’analyse de la traduction...y fait garantie « qu’il n’y a pas de métalangage », selon ma formule.*
 
 <!-- id: s17-09-0152 -->
 
@@ -622,7 +622,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0155 -->
 
-*soit la seule forme ethnologique à motiver votre question - dis-je à Georgin - la réunion* *...que le mythe donc, dans cette seule articulation, refuse tout ce que j’ai promu de « L’instance de la lettre dans l’inconscient ».*
+*soit la seule forme ethnologique à motiver votre question - dis-je à Georgin - la réunion...que le mythe donc, dans cette seule articulation, refuse tout ce que j’ai promu de « L’instance de la lettre dans l’inconscient ».*
 
 <!-- id: s17-09-0156 -->
 
@@ -698,7 +698,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0174 -->
 
-*Si « le signifiant représente un sujet... » -* dit Lacan, <u>pas un signifié</u> *- et « pour un autre signifiant... » -* insistons : <u>pas pour un autre sujet</u> *-* *alors comment peut-il tomber au signe qui de mémoire de logicien, représente quelque chose pour quelqu’un ?*
+*Si « le signifiant représente un sujet... » -* dit Lacan, <u>pas un signifié</u> *- et « pour un autre signifiant... » -* insistons : <u>pas pour un autre sujet</u> - *alors comment peut-il tomber au signe qui de mémoire de logicien, représente quelque chose pour quelqu’un ?*
 
 <!-- id: s17-09-0175 -->
 
@@ -710,7 +710,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0177 -->
 
-> *d’avoir - à la logique du signifiant - trouvé à rompre le leurre du signe,* *...que ce quelque chose est la division du sujet,* *laquelle division tient à ce que l’Autre soit ce qui fait le signifiant, par quoi il ne saurait représenter un sujet qu’à n’être « Un » que de l’Autre.*
+> *d’avoir - à la logique du signifiant - trouvé à rompre le leurre du signe,...que ce quelque chose est la division du sujet,* *laquelle division tient à ce que l’Autre soit ce qui fait le signifiant, par quoi il ne saurait représenter un sujet qu’à n’être « Un » que de l’Autre.*
 
 <!-- id: s17-09-0178 -->
 
@@ -750,7 +750,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0187 -->
 
-*Y suffirait la montée au zénith social de l’objet dit, par moi, « petit(a) »,* *par l’effet d’angoisse que provoque l’évidement* \[*du a*\] *dont le produit notre discours, de manquer à sa production* \[ Fig. 1*le disc. A ne « produit » que des* **S**<sub>1</sub> \]*.*
+*Y suffirait la montée au zénith social de l’objet dit, par moi, « petit(a) »,* *par l’effet d’angoisse que provoque l’évidement* \[*du a*\] *dont le produit notre discours, de manquer à sa production* \[ Fig. 1*le disc. A ne « produit » que des* **S**<sub>1</sub> \].
 
 <!-- id: s17-09-0188 -->
 
@@ -766,7 +766,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0191 -->
 
-*c’est ce que le saint fournit, vous le savez* *...on y achète n’importe quoi, une bagnole notamment, à quoi faire signe d’intelligence, si l’on peut dire, de son ennui* \[*anagramme d’« unien »*\]*,* *soit de l’affect du désir d’Autre chose, avec un grand A.*
+*c’est ce que le saint fournit, vous le savez...on y achète n’importe quoi, une bagnole notamment, à quoi faire signe d’intelligence, si l’on peut dire, de son ennui* \[*anagramme d’« unien »*\], *soit de l’affect du désir d’Autre chose, avec un grand A.*
 
 <!-- id: s17-09-0192 -->
 
@@ -782,7 +782,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0195 -->
 
-*De quoi il fait signe est conforme à notre structure puisque depuis Prométhée *:* *
+*De quoi il fait signe est conforme à notre structure puisque depuis Prométhée : *
 
 <!-- id: s17-09-0196 -->
 
@@ -794,11 +794,11 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0198 -->
 
-- *que représente une allumette, premier signifiant* \[**S<sub>1</sub>**\]*,*
+- *que représente une allumette, premier signifiant* \[**S<sub>1</sub>**\],
 
 <!-- id: s17-09-0199 -->
 
-- *pour sa boîte, le second* \[**S<sub>2</sub>**\]*,* *et qu’à Ulysse abordant un rivage inconnu, une fumée au premier chef laisse présumer que ce n’est pas une île déserte.*
+- *pour sa boîte, le second* \[**S<sub>2</sub>**\], *et qu’à Ulysse abordant un rivage inconnu, une fumée au premier chef laisse présumer que ce n’est pas une île déserte.*
 
 <!-- id: s17-09-0200 -->
 
@@ -814,7 +814,7 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0203 -->
 
-*Il est en tout cas personne à ce que s’y trompe une fate polyphémie* [^44]*.*
+*Il est en tout cas personne à ce que s’y trompe une fate polyphémie* [^44].
 
 <!-- id: s17-09-0204 -->
 
@@ -822,11 +822,11 @@ Je réponds, et je pense que *cette réponse* a plus d’importance que la 1<sup
 
 <!-- id: s17-09-0205 -->
 
-*Car elle nous fait sentir, comme au passage, que ce qui pêche à voir le monde comme « phénomène »* \[*le signe* « *fait noumène* »\] *,* *c’est que le noumène, de ne pouvoir dès lors faire signe qu’au* νούς \[nouss\]*...* \[*le « noumène » nous mène au « nouss »*\]
+*Car elle nous fait sentir, comme au passage, que ce qui pêche à voir le monde comme « phénomène »* \[*le signe* « *fait noumène* »\] , *c’est que le noumène, de ne pouvoir dès lors faire signe qu’au* νούς \[nouss\]*...* \[*le « noumène » nous mène au « nouss »*\]
 
 <!-- id: s17-09-0206 -->
 
-> *soit au « suprême quelqu’un », signe d’intelligence toujours,* *...démontre de quelle pau­vreté procède la vôtre, à supposer que tout fait signe* : *c’est « le quelqu’un de quelque part », « de nulle part », qui doit <u>tout</u> manigancer.*
+> *soit au « suprême quelqu’un », signe d’intelligence toujours,...démontre de quelle pau­vreté procède la vôtre, à supposer que tout fait signe* : *c’est « le quelqu’un de quelque part », « de nulle part », qui doit <u>tout</u> manigancer.*
 
 <!-- id: s17-09-0207 -->
 
@@ -962,7 +962,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0240 -->
 
-*et à la connoter lui, si vous vous souvenez de son texte, plutôt d’un effet de chute que de subversion,* *...vise en fait à atteindre le centrisme lui-même, exactement la prétention reçue d’une psychologie qu’on peut d’autant mieux dire inentamée* *à son époque qu’elle l’est toujours à la nôtre : la prétention de la conscience à vouloir recenser ce dont elle dispose au registre de la représentation.*
+*et à la connoter lui, si vous vous souvenez de son texte, plutôt d’un effet de chute que de subversion,...vise en fait à atteindre le centrisme lui-même, exactement la prétention reçue d’une psychologie qu’on peut d’autant mieux dire inentamée* *à son époque qu’elle l’est toujours à la nôtre : la prétention de la conscience à vouloir recenser ce dont elle dispose au registre de la représentation.*
 
 <!-- id: s17-09-0241 -->
 
@@ -982,11 +982,11 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0245 -->
 
-*mais justement c’est le mot à ne pas employer* *...autour de quoi gravite l’effet d’une connaissance en voie de se repérer comme imaginaire, c’est nettement...*
+*mais justement c’est le mot à ne pas employer...autour de quoi gravite l’effet d’une connaissance en voie de se repérer comme imaginaire, c’est nettement...*
 
 <!-- id: s17-09-0246 -->
 
-*on le lit, à faire avec Koyré, de l’approche de Kepler, le journal* *...de se dépêtrer de l’idée que la forme circulaire, d’être la plus parfaite, peut seule convenir à l’affection du corps céleste.*
+*on le lit, à faire avec Koyré, de l’approche de Kepler, le journal...de se dépêtrer de l’idée que la forme circulaire, d’être la plus parfaite, peut seule convenir à l’affection du corps céleste.*
 
 <!-- id: s17-09-0247 -->
 
@@ -1026,11 +1026,11 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0256 -->
 
-*j’entends ces termes au sens de Kant* *...que constitue la rectification einsteinienne...*
+*j’entends ces termes au sens de Kant...que constitue la rectification einsteinienne...*
 
 <!-- id: s17-09-0257 -->
 
-*dans son étoffe *: *courbure de l’espace,* *et dans sa justification *: *nécessité d’une transmission que la vitesse limitée de la lumière ne permet pas d’annuler* *...il reste que la révolution newtonienne s’est affirmée d’être impensable, c’est ce qu’admet Newton lui-même de l’« hypotheses non fingo »,* *et qu’elle confirme ma formule que « l’impossible, c’est le Réel »*
+*dans son étoffe *: *courbure de l’espace,* *et dans sa justification *: *nécessité d’une transmission que la vitesse limitée de la lumière ne permet pas d’annuler...il reste que la révolution newtonienne s’est affirmée d’être impensable, c’est ce qu’admet Newton lui-même de l’« hypotheses non fingo »,* *et qu’elle confirme ma formule que « l’impossible, c’est le Réel »*
 
 <!-- id: s17-09-0258 -->
 
@@ -1118,7 +1118,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0279 -->
 
-*je souligne le terme, qui y répond dans Freud : Verleugnung* *...le démenti qu’apporte l’inconscient de ce qui pourrait, de ses effets que je viens de dire, s’interpréter d’un sens.*
+*je souligne le terme, qui y répond dans Freud : Verleugnung...le démenti qu’apporte l’inconscient de ce qui pourrait, de ses effets que je viens de dire, s’interpréter d’un sens.*
 
 <!-- id: s17-09-0280 -->
 
@@ -1138,7 +1138,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0284 -->
 
-> *rappelez-vous ses termes : jugement qui rejette et condamne,* *...que comme je le dis : « forclos du symbolique, ce savoir reparaît dans le réel de l’hallucination ».*
+> *rappelez-vous ses termes : jugement qui rejette et condamne,...que comme je le dis : « forclos du symbolique, ce savoir reparaît dans le réel de l’hallucination ».*
 
 <!-- id: s17-09-0285 -->
 
@@ -1154,7 +1154,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0288 -->
 
-> *vous pouvez écrire ça avec un « g », si vous voulez* *...de l’étang de l’École Normale Supérieure, je m’entendis dès le premier jour réellement sommé de déclarer quel « être » j’accordais à tout ça.*
+> *vous pouvez écrire ça avec un « g », si vous voulez...de l’étang de l’École Normale Supérieure, je m’entendis dès le premier jour réellement sommé de déclarer quel « être » j’accordais à tout ça.*
 
 <!-- id: s17-09-0289 -->
 
@@ -1182,11 +1182,11 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0295 -->
 
-### *C’est bien de l’être que répond chaque fois qu’« il faudra le temps ».* 
+### *C’est bien de l’être que répond chaque fois qu’« il faudra le temps ».*
 
 <!-- id: s17-09-0296 -->
 
-### *Mais entendez *: *je joue décidément du cristal de ma langue pour réfracter le signifiant, pour décomposer le sujet.* 
+### *Mais entendez *: *je joue décidément du cristal de ma langue pour réfracter le signifiant, pour décomposer le sujet.*
 
 <!-- id: s17-09-0297 -->
 
@@ -1202,7 +1202,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0300 -->
 
-> *faite pour prévenir les belges de leurs « belgicismes », c’est un livre que j’estime beaucoup* *...n’en soit pas recommandé - de ce « faudra » - il y est reconnu.*
+> *faite pour prévenir les belges de leurs « belgicismes », c’est un livre que j’estime beaucoup...n’en soit pas recommandé - de ce « faudra » - il y est reconnu.*
 
 <!-- id: s17-09-0301 -->
 
@@ -1302,7 +1302,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0325 -->
 
-*certes, fort distinct en son sens d’opposé au vrai* *...à notre « faut du temps » et à son « faillir », parce qu’il est le participe passé de « fallere »* *dont les deux verbes « faillir » et « falloir » proviennent chacun de son détour.*
+*certes, fort distinct en son sens d’opposé au vrai...à notre « faut du temps » et à son « faillir », parce qu’il est le participe passé de « fallere »* *dont les deux verbes « faillir » et « falloir » proviennent chacun de son détour.*
 
 <!-- id: s17-09-0326 -->
 
@@ -1346,7 +1346,7 @@ Eh bien on y va, et puis après ça on se quittera.
 
 <!-- id: s17-09-0336 -->
 
-> *d’une inflexion de désinence, d’un jeu d’interversion, d’un voisinage même pas tenu pour préconçu,* *...interroge le Livre par exemple sur ce qu’il n’a pu dire de l’enfance de Moïse.*
+> *d’une inflexion de désinence, d’un jeu d’interversion, d’un voisinage même pas tenu pour préconçu,...interroge le Livre par exemple sur ce qu’il n’a pu dire de l’enfance de Moïse.*
 
 <!-- id: s17-09-0337 -->
 

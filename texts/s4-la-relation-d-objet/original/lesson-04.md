@@ -577,7 +577,7 @@ Elle revient appuyée sur une canne, elle revient faible, elle n’a plus ni la 
 
 Et c’est à ce moment donc, dans un troisième temps très éloigné, que naît la découverte que grâce aux observateurs
 nous pouvons savoir, que l’œdipe vient non pas de l’*aphallicisme*, de la deuxième rupture dans le rythme de l’alternance
-de « *venue*-*être venue* » de la mère comme telle, *il a fallu* encore que la mère apparaisse comme quelqu’un qui pouvait manquer.
+de « *venue-être venue* » de la mère comme telle, *il a fallu* encore que la mère apparaisse comme quelqu’un qui pouvait manquer.
 Et son manque s’inscrit dans la réaction, dans le comportement de l’enfant, c’est-à-dire que l’enfant est très triste, *il a fallu* l’encourager. Il n’y avait pas de phobie. C’est quand elle revoit sa mère sous une forme débile, appuyée sur un bâton, malade, fatiguée, qu’éclate le lendemain *le rêve du chien* et le développement de la phobie.
 
 <!-- id: s4-04-0105 -->

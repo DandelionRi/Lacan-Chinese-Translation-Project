@@ -308,7 +308,7 @@ se targuer jusqu’à un certain point. Qu’est-ce que c’est ?
 
 Alors là ce n’est pas douteux : ce sont *des éléments signifiants.* Si une femme dit : « *Je tousse comme mon père* »
 ou « *Je me pousse du ventre ou du corps comme lui* », ce sont quand même là des éléments signifiants dont il s’agit,
-dirons-nous provisoirement. Plus exactement, pour dégager ce dont il s’agit, provi­soirement nous les désignerons d’*un terme spécial*, parce que ce ne sont pas des signi­fiants mis en jeu dans une chaîne signifiante, nous les appellerons « *les insignes du père* »*.* L’attitude *psychologique* montre ici à la surface ceci : c’est que le sujet en somme, pour appeler
+dirons-nous provisoirement. Plus exactement, pour dégager ce dont il s’agit, provi­soirement nous les désignerons d’*un terme spécial*, parce que ce ne sont pas des signi­fiants mis en jeu dans une chaîne signifiante, nous les appellerons « *les insignes du père* ». L’attitude *psychologique* montre ici à la surface ceci : c’est que le sujet en somme, pour appeler
 les choses par leur nom, se présente sous le masque qu’il pose sur ce quelque chose qui est le côté partiellement indifférencié qu’il y a dans tout sujet comme tel : il se pose *les insignes de la masculinité.*
 
 <!-- id: s5-16-0060 -->
@@ -319,7 +319,7 @@ de ce que devient dans la démarche, le désir d’où tout cela est parti ? Le 
 <!-- id: s5-16-0061 -->
 
 Ces insignes vont être employés vis-à-vis de qui ? Vis-à-vis de quelque chose de tiers, vis-à-vis de quelque chose
-dont on nous dira que cela prend - parce que l’expérience nous le montre - la place de ce qui, à la primitive évolution du *complexe d’Œdipe*, était à cette tierce place : c’est-à-dire la mère*.*
+dont on nous dira que cela prend - parce que l’expérience nous le montre - la place de ce qui, à la primitive évolution du *complexe d’Œdipe*, était à cette tierce place : c’est-à-dire la mère.
 
 <!-- id: s5-16-0062 -->
 

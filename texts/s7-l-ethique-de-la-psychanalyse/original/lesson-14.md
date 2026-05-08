@@ -118,7 +118,7 @@ C’est un savoir comme un autre, et à ce titre cela tombe dans le champ de l�
 
 <!-- id: s7-14-0029 -->
 
-J’ai donc cru devoir, devant une audience dont il me paraît qu’il n’est pas inutile que je l’aie affrontée, moins pour telle ou telle oreille que j’ai pu faire se dresser, ce qui reste toujours problématique et que seul l’avenir peut démontrer, mais qu’après tout cette audience - qui n’est pas hypothétique puisqu’elle a eu lieu - me permet devant vous, qui êtes une tout autre audience*,* de mettre en valeur *un certain nombre de traits* qui n’ont peut-être pas, pour vous, la même portée qu’ils peuvent avoir pour elle, mais dont il est tout de même nécessaire que vous voyiez comment devant une certaine audience qui représente un secteur important du domaine public, les choses peuvent être *présentées*.
+J’ai donc cru devoir, devant une audience dont il me paraît qu’il n’est pas inutile que je l’aie affrontée, moins pour telle ou telle oreille que j’ai pu faire se dresser, ce qui reste toujours problématique et que seul l’avenir peut démontrer, mais qu’après tout cette audience - qui n’est pas hypothétique puisqu’elle a eu lieu - me permet devant vous, qui êtes une tout autre audience, de mettre en valeur *un certain nombre de traits* qui n’ont peut-être pas, pour vous, la même portée qu’ils peuvent avoir pour elle, mais dont il est tout de même nécessaire que vous voyiez comment devant une certaine audience qui représente un secteur important du domaine public, les choses peuvent être *présentées*.
 
 <!-- id: s7-14-0030 -->
 

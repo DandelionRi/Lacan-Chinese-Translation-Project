@@ -106,7 +106,7 @@ On ne peut pas dire qu’il ait eu un succès dans la psychanalyse. Mais comme l
 
 <!-- id: s16-17-0025 -->
 
-Ce serait donc le terrorisme dégagé par mon enseignement qui ferait que si la psychanalyse française, après tout disons-le, mises à part quelques rares exceptions, ne s’est pas distinguée ni par une grande originalité, ni par une opposition *- à mon enseignement -* particulièrement efficace, ni non plus par une application du même, il n’en reste pas moins que certains discours sont impossibles en raison de cet enseignement, et qu’il faut vraiment *-* comme cela existe *-* résider dans un milieu où il est à proprement parler interdit même de feuilleter les quelques pages que j’en ai laissées *sortir*, pour que de pareils énoncés puissent se produire, qui je le répète, viendront bien vite à votre connaissance.
+Ce serait donc le terrorisme dégagé par mon enseignement qui ferait que si la psychanalyse française, après tout disons-le, mises à part quelques rares exceptions, ne s’est pas distinguée ni par une grande originalité, ni par une opposition *- à mon enseignement -* particulièrement efficace, ni non plus par une application du même, il n’en reste pas moins que certains discours sont impossibles en raison de cet enseignement, et qu’il faut vraiment - comme cela existe - résider dans un milieu où il est à proprement parler interdit même de feuilleter les quelques pages que j’en ai laissées *sortir*, pour que de pareils énoncés puissent se produire, qui je le répète, viendront bien vite à votre connaissance.
 
 <!-- id: s16-17-0026 -->
 
@@ -134,7 +134,7 @@ Que cette réflexion, cette constatation de ce qui est un effet essentiel et car
 
 <!-- id: s16-17-0032 -->
 
-Qu’est*-*ce que cela veut dire ? En quoi diable peut*-*on même considérer qu’il y ait une valeur inscrite sous ces trois mots ?
+Qu’est-ce que cela veut dire ? En quoi diable peut-on même considérer qu’il y ait une valeur inscrite sous ces trois mots ?
 
 <!-- id: s16-17-0033 -->
 
@@ -146,7 +146,7 @@ D’un premier abord, épelons :
 
 <!-- id: s16-17-0035 -->
 
-- si nous la considérons dans son rapport, disons*-*le vite comme ça, objectif, …bien sûr il n’y a pas la moindre liberté. L’idée de liberté de ce côté de la référence objective a tout de même un point vif autour de quoi il surgit, c’est *la fonction*, ou plus exactement *la notion* de *la norme*.
+- si nous la considérons dans son rapport, disons-le vite comme ça, objectif, …bien sûr il n’y a pas la moindre liberté. L’idée de liberté de ce côté de la référence objective a tout de même un point vif autour de quoi il surgit, c’est *la fonction*, ou plus exactement *la notion* de *la norme*.
 
 <!-- id: s16-17-0036 -->
 
@@ -260,7 +260,7 @@ L’idée de *fonction*, au sens mathématique…
 
 <!-- id: s16-17-0063 -->
 
-Pour autant que la théorie des mathématiques, je ne dirai pas *a abouti*, car déjà on se glisse plus avant, mais tenons-nous en à ce qui en fait l’équilibre de notre temps : *la théorie des ensembles*. Nous constatons que l’essentiel de *l’ordination numérique* y est réduit à ce qu’il est, à ses possibilités articulatoires, et est construit pour le dépouiller *-* *cet* *ordre numérique* *-* de tous ses privilèges idéaux ou idéalisables…
+Pour autant que la théorie des mathématiques, je ne dirai pas *a abouti*, car déjà on se glisse plus avant, mais tenons-nous en à ce qui en fait l’équilibre de notre temps : *la théorie des ensembles*. Nous constatons que l’essentiel de *l’ordination numérique* y est réduit à ce qu’il est, à ses possibilités articulatoires, et est construit pour le dépouiller - *cet* *ordre numérique* - de tous ses privilèges idéaux ou idéalisables…
 
 <!-- id: s16-17-0064 -->
 
@@ -302,7 +302,7 @@ La révolution, ou la subversion si vous voulez, du mouvement d’un savoir, car
 
 <!-- id: s16-17-0073 -->
 
-De ce côté*-*là, elle n’est libre, en effet, que du côté de l’utopie, de ce qui n’a aucun lieu dans le réel. Seulement, c’est peut*-*être un des intérêts du procès même que j’ai pris, c’est qu’assurément, ce discours a quelque chose à faire avec de la pensée.
+De ce côté-là, elle n’est libre, en effet, que du côté de l’utopie, de ce qui n’a aucun lieu dans le réel. Seulement, c’est peut-être un des intérêts du procès même que j’ai pris, c’est qu’assurément, ce discours a quelque chose à faire avec de la pensée.
 
 <!-- id: s16-17-0074 -->
 
@@ -322,15 +322,15 @@ Ce recul pris sur ce qu’il en est de deux versants de la connaissance, nous ap
 
 <!-- id: s16-17-0078 -->
 
-C’est dans le champ subjectif bien évidemment, et pour autant que *-* *si la chose était possible* *-*à l’occasion vous ayez à me répondre, que nous aurions à faire intervenir sans doute d’autres diversités.
+C’est dans le champ subjectif bien évidemment, et pour autant que - *si la chose était possible* -à l’occasion vous ayez à me répondre, que nous aurions à faire intervenir sans doute d’autres diversités.
 
 <!-- id: s16-17-0079 -->
 
-Premier plan d’abord, la notion du « *tous* ». Qu’est*-*ce qui, dans ce que je viens de dire, peut être accepté par tous ?
+Premier plan d’abord, la notion du « *tous* ». Qu’est-ce qui, dans ce que je viens de dire, peut être accepté par tous ?
 
 <!-- id: s16-17-0080 -->
 
-Est*-*ce que ce « *tous* » a un sens ? Nous retrouverons là la même opposition.
+Est-ce que ce « *tous* » a un sens ? Nous retrouverons là la même opposition.
 
 <!-- id: s16-17-0081 -->
 
@@ -350,7 +350,7 @@ Ici HEGEL est un repère qui n’est pas simplement commode mais essentiel. Dans
 
 <!-- id: s16-17-0085 -->
 
-Seulement ce qu’il ajoute à DESCARTES, c’est que *quelque chose varie dans ce « Je sais que je pense »* et c’est le point où je suis. Cela *-* j’allais dire « *par définition* » *-* dans HEGEL, je ne le sais pas. L’illusion, c’est que « *je suis où je pense* ». La *liberté de pensée* ici, ce n’est rien d’autre que ceci : que ce que HEGEL m’interdit bien de penser, c’est que *je suis où je veux*. À cet égard, ce que HEGEL révèle, c’est qu’il n’y a pas la moindre liberté de pensée. Il faudra le temps de l’histoire pour qu’à la fin je pense à la bonne place, à la place où je serait devenu *savoir*. Mais à ce moment là, *il n’y a absolument plus besoin de pensée*.
+Seulement ce qu’il ajoute à DESCARTES, c’est que *quelque chose varie dans ce « Je sais que je pense »* et c’est le point où je suis. Cela - j’allais dire « *par définition* » - dans HEGEL, je ne le sais pas. L’illusion, c’est que « *je suis où je pense* ». La *liberté de pensée* ici, ce n’est rien d’autre que ceci : que ce que HEGEL m’interdit bien de penser, c’est que *je suis où je veux*. À cet égard, ce que HEGEL révèle, c’est qu’il n’y a pas la moindre liberté de pensée. Il faudra le temps de l’histoire pour qu’à la fin je pense à la bonne place, à la place où je serait devenu *savoir*. Mais à ce moment là, *il n’y a absolument plus besoin de pensée*.
 
 <!-- id: s16-17-0086 -->
 
@@ -358,19 +358,19 @@ Je me livre à un exercice assez fou devant vous parce qu’il est évident que,
 
 <!-- id: s16-17-0087 -->
 
-> *c’est comme ça qu’il le définit tout au moins, c’est le maître mythique* …ce qui arrive quand il pense, c’est*-*à*-*dire quand il met sa « *maîtrise* » dans l’étrangeté du langage : il entre peut*-*être dans la pensée mais assurément c’est le moment où il perd sa liberté.
+> *c’est comme ça qu’il le définit tout au moins, c’est le maître mythique* …ce qui arrive quand il pense, c’est-à-dire quand il met sa « *maîtrise* » dans l’étrangeté du langage : il entre peut-être dans la pensée mais assurément c’est le moment où il perd sa liberté.
 
 <!-- id: s16-17-0088 -->
 
-Que pour *l’esclave*, en tant que conscience vile, c’est lui qui *réalise l’Histoire*. Dans le travail, sa pensée à chaque temps est *serve* du pas qu’il a à faire pour accéder au mode de l’état où se réalise *-* quoi ? *-* la domination du savoir. *La fascination de* HEGEL est presque impossible à défaire. Il n’y a que certaines personnes de mauvaise foi qui considèrent que j’ai promu *l’hégelianisme* à l’intérieur du débat freudien. Néanmoins n’imaginez pas que je pense que de HEGEL on vient à bout comme ça.
+Que pour *l’esclave*, en tant que conscience vile, c’est lui qui *réalise l’Histoire*. Dans le travail, sa pensée à chaque temps est *serve* du pas qu’il a à faire pour accéder au mode de l’état où se réalise - quoi ? - la domination du savoir. *La fascination de* HEGEL est presque impossible à défaire. Il n’y a que certaines personnes de mauvaise foi qui considèrent que j’ai promu *l’hégelianisme* à l’intérieur du débat freudien. Néanmoins n’imaginez pas que je pense que de HEGEL on vient à bout comme ça.
 
 <!-- id: s16-17-0089 -->
 
-Cette notion que la vérité de la pensée est ailleurs qu’en elle-même, et à chaque instant nécessitée de la relation du sujet au savoir, et que ce savoir lui*-*même est conditionné par un certain nombre de *temps nécessaires*, est une grille dont assurément nous ne pouvons que sentir à tout instant l’applicabilité, à tous les détours de notre expérience. Elle est d’une valeur d’exercice, d’une valeur formatrice exemplaire.
+Cette notion que la vérité de la pensée est ailleurs qu’en elle-même, et à chaque instant nécessitée de la relation du sujet au savoir, et que ce savoir lui-même est conditionné par un certain nombre de *temps nécessaires*, est une grille dont assurément nous ne pouvons que sentir à tout instant l’applicabilité, à tous les détours de notre expérience. Elle est d’une valeur d’exercice, d’une valeur formatrice exemplaire.
 
 <!-- id: s16-17-0090 -->
 
-Il faut vraiment faire un effort de désordination, de réveil véritable pour nous demander comment, si peu que je sache, il y a ce retard qui fait qu’il me faudrait penser pour savoir. Et si l’on regarde de plus près, on s’interroge : qu’est*-*ce que ça a à faire, l’articulation du savoir effectif, avec le mode sous lequel je pense ma liberté, c’est*-*à*-*dire « *je suis où je veux* »?
+Il faut vraiment faire un effort de désordination, de réveil véritable pour nous demander comment, si peu que je sache, il y a ce retard qui fait qu’il me faudrait penser pour savoir. Et si l’on regarde de plus près, on s’interroge : qu’est-ce que ça a à faire, l’articulation du savoir effectif, avec le mode sous lequel je pense ma liberté, c’est-à-dire « *je suis où je veux* »?
 
 <!-- id: s16-17-0091 -->
 
@@ -378,7 +378,7 @@ Il est clair, de la démonstration de HEGEL, que je ne puis pas penser que « *
 
 <!-- id: s16-17-0092 -->
 
-Et à ce moment*-*là apparaît *cette chose étrange* que dans HEGEL…
+Et à ce moment-là apparaît *cette chose étrange* que dans HEGEL…
 
 <!-- id: s16-17-0093 -->
 
@@ -386,15 +386,15 @@ Et à ce moment*-*là apparaît *cette chose étrange* que dans HEGEL…
 
 <!-- id: s16-17-0094 -->
 
-Dès lors il est clair que d’où HEGEL le détecte*-*t*-*il sinon de son savoir, entendons du savoir de son temps, de son époque, de ce savoir scientifique tel que KANT en a fait le bilan : du savoir newtonien. Disons*-*le d’un mot pour ceux qui entendent : de ce savoir*-*limite qui marque l’apogée et la fin de la théologie.
+Dès lors il est clair que d’où HEGEL le détecte-t-il sinon de son savoir, entendons du savoir de son temps, de son époque, de ce savoir scientifique tel que KANT en a fait le bilan : du savoir newtonien. Disons-le d’un mot pour ceux qui entendent : de ce savoir-limite qui marque l’apogée et la fin de la théologie.
 
 <!-- id: s16-17-0095 -->
 
-La différence entre HEGEL et FREUD est ceci : la pensée n’est pas seulement la question posée sur *la vérité du savoir*… ce qui est déjà beaucoup et essentiel du pas hégelien …*la pensée* *-* dit FREUD *-* *barre l’accès à un savoir*.
+La différence entre HEGEL et FREUD est ceci : la pensée n’est pas seulement la question posée sur *la vérité du savoir*… ce qui est déjà beaucoup et essentiel du pas hégelien …*la pensée* - dit FREUD - *barre l’accès à un savoir*.
 
 <!-- id: s16-17-0096 -->
 
-Ai*-*je besoin de rappeler ce dont il s’agit *dans l’inconscient*, c’est à savoir *comment on a pensé le premier accès à un savoir* ?
+Ai-je besoin de rappeler ce dont il s’agit *dans l’inconscient*, c’est à savoir *comment on a pensé le premier accès à un savoir* ?
 
 <!-- id: s16-17-0097 -->
 
@@ -402,11 +402,11 @@ Le *Selbstbewusstsein* de HEGEL, c’est le « *je sais que je pense* ».
 
 <!-- id: s16-17-0098 -->
 
-Le *trauma* freudien, c’est un « *je ne sais pas* » lui*-*même *impensable* puisqu’il suppose un « *je pense* » démantelé de toute pensée.
+Le *trauma* freudien, c’est un « *je ne sais pas* » lui-même *impensable* puisqu’il suppose un « *je pense* » démantelé de toute pensée.
 
 <!-- id: s16-17-0099 -->
 
-Le point*-*origine - non pas à entendre génétiquement mais structuralement - quand il s’agit de comprendre l’inconscient, c’est que c’est en ce point nodal d’un savoir défaillant que naît, sous la forme donc de ce qui peut s’appeler…
+Le point-origine - non pas à entendre génétiquement mais structuralement - quand il s’agit de comprendre l’inconscient, c’est que c’est en ce point nodal d’un savoir défaillant que naît, sous la forme donc de ce qui peut s’appeler…
 
 <!-- id: s16-17-0100 -->
 
@@ -414,7 +414,7 @@ Le point*-*origine - non pas à entendre génétiquement mais structuralement - 
 
 <!-- id: s16-17-0101 -->
 
-Aussi bien ai*-*je dès longtemps marqué à la ligne supérieure de mon graphe « *il ne savait pas* » à propos du rêve célèbre du « *Il ne savait pas qu’il était mort* ». Le « *il ne savait pas* » comme la mise en question de l’*énonciation* comme telle du sujet divisé à l’origine, c’est cela qui fait la dimension du désir être celle du « *désir de l’Autre* ».
+Aussi bien ai-je dès longtemps marqué à la ligne supérieure de mon graphe « *il ne savait pas* » à propos du rêve célèbre du « *Il ne savait pas qu’il était mort* ». Le « *il ne savait pas* » comme la mise en question de l’*énonciation* comme telle du sujet divisé à l’origine, c’est cela qui fait la dimension du désir être celle du « *désir de l’Autre* ».
 
 <!-- id: s16-17-0102 -->
 

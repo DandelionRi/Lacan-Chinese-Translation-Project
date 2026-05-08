@@ -437,7 +437,7 @@ car ce qui établit la relation d’amour, c’est que ce don est donné si l’
 
 <!-- id: s4-08-0086 -->
 
-Le « *rien pour rien* » qui est le principe de l’échange est une formule - comme toute formule où intervient le *rien* - ambigue*.*
+Le « *rien pour rien* » qui est le principe de l’échange est une formule - comme toute formule où intervient le *rien* - ambigue.
 
 <!-- id: s4-08-0087 -->
 

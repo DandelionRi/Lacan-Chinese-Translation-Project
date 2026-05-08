@@ -20,7 +20,7 @@ je dis : par son phénomène, mais aussi par la place que je vais vous apprend
 Brièvement, je veux vous signaler que va bientôt paraître quelque chose que j’ai pris la peine de rédiger d’une intervention,
 d’une communication, que j’ai faite il y a maintenant plus de deux ans, c’était le 2 l septembre 60,
 à une réunion hégelienne de Royaumont, pour laquelle j’avais choisi de traiter le sujet suivant :
-*Subversion du sujet et dialectique du désir dans l’inconscient freudien* [^28]*.*
+*Subversion du sujet et dialectique du désir dans l’inconscient freudien* [^28].
 
 <!-- id: s10-04-0004 -->
 
@@ -312,7 +312,7 @@ nous allons l’appeler de son nom, c’est ça qui s’appelle *heim  *:
 Si vous voulez, disons que si ce mot a un sens dans l’expé­rience humaine, c’est là « *la maison de l’homme* ».
 Donnez à ce mot « *maison* » toutes les résonances que vous voudrez, y compris astrologiques.
 L’homme trouve sa maison en un point situé dans l’Autre \[***i’**(a)*\], au-delà de *l’image* \[*réelle*\]dont nous sommes faits \[***i**(a)*\],
-et cette place \[***i’**(a)*\] représente l’*absence* où nous sommes*.*
+et cette place \[***i’**(a)*\] représente l’*absence* où nous sommes.
 
 <!-- id: s10-04-0063 -->
 
@@ -426,7 +426,7 @@ que les 2 façons dont j’ai écrit les rapports du S avec le *(a)...*
 
 <!-- id: s10-04-0082 -->
 
-Chez le pervers les choses sont - si je puis dire pour m’expri­mer grossièrement, me faire entendre *-* à leur place :
+Chez le pervers les choses sont - si je puis dire pour m’expri­mer grossièrement, me faire entendre - à leur place :
 
 <!-- id: s10-04-0083 -->
 
@@ -522,7 +522,7 @@ C’est bien pourquoi le névrosé de son fantasme n’en fait jamais grand-chos
 
 <!-- id: s10-04-0102 -->
 
-C’est la fonction que dès longtemps je vous ai illustrée du « *rêve de la belle bouchère* »*.*
+C’est la fonction que dès longtemps je vous ai illustrée du « *rêve de la belle bouchère* ».
 *« La belle bouchèr »e* aime le caviar bien sûr, seulement elle n’en veut pas,
 elle n’en veut pas parce que ça pourrait bien faire trop plaisir à sa grosse brute de mari,
 qui est capable de bouffer ça avec le reste, c’est même pas ça qui l’arrêtera.
@@ -769,7 +769,7 @@ mais jus­tement *présence* de ceci : que les objets ça ne manque pas !
 <!-- id: s10-04-0147 -->
 
 Et pour passer à l’étape suivante, celle de l’amour du *surmoi* avec tout ce qu’il est censé poser dans *la voie* dite *de l’échec*,
-qu’est-ce que ça veut dire sinon que ce qui est craint, c’est *la réussite*, c’est toujours *le « ça* *ne manque pas* »*.*
+qu’est-ce que ça veut dire sinon que ce qui est craint, c’est *la réussite*, c’est toujours *le « ça* *ne manque pas* ».
 
 <!-- id: s10-04-0148 -->
 
@@ -794,6 +794,7 @@ est donc à situer entre *trois thèmes* que vous avez vu dessiner dans mon disc
 <!-- id: s10-04-0152 -->
 
 - le 3<sup>ème</sup> n’a pu être entendu que par les oreilles les plus fines, c’est celui-ci : cette *sorte de désir* qui se manifeste dans l’*interprétation*, dont l’incidence même de l’analyste dans la cure est la forme la plus exemplaire et la plus énigmatique, celle qui me fait depuis longtemps poser pour vous, la question : que représente, dans cette écono­mie essentielle du désir, cette sorte privilégiée de désir que j’appelle *le désir de l’analyste* ?
+
 ## Notes
 
 [^28]: Écrits p. 793 (ou t.2 p. 273).

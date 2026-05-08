@@ -42,7 +42,7 @@ au niveau des problèmes, spécialement l’année dernière, de l’*angoisse* 
 
 <!-- id: s11-02-0006 -->
 
-Ils saisiront, je pense, ceux-là - je m’excuse d’être aussi abrégé, elliptique, allusif *-* ils saisiront la saveur du fait qu’ARAGON
+Ils saisiront, je pense, ceux-là - je m’excuse d’être aussi abrégé, elliptique, allusif - ils saisiront la saveur du fait qu’ARAGON
 dans cette œuvre admirable où je suis fier de trouver l’écho des goûts de notre génération, celle qui fait que je suis forcé
 de me reporter à mes camarades du même âge que moi pour pouvoir encore m’entendre sur ce poème d’ARAGON,
 qu’il fait suivre de ces lignes énigmatiques :
@@ -141,7 +141,7 @@ C’est par rapport à ces deux termes : *le sujet* et *le réel*, que nous ser
 <!-- id: s11-02-0026 -->
 
 Je prends d’abord le concept de *l’inconscient*. La majorité de cette assemblée se rappelle ou a quelques notions de ce *que j’ai avancé ceci* : « *L’inconscient est structuré comme un langage* ». Une part peut-être moins large mais aussi très importante de mes auditeurs ici aujourd’hui, *et mon audience ordinaire*, sait bien que ceci se rapporte à un certain champ, qui nous est beaucoup plus *accessible*,
-beaucoup plus ouvert, qu’au temps de FREUD. Et que, pour l’illustrer par quelque chose qui est matérialisé assu­rément sur un plan scientifique, je l’illustrerai par exemple par ce champ - je ne vais pas le cerner *ce champ* *qu’explore, structure, élabore* et qui se montre déjà infiniment riche - ce champ que Claude LÉVI-STRAUSS a épinglé du titre de *Pensée sauvage* [^10]*.*
+beaucoup plus ouvert, qu’au temps de FREUD. Et que, pour l’illustrer par quelque chose qui est matérialisé assu­rément sur un plan scientifique, je l’illustrerai par exemple par ce champ - je ne vais pas le cerner *ce champ* *qu’explore, structure, élabore* et qui se montre déjà infiniment riche - ce champ que Claude LÉVI-STRAUSS a épinglé du titre de *Pensée sauvage* [^10].
 
 <!-- id: s11-02-0027 -->
 
@@ -281,7 +281,7 @@ Ce qu’il trouve c’est *quelque chose de l’ordre du non réalisé*. On parl
 
 <!-- id: s11-02-0054 -->
 
-Que le refoulement y déverse quelque chose, ça n’est pas étonnant, c’est le rap­port *aux limbes de la « faiseuse d’anges »*. Cette dimension est à évoquer dans ce registre qui n’est ni d’*irréel* ni de *dé-réel* : de *non-réalisé*. Ce n’est jamais sans danger, après tout, qu’on fait remuer quelque chose dans *cette zone des larves*, et peut-être, après tout, est-il de *la position de l’analyste*, s’il y est vraiment, de devoir être assiégé - je veux dire : réellement - par ceux chez qui il a évoqué *ce monde des larves* [^14] \[[*spectres*](http://www.cnrtl.fr/definition/larves)\]*,* sans avoir pu toujours les mener jusqu’au jour.
+Que le refoulement y déverse quelque chose, ça n’est pas étonnant, c’est le rap­port *aux limbes de la « faiseuse d’anges »*. Cette dimension est à évoquer dans ce registre qui n’est ni d’*irréel* ni de *dé-réel* : de *non-réalisé*. Ce n’est jamais sans danger, après tout, qu’on fait remuer quelque chose dans *cette zone des larves*, et peut-être, après tout, est-il de *la position de l’analyste*, s’il y est vraiment, de devoir être assiégé - je veux dire : réellement - par ceux chez qui il a évoqué *ce monde des larves* [^14] \[[*spectres*](http://www.cnrtl.fr/definition/larves)\], sans avoir pu toujours les mener jusqu’au jour.
 
 <!-- id: s11-02-0055 -->
 
@@ -378,11 +378,11 @@ Vous m’accorderez que l’*un* qui est introduit par l’expérience de l’in
 
 <!-- id: s11-02-0072 -->
 
-- disons, si vous voulez, que ce n’est pas un *Un* \[*unifiant*\], que c’est l’1 \[*du trait*\] de l’*Unbewusste* \[*inconscient*\]*,*
+- disons, si vous voulez, que ce n’est pas un *Un* \[*unifiant*\], que c’est l’1 \[*du trait*\] de l’*Unbewusste* \[*inconscient*\],
 
 <!-- id: s11-02-0073 -->
 
-- disons que la limi­te de l’*Unbewusste,* c’est l’*Unbegriff* \[*begriff : concept*\] non pas *non*-*concept*, mais « *concept du manque »*.
+- disons que la limi­te de l’*Unbewusste,* c’est l’*Unbegriff* \[*begriff : concept*\] non pas *non-concept*, mais « *concept du manque »*.
 
 <!-- id: s11-02-0074 -->
 
@@ -418,7 +418,7 @@ Vous verrez :
 
 <!-- id: s11-02-0082 -->
 
-- *Oblīvium,* c’est ce qui efface : le rapport de *l’oubli* avec *l’effacement de quelque chose qui est le signifiant comme tel* \[S**<sub>1</sub>**\].
+- *Oblīvium,* c’est ce qui efface : le rapport de *l’oubli* avec *l’effacement de quelque chose qui est le signifiant comme tel* \[S<sub>1</sub>\].
 
 <!-- id: s11-02-0083 -->
 
@@ -439,7 +439,7 @@ Et pour reprendre un exemple jamais assez exploité, celui qui est le premier su
 <!-- id: s11-02-0086 -->
 
 Est-il possible de ne pas voir surgir du texte même, s’imposer, non pas *la métaphore*, mais la réalité de *la disparition*, de *la suppression*,
-de l’« *Unterdrückung »,* du passage dans les dessous - et impossible de le retrouver ! - du terme de « *Signor* »*,* du *Herr.*
+de l’« *Unterdrückung »,* du passage dans les dessous - et impossible de le retrouver ! - du terme de « *Signor* », du *Herr.*
 Le *Signor,* le *Herr, le maître absolu*, ai-je dit en un temps, la mort pour tout dire, est là disparue. Mais aussi bien ne voyons-nous pas,
 là derrière, se profiler tout ce qui nécessite FREUD à trouver dans les mythes de la mort du père, la régulation de son désir ?
 
@@ -470,6 +470,7 @@ Ici, nous nous référons à ce qu’a été effectivement sa relation à la fem
 <!-- id: s11-02-0091 -->
 
 J’ai décidé d’arrêter toujours à point nommé : deux heures moins vingt, mon séminaire. Vous le voyez, je n’ai pas clos aujourd’hui ce qu’il en est de la fonction de *l’inconscient*. Restons donc un peu avant les termes que j’avais donnés à ce que j’espérais boucler : *l’inconscient*. Aujourd’hui je n’ai point abordé *la répétition*. Ce que j’ai à dire sur *l’inconscient* se lie étroitement à ce qu’il en sera de notre abord du second concept de *la répétition* la prochaine fois.
+
 ## Notes
 
 [^7]: Cf. Séminaire 1962-63 : L’Angoisse, Paris, Seuil, 2004.

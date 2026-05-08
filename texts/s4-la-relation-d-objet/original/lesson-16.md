@@ -130,7 +130,7 @@ toute *la relation actéonesque* à laquelle je fais allusion à la fin d’un t
 
 <!-- id: s4-16-0023 -->
 
-Mais inversement il y a aussi cette autre face de ce mot* *:
+Mais inversement il y a aussi cette autre face de ce mot:
 s’il y a *une surprise* \[1<sup>er</sup> sens : surprendre quelqu’un\], ce n’est pas de l’étonnement qu’il éprouve, mais par contre *être surpris* c’est bien
 quelque chose qui se produit par une découverte inattendue, et l’usage du terme *surprise*, vous avez pu…
 ceux qui assistaient à ma présentation de malades, chez un de nos patients transsexua­liste

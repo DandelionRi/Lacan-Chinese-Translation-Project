@@ -353,7 +353,7 @@ que nous ayons de Léonard DE VINCI, à savoir ce souvenir d’enfance qui nous 
 
 \[« *Questo scriver si distintamente del nibio par che sia mio destino, perche nella mia prima ricordaiione délla mia infantta e mi parea che essendo*
 *io in culla, che un nibio venissi a me e mi aprissi la bocca colla sua coda e molte volte mi percuotessi con tal coda dentro alle labbra.* »
-folio 66 v.b. Codex atlanticus*.*\]
+folio 66 v.b. Codex atlanticus.\]
 
 <!-- id: s4-24-0064 -->
 
@@ -411,7 +411,7 @@ que Léonard très probablement n’a pas eu, jusqu’à un âge pro­bablement 
 
 Or disons le tout de suite, il est arrivé certainement dans cette affaire ce qu’on peut appeler un accident, voire *une faute*, *mais c’est une heureuse faute* : FREUD n’a lu ce souvenir d’enfance, et ne s’est fondé pour son travail, que sur la citation du passage dans HERZFELD, c’est-à-dire qu’il l’a lu en allemand, et que HERZFELD *a traduit par « vautour » ce qui n’est pas un vautour du tout*.
 Nous verrons que peut-être d’ailleurs, FREUD aurait pu avoir un soupçon car il a fait comme d’habitude son travail
-avec le plus grand soin, et il aurait pu remarquer *l’erreur* car ces choses sont traduites avec les références aux pages des *manuscrits*, dans l’occasion du *Codex Atlanticus***,** c’est-à-dire d’un dossier de Léonard DE VINCI qui est à Milan.
+avec le plus grand soin, et il aurait pu remarquer *l’erreur* car ces choses sont traduites avec les références aux pages des *manuscrits*, dans l’occasion du *Codex Atlanticus**,* c’est-à-dire d’un dossier de Léonard DE VINCI qui est à Milan.
 
 <!-- id: s4-24-0075 -->
 
@@ -603,7 +603,7 @@ de ce que nous apporte en cette occasion, FREUD.
 
 *Que l’enfant soit lié à une mère qui d’autre part est quelqu’un qui est lié sur le plan imaginaire à ce phallus en tant que manque, voilà la relation*
 *que FREUD introduit comme essentielle*, qui se distingue absolument de tout ce que FREUD a pu dire jusque là
-sur le rapport de la femme et du *phallus*. Et c’est à partir de là, c’est dans cette originalité de la structure qui est *-* vous le voyez *-* celle autour de laquelle j’ai fait tourner cette année toute critique fon­damentale de *la relation d’objet* en tant qu’elle est destinée
+sur le rapport de la femme et du *phallus*. Et c’est à partir de là, c’est dans cette originalité de la structure qui est - vous le voyez - celle autour de laquelle j’ai fait tourner cette année toute critique fon­damentale de *la relation d’objet* en tant qu’elle est destinée
 à instituer une certaine relation stable entre les sexes, fondée sur *un certain rapport symbolique*.
 
 <!-- id: s4-24-0111 -->
@@ -661,12 +661,12 @@ Tout ceci ne nous éclaire guère sur ce que peut représenter véritablement co
 L’intérêt *d’une observation* comme celle de Léonard DE VINCI, telle qu’elle est articulée par FREUD, c’est que nous pouvons
 y prendre quelques idées, tout au moins amorcer quelque chose qui peut nous permettre de poser le terme où on aurait
 quelque chose de plus structuré que la notion « *d’un instinct qui se désinstinctualise* », voire d’un objet qui, comme on dit,
-devient plus sublime, car il semblerait que ce soit cela qui soit le *Saft* \[suc, sève\] de *la sublimation***.**
+devient plus sublime, car il semblerait que ce soit cela qui soit le *Saft* \[suc, sève\] de *la sublimation**.*
 
 <!-- id: s4-24-0122 -->
 
 Léonard DE VINCI a été lui-même l’objet d’une idéalisation sinon d’une sublimation qui a commencé de son vivant et qui tend à en faire une espèce de « *génie universel »*, et assurément aussi bien de précurseur étonnant de la pensée moderne pour certains,
-et même des critiques fort érudits comme ceux qui ont commencé, comme FREUD d’ailleurs*,* à débroussailler le problème, comme d’autres sur d’autres plans : DUHEM par exemple dit que Léonard DE VINCI avait entrevu la loi de la chute des corps, ou même le principe de l’inertie. Un examen un tant soit peu serré du point de vue de l’histoire des sciences,
+et même des critiques fort érudits comme ceux qui ont commencé, comme FREUD d’ailleurs, à débroussailler le problème, comme d’autres sur d’autres plans : DUHEM par exemple dit que Léonard DE VINCI avait entrevu la loi de la chute des corps, ou même le principe de l’inertie. Un examen un tant soit peu serré du point de vue de l’histoire des sciences,
 et qui peut être fait avec méthode, montre qu’il n’en est rien.
 
 <!-- id: s4-24-0123 -->
@@ -693,7 +693,7 @@ je pense que vous en avez tous assez retenu de votre enseignement secon­daire, 
 
 <!-- id: s4-24-0127 -->
 
-Je fais allusion là à une partie de ce qu’il nous a laissé, comme cette œuvre d’ingénieur à proprement parler, qui a tellement étonné*,* intéressé, voire fasciné*,* aussi bien les contemporains que les générations successives. Ce sont des choses très souvent extraordinairement en avance en effet sur son temps, mais qui bien entendu ne peuvent pas dépasser certaines limites
+Je fais allusion là à une partie de ce qu’il nous a laissé, comme cette œuvre d’ingénieur à proprement parler, qui a tellement étonné, intéressé, voire fasciné, aussi bien les contemporains que les générations successives. Ce sont des choses très souvent extraordinairement en avance en effet sur son temps, mais qui bien entendu ne peuvent pas dépasser certaines limites
 qui sont encore non franchies, quant à l’utilisation, l’entrée vivante, si on peut dire, des mathé­matiques dans l’ordre de l’analyse des phénomènes du *réel*. Autrement dit, ce qu’il nous apporte est souvent absolument admirable, je veux dire d’inventivité,
 de construction, de créativité, et c’est déjà bien assez de voir par exemple l’élégance avec laquelle il détermine les théorèmes
 qui peuvent servir de base à l’évaluation du changement progressif de l’instance d’une force attachée à un corps *circum mobile*, c’est-à-dire qui peut tourner autour d’un axe.
@@ -830,7 +830,7 @@ C’est là aussi du côté de ce quelque chose qui est son destin et son sacrif
 
 Même FREUD n’a pas cru un seul instant que le thème : *Anne, la Vierge, l’enfant avec le quart personnage* qui est introduit ici,
 fût une invention exclusive de Léonard DE VINCI. Sans aucun doute le quart personnage pose un problème dans l’histoire des motifs religieux qui est assez spécifique de Léonard DE VINCI, mais pour le fait de la représentation ensemble
-de la *Sainte Anne, de la Vierge et de l’enfant,* il suffit d’avoir la moindre notion*,* historiquement, de ce qui s’est passé à cette époque, il suffit d’avoir lu un petit peu n’importe quelle histoire pour savoir que c’est précisément dans ces années entre 1485 et 1510
+de la *Sainte Anne, de la Vierge et de l’enfant,* il suffit d’avoir la moindre notion, historiquement, de ce qui s’est passé à cette époque, il suffit d’avoir lu un petit peu n’importe quelle histoire pour savoir que c’est précisément dans ces années entre 1485 et 1510
 que *le culte de Sainte Anne* a été promu dans la chrétienté, comme un degré d’élévation lié à toute la *critique dogmatique* autour
 de *l’Immaculée Conception de la Vierge*, qui en a fait à proprement parler à ce moment là l’issue d’un thème de la spiritualité
 et de bien autre chose que de la spiritualité, puisque c’était l’époque de la campagne des « *indulgences* » et du déferlement
@@ -840,7 +840,7 @@ et moyennant l’achat de quoi, on avait quelques dix mille, voire vingt mille a
 <!-- id: s4-24-0150 -->
 
 Ce n’est pas un thème qu’a *inventé* Léonard DE VINCI, ni non plus dont FREUD ait imputé l’invention à Léonard DE VINCI. Il n’y a que Monsieur Ernst KRIS pour dire que Léonard a été le seul à représenter pareil trio, alors qu’il aurait suffit d’ouvrir FREUD pour voir simplement le thème de ce tableau repré­senté dans FREUD avec le titre : *Anna Selbstdritt,* c’est-à-dire :
-*Anna soi-troisième, la trinité.* C’est la même chose en italien *: Anna soi-trois, Anna Metterza**.***
+*Anna soi-troisième, la trinité.* C’est la même chose en italien *: Anna soi-trois, Anna Metterza.*
 
 <!-- id: s4-24-0151 -->
 

@@ -122,7 +122,7 @@ Au niveau d’ARISTOTE, tout repose sur ceci, qui est désigné dans quelque cho
 
 <!-- id: s15-12-0030 -->
 
-> « *Quelque homme est un animal* »*.*
+> « *Quelque homme est un animal* ».
 
 <!-- id: s15-12-0031 -->
 
@@ -216,7 +216,7 @@ Alors, je passe au niveau de *la logique des quantificateurs* et je me permets, 
 
 > naturellement, quand vous ouvrirez des bouquins là-dessus, vous vous y retrouverez avec ce que je vous dis,
 >
-> vous pourrez bien sûr voir que ça peut être abordé de mille autres façons, mais l’essentiel, c’est que vous voyiez que c’est ça le fil principal, au moins pour ce qui nous intéresse …que *l’universelle* - du moins *affirmative* - doit s’énoncer ainsi : « *pas d’homme qui ne soit sage* »*.*
+> vous pourrez bien sûr voir que ça peut être abordé de mille autres façons, mais l’essentiel, c’est que vous voyiez que c’est ça le fil principal, au moins pour ce qui nous intéresse …que *l’universelle* - du moins *affirmative* - doit s’énoncer ainsi : « *pas d’homme qui ne soit sage* ».
 
 <!-- id: s15-12-0052 -->
 
@@ -248,7 +248,7 @@ Il importe que vous voyiez dans quel ordre les choses vont se présenter. Metton
 
 <!-- id: s15-12-0059 -->
 
-Comment, dans notre articulation quantificatrice, « *quelque homme est sage* » va-t- il pouvoir s’exprimer ? J’avais dit d’abord : « *Pas d’homme qui ne soit sage* ». Nous articulons maintenant : «* Il est homme qui soit sage * » ou «* Homme qui soit sage* » mais ce « *homme* » qui resterait suspendu en l’air, nous le supportons comme il convient d’un « *il est* », de même que 
+Comment, dans notre articulation quantificatrice, « *quelque homme est sage* » va-t- il pouvoir s’exprimer ? J’avais dit d’abord : « *Pas d’homme qui ne soit sage* ». Nous articulons maintenant : «* Il est homme qui soit sage * » ou «* Homme qui soit sage* » mais ce « *homme* » qui resterait suspendu en l’air, nous le supportons comme il convient d’un « *il est* », de même que
 
 <!-- id: s15-12-0060 -->
 
@@ -356,7 +356,7 @@ Vous avez pu remarquer que le « *pas* », nous nous en sommes jusqu’à prése
 
 <!-- id: s15-12-0086 -->
 
-« *Il est homme tel qu’il soit -* par exemple - *pas sage* »*.* Ça n’a pas d’inconvénient, ça veut dire pareil : il y en a toujours qui ne sont pas sages. Méfions-nous : ce « *pas sage* » pourrait bien nous servir de *passage* vers quelque chose d’un peu inattendu.
+« *Il est homme tel qu’il soit -* par exemple - *pas sage* ». Ça n’a pas d’inconvénient, ça veut dire pareil : il y en a toujours qui ne sont pas sages. Méfions-nous : ce « *pas sage* » pourrait bien nous servir de *passage* vers quelque chose d’un peu inattendu.
 
 <!-- id: s15-12-0087 -->
 
@@ -368,7 +368,7 @@ Venons-en au « *pas sage* » et revenons en diagonale à A, *l’universelle af
 
 <!-- id: s15-12-0089 -->
 
-> « *Pas d’homme tel qu’il ne soit pas sage* »*.*
+> « *Pas d’homme tel qu’il ne soit pas sage* ».
 
 <!-- id: s15-12-0090 -->
 
@@ -452,11 +452,11 @@ C’est de masquer quelque chose qui est justement la fissure très fine, et tou
 
 <!-- id: s15-12-0109 -->
 
-Par contre si vous voulez rester au niveau de mon « *Tout homme est sage* », voilà la formule : ( h v s ), avec le signe de *disjonction* « v » que j’avais déjà mis l’autre fois au tableau, formule à laquelle, selon les logiciens qui ont introduit la quantification, il suffirait d’ajouter le Π du πᾶν \[pan\] ou le Σ pour en faire une *proposition universelle* ou *particulière* : Π(h v s) et qui voudrait dire que, en somme ce à quoi nous avons affaire, c’est à la disjonction de « *pas homme* » et de ce s. Cela veut dire que si nous choisissons le contraire du « *pas homme* »*,* c’est-à-dire « *l’homme* »*,* nous avons la disjonction : « *il est sage* », soit *dans tous les cas*, soit *dans certains cas particuliers*.
+Par contre si vous voulez rester au niveau de mon « *Tout homme est sage* », voilà la formule : ( h v s ), avec le signe de *disjonction* « v » que j’avais déjà mis l’autre fois au tableau, formule à laquelle, selon les logiciens qui ont introduit la quantification, il suffirait d’ajouter le Π du πᾶν \[pan\] ou le Σ pour en faire une *proposition universelle* ou *particulière* : Π(h v s) et qui voudrait dire que, en somme ce à quoi nous avons affaire, c’est à la disjonction de « *pas homme* » et de ce s. Cela veut dire que si nous choisissons le contraire du « *pas homme* », c’est-à-dire « *l’homme* », nous avons la disjonction : « *il est sage* », soit *dans tous les cas*, soit *dans certains cas particuliers*.
 
 <!-- id: s15-12-0110 -->
 
-Si nous prenons la négation du *sage,* c’est-à-dire si nous renonçons au *sage,* nous sommes de l’autre côté de la disjonction, à savoir du côté du « *pas homme* »* *: cela peut encore aller, jusqu’à ce point. Mais ceci n’implique nullement l’exigence du « *non sage* » pour ce qui n’est « *pas homme* »*.* Or ceci n’est pas indiqué dans la formule. Il faudrait pour cela que la disjonction soit marquée par exemple comme cela :
+Si nous prenons la négation du *sage,* c’est-à-dire si nous renonçons au *sage,* nous sommes de l’autre côté de la disjonction, à savoir du côté du « *pas homme* »: cela peut encore aller, jusqu’à ce point. Mais ceci n’implique nullement l’exigence du « *non sage* » pour ce qui n’est « *pas homme* ». Or ceci n’est pas indiqué dans la formule. Il faudrait pour cela que la disjonction soit marquée par exemple comme cela :
 
 <!-- id: s15-12-0111 -->
 

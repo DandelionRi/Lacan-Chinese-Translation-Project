@@ -205,7 +205,7 @@ L’étonnant, c’est qu’on entre dans l’analyse malgré tout cela qui nous
 <!-- id: s10-22-0039 -->
 
 Le vrai sujet d’étonne­ment concernant le circuit de l’analyse,
-c’est comment - y entrant *malgré* la névrose de transfert *-* on peut obtenir à la sortie la *névrose de transfert* elle-même.
+c’est comment - y entrant *malgré* la névrose de transfert - on peut obtenir à la sortie la *névrose de transfert* elle-même.
 Sans doute est-ce parce qu’il y a quelque malentendu concernant l’analyse du transfert.
 
 <!-- id: s10-22-0040 -->
@@ -355,7 +355,7 @@ moins la cause est saisissable, plus tout apparaît « *causé »* jusqu’*au
 
 <!-- id: s10-22-0067 -->
 
-Je ne veux rien dire d’autre que « *tout est causé* »*,* à ceci près que tout
+Je ne veux rien dire d’autre que « *tout est causé* », à ceci près que tout
 ce qui s’y passe préside, est départ toujours d’un « *assez causé* » au nom de quoi se reproduit, dans l<sup>’</sup>histoire, un commencement que
 je n’oserai pas appeler *absolu* mais qui était certainement inattendu, et qui donne le classique fil à retordre aux *prophètes nachträglich,*
 qui sont - qui donne le pain quo­tidien, aux dits *prophètes -* qui sont les « *interprétateurs professionnels du sens de l’histoire* ».
@@ -921,6 +921,7 @@ ce qui n’arrive presque jamais
 <!-- id: s10-22-0165 -->
 
 - avec *la demande* qui le requiert, et qui n’a rien à faire avec le mode de désir qui est, par cette cause, déterminé.
+
 ## Notes
 
 [^158]: Cf. séminaire1961-62 : *L’identification*, séance du 27-06.
@@ -938,4 +939,4 @@ ce qui n’arrive presque jamais
 [^162]:
     #  « *Post hoc non est propter hoc* » : Le sophisme consiste à prétendre que « *post hoc, ergo propter hoc* », alors que « *Après  cela* »  ne veut pas dire « *à cause de cela* », 
 
-    #  le fait que deux événements se succèdent n'implique pas que le premier soit la cause du second. 
+    #  le fait que deux événements se succèdent n'implique pas que le premier soit la cause du second.

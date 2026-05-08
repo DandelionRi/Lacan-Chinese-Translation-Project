@@ -266,7 +266,7 @@ Seulement l’important n’est pas là. L’important est que dans la langue an
 
 <!-- id: s6-05-0066 -->
 
-…que c’est quelque chose d’analogue qui se manifeste dans le fait qu’en anglais par exemple, la négation ne peut pas s’appliquer d’une façon *purement*… *pure et simple* au verbe en tant qu’il est le verbe de *l’énoncé*, le verbe désignant le procès dans *l’énoncé.* On ne dit pas « *I eat not* » mais « *I dont eat* »*.*
+…que c’est quelque chose d’analogue qui se manifeste dans le fait qu’en anglais par exemple, la négation ne peut pas s’appliquer d’une façon *purement*… *pure et simple* au verbe en tant qu’il est le verbe de *l’énoncé*, le verbe désignant le procès dans *l’énoncé.* On ne dit pas « *I eat not* » mais « *I dont eat* ».
 
 <!-- id: s6-05-0067 -->
 
@@ -274,7 +274,7 @@ En d’autres termes, il se trouve que nous avons des *traces* dans l’articula
 
 <!-- id: s6-05-0068 -->
 
-« *I don’t eat.* »*,* « *I won’t eat.* » ou « *I won’t go.* » qui est à proprement parler « *Je n’irai pas.* », qui n’implique pas seulement *le fait mais la résolution* du sujet à ne pas y aller, le fait que pour toute négation en tant qu’elle est *négation* pure et simple, quelque chose comme une dimension auxiliaire apparaît, et ici dans la langue anglaise, la trace de ce quelque chose qui relie essentiellement la négation à une sorte de position originelle de l’énonciation comme telle.
+« *I don’t eat.* », « *I won’t eat.* » ou « *I won’t go.* » qui est à proprement parler « *Je n’irai pas.* », qui n’implique pas seulement *le fait mais la résolution* du sujet à ne pas y aller, le fait que pour toute négation en tant qu’elle est *négation* pure et simple, quelque chose comme une dimension auxiliaire apparaît, et ici dans la langue anglaise, la trace de ce quelque chose qui relie essentiellement la négation à une sorte de position originelle de l’énonciation comme telle.
 
 <!-- id: s6-05-0069 -->
 
@@ -502,7 +502,7 @@ C’est quelque chose d’ailleurs qui, dans le rêve dont j’ai fait le choix 
 
 <!-- id: s6-05-0123 -->
 
-J’avais oublié qu’en 1930 ce rêve avait été rajouté. Il a d’abord été rajouté en note peu après la publication dans les *Sammlung Kleiner Schriften Für Neurosen Lehre,1913, tome III, page 271 de la 2<sup>ème</sup> édition*, et puis dans l’édition de 1930*,* il est rajouté dans le texte, il est donc dans le texte de la *Traumdeutung.*
+J’avais oublié qu’en 1930 ce rêve avait été rajouté. Il a d’abord été rajouté en note peu après la publication dans les *Sammlung Kleiner Schriften Für Neurosen Lehre,1913, tome III, page 271 de la 2<sup>ème</sup> édition*, et puis dans l’édition de 1930, il est rajouté dans le texte, il est donc dans le texte de la *Traumdeutung.*
 
 <!-- id: s6-05-0124 -->
 
@@ -514,7 +514,7 @@ Ce rêve est ainsi constitué, je vous le répète : le sujet voit apparaître s
 
 <!-- id: s6-05-0126 -->
 
-…il le voit apparaître devant lui et il est pénétré, nous dit le texte, d’une profonde douleur à la pensée que son père est mort et qu’« *il ne savait pas.* »*,* formulation dont FREUD insiste sur son caractère résonnant absurdement, dont il dit qu’il se complète, il se comprend si l’on ajoute qu’il était mort « *selon son vœu* » : qu’il ne savait pas que c’était selon son vœu, bien entendu, qu’il était mort.
+…il le voit apparaître devant lui et il est pénétré, nous dit le texte, d’une profonde douleur à la pensée que son père est mort et qu’« *il ne savait pas.* », formulation dont FREUD insiste sur son caractère résonnant absurdement, dont il dit qu’il se complète, il se comprend si l’on ajoute qu’il était mort « *selon son vœu* » : qu’il ne savait pas que c’était selon son vœu, bien entendu, qu’il était mort.
 
 <!-- id: s6-05-0127 -->
 
@@ -554,7 +554,7 @@ Le problème de *ce qu’on appelle « identification »* se pose avec des facil
 
 <!-- id: s6-05-0136 -->
 
-…« *Il ne savait pas.* »***.***
+…« *Il ne savait pas.* ».
 
 <!-- id: s6-05-0137 -->
 
@@ -630,7 +630,7 @@ Il me semble que certains d’entre vous au moins peuvent se souvenir de ce poin
 
 <!-- id: s6-05-0154 -->
 
-…se trouve mené au point où il n’a plus d’autre exclamation à proférer que ce μή ϕῦναι \[mè phunai\] \[*Œdipe à Colonne*\]*,* ce « *ne pas être né* » où aboutit l’existence arrivée à l’extinction, très précisément, de son désir.
+…se trouve mené au point où il n’a plus d’autre exclamation à proférer que ce μή ϕῦναι \[mè phunai\] \[*Œdipe à Colonne*\], ce « *ne pas être né* » où aboutit l’existence arrivée à l’extinction, très précisément, de son désir.
 
 <!-- id: s6-05-0155 -->
 
@@ -784,7 +784,7 @@ Mais derrière cette souffrance ce qui se main­tient c’est le leurre autour d
 
 <!-- id: s6-05-0192 -->
 
-Et c’est aussi là que nous reprendrons les choses la pro­chaine fois, autour de l’explication que je pense avoir suffisamment préparée par l’articulation d’aujourd’hui, l’élucidation de la formule suivante comme étant la formule constante du fantasme dans l’inconscient : S **◊** *a*.
+Et c’est aussi là que nous reprendrons les choses la pro­chaine fois, autour de l’explication que je pense avoir suffisamment préparée par l’articulation d’aujourd’hui, l’élucidation de la formule suivante comme étant la formule constante du fantasme dans l’inconscient : S ◊ *a*.
 
 <!-- id: s6-05-0193 -->
 

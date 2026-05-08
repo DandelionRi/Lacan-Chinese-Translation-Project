@@ -28,7 +28,7 @@
 
 <!-- id: s11-07-0003 -->
 
-Vous vous souvenez peut-être que lors d’un de mes derniers propos, *j’ai commencé par ces vers qui, dans* *Le Fou d’Elsa* d’ARAGON, sont inti­tulés « *Contre*-*chant* ». Je ne savais pas alors que je donnerais autant de développement à ce qui concerne *le regard*.
+Vous vous souvenez peut-être que lors d’un de mes derniers propos, *j’ai commencé par ces vers qui, dans* *Le Fou d’Elsa* d’ARAGON, sont inti­tulés « *Contre-chant* ». Je ne savais pas alors que je donnerais autant de développement à ce qui concerne *le regard*.
 Sans doute, j’y ai été infléchi par le mode sous lequel j’ai été amené à vous présenter plus spécialement la fonction, le concept,
 dans FREUD, de la « *répétition* ».
 
@@ -73,7 +73,7 @@ Le fait du « *tychique* », vous ai-je dit, est central et c’est par rap­por
 
 <!-- id: s11-07-0012 -->
 
-- à cette εὐτυχία \[eutuchia : *rencontre heureuse*\] ou cette δυστυχία \[dustuchia : *rencontre malencon­treuse* \]*,*
+- à cette εὐτυχία \[eutuchia : *rencontre heureuse*\] ou cette δυστυχία \[dustuchia : *rencontre malencon­treuse* \],
 
 <!-- id: s11-07-0013 -->
 
@@ -167,7 +167,7 @@ origine, de ce que je pourrai appeler *la fonction de la voyure *:
 
 <!-- id: s11-07-0031 -->
 
-*Est*-*ce bien là pourtant le chemin qu’il voulait prendre* ? Ce qui nous reste des traces concernant la partie à venir de sa méditation
+*Est-ce bien là pourtant le chemin qu’il voulait prendre* ? Ce qui nous reste des traces concernant la partie à venir de sa méditation
 nous per­met aussi bien d’en douter. Dans ces traces, les repères qui sont donnés très spécialement à l’inconscient - à l’inconscient proprement psychana­lytique - nous laissent entrevoir que c’est dans la perspective d’une recherche proprement articulée
 autour de ce fait dimensionnel nouveau, original de *la méditation sur le sujet* telle que l’analyse nous permet à nous de la tracer,
 qu’il se serait peut-être dirigé.
@@ -204,11 +204,11 @@ la fiction particulière, la dynamique qui s’attache à la conscience comme te
 <!-- id: s11-07-0037 -->
 
 C’est ici que j’avance que ce rapport d’intérêt que le sujet prend à sa propre *schize*, est lié à *ce caractère par quoi cette schize est déterminée*, déterminée - comme en *tout fantasme,* en tant que je vous en donne la for­mule générale *comme dépendance de la schize du sujet par rapport*
-*à un objet privilégié surgi de quelque séparation primitive, de quelque auto*-*mutilation -* déterminée par l’approche même du *réel*.
+*à un objet privilégié surgi de quelque séparation primitive, de quelque auto-mutilation -* déterminée par l’approche même du *réel*.
 
 <!-- id: s11-07-0038 -->
 
-Dans ce rapport, qui est *le rapport scopique*, cet objet - d’où dépend le fantasme, auquel le sujet est appendu dans une vacillation essentielle - cet objet s’appelle *le regard*. Son privilège, et aussi bien ce pourquoi le sujet pendant si longtemps a pu se méconnaître comme étant dans cette dépendance*,* tient à la struc­ture, à la nature même, puis-je dire, du regard.
+Dans ce rapport, qui est *le rapport scopique*, cet objet - d’où dépend le fantasme, auquel le sujet est appendu dans une vacillation essentielle - cet objet s’appelle *le regard*. Son privilège, et aussi bien ce pourquoi le sujet pendant si longtemps a pu se méconnaître comme étant dans cette dépendance, tient à la struc­ture, à la nature même, puis-je dire, du regard.
 
 <!-- id: s11-07-0039 -->
 
@@ -458,6 +458,7 @@ Ce *regard -* dans quelque tableau que ce soit - c’est précisément à le che
 <!-- id: s11-07-0086 -->
 
 C’est ce que j’essaierai d’articu­ler mieux la prochaine fois.
+
 ## Notes
 
 [^42]: Réserve (*terme de teinturerie*) : impression par techniques de réserve : méthode qui permet de masquer provisoirement des zones de tissu

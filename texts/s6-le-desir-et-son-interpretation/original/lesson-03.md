@@ -238,7 +238,7 @@ Nous irons donc nous placer au niveau des sentiments inconscients, pour autant q
 
 <!-- id: s6-03-0059 -->
 
-Que verrez-vous FREUD nous articuler ? Il nous articule très exactement ceci - c’est la partie troisième de [*Das Un**bewußte*](http://www.textlog.de/freud-psychoanalyse-das-unbewusste-psychologie.html) *-* FREUD nous explique très nettement ceci : que ne peut être refoulé – nous dit-il – que ce qu’il appelle « *Vorstellungsrepräsentanz* ».
+Que verrez-vous FREUD nous articuler ? Il nous articule très exactement ceci - c’est la partie troisième de [*Das Unbewußte*](http://www.textlog.de/freud-psychoanalyse-das-unbewusste-psychologie.html) - FREUD nous explique très nettement ceci : que ne peut être refoulé – nous dit-il – que ce qu’il appelle « *Vorstellungsrepräsentanz* ».
 
 <!-- id: s6-03-0060 -->
 

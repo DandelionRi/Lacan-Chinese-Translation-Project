@@ -171,7 +171,7 @@ il ne nous suffit peut-être pas d’avoir cette garantie pour penser que cette 
 
 Vous voyez que nous sommes forcés de *procéder par une espèce de touche concentrique*, de tendre la toile et le tableau entre les différents pôles où elle est accrochée, pour lui assurer sa fixation normale, *cet écran* sur lequel nous avons à poursuivre un *phénomène particulier*, à savoir ce qui se passe dans le développement corrélatif du traitement lui-même, *le développement de la phobie*.
 Un simple petit exemple de cette espèce de côté « *essoufflé »* du père dans l’histoire, me revient à l’esprit et vient animer
-cette chose dans laquelle nous poursuivons notre investigation. Après une longue explication du petit Hans avec le père concernant le cheval, ils ont passé la matinée à cela, ils déjeunent et Hans lui dit : « *Vati, renn mir nicht davon !*** **».
+cette chose dans laquelle nous poursuivons notre investigation. Après une longue explication du petit Hans avec le père concernant le cheval, ils ont passé la matinée à cela, ils déjeunent et Hans lui dit : « *Vati, renn mir nicht davon !* ».
 Ce qui dans la traduction qui reste malgré tout irrésistiblement marquée de je ne sais quel *style de cuisinière*,
 nous donne cette chose qui n’est pas fausse :
 
@@ -313,7 +313,7 @@ La *porte cochère* n’est donc pas rien dans la topologie de ce qui se rap­po
 
 <!-- id: s4-19-0064 -->
 
-Dans le schéma même que nous avons dans l’observation donné par FREUD, il y a le nom de la rue, c’est la *Untere Viaductgasse* \[Pointillés bleus\]**.** Il y a une rue cachée qui laisse supposer qu’il y a d’un côté de la voie, un petit bâtiment qui est indiqué
+Dans le schéma même que nous avons dans l’observation donné par FREUD, il y a le nom de la rue, c’est la *Untere Viaductgasse* \[Pointillés bleus\]. Il y a une rue cachée qui laisse supposer qu’il y a d’un côté de la voie, un petit bâtiment qui est indiqué
 sur les plans de Vienne et qui correspond à ce que FREUD appelle le *Lagerhaus* c’est-à-dire un entrepôt spécial consacré
 à l’octroi des droits de douane sur l’entrée des comestibles à Vienne.
 
@@ -463,7 +463,7 @@ La petite culotte n’est là pas pour autre chose que pour nous présenter que 
 <!-- id: s4-19-0091 -->
 
 C’est précisément parce que le petit Hans n’est pas un simple amant de la nature, qu’il est un *métaphysicien*, que le petit Hans porte la question là où elle est, c’est-à-dire au point où il y a quelque chose qui manque, et où il demande à la *raison*
-\- employez le mot au sens où on dit *raison mathématique* de ce manque *-* d’être où elle est.
+\- employez le mot au sens où on dit *raison mathématique* de ce manque - d’être où elle est.
 
 <!-- id: s4-19-0092 -->
 
@@ -591,7 +591,7 @@ plus ou moins vite, décolle ou ne décolle pas, de la rampe à laquelle elle es
 
 <!-- id: s4-19-0114 -->
 
-Et je complète *le dernier fantasme* : on dit que l’installateur dit ensuite au petit Hans : « *Retourne-toi de l’autre côté et montre ton Wiwi*** **»,
+Et je complète *le dernier fantasme* : on dit que l’installateur dit ensuite au petit Hans : « *Retourne-toi de l’autre côté et montre ton Wiwi* »,
 qui est là *l’insuffisante réalité* puisqu’il n’a pas réussi à séduire la mère, et là-dessus tout le monde complète l’interprétation :
 il lui dévisse pour lui en donner un meilleur. Malheureusement ce n’est pas dans le texte, *rien n’indique qu’en fin de compte*
 *le petit Hans ait parcouru complètement* si on peut dire, *d’une façon signifiante le complexe de castration*, car si *le complexe de castration*

@@ -30,11 +30,11 @@ Je vais aujourd’hui...
 
 <!-- id: s23-08-0007 -->
 
-> je l’avais, quant à moi, laissé un peu vague dans mon souvenir ...a fait déjà, paraît-il*,* dans le numéro épuisé de *Littérature* \[*Littérature N°*3*, Octobre* 1971\] où...
+> je l’avais, quant à moi, laissé un peu vague dans mon souvenir ...a fait déjà, paraît-il, dans le numéro épuisé de *Littérature* \[*Littérature N°*3*, Octobre* 1971\] où...
 
 <!-- id: s23-08-0008 -->
 
-> on me l’a rappelé, je l’ignorais totalement ...j’avais fait *Litturaterre* \[« *Litturaterre » : pp.* 3-10\]*,* dans ce numéro épuisé...
+> on me l’a rappelé, je l’ignorais totalement ...j’avais fait *Litturaterre* \[« *Litturaterre » : pp.* 3-10\], dans ce numéro épuisé...
 
 <!-- id: s23-08-0009 -->
 
@@ -146,7 +146,7 @@ Et là, on la voit en quelque sorte réduite, cette hystérie, à un état que j
 
 <!-- id: s23-08-0036 -->
 
-Il y manque cet élément qui s’est rajouté depuis quelque temps, et depuis avant Freud en fin de compte, à savoir comment elle doit être comprise*.*
+Il y manque cet élément qui s’est rajouté depuis quelque temps, et depuis avant Freud en fin de compte, à savoir comment elle doit être comprise.
 
 <!-- id: s23-08-0037 -->
 
@@ -372,7 +372,7 @@ Les deux - s’il y a couple - étant réunis d’être contenus dans un cercle,
 
 <!-- id: s23-08-0092 -->
 
-Ce qu’on exprime d’habitude selon la forme sui­vante, ce sont des paren­thèses dont on use et qu’on *écrit* ainsi : {A {B}}*,* il y a un élément d’une part, et d’autre part un ensemble à un seul élément. Comme vous le voyez, j’ai fait un bafouillage.
+Ce qu’on exprime d’habitude selon la forme sui­vante, ce sont des paren­thèses dont on use et qu’on *écrit* ainsi : {A {B}}, il y a un élément d’une part, et d’autre part un ensemble à un seul élément. Comme vous le voyez, j’ai fait un bafouillage.
 
 <!-- id: s23-08-0093 -->
 
@@ -468,7 +468,7 @@ concernant le *Réel,* je fais avec un *joke* : ...que je supporte de l’*évi
 
 <!-- id: s23-08-0116 -->
 
-Ce qui résiste à cette *évidence*-*évidement*, c’est l’apparence nodale que produit ce que j’appellerai le « *chaî-nœud* »*,* en équivoquant sur *chaîne* et sur *nœud*. Cette apparence nodale, cette forme de nœud si je puis dire, est ce qui fait du *Réel* l’assurance.
+Ce qui résiste à cette *évidence-évidement*, c’est l’apparence nodale que produit ce que j’appellerai le « *chaî-nœud* », en équivoquant sur *chaîne* et sur *nœud*. Cette apparence nodale, cette forme de nœud si je puis dire, est ce qui fait du *Réel* l’assurance.
 
 <!-- id: s23-08-0117 -->
 
@@ -564,7 +564,7 @@ Je le représente en ceci différemment de ce que j’y fais jouer deux droites 
 
 <!-- id: s23-08-0140 -->
 
-Là, l’usage de ces deux droites infinies comme opposées au cercle qui les conjoint, suffit à nous permettre de démontrer qu’il y a 2 objets différents dans la chaîne*,* à cette condition
+Là, l’usage de ces deux droites infinies comme opposées au cercle qui les conjoint, suffit à nous permettre de démontrer qu’il y a 2 objets différents dans la chaîne, à cette condition
 
 <!-- id: s23-08-0141 -->
 
@@ -576,7 +576,7 @@ Là, l’usage de ces deux droites infinies comme opposées au cercle qui les co
 
 <!-- id: s23-08-0143 -->
 
-Si j’ai parlé de droites infinies, c’est que la droite infinie*,* dont avec prudence Soury et Thomé ne font pas usage, la droite infinie est un équivalent du cercle, au moins pour ce qui est de la chaîne.
+Si j’ai parlé de droites infinies, c’est que la droite infinie, dont avec prudence Soury et Thomé ne font pas usage, la droite infinie est un équivalent du cercle, au moins pour ce qui est de la chaîne.
 
 <!-- id: s23-08-0144 -->
 
@@ -584,7 +584,7 @@ C’est un équivalent dont *un* point est à l’infini.
 
 <!-- id: s23-08-0145 -->
 
-Ce qui est exigible de deux droites infinies, c’est qu’elles soient concentriques*.*
+Ce qui est exigible de deux droites infinies, c’est qu’elles soient concentriques.
 
 <!-- id: s23-08-0146 -->
 
@@ -680,7 +680,7 @@ vous vous apercevrez que cet objet est bel et bien différent :
 
 <!-- id: s23-08-0169 -->
 
-Car ce qu’il s’agit de comparer, c’est l’objet constitué par ceci \[**2**\], à savoir en le faisant tourner par ici \[**1**\], le comparer avec cet objet qui est là \[**3**\] 
+Car ce qu’il s’agit de comparer, c’est l’objet constitué par ceci \[**2**\], à savoir en le faisant tourner par ici \[**1**\], le comparer avec cet objet qui est là \[**3**\]
 
 <!-- id: s23-08-0170 -->
 
@@ -740,11 +740,11 @@ La notion de couple, de couple colorié, est là pour suggérer que dans le sexe
 
 <!-- id: s23-08-0184 -->
 
-- homme *couleur* de femme*,* dirais-je,
+- homme *couleur* de femme, dirais-je,
 
 <!-- id: s23-08-0185 -->
 
-- ou femme *couleur* d’homme*.*
+- ou femme *couleur* d’homme.
 
 <!-- id: s23-08-0186 -->
 
@@ -752,7 +752,7 @@ Les sexes en l’occasion...
 
 <!-- id: s23-08-0187 -->
 
-> si nous supportons du rond rouge ce qu’il en est du *Symbolique* *...*les sexes en l’occasion sont opposés
+> si nous supportons du rond rouge ce qu’il en est du *Symbolique...*les sexes en l’occasion sont opposés
 
 <!-- id: s23-08-0188 -->
 
@@ -846,7 +846,7 @@ Qu’on puisse avec un cercle, en y adjoignant un autre, faire ce trou qui consi
 
 <!-- id: s23-08-0210 -->
 
-- ni le trou de l’autre, c’est ça que j’appelle « *le* *faux-trou* »*.*
+- ni le trou de l’autre, c’est ça que j’appelle « *le* *faux-trou* ».
 
 <!-- id: s23-08-0211 -->
 

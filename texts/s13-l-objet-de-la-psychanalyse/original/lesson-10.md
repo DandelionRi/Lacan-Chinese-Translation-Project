@@ -206,7 +206,7 @@ Laissons-nous… laissons-nous arrêter un instant autour de ce jeu, peut-être 
 
 <!-- id: s13-10-0050 -->
 
-Le jeu pascalien concernant cette *infinité de vie*, multipliée par *l’infinité d’un bonheur* qui doit bien avoir quelque rapport avec ce qui se dérobe à la nôtre, ne peut qu’avoir un autre sens, qui n’a rien à faire avec *la rétribution* de nos efforts aveugles, et c’est bien pour ça qu’il est cohérent que l’homme dont la foi était toute entière suspendue à ce quelque chose dont nous ne savons même plus parler, qui s’appelle la grâce, est dans une position cohérente quand il déroule sa pensée concernant l’enjeu, l’enjeu qui est celui du *bonheur*, à savoir de tout ce qui cause le périssable et l’échoué de notre désir*,* que cet *enjeu du bonheur* est de nature à rechercher sur le fond du pari.
+Le jeu pascalien concernant cette *infinité de vie*, multipliée par *l’infinité d’un bonheur* qui doit bien avoir quelque rapport avec ce qui se dérobe à la nôtre, ne peut qu’avoir un autre sens, qui n’a rien à faire avec *la rétribution* de nos efforts aveugles, et c’est bien pour ça qu’il est cohérent que l’homme dont la foi était toute entière suspendue à ce quelque chose dont nous ne savons même plus parler, qui s’appelle la grâce, est dans une position cohérente quand il déroule sa pensée concernant l’enjeu, l’enjeu qui est celui du *bonheur*, à savoir de tout ce qui cause le périssable et l’échoué de notre désir, que cet *enjeu du bonheur* est de nature à rechercher sur le fond du pari.
 
 <!-- id: s13-10-0051 -->
 

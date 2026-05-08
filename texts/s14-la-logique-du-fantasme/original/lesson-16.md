@@ -30,7 +30,7 @@ Cette exigence était inscrite au fron­ton de l’école philosophique la plus 
 
 <!-- id: s14-16-0007 -->
 
-C’est pour cela qu’on a entendu, dans la suite de l’exigence platonicienne, se manifester de façon réitérée la prétention de démontrer « *more geometrico *»*,* ce qui témoigne combien le dit mode de démonstration représentait un idéal.
+C’est pour cela qu’on a entendu, dans la suite de l’exigence platonicienne, se manifester de façon réitérée la prétention de démontrer « *more geometrico *», ce qui témoigne combien le dit mode de démonstration représentait un idéal.
 
 <!-- id: s14-16-0008 -->
 
@@ -58,7 +58,7 @@ Ceci parce que *tout étalon de mesure* que vous rencontrez au départ, *y empor
 
 <!-- id: s14-16-0014 -->
 
-### C’est ce que nous avons pointé d’abord dans notre en­seignement, en dénonçant - sans le nommer encore de son terme, tel que nous l’avons épinglé comme l’*imaginaire -* les trom­peries du narcissisme, quand nous avons établi la fonction du *stade du miroir.* 
+### C’est ce que nous avons pointé d’abord dans notre en­seignement, en dénonçant - sans le nommer encore de son terme, tel que nous l’avons épinglé comme l’*imaginaire -* les trom­peries du narcissisme, quand nous avons établi la fonction du *stade du miroir.*
 
 <!-- id: s14-16-0015 -->
 
@@ -122,7 +122,7 @@ Il se distingue d’introduire un mode d’être qui est son énergie propre - j
 
 <!-- id: s14-16-0030 -->
 
-Quand j’ai inscrit la formule de la pulsion - au haut à droi­te du graphe - comme S *barré poinçon de* D (la demande) S**◊**D, c’est quand la demande se tait, que la pulsion commence.
+Quand j’ai inscrit la formule de la pulsion - au haut à droi­te du graphe - comme S *barré poinçon de* D (la demande) S◊D, c’est quand la demande se tait, que la pulsion commence.
 
 <!-- id: s14-16-0031 -->
 
@@ -162,7 +162,7 @@ Dès lors, le vide le cerne au plus strict de son essen­ce, c’est-à-dire : l
 
 <!-- id: s14-16-0040 -->
 
-De quoi parle le langage lui-même quand il est ainsi désarrimé du sujet, mais par cela le représentant dans son vide structural radicalisé ? Ceci nous le savons : en gros il parle… il parle du *sexe*. D’une parole, dont ce que je vais aborder : *l’acte se­xuel* *-* pour l’interroger - dont *l’acte sexuel* représente le silence.
+De quoi parle le langage lui-même quand il est ainsi désarrimé du sujet, mais par cela le représentant dans son vide structural radicalisé ? Ceci nous le savons : en gros il parle… il parle du *sexe*. D’une parole, dont ce que je vais aborder : *l’acte se­xuel* - pour l’interroger - dont *l’acte sexuel* représente le silence.
 
 <!-- id: s14-16-0041 -->
 
@@ -194,7 +194,7 @@ L’idée d’ Ἔρως \[Éros\] comme d’une âme aux fins contraires de cel
 
 <!-- id: s14-16-0048 -->
 
-S’il fallait quelque chose pour replacer les égarés dans l’axe de « *l’inconscient structuré comme un langage* »*,* ne suffit-il pas de l’évidence fournie par ces objets qu’on n’avait jamais encore spécifiés comme nous pouvons le faire :
+S’il fallait quelque chose pour replacer les égarés dans l’axe de « *l’inconscient structuré comme un langage* », ne suffit-il pas de l’évidence fournie par ces objets qu’on n’avait jamais encore spécifiés comme nous pouvons le faire :
 
 <!-- id: s14-16-0049 -->
 
@@ -394,7 +394,7 @@ D’abord, en tant que pour nous…
 
 <!-- id: s14-16-0098 -->
 
-> je veux dire pour ce qui n’est pas dans ARISTOTE mais ce qui est déjà indiqué dans mon enseignement passé …nous le désignerons par le « *pas sans *»*.* Ça nous servira plus tard. Ne vous inquié­tez pas ! Laissez-moi un petit peu vous *conduire*…
+> je veux dire pour ce qui n’est pas dans ARISTOTE mais ce qui est déjà indiqué dans mon enseignement passé …nous le désignerons par le « *pas sans *». Ça nous servira plus tard. Ne vous inquié­tez pas ! Laissez-moi un petit peu vous *conduire*…
 
 <!-- id: s14-16-0099 -->
 
@@ -442,7 +442,7 @@ Essayons, n’essayons pas… ne faisons pas la vaine grimace de prétendre tent
 
 <!-- id: s14-16-0110 -->
 
-Ce « *l’un et l’autre* »*,* c’est l’intersection, j’entends l’intersection logique : *mâle et femelle*. Si nous voulons inscrire ce « *l’un et l’autre* » sous la forme de l’intersection de l’algèbre de BOOLE, ceci veut dire : cette petite lunule de recouvrement spatial \[en gris\] :
+Ce « *l’un et l’autre* », c’est l’intersection, j’entends l’intersection logique : *mâle et femelle*. Si nous voulons inscrire ce « *l’un et l’autre* » sous la forme de l’intersection de l’algèbre de BOOLE, ceci veut dire : cette petite lunule de recouvrement spatial \[en gris\] :
 
 <!-- id: s14-16-0111 -->
 
@@ -490,11 +490,11 @@ C’est très facile, *il suffit d’égaler* ce qui est écrit ici :
 
 <!-- id: s14-16-0122 -->
 
-### *b à racine de moins un, b =* ![](assets/image87.wmf)= *i*, c’est-à-dire à une fonction numérique qu’on ap­pelle *nombre imaginaire* et qui intervient maintenant dans tous les calculs, de la façon la plus courante, pour fonder ce qu’on appelle - extension des nombres réels - les *nombres com­plexes.* 
+### *b à racine de moins un, b =* ![](assets/image87.wmf)= *i*, c’est-à-dire à une fonction numérique qu’on ap­pelle *nombre imaginaire* et qui intervient maintenant dans tous les calculs, de la façon la plus courante, pour fonder ce qu’on appelle - extension des nombres réels - les *nombres com­plexes.*
 
 <!-- id: s14-16-0123 -->
 
-### *a* - s’il s’agit de le spécifier de deux façons opposées, avec *plus* quelque chose, et avec *moins* quelque chose, et qu’il en résulte 2 *-* il suffit de l’égaler à 1. 
+### *a* - s’il s’agit de le spécifier de deux façons opposées, avec *plus* quelque chose, et avec *moins* quelque chose, et qu’il en résulte 2 - il suffit de l’égaler à 1.
 
 <!-- id: s14-16-0124 -->
 
@@ -606,7 +606,7 @@ Mais c’est pour accentuer simplement ceci, d’où je vou­drais partir, c’e
 
 <!-- id: s14-16-0151 -->
 
-### Supposez l’homme réduit à ce qu’il faut bien dire - on ne l’a jamais encore réduit institutionnellement - à la fonction qu’a l’étalon dans les animaux domestiques. Autre­ment dit servons-nous de *l’anglais* où comme vous le savez, on dit *a she-goat* pour dire *une chèvre*, ce qui veut dire *un elle-bouc.* 
+### Supposez l’homme réduit à ce qu’il faut bien dire - on ne l’a jamais encore réduit institutionnellement - à la fonction qu’a l’étalon dans les animaux domestiques. Autre­ment dit servons-nous de *l’anglais* où comme vous le savez, on dit *a she-goat* pour dire *une chèvre*, ce qui veut dire *un elle-bouc.*
 
 <!-- id: s14-16-0152 -->
 
@@ -686,7 +686,7 @@ Par la main gauche, généralement !
 
 <!-- id: s14-16-0171 -->
 
-Je dirai plus, nous ne devons pas omettre ceci : que si l’« *homme-il* » n’est pas reconnu dans le statut de l’acte sexuel au sens où il est, dans la société, fondateur, il existe une « *société protectrice de l’homme-il* »*.* C’est même ce que l’on appelle l’homosexualité masculine.
+Je dirai plus, nous ne devons pas omettre ceci : que si l’« *homme-il* » n’est pas reconnu dans le statut de l’acte sexuel au sens où il est, dans la société, fondateur, il existe une « *société protectrice de l’homme-il* ». C’est même ce que l’on appelle l’homosexualité masculine.
 
 <!-- id: s14-16-0172 -->
 

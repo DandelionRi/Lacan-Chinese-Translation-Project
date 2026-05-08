@@ -70,7 +70,7 @@ Et ceci, non pas sans raison, puisque ce n’est pas une géo­métrie, c’en e
 
 <!-- id: s22-11-0017 -->
 
-Une *topologie* est ce qui, de départ*,* indique comment ce qui n’est pas noué deux par deux peut néanmoins faire nœud.
+Une *topologie* est ce qui, de départ, indique comment ce qui n’est pas noué deux par deux peut néanmoins faire nœud.
 
 <!-- id: s22-11-0018 -->
 
@@ -344,7 +344,7 @@ Mais comment même savoir ce que ça pouvait vouloir dire avant Fabre, qui ne le
 
 <!-- id: s22-11-0085 -->
 
-> car, ce savoir on le constate à la précision de ses gestes ...comment il faut, en tel point du corps de tel autre insecte, en telle jointure, en plus puisqu’il s’agit d’insecte en se filant en-dessous de ce qu’on appelle carapace, et qui bien sûr, n’est que mythologie figurative parce qu’il faut bien que quelque part il y ait quelque chose à percer*,* pour atteindre tel point précis de ce que nous savons maintenant qui vient de l’*ectoderme*, à savoir la partie invaginée qu’on appelle système nerveux, et là rompre quelque chose qui fait que l’autre insecte sera bon à être mis en conserve.
+> car, ce savoir on le constate à la précision de ses gestes ...comment il faut, en tel point du corps de tel autre insecte, en telle jointure, en plus puisqu’il s’agit d’insecte en se filant en-dessous de ce qu’on appelle carapace, et qui bien sûr, n’est que mythologie figurative parce qu’il faut bien que quelque part il y ait quelque chose à percer, pour atteindre tel point précis de ce que nous savons maintenant qui vient de l’*ectoderme*, à savoir la partie invaginée qu’on appelle système nerveux, et là rompre quelque chose qui fait que l’autre insecte sera bon à être mis en conserve.
 
 <!-- id: s22-11-0086 -->
 
@@ -452,7 +452,7 @@ Ce que je fais, ce que j’essaie tout au moins de faire, c’est de parler d’
 
 <!-- id: s22-11-0112 -->
 
-Naturellement c’est beaucoup plus court, mais ça s’impose me semble-t-il, du fait que la simple parole, le *bla*-*bla*, le *bla*-*bla* de mon connard de tout à l’heure, qui dit que ma théorie est morte, enfin il ne sait littéralement pas ce qu’il dit, ça veut dire qu’il ne fait que parler, il *bla*-*blate*, et je suis sûr que dans ses analyses, ça opère.
+Naturellement c’est beaucoup plus court, mais ça s’impose me semble-t-il, du fait que la simple parole, le *bla-bla*, le *bla-bla* de mon connard de tout à l’heure, qui dit que ma théorie est morte, enfin il ne sait littéralement pas ce qu’il dit, ça veut dire qu’il ne fait que parler, il *bla-blate*, et je suis sûr que dans ses analyses, ça opère.
 
 <!-- id: s22-11-0113 -->
 
@@ -534,7 +534,7 @@ Ce que Freud dit, c’est que le rêve chez le parlêtre...
 
 <!-- id: s22-11-0131 -->
 
-...Freud dit que le rêve protège *-* pas le besoin *-* *le désir de dormir*.
+...Freud dit que le rêve protège - pas le besoin - *le désir de dormir*.
 
 <!-- id: s22-11-0132 -->
 
@@ -668,7 +668,7 @@ Moi j’ai naturellement tendance à penser que ce que je dis, à savoir ce disc
 
 <!-- id: s22-11-0164 -->
 
-> tout ce qui est là au tableau est fait pour en faire la démonstration ...un trou, pour peu qu’il soit consistant c’est-à-dire cerné \[*ici en rouge*\]*,* un trou suffit pour nouer un nombre strictement indéfini de consistances, et que ça commence à 2 \[*ici les 2 droites infinies* A *et* B\] ...
+> tout ce qui est là au tableau est fait pour en faire la démonstration ...un trou, pour peu qu’il soit consistant c’est-à-dire cerné \[*ici en rouge*\], un trou suffit pour nouer un nombre strictement indéfini de consistances, et que ça commence à 2 \[*ici les 2 droites infinies* A *et* B\] ...
 
 <!-- id: s22-11-0165 -->
 
@@ -1016,7 +1016,7 @@ De 3, on ne sait jamais laquelle des 3 est réelle, c’est bien pour ça qu’i
 
 <!-- id: s22-11-0251 -->
 
-Alors qu’ici : au 3 il y a quelque chose qui ne se voit pas tout de suite dans le fait que ni A ni B ne franchissent le trou \[*en rouge ici*\] et ne font chaîne \[*la droite* A *passe tout au dessus*, *la droite* B *tout au dessous*\]*.*
+Alors qu’ici : au 3 il y a quelque chose qui ne se voit pas tout de suite dans le fait que ni A ni B ne franchissent le trou \[*en rouge ici*\] et ne font chaîne \[*la droite* A *passe tout au dessus*, *la droite* B *tout au dessous*\].
 
 <!-- id: s22-11-0252 -->
 

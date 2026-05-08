@@ -20,7 +20,7 @@ pose bien des questions.
 
 Mais enfin nous en sommes maintenant au point où nous savons - où nous supposons tout au moins - sauf erreur,
 que les choses, elles, ne sont pas développées dans le langage. C’est tout au moins de là que l’on est parti
-pour le travail de la science telle qu’elle est actuellement constituée pour nous, de la science de la ϕύσις \[phusis\]*.*
+pour le travail de la science telle qu’elle est actuellement constituée pour nous, de la science de la ϕύσις \[phusis\].
 
 <!-- id: s5-20-0004 -->
 
@@ -53,12 +53,12 @@ Mais justement, il en fait une chose qui n’est rien d’autre que du langage q
 
 Ce que nous appelons en somme *formations de l’inconscient,* ce que FREUD nous a présenté comme *formations de l’inconscient*, ce n’est pas autre chose que cette « *prise* » d’un certain *primaire* - d’ailleurs c’est bien pour cela
 qu’il l’a appelé *le processus primaire -* cette « *prise* » d’un certain *primaire* dans le langage. Le langage *marque* ce *primaire*,
-et c’est pourquoi la découverte de FREUD, la découverte de l’*inconscient*, peut être dite « *préparée* » par l’interrogation de ce *primaire*, pour autant que d’abord est détectée sa structure de langage. Quand je dis « *préparée* »*,* elle pourrait permettre de préparer l’interrogation de ce *primaire*, d’introduire à une juste interrogation des tendances primaires.
+et c’est pourquoi la découverte de FREUD, la découverte de l’*inconscient*, peut être dite « *préparée* » par l’interrogation de ce *primaire*, pour autant que d’abord est détectée sa structure de langage. Quand je dis « *préparée* », elle pourrait permettre de préparer l’interrogation de ce *primaire*, d’introduire à une juste interrogation des tendances primaires.
 
 <!-- id: s5-20-0010 -->
 
 Mais nous n’en sommes pas là tant que nous n’avons pas fait le point de ce qu’il s’agit d’abord de reconnaître, à savoir que ce *primaire* est d’abord et avant tout *tissé comme du lan­gage*. *C’est pour cela* que je vous y ramène, et *c’est pour cela* aussi que ceux qui jusqu’à présent vous promettent, vous font miroiter « *la synthèse de la psychanalyse et de la biologie* »
-vous montrent manifestement - par le fait qu’il n’y a absolument rien d’amorcé dans ce sens *-* vous démontrent que c’est *un leurre*. Et même, nous irons plus loin *en affirmant que* jusqu’à nouvel ordre, de le promettre c’est *une escro­querie*.
+vous montrent manifestement - par le fait qu’il n’y a absolument rien d’amorcé dans ce sens - vous démontrent que c’est *un leurre*. Et même, nous irons plus loin *en affirmant que* jusqu’à nouvel ordre, de le promettre c’est *une escro­querie*.
 
 <!-- id: s5-20-0011 -->
 
@@ -143,7 +143,7 @@ C’est qu’il y a autre chose que la dialectique de la lutte du maître et de 
 
 <!-- id: s5-20-0028 -->
 
-- il y a précisément ce qui se passe au niveau de *la reconnais­sance*, pour autant que ce qui est en jeu*,* ce n’est pas la lutte ni le conflit, mais juste­ment *la demande*.
+- il y a précisément ce qui se passe au niveau de *la reconnais­sance*, pour autant que ce qui est en jeu, ce n’est pas la lutte ni le conflit, mais juste­ment *la demande*.
 
 <!-- id: s5-20-0029 -->
 
@@ -168,7 +168,7 @@ des limites du sujet avec l’Autre, nous voyons s’introduire dans la *demande
 <!-- id: s5-20-0033 -->
 
 Bref, ce remaniement profond des premiers désirs par la *demande*, c’est ce que nous touchons perpétuellement
-à propos de ce que nous appelons cette *dialectique de l’objet oral et anal* particulièrement. Nous voyons ce qui en résulte : c’est à savoir que cet Autre comme tel, auquel le sujet a affaire dans la relation de la demande*,* est lui-même soumis
+à propos de ce que nous appelons cette *dialectique de l’objet oral et anal* particulièrement. Nous voyons ce qui en résulte : c’est à savoir que cet Autre comme tel, auquel le sujet a affaire dans la relation de la demande, est lui-même soumis
 à une *dialectique* d’assimilation ou d’incorporation, ou de rejet. Il y a quelque chose de différent qui peut et doit s’introduire, ce par quoi *l’originalité, l’irréductibilité, l’authenticité* du désir du sujet est rétablie.
 
 <!-- id: s5-20-0034 -->
@@ -367,7 +367,7 @@ Mais continuons, de façon à avoir poursuivi jusqu’à son terme ce que ce tex
 
 <!-- id: s5-20-0069 -->
 
-Il précise quel est son sens. Je vous passe quelques lignes pour ne pas être trop long*.* Il s’agit de discuter
+Il précise quel est son sens. Je vous passe quelques lignes pour ne pas être trop long. Il s’agit de discuter
 de ce qu’on appelle à ce propos l’imitation, la sympathie, et il critique avec beaucoup d’énergie la simple réduction
 de *la contagion hystérique* à ce qui serait une pure et simple *imitation*.
 
@@ -439,7 +439,7 @@ Ces éléments structuraux qui n’ont rien - mis à part le fait que nous nous 
 <!-- id: s5-20-0084 -->
 
 c’est quand même quelque chose qui commence de prendre son sens ici. Vous voyez que ce qui s’exprime là,
-*c’est une structure* qui, bien au-delà de son côté *comique,* doit représenter *une nécessité* : si *l’hystérique* est préci­sément, comme nous le savons, le sujet pour lequel *la constitution de l’autre en tant que grand Autre, en tant que porteur du signe parlé*, est ce avec quoi il est difficile d’établir la relation qui lui permet à lui, *sujet hystérique* - et c’est bien là la définition même que l’on peut en donner *-* de garder sa place de sujet.
+*c’est une structure* qui, bien au-delà de son côté *comique,* doit représenter *une nécessité* : si *l’hystérique* est préci­sément, comme nous le savons, le sujet pour lequel *la constitution de l’autre en tant que grand Autre, en tant que porteur du signe parlé*, est ce avec quoi il est difficile d’établir la relation qui lui permet à lui, *sujet hystérique* - et c’est bien là la définition même que l’on peut en donner - de garder sa place de sujet.
 
 <!-- id: s5-20-0085 -->
 
@@ -591,7 +591,7 @@ c’est-à-dire très précisément ce que je viens de définir comme étant la 
 De même que ce qui ici se produisait à partir du moment où le sujet est à pro­prement parler constitué, et non pas ambigu, et non pas perpétuellement impliqué dans la parole de l’Autre, le sujet achevé, le sujet qui reste en deçà
 de la relation au temps spéculaire, à celle, duelle, au petit autre de la relation de parole, le sujet - ce qui est ici
 dans *la formule en Z -* le sujet achevé, c’est le sujet en tant que s’est introduite la barre, à savoir en tant que lui-même aussi est quelque part *marqué* de *la relation au signifiant*. Et c’est pour cela que c’est ici que se produit la relation
-du *sujet* à la *demande* comme telle : S **◊** D.
+du *sujet* à la *demande* comme telle : S ◊ D.
 
 <!-- id: s5-20-0114 -->
 
@@ -702,7 +702,7 @@ aussi manifestement d’une façon homosexuelle que l’est *l’hystérique*, e
 
 <!-- id: s5-20-0134 -->
 
-Pas du tout ! C’est cela précisément qui déchaîne sa fureur, précisément parce qu’à ce moment-là *sa belle construction hystérique* d’*identification* au *masque*, aux *insignes* de l’Autre - très nommément dans l’occasion aux insignes masculins comblés que lui offre Monsieur K., et pas son père *-* malheureusement s’effondre, à savoir qu’elle revient
+Pas du tout ! C’est cela précisément qui déchaîne sa fureur, précisément parce qu’à ce moment-là *sa belle construction hystérique* d’*identification* au *masque*, aux *insignes* de l’Autre - très nommément dans l’occasion aux insignes masculins comblés que lui offre Monsieur K., et pas son père - malheureusement s’effondre, à savoir qu’elle revient
 à ce moment-là à la *demande* pure et simple, à la revendication pure et simple de l’amour de son père, et à l’état quasi paranoïaque où elle entre quand elle se conçoit pour ce qu’elle est en effet, beaucoup plus objectivement de la part
 de son père : *un objet d’échange*, à savoir quelqu’un qui amuse Monsieur K., qui l’occupe pendant que lui, son père,
 peut *s’occuper* - si vainement que ce soit, cela lui suffit, puisque justement dans cette occasion vous sentez la fonction même et la nature du désir - pendant que lui s’occupe de M<sup>me</sup> K.

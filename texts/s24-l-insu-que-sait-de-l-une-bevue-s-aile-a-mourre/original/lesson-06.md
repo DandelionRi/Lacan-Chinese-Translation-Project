@@ -784,7 +784,7 @@ Vous savez bien que *Les non-dupes errent*, et vous voyez que c’est de la reno
 
 <!-- id: s24-06-0194 -->
 
-Mon hypothèse transitoire, c’est de dire que dans la flèche rouge qui amène à B<sub>4</sub>-R<sub>4</sub>, qui font communier S<sub>2</sub> et S(A), flèche que j’ai écrite en haut en violet, qui fait passer du *fading* S **◊** D, à S(A) c’est là, *la Passe*, le mouvement par lequel quelque chose de *la Passe* peut être dit.
+Mon hypothèse transitoire, c’est de dire que dans la flèche rouge qui amène à B<sub>4</sub>-R<sub>4</sub>, qui font communier S<sub>2</sub> et S(A), flèche que j’ai écrite en haut en violet, qui fait passer du *fading* S ◊ D, à S(A) c’est là, *la Passe*, le mouvement par lequel quelque chose de *la Passe* peut être dit.
 
 <!-- id: s24-06-0195 -->
 
@@ -1017,7 +1017,7 @@ De cette *rencontre* du sujet et de l’Autre, quelques précisions, trois préc
 
 <!-- id: s24-06-0250 -->
 
-- Autre point : ce mode de communion qui se produit en **S(A)**est un mode dans lequel, à ce moment-là, le sujet ne reçoit pas *son message sous forme inversée*, puisqu’il serait le seul temps invraisemblable, *hors du temps*, véritablement *hors du temps*, où le sujet et l’Autre communieraient dans *le même savoir au même temps*.
+- Autre point : ce mode de communion qui se produit en S(A) est un mode dans lequel, à ce moment-là, le sujet ne reçoit pas *son message sous forme inversée*, puisqu’il serait le seul temps invraisemblable, *hors du temps*, véritablement *hors du temps*, où le sujet et l’Autre communieraient dans *le même savoir au même temps*.
 
 <!-- id: s24-06-0251 -->
 
@@ -1157,7 +1157,7 @@ Si Lacan, à un temps donné, rappelait aux analystes qu’ils feraient mieux de
 
 <!-- id: s24-06-0285 -->
 
-> vous entendez que dans *« nivellement »* le mot *« vel »* est barré*,*
+> vous entendez que dans *« nivellement »* le mot *« vel »* est barré,
 >
 > c’est-à-dire qu’on entend plus *la dimension du parl’être* Freud ...ce à quoi l’on aboutit, c’est effectivement à une prise de possession de la théorie que l’on peut mettre en cassette.
 

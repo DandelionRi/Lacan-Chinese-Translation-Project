@@ -366,7 +366,7 @@ Cette réponse, j’ai commencé à l’articuler sous la forme suivante : signi
 
 <!-- id: s6-16-0090 -->
 
-Mais *qui* aura voulu dire cela au niveau de l’Autre ? C’est signifié au niveau du discours simple, mais au niveau de l’*au-delà de ce discours* \[*d* <sub>→</sub> S**◊***a*\], au niveau de la question que le sujet se pose à lui-même, qui veut dire en fin de compte : « *qu’est-ce que je suis devenu dans tout cela ?* ».
+Mais *qui* aura voulu dire cela au niveau de l’Autre ? C’est signifié au niveau du discours simple, mais au niveau de l’*au-delà de ce discours* \[*d* <sub>→</sub> S◊*a*\], au niveau de la question que le sujet se pose à lui-même, qui veut dire en fin de compte : « *qu’est-ce que je suis devenu dans tout cela ?* ».
 
 <!-- id: s6-16-0091 -->
 

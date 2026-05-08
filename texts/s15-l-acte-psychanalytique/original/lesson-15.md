@@ -562,7 +562,7 @@ Il faut aussi savoir user d’une certaine façon *de l’écriture*. Bien enten
 
 <!-- id: s15-15-0139 -->
 
-Parce que même si c’est ce qui ressort d’une façon qui s’impose strictement de tout ce que nous enseigne la psychanalyse, à savoir que ce n’est jamais *quia genus femina -* je dis *femina*, même pas *mulier* [^116] *-* en tant que « la femme », qu’elle est désirée, qu’il faut que le désir se construise sur tout un ordre de ressorts où l’inconscient est absolument dominant, et où par conséquent intervient toute une *dialectique du sujet*.
+Parce que même si c’est ce qui ressort d’une façon qui s’impose strictement de tout ce que nous enseigne la psychanalyse, à savoir que ce n’est jamais *quia genus femina -* je dis *femina*, même pas *mulier* [^116] - en tant que « la femme », qu’elle est désirée, qu’il faut que le désir se construise sur tout un ordre de ressorts où l’inconscient est absolument dominant, et où par conséquent intervient toute une *dialectique du sujet*.
 
 <!-- id: s15-15-0140 -->
 

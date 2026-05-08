@@ -50,7 +50,7 @@ Au point où j’en suis, je ne trouve pas tant que je ne cherche, autrement dit
 
 <!-- id: s24-09-0011 -->
 
-Et c’est bien ce qui s’est produit à propos de ce « *lapsus* »* *: c’est que les lettres écrites n’étaient pas dans leur bon sens \- dans le sens où elles tournent - mais étaient embrouillées.
+Et c’est bien ce qui s’est produit à propos de ce « *lapsus* »: c’est que les lettres écrites n’étaient pas dans leur bon sens \- dans le sens où elles tournent - mais étaient embrouillées.
 
 <!-- id: s24-09-0012 -->
 
@@ -186,7 +186,7 @@ C’est bien en quoi la philosophie est le champ d’essai de l’escroquerie et
 
 <!-- id: s24-09-0043 -->
 
-C’est certain que moi, j’ai cette faiblesse de la reconnaître « *la *»*,* mais je suis quand même assez averti pour avoir fait remarquer qu’il n’y a pas de « *la *»*,* ce qui coïncide avec mon expérience, à savoir que je ne reconnais *pas toutes les femmes*.
+C’est certain que moi, j’ai cette faiblesse de la reconnaître « *la *», mais je suis quand même assez averti pour avoir fait remarquer qu’il n’y a pas de « *la *», ce qui coïncide avec mon expérience, à savoir que je ne reconnais *pas toutes les femmes*.
 
 <!-- id: s24-09-0044 -->
 
@@ -270,7 +270,7 @@ Il n’est donc pas surprenant d’énoncer à propos de ce tore...
 
 <!-- id: s24-09-0064 -->
 
-> de ce tore qui part d’un nœud borroméen triple ...de ce tore - si vous le retournez - de qualifier ce qui est *dans le tore* - dans le tore du Symbolique *-* de *symboli­quement réel.*
+> de ce tore qui part d’un nœud borroméen triple ...de ce tore - si vous le retournez - de qualifier ce qui est *dans le tore* - dans le tore du Symbolique - de *symboli­quement réel.*
 
 <!-- id: s24-09-0065 -->
 

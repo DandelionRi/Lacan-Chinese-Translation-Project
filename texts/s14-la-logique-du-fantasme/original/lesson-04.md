@@ -34,7 +34,7 @@ Il est néanmoins frappant, qu’à l’aide de BOOLE…
 
 <!-- id: s14-04-0008 -->
 
-La surprenante aisance avec laquelle, des champs en blanc de la logique de BOOLE, MILLER a retrouvé la si­tuation, la place, où le signifiant dans sa fonction propre y est en quelque sorte élidé, dans ce fameux « **-**1 » dont il a admirablement détaché l’exclusion dans la logique de BOOLE.
+La surprenante aisance avec laquelle, des champs en blanc de la logique de BOOLE, MILLER a retrouvé la si­tuation, la place, où le signifiant dans sa fonction propre y est en quelque sorte élidé, dans ce fameux « -1 » dont il a admirablement détaché l’exclusion dans la logique de BOOLE.
 
 <!-- id: s14-04-0009 -->
 
@@ -54,7 +54,7 @@ Je quitte ce sujet, de ce que MILLER a donc apporté la dernière fois, moins co
 
 <!-- id: s14-04-0013 -->
 
-Il n’est pas inintéressant de vous pointer, qu’en désignant, chez SARTRE, sous l’appellation de la « *cons­cience thétique de soi* », la façon qu’il a en quelque sorte d’occuper la place où réside cette articulation logique, qui est notre tache cette année, il ne s’agit bien là que de ce qu’on appelle un « *tenant lieu* » *-* très proprement - à savoir : ce à quoi, ce dont nous n’avons à nous occuper, nous autres ana­lystes, que d’une façon strictement équivalente à celle dont nous nous occupons des autres « *tenant lieu* », quand nous avons à manier ce qui est effet de l’inconscient.
+Il n’est pas inintéressant de vous pointer, qu’en désignant, chez SARTRE, sous l’appellation de la « *cons­cience thétique de soi* », la façon qu’il a en quelque sorte d’occuper la place où réside cette articulation logique, qui est notre tache cette année, il ne s’agit bien là que de ce qu’on appelle un « *tenant lieu* » - très proprement - à savoir : ce à quoi, ce dont nous n’avons à nous occuper, nous autres ana­lystes, que d’une façon strictement équivalente à celle dont nous nous occupons des autres « *tenant lieu* », quand nous avons à manier ce qui est effet de l’inconscient.
 
 <!-- id: s14-04-0014 -->
 
@@ -624,7 +624,7 @@ Est-ce que le « *non-être* » c’est tout l’espace à l’extérieur ? Est-
 
 <!-- id: s14-04-0152 -->
 
-Quant au « *ne pas penser *»*,* qui ira à dire que c’est là quel­que chose qui puisse d’aucune façon se saisir dans ce autour de quoi tourne, de toute la logique du prédicat, à savoir cette fameuse distinction - qui n’en est pas une - de l’*exten­sion* et de la *compréhension * ?
+Quant au « *ne pas penser *», qui ira à dire que c’est là quel­que chose qui puisse d’aucune façon se saisir dans ce autour de quoi tourne, de toute la logique du prédicat, à savoir cette fameuse distinction - qui n’en est pas une - de l’*exten­sion* et de la *compréhension * ?
 
 <!-- id: s14-04-0153 -->
 
@@ -632,7 +632,7 @@ Comme si la *compréhension* consti­tuait la moindre antinomie au registre de l
 
 <!-- id: s14-04-0154 -->
 
-Est-ce une raison pour que *la négation*, ici, puisse même continuer d’être, sans un questionnement primordial, mise en usage, concernant ce dont il s’agit, si elle doit rester liée à l’*extension* ? Car il n’y a pas pour nous que ce « *ne pas être* »*,* puisque aussi bien la sorte d’« *être* » qui nous importe concernant le sujet, est liée à la pensée. Alors, que veut dire ce « *ne pas penser *» *?*
+Est-ce une raison pour que *la négation*, ici, puisse même continuer d’être, sans un questionnement primordial, mise en usage, concernant ce dont il s’agit, si elle doit rester liée à l’*extension* ? Car il n’y a pas pour nous que ce « *ne pas être* », puisque aussi bien la sorte d’« *être* » qui nous importe concernant le sujet, est liée à la pensée. Alors, que veut dire ce « *ne pas penser *» ?
 
 <!-- id: s14-04-0155 -->
 

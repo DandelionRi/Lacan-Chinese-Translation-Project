@@ -75,7 +75,7 @@ C’est tout au moins, en propres termes, ce que Lucy Tower nous dit.
 Ceci ne veut pas dire bien sûr - elle nous le souligne également - qu’il soit, un seul instant, question que ceci se produise.
 Elle est, à cet égard, comme elle nous dit, très suffisamment *sur ses gardes*, ce n’est pas un bébé...
 d’ailleurs, quand une femme l’est-elle ?
-...en tout cas « *to ward off »,* c’est le terme qu’elle emploie*,* elle est bien sur ses gardes. Mais la question n’est pas là !
+...en tout cas « *to ward off »,* c’est le terme qu’elle emploie, elle est bien sur ses gardes. Mais la question n’est pas là !
 
 <!-- id: s10-16-0015 -->
 
@@ -128,7 +128,7 @@ parce que ce qui pour l’homme, pour le désir mâle - dans l’occasion - *es
 <!-- id: s10-16-0022 -->
 
 C’est ça l’objet de ma leçon d’aujourd’hui.
-Ce qu’il recherche, c’est **(**- φ**)**, c’est - si je puis dire – « *ce qui lui manque à elle* ».
+Ce qu’il recherche, c’est (- φ), c’est - si je puis dire – « *ce qui lui manque à elle* ».
 C’est une affaire de mâle, ou d’homme.
 
 <!-- id: s10-16-0023 -->
@@ -152,7 +152,7 @@ Je dis « *cela »* parce que, dans le texte, elle articu­le fort bien que ce
 <!-- id: s10-16-0026 -->
 
 Une fois qu’il en а fait son deuil, de cette *recherche*, à savoir de trouver dans cette occasion, dans son partenaire...
-en tant qu’elle s’est posée elle-même - *sans trop savoir, il faut bien le dire, ce qu’elle faisait* - comme un partenaire féminin ...quand il а fait son deuil de trouver chez ce partenaire son propre manque : **(**- φ**)**...
+en tant qu’elle s’est posée elle-même - *sans trop savoir, il faut bien le dire, ce qu’elle faisait* - comme un partenaire féminin ...quand il а fait son deuil de trouver chez ce partenaire son propre manque : (- φ)...
 la castration primaire fondamentale de l’homme, telle que je vous l’ai désignée au niveau - remarquez-le ici –
 de sa racine biologique, des particularités de l’instrument de la copulation à ce niveau de l’échelle animale
 ...quand il en а fait son deuil...
@@ -195,7 +195,7 @@ Car je n’ai pas dit *la dif­férence *:
 
 <!-- id: s10-16-0035 -->
 
-Ce qu’il у avait avant, c’était à proprement parler *la faute*, il portait tout le faix, *tout le poids de son* **(**- φ**)**.
+Ce qu’il у avait avant, c’était à proprement parler *la faute*, il portait tout le faix, *tout le poids de son* (- φ).
 Il était - rappelez-vous l’usage que j’ai fait en son temps du passage de Saint Paul[^111] - il était *déme­surément pêcheur.*
 Je fais donc le pas de plus : la femme n’a bien - vous le voyez - aucune peine
 et disons, jusqu’à un certain point, aucun risque à rechercher ce qu’il en est du désir de l’homme.
@@ -266,7 +266,7 @@ cela dans le fond elle s’avise assez vite que le temps travaille pour elle
 <!-- id: s10-16-0049 -->
 
 *L’insatisfaction foncière dont il s’agit dans la structure du désir* est si je puis dire, pré-castrative.
-S’il arrive qu’elle s’intéresse comme telle à la castration **(**- φ**)**,
+S’il arrive qu’elle s’intéresse comme telle à la castration (- φ),
 
 <!-- id: s10-16-0050 -->
 
@@ -422,7 +422,7 @@ Bien sûr, naturellement aussi, que, si je puis dire, plus on l’enfonce, plus 
 
 <!-- id: s10-16-0078 -->
 
-*L’attachement homosexuel*, c’est : *je joue à qui perd gagne*. À chaque instant, dans *l’attachement homosexuel*, c’est cette castration qui est en jeu et cette castration qui l’assure, l’homosexuel, que c’est bien ça, le **(**- φ**)**, qui est l’objet du jeu.
+*L’attachement homosexuel*, c’est : *je joue à qui perd gagne*. À chaque instant, dans *l’attachement homosexuel*, c’est cette castration qui est en jeu et cette castration qui l’assure, l’homosexuel, que c’est bien ça, le (- φ), qui est l’objet du jeu.
 C’est dans la mesure où il perd, qu’il gagne.
 
 <!-- id: s10-16-0079 -->
@@ -441,7 +441,7 @@ Allons-y donc !
 
 <!-- id: s10-16-0082 -->
 
-Le **(**- φ**)**, *c’est ça le vide du vase, le même qui définit l’homo faber*.
+Le (- φ), *c’est ça le vide du vase, le même qui définit l’homo faber*.
 *Si la femme* - nous dit-on - primor­dialement *est une tisserande*,
 c’est *l’homme* assurément qui *est le potier,* et c’est même le seul biais par où se réalise dans l’espèce humaine,
 le fonde­ment de la ritournelle par où, nous dit-on : « *le fil est pour l’aiguille comme la fille pour le garçon* ».
@@ -491,7 +491,7 @@ elle suffit largement à investir tout l’intérêt de la femme, et qu’au mom
 <!-- id: s10-16-0090 -->
 
 Alors venons-en, puisqu’il faut le faire, à notre pot de l’autre jour,
-à notre honnête petit pot des premières céramiques et identi­fions-le à **(**- φ**)**.
+à notre honnête petit pot des premières céramiques et identi­fions-le à (- φ).
 
 <!-- id: s10-16-0091 -->
 
@@ -523,8 +523,7 @@ Ceci ne peut donc se produire sous cette forme,
 
 Il у а là ce que j’appellerai...
 l’in­diquant *aujourd’hui* pour у revenir, et au reste je pense que vous vous en souvenez :
-n’introduisant ici rien que je n’aie *déjà accentué*
-*...*un phénomène qui est le phénomène constitutif de ce qu’on peut appeler *le bord.*
+n’introduisant ici rien que je n’aie *déjà accentué...*un phénomène qui est le phénomène constitutif de ce qu’on peut appeler *le bord.*
 
 <!-- id: s10-16-0098 -->
 
@@ -540,7 +539,7 @@ elle est à faire, encore que je vous en aie donné plus d’une amorce
 <!-- id: s10-16-0100 -->
 
 avait commencé de s’y consacrer, d’une façon certes très *confuse*, faute de toute *articulation dialectique*, mais enfin ceci а été ébauché,
-le phéno­mène qu’il qualifie de « *Randbevorzugung* »*,* d’*élection*, de *préférence,* du *champ phénoménal analytique* pour les phénomènes de *bord,* avait été déjà - j’y reviendrai devant vous - par cet auteur, articulé.
+le phéno­mène qu’il qualifie de « *Randbevorzugung* », d’*élection*, de *préférence,* du *champ phénoménal analytique* pour les phénomènes de *bord,* avait été déjà - j’y reviendrai devant vous - par cet auteur, articulé.
 
 <!-- id: s10-16-0101 -->
 
@@ -577,7 +576,7 @@ vous en témoignerait. *Ce n’est pas ça qui est angoissant*.
 
 <!-- id: s10-16-0107 -->
 
-Que le transvasement, ici : nous permet­te de saisir comme le *(а)* prend sa valeur de venir *dans le pot du* **(**- φ**)**,
+Que le transvasement, ici : nous permet­te de saisir comme le *(а)* prend sa valeur de venir *dans le pot du* (- φ),
 prend sa valeur d’être ici *(-а)*, le vase *à demi-vide* en même temps qu’il est *à demi plein*, c’est ce que je vous ai dit la dernière fois.
 
 <!-- id: s10-16-0108 -->
@@ -608,8 +607,8 @@ c’est *lapsus* de ma part si je ne l’ai pas fait plus tôt, car j’avais co
 ...l’indication d’un article, pré­cieux entre tous parce que nourri de l’expérience la plus substantielle,
 c’est l’article d’un homme qui est bien un de ceux à propos duquel je peux le plus me désoler que les circonstances
 m’aient privé de sa collaboration, c’est l’article de Grunberger :
-« *Esquisse d’une théorie psycho-dynamique du maso­chisme »* dans le numéro *d’avril-juin* l954*,*
-*numéro* 2 du [*tome* XVIII *de la Revue Française de Psychanalyse*](http://gallica.bnf.fr/ark:/12148/bpt6k5446509c.image.langEN) \[p. 193\]*.*
+« *Esquisse d’une théorie psycho-dynamique du maso­chisme »* dans le numéro *d’avril-juin* l954,
+*numéro* 2 du [*tome* XVIII *de la Revue Française de Psychanalyse*](http://gallica.bnf.fr/ark:/12148/bpt6k5446509c.image.langEN) \[p. 193\].
 
 <!-- id: s10-16-0113 -->
 
@@ -889,7 +888,7 @@ Un autre mode de désigner la circoncision est celui qui est dans cette ligne et
 
 <!-- id: s10-16-0163 -->
 
-F la vipère cornue*,* le Н aspiré qui est ici ce signe qui est ici le plаcenta, et ici le Т qui est le même que vous voyez ici.
+F la vipère cornue, le Н aspiré qui est ici ce signe qui est ici le plаcenta, et ici le Т qui est le même que vous voyez ici.
 Ici, un déterminatif qui est le déterminatif du *linge*. Je vous prie d’en prendre note aujourd’hui parce que j’y reviendrai,
 il ne se prononce pas.
 
@@ -924,6 +923,7 @@ Je pense avoir déjà suffisamment assez amorcé la fonction de la circoncision.
 >
 > quant à ses rapports avec la structuration de *l’objet du désir*
 > ...je pense avoir suffisam­ment amorcé les choses dans ce sens, pour pouvoir les reprendre efficace­ment plus avant avec vous, au jour où je vous ai donné notre prochain ren­dez-vous.
+
 ## Notes
 
 [^110]: Enest Jones : « *Le développement précoce de la sexualité féminine* », in *Théorie et pratique de la psychanalyse*, op. cit.

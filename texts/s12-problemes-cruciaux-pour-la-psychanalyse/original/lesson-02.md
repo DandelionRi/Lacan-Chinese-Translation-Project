@@ -86,7 +86,7 @@ La remarque première, je dirais même primaire, que tout « *déroulé dans le
 
 <!-- id: s12-02-0021 -->
 
-- Et que *-* si c’est là quelque chose qui nous oblige à la considération de *la surface *: sous quelle forme ?
+- Et que - si c’est là quelque chose qui nous oblige à la considération de *la surface *: sous quelle forme ?
 
 <!-- id: s12-02-0022 -->
 
@@ -158,7 +158,7 @@ Il n’y en a qu’une. C’est également vrai qu’*elle n’a qu’un bord*. 
 
 <!-- id: s12-02-0039 -->
 
-Ce que je veux vous faire remarquer, est ceci d’abord qui ne sera que pour - je dirai - *les plus novices à considérer ce même objet *: Pouvez*-*vous, dirai-je, prévoir, si vous ne le savez déjà, ce qu’il arrive - cette surface étant constituée - ce qu’il arrive si on la coupe en restant toujours très exactement à égale distance de ses bords, c’est-à-dire si on la coupe en deux, *longitudinalement* ?
+Ce que je veux vous faire remarquer, est ceci d’abord qui ne sera que pour - je dirai - *les plus novices à considérer ce même objet *: Pouvez-vous, dirai-je, prévoir, si vous ne le savez déjà, ce qu’il arrive - cette surface étant constituée - ce qu’il arrive si on la coupe en restant toujours très exactement à égale distance de ses bords, c’est-à-dire si on la coupe en deux, *longitudinalement* ?
 
 <!-- id: s12-02-0040 -->
 
@@ -182,7 +182,7 @@ D’autre part, c’est peut-être lié à cette propriété topologique que nou
 
 <!-- id: s12-02-0045 -->
 
-Je pousse encore plus loin cette affaire, dont vous verrez peut-être plus tard des implications beaucoup plus sensibles : assurément si nous continuons la couverture de notre surface première, *bande de Mœbius*, par une surface qui n’est plus, cette fois, équivalente à sa longueur mais le double, nous arriverons en effet - si tant est que ces mots aient un sens *-* à l’envelopper « *au-dedans et au dehors* ». C’est ce qui est effectivement réalisé ici.
+Je pousse encore plus loin cette affaire, dont vous verrez peut-être plus tard des implications beaucoup plus sensibles : assurément si nous continuons la couverture de notre surface première, *bande de Mœbius*, par une surface qui n’est plus, cette fois, équivalente à sa longueur mais le double, nous arriverons en effet - si tant est que ces mots aient un sens - à l’envelopper « *au-dedans et au dehors* ». C’est ce qui est effectivement réalisé ici.
 
 <!-- id: s12-02-0046 -->
 
@@ -190,7 +190,7 @@ Je pousse encore plus loin cette affaire, dont vous verrez peut-être plus tard 
 
 <!-- id: s12-02-0047 -->
 
-Entendez qu’au milieu il y a une *surface de Mœbius*, et autour une surface du type de la surface dédoublée quand tout à l’heure je la coupais avec un ciseau au milieu, ce qui la recouvre - je répète : si ces mots ont un sens *-* « *au-dedans et au dehors* » : alors vous constatez que ces deux surfaces sont *nouées*.
+Entendez qu’au milieu il y a une *surface de Mœbius*, et autour une surface du type de la surface dédoublée quand tout à l’heure je la coupais avec un ciseau au milieu, ce qui la recouvre - je répète : si ces mots ont un sens - « *au-dedans et au dehors* » : alors vous constatez que ces deux surfaces sont *nouées*.
 
 <!-- id: s12-02-0048 -->
 
@@ -234,7 +234,7 @@ Fig.3
 
 <!-- id: s12-02-0058 -->
 
-Qu’est-ce à dire ? C’est que si nous nous mettions éventuellement à faire fonctionner une telle coupure à la façon, mais à la place de ce dont la logique des classes prises en extension se sert de ce que l’on appelle les cercles d’EULER, nous pourrions mettre en évidence, certaines relations essentielles. Mon discours ne me permet pas de le pousser ici jusqu’au bout, mais sachez que concernant un syllogisme par exemple, aussi problématique que celui-ci : « *Tous les hommes sont mortels*. *Socrate est un homme*. *Socrate est mortel* » 
+Qu’est-ce à dire ? C’est que si nous nous mettions éventuellement à faire fonctionner une telle coupure à la façon, mais à la place de ce dont la logique des classes prises en extension se sert de ce que l’on appelle les cercles d’EULER, nous pourrions mettre en évidence, certaines relations essentielles. Mon discours ne me permet pas de le pousser ici jusqu’au bout, mais sachez que concernant un syllogisme par exemple, aussi problématique que celui-ci : « *Tous les hommes sont mortels*. *Socrate est un homme*. *Socrate est mortel* »
 
 <!-- id: s12-02-0059 -->
 
@@ -638,7 +638,7 @@ Le quatrième mercredi de Janvier, toute personne qui se présentera ici…
 
 <!-- id: s12-02-0157 -->
 
-*La relation* S**◊**D qui est située quelque part *à droite du graphe* dont au moins certains d’entre vous connaissent l’existence, a...
+*La relation* S◊D qui est située quelque part *à droite du graphe* dont au moins certains d’entre vous connaissent l’existence, a...
 
 <!-- id: s12-02-0158 -->
 
@@ -653,7 +653,7 @@ Je serai - j’en avertis - de la plus grande ouverture à ces demandes, quitte 
 [^13]: Georges Poulet (1902-1991) : *Les métamorphoses du cercle*, Paris, Champs Flammarion, 1999.
 
 
-[^14]: Dante<span class="smallcaps"> :</span> La Divine Comédie*,* traduction Jacqueline Risset, Paris, G.F., Flammarion, 2004
+[^14]: Dante<span class="smallcaps"> :</span> La Divine Comédie, traduction Jacqueline Risset, Paris, G.F., Flammarion, 2004
 
 
 [^15]: Aristote : *Analytiques, Organon* III, IV, Paris, Vrin, 1992, 2000.

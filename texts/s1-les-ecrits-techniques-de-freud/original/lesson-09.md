@@ -250,7 +250,7 @@ Il y a là une vision syn­crétique de l’être dans le temps, comme contenant
 
 <!-- id: s1-09-0062 -->
 
-À travers ces interprétations et ma permanence, Robert progressivement introduisit un délai entre le vidage et le remplissage, jusqu’au jour où il a pu revenir triomphant *avec un pot vide* dans son bras. Il avait visiblement gagné *l’idée de permanence de son corps*. Parallèlement, il menait une autre expérience de son corps* *: ses vêtements étaient pour lui son contenant, et lorsqu’il en était dépouillé, c’était la mort cer­taine. La scène du déshabillage était pour lui l’occasion de véritables crises. La dernière avait duré trois heures, pendant laquelle le personnel le décrivait comme « *possédé* », il hurlait « *le loup !* », courant d’une chambre à l’autre, éta­lant les fèces qu’il trouvait dans les pots sur les autres enfants, il n’avait pu se calmer qu’attaché.
+À travers ces interprétations et ma permanence, Robert progressivement introduisit un délai entre le vidage et le remplissage, jusqu’au jour où il a pu revenir triomphant *avec un pot vide* dans son bras. Il avait visiblement gagné *l’idée de permanence de son corps*. Parallèlement, il menait une autre expérience de son corps: ses vêtements étaient pour lui son contenant, et lorsqu’il en était dépouillé, c’était la mort cer­taine. La scène du déshabillage était pour lui l’occasion de véritables crises. La dernière avait duré trois heures, pendant laquelle le personnel le décrivait comme « *possédé* », il hurlait « *le loup !* », courant d’une chambre à l’autre, éta­lant les fèces qu’il trouvait dans les pots sur les autres enfants, il n’avait pu se calmer qu’attaché.
 
 <!-- id: s1-09-0063 -->
 
@@ -510,7 +510,7 @@ D’autre part, ce que nous pouvons aussi accentuer, c’est le caractère souve
 
 <!-- id: s1-09-0127 -->
 
-- et d’autre part a un rapport exactement contraire* *: c’est une loi insensée, une loi réduite à quelque chose qui va jusqu’à en être la méconnaissance.
+- et d’autre part a un rapport exactement contraire: c’est une loi insensée, une loi réduite à quelque chose qui va jusqu’à en être la méconnaissance.
 
 <!-- id: s1-09-0128 -->
 
@@ -707,6 +707,7 @@ LECLAIRE, c’est très spécialement à vous que je demande pour la prochaine f
 <!-- id: s1-09-0176 -->
 
 Vous verrez qu’il ne s’agit que de questions posées précisément par ce registre - l’*imaginaire* - que nous sommes en train de voir ici. Et les deux sujets, de la psychose d’une part, et de cet amour, et précisément de l’amour en tant qu’il intéresse le transfert. C’est un arc qui joint ces deux points qui ont l’air aussi opposés que possible l’un de l’autre, et qui pourtant sont unis par cette *fonction imaginaire*. Bref, tout ce qui, à ce stade de la pensée de FREUD, est absolument indispen­sable pour comprendre la façon pleine dont il comprend et élabore la technique, à savoir cette *fonction du narcissisme*, telle qu’elle est également à ce stade, contenue dans ce texte, et nous ne pouvons pas l’éviter.
+
 ## Notes
 
 [^19]: 19 Fondation Paul Parquet : Maison d'Enfants à caractère sanitaire et social, Neuilly-sur-Seine.

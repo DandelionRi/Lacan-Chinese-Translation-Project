@@ -190,7 +190,7 @@ Vous le verrez, il n’y a aucun autre moyen de la faire intervenir, sinon de la
 
 <!-- id: s9-15-0046 -->
 
-Mais à l’autre bout, vous savez, il y a la notion que je viens d’appeler par son nom, celle de « *corps mystique* », pour autant que c’est d’un corps que se constitue une église. Et ça n’est pas pour rien que FREUD, pour définir pour nous l’identité du *moi* dans ses rapports avec ce qu’il appelle à l’occasion *[Massenpsychologie](http://classiques.uqac.ca/classiques/freud_sigmund/essais_de_psychanalyse/Essai_2_psy_collective/Freud_Psycho_collective.pdf)* [^138]*,* se réfère à « *la corporéité de l’Église* ».
+Mais à l’autre bout, vous savez, il y a la notion que je viens d’appeler par son nom, celle de « *corps mystique* », pour autant que c’est d’un corps que se constitue une église. Et ça n’est pas pour rien que FREUD, pour définir pour nous l’identité du *moi* dans ses rapports avec ce qu’il appelle à l’occasion *[Massenpsychologie](http://classiques.uqac.ca/classiques/freud_sigmund/essais_de_psychanalyse/Essai_2_psy_collective/Freud_Psycho_collective.pdf)* [^138], se réfère à « *la corporéité de l’Église* ».
 
 <!-- id: s9-15-0047 -->
 
@@ -230,11 +230,11 @@ L’apparition de cette dimension de l’Autre et *l’émergence du sujet*, je 
 
 <!-- id: s9-15-0056 -->
 
-Et nous trouvons là, dès le premier pas - *je vous le fais remarquer en passant -* la formule, là se termine la formule de FREUD : « *Là où c’était* - la Chose - *là je dois advenir* » Il faudrait remplacer à l’origine par : « *Wo Es war, da durch den Ein* »*,* plutôt par « *durch den Eins* »*, là*, par le « *un* » en tant que « 1 » *le trait unaire -* « *werde Ich* »*, adviendra le Je*. *Tout du chemin est tout tracé,* *à chaque point du chemin*. C’est bien là que j’ai tenté de vous suspendre la dernière fois en vous montrant le progrès nécessaire à cet instant, en tant qu’il ne peut s’instituer que par la dia­lectique effective qui s’accomplit dans le rapport avec l’Autre.
+Et nous trouvons là, dès le premier pas - *je vous le fais remarquer en passant -* la formule, là se termine la formule de FREUD : « *Là où c’était* - la Chose - *là je dois advenir* » Il faudrait remplacer à l’origine par : « *Wo Es war, da durch den Ein* », plutôt par « *durch den Eins* »*, là*, par le « *un* » en tant que « 1 » *le trait unaire -* « *werde Ich* »*, adviendra le Je*. *Tout du chemin est tout tracé,* *à chaque point du chemin*. C’est bien là que j’ai tenté de vous suspendre la dernière fois en vous montrant le progrès nécessaire à cet instant, en tant qu’il ne peut s’instituer que par la dia­lectique effective qui s’accomplit dans le rapport avec l’Autre.
 
 <!-- id: s9-15-0057 -->
 
-Je suis étonné de l’espèce de *matité* dans laquelle il m’a semblé que tombait mon articulation, pour­tant soignée, du « *Rien peut-être* » et du « *Peut-être rien *»*.* Qu’est-ce qu’il faut donc pour vous y rendre sensibles ? Peut-être que justement mon texte à cet endroit... et la spécification de *leur distinction* comme *message* et *question*, puis comme *réponse*, mais pas au niveau de la question, comme suspension de la question au niveau de la question ...a été trop complexe pour être simplement entendu de ceux qui ne l’ont pas noté dans ses détours afin d’y revenir.
+Je suis étonné de l’espèce de *matité* dans laquelle il m’a semblé que tombait mon articulation, pour­tant soignée, du « *Rien peut-être* » et du « *Peut-être rien *». Qu’est-ce qu’il faut donc pour vous y rendre sensibles ? Peut-être que justement mon texte à cet endroit... et la spécification de *leur distinction* comme *message* et *question*, puis comme *réponse*, mais pas au niveau de la question, comme suspension de la question au niveau de la question ...a été trop complexe pour être simplement entendu de ceux qui ne l’ont pas noté dans ses détours afin d’y revenir.
 
 <!-- id: s9-15-0058 -->
 
@@ -242,7 +242,7 @@ Si déçu que je puisse être, c’est forcément moi qui ai tort. C’est pourq
 
 <!-- id: s9-15-0059 -->
 
-C’est tout de même pas pareil ! Il y a la même différence qu’entre le « *rien peut-être* » et le « *peut-être rien* ». Je dirai même qu’il y a dans le premier, le « *rien de sûr* », la même vertu de *sapage de la question* à l’origine qu’il y a dans le « *rien peut-être* ». Et même dans le « *sûrement rien ?* » il y a la même vertu de réponse, éventuelle sans doute, mais tou­jours *anticipée* par rapport à la question, comme c’est facile à *toucher du doigt* me semble-t-il, si je vous rappelle que c’est toujours *avant toute question* – et pour des raisons de sécurité si je puis dire - qu’on apprend à dire dans la vie, quand on est *petit *: « *sûrement rien* ». Cela veut dire sûrement rien d’autre que ce qui est déjà attendu, c’est­-à-dire ce qu’on peut considérer d’avance comme réductible à zéro, comme *le lacs*. La vertu désangoissante de l’*Erwartung*[^140]*,* voilà ce que FREUD sait nous articuler à l’occasion : « *rien que ce que nous savons déjà* ». Quand on est comme ça, on est tranquille, mais on ne l’est pas toujours.
+C’est tout de même pas pareil ! Il y a la même différence qu’entre le « *rien peut-être* » et le « *peut-être rien* ». Je dirai même qu’il y a dans le premier, le « *rien de sûr* », la même vertu de *sapage de la question* à l’origine qu’il y a dans le « *rien peut-être* ». Et même dans le « *sûrement rien ?* » il y a la même vertu de réponse, éventuelle sans doute, mais tou­jours *anticipée* par rapport à la question, comme c’est facile à *toucher du doigt* me semble-t-il, si je vous rappelle que c’est toujours *avant toute question* – et pour des raisons de sécurité si je puis dire - qu’on apprend à dire dans la vie, quand on est *petit *: « *sûrement rien* ». Cela veut dire sûrement rien d’autre que ce qui est déjà attendu, c’est­-à-dire ce qu’on peut considérer d’avance comme réductible à zéro, comme *le lacs*. La vertu désangoissante de l’*Erwartung*[^140], voilà ce que FREUD sait nous articuler à l’occasion : « *rien que ce que nous savons déjà* ». Quand on est comme ça, on est tranquille, mais on ne l’est pas toujours.
 
 <!-- id: s9-15-0060 -->
 
@@ -250,7 +250,7 @@ Ainsi donc ce que nous voyons c’est que le sujet pour trouver *la Chose*, s’
 
 <!-- id: s9-15-0061 -->
 
-L’autre, c’est une *néantisation* qui s’assimilerait à la *négativité hégelienne*. Le *rien*, que j’essaie de faire tenir à ce moment initial pour vous dans l’institution du sujet est autre chose. Le sujet introduit le *rien* comme tel, et ce *rien* est à distinguer d’aucun être de raison qui est celui de la négativité classique, d’aucun être imaginaire qui est celui de l’être impossible quant à son existence, le fameux « Centaure » qui arrête les logiciens - *tous les logiciens, voire les métaphysi­ciens* - à l’entrée de leur chemin vers la science, qui n’est pas non plus l’*ens priva­tivum,* qui est à proprement parler ce que KANT[^141] - admirablement, dans la définition de ses *quatre « rien »*, dont il tire si peu parti - appelle le « *nihil negativum* »*,* à savoir, pour employer ses propres termes : « *leerer Gegenstand ohne Begrif* », un *objet vide*, mais ajoutons, *sans concept*, *sans saisie* *possible avec la main* [^142].
+L’autre, c’est une *néantisation* qui s’assimilerait à la *négativité hégelienne*. Le *rien*, que j’essaie de faire tenir à ce moment initial pour vous dans l’institution du sujet est autre chose. Le sujet introduit le *rien* comme tel, et ce *rien* est à distinguer d’aucun être de raison qui est celui de la négativité classique, d’aucun être imaginaire qui est celui de l’être impossible quant à son existence, le fameux « Centaure » qui arrête les logiciens - *tous les logiciens, voire les métaphysi­ciens* - à l’entrée de leur chemin vers la science, qui n’est pas non plus l’*ens priva­tivum,* qui est à proprement parler ce que KANT[^141] - admirablement, dans la définition de ses *quatre « rien »*, dont il tire si peu parti - appelle le « *nihil negativum* », à savoir, pour employer ses propres termes : « *leerer Gegenstand ohne Begrif* », un *objet vide*, mais ajoutons, *sans concept*, *sans saisie* *possible avec la main* [^142].
 
 <!-- id: s9-15-0062 -->
 
@@ -262,7 +262,7 @@ Je voudrais, pour vous mener sur ce chemin, [*vous paver la voie de fl*<span id=
 
 <!-- id: s9-15-0064 -->
 
-Entendez que *c’est pour vous paver la voie de fleurs* que je vous rappelle ces véri­tés d’expérience commune, dont on ne reconnaît pas assez la signification, et tâcher de vous faire sentir que ce n’est pas hasard, analogie, comparaison, ni seu­lement *fleurs*, mais affinités profondes qui me feront vous indiquer l’affinité - au terme - de *l’objet* à cet *Autre* avec un grand A, en tant par exemple qu’elle se *manifeste dans l’amour*, que le fameux morceau qu’Eliante, dans *Le Misanthrope*[^143]*,* a repris du *De natura rerum* de Lucrèce[^144]...
+Entendez que *c’est pour vous paver la voie de fleurs* que je vous rappelle ces véri­tés d’expérience commune, dont on ne reconnaît pas assez la signification, et tâcher de vous faire sentir que ce n’est pas hasard, analogie, comparaison, ni seu­lement *fleurs*, mais affinités profondes qui me feront vous indiquer l’affinité - au terme - de *l’objet* à cet *Autre* avec un grand A, en tant par exemple qu’elle se *manifeste dans l’amour*, que le fameux morceau qu’Eliante, dans *Le Misanthrope*[^143], a repris du *De natura rerum* de Lucrèce[^144]...
 
 <!-- id: s9-15-0065 -->
 
@@ -452,7 +452,7 @@ Donc, l’ἀϕάνιςις \[aphanisis\] expliquée comme source de l’angoiss
 
 <!-- id: s9-15-0108 -->
 
-Pourquoi est-ce là que vient surgir *la fonction du phallus*, là où en effet tout serait sans lui si facile à comprendre, malheureusement d’une façon tout à fait extérieure à l’expérience ? Pourquoi *la chose du phallus*, pourquoi *le phallus* vient-il comme mesure, au moment où il s’agit - de quoi ? - 
+Pourquoi est-ce là que vient surgir *la fonction du phallus*, là où en effet tout serait sans lui si facile à comprendre, malheureusement d’une façon tout à fait extérieure à l’expérience ? Pourquoi *la chose du phallus*, pourquoi *le phallus* vient-il comme mesure, au moment où il s’agit - de quoi ? -
 
 <!-- id: s9-15-0109 -->
 
@@ -472,7 +472,7 @@ Une réflexion terminale m’a été suggérée ces jours-ci, avec la présentif
 
 <!-- id: s9-15-0113 -->
 
-À savoir, que la pre­mière raison d’être - dont aucun législateur jusqu’à présent n’a fait état *-* pour la naissance d’un enfant, c’est qu’*on le désire*. Et que nous qui savons bien le rôle de ceci - qu’il a été ou non désiré - sur tout le développement du sujet ultérieur, il ne semble pas que nous ayons éprouvé le besoin de rappeler, pour l’introduire, le faire sentir à travers cette discussion ivre, qui oscille entre les nécessités utili­taires évidentes d’une politique démographique et la crainte angoissante - ne l’oubliez pas - des abominations qu’éventuellement l’eugénisme nous promet­trait.
+À savoir, que la pre­mière raison d’être - dont aucun législateur jusqu’à présent n’a fait état - pour la naissance d’un enfant, c’est qu’*on le désire*. Et que nous qui savons bien le rôle de ceci - qu’il a été ou non désiré - sur tout le développement du sujet ultérieur, il ne semble pas que nous ayons éprouvé le besoin de rappeler, pour l’introduire, le faire sentir à travers cette discussion ivre, qui oscille entre les nécessités utili­taires évidentes d’une politique démographique et la crainte angoissante - ne l’oubliez pas - des abominations qu’éventuellement l’eugénisme nous promet­trait.
 
 <!-- id: s9-15-0114 -->
 
@@ -525,7 +525,7 @@ Rappelez-vous qu’il arrive souvent que le fond du désir d’un enfant c’est
 [^148]: Jean Paulhan : *« La douteuse Justine ou Les revanches de la pudeur »,* préface à Sade* : Les infortunes de la vertu, Œuvres complètes (tome I),* éd. Jean-Jacques Pauvert, 1966.
 
 
-[^149]: Jacques Lacan : *« À la mémoire d'Ernest Jones : sur sa théorie du symbolisme »* in *Écrits* p .697 ou t. 2 p. 175*.*
+[^149]: Jacques Lacan : *« À la mémoire d'Ernest Jones : sur sa théorie du symbolisme »* in *Écrits* p .697 ou t. 2 p. 175.
 
 
 [^150]: Cf. Ernest Jones : *Théorie et pratique de la psychanalyse*, Payot, 1969.

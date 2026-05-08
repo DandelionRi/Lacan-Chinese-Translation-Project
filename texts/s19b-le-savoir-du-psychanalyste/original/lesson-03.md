@@ -168,7 +168,7 @@ En d'autres termes, ils n'ont pas la moindre idée de la dimension du milieu dan
 
 <!-- id: s19b-03-0041 -->
 
-Alors comme ça, ça finit par faire ce qu'on appelle un réseau, et à se tenir tous comme ça par la main. 
+Alors comme ça, ça finit par faire ce qu'on appelle un réseau, et à se tenir tous comme ça par la main.
 
 <!-- id: s19b-03-0042 -->
 
@@ -208,7 +208,7 @@ Ce *Chou King* ça été écrit par un nommé Granet, qui avait une espèce de g
 
 <!-- id: s19b-03-0051 -->
 
-- ni avec la sinologie, il était incontestablement sinologue*,* alors le nommé Granet donc, avançait que dans la chine antique, les filles et les garçons s'affron­taient à nombre égal : pourquoi ne pas le croire ?
+- ni avec la sinologie, il était incontestablement sinologue, alors le nommé Granet donc, avançait que dans la chine antique, les filles et les garçons s'affron­taient à nombre égal : pourquoi ne pas le croire ?
 
 <!-- id: s19b-03-0052 -->
 
@@ -428,7 +428,7 @@ Me voir parler aux murs est quelque chose qui ne peut pas vous laisser indiffér
 
 <!-- id: s19b-03-0105 -->
 
-Et réfléchissez, sup­posez que Platon ait été structuraliste* *: il se serait aperçu de ce qu'il en est de la caverne vraiment, à savoir que c'est sans doute là qu'est né le langage.
+Et réfléchissez, sup­posez que Platon ait été structuraliste: il se serait aperçu de ce qu'il en est de la caverne vraiment, à savoir que c'est sans doute là qu'est né le langage.
 
 <!-- id: s19b-03-0106 -->
 
@@ -566,7 +566,7 @@ Il n'y a probablement pas un seul d'entre vous qui m'entendiez *dans le même se
 
 <!-- id: s19b-03-0139 -->
 
-D'ailleurs je m'efforce que de *ce sens*, l'accès ne soit pas trop aisé, *de sorte que vous deviez en mettre du vôtre*, ce qui est *une secrétion* salubre, et même thérapeutique* *: *secrétez* le sens avec vigueur et vous verrez combien la vie devient plus aisée !
+D'ailleurs je m'efforce que de *ce sens*, l'accès ne soit pas trop aisé, *de sorte que vous deviez en mettre du vôtre*, ce qui est *une secrétion* salubre, et même thérapeutique: *secrétez* le sens avec vigueur et vous verrez combien la vie devient plus aisée !
 
 <!-- id: s19b-03-0140 -->
 
@@ -650,7 +650,7 @@ Ce que je peux dire, c'est que par un certain biais qui est celui d'une logique,
 
 <!-- id: s19b-03-0160 -->
 
-> dans *un parcours* qui pour partir de ma malade Aimée, a abouti à *-* l'avant-dernière année de séminaire *-*
+> dans *un parcours* qui pour partir de ma malade Aimée, a abouti à - l'avant-dernière année de séminaire -
 >
 > énoncer sous le titre de « *quatre discours* », vers quoi converge le crible d'une certaine *actualité* \...que j'ai pu, par cette voie - quoi faire ? - donner au moins la raison des murs.
 
@@ -1014,7 +1014,7 @@ Eh bien ce que vous êtes là-dedans, *ombres d'ombre*, ne vous imaginez pas que
 
 <!-- id: s19b-03-0243 -->
 
-Comment ne pas voir ce qu'il y a de semblable dans cette invocation *« substantielle »* et cet incroyable mythe, dont Freud lui-même s'est fait le reflet, de *la jouissance sexuelle* qui est bien cet *objet* qui court, qui court comme dans le jeu du furet, mais dont personne n'est capable d'énoncer le statut, si ce n'est comme le statut suprême, précisément : il est *le suprême* d'une courbe à laquelle il donne son sens, et très précisément aussi dont *le suprême* échappe. 
+Comment ne pas voir ce qu'il y a de semblable dans cette invocation *« substantielle »* et cet incroyable mythe, dont Freud lui-même s'est fait le reflet, de *la jouissance sexuelle* qui est bien cet *objet* qui court, qui court comme dans le jeu du furet, mais dont personne n'est capable d'énoncer le statut, si ce n'est comme le statut suprême, précisément : il est *le suprême* d'une courbe à laquelle il donne son sens, et très précisément aussi dont *le suprême* échappe.
 
 <!-- id: s19b-03-0244 -->
 
@@ -1058,7 +1058,7 @@ Derrière lequel bien sûr, vous pouvez mettre le sens de ce qui nous concerne, 
 
 <!-- id: s19b-03-0254 -->
 
-Mais tout de même, par rapport à ce qui aussi bien n'a pas besoin de murs pour s'écrire, ces termes comme 4 points cardinaux par rapport auxquels vous avez à situer ce que vous êtes, il pourrait bien après tout, le psychiatre*,* s'aper­cevoir que les murs auxquels il est lié par une définition de discours\...
+Mais tout de même, par rapport à ce qui aussi bien n'a pas besoin de murs pour s'écrire, ces termes comme 4 points cardinaux par rapport auxquels vous avez à situer ce que vous êtes, il pourrait bien après tout, le psychiatre, s'aper­cevoir que les murs auxquels il est lié par une définition de discours\...
 
 <!-- id: s19b-03-0255 -->
 

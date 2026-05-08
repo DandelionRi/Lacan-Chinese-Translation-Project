@@ -46,7 +46,7 @@ Je m’y suis repris à trente-six fois, encore que j’avais un petit papier da
 
 <!-- id: s22-04-0011 -->
 
-Ce que vous voyez à droite, c’est ce bon petit nœud bor­roméen pépère*,* nœud bor­roméen à 4 dont il est facile, immédiat, de voir que si vous coupez 1 quelconque de ces ronds de ficelle, les 3 autres sont libres.
+Ce que vous voyez à droite, c’est ce bon petit nœud bor­roméen pépère, nœud bor­roméen à 4 dont il est facile, immédiat, de voir que si vous coupez 1 quelconque de ces ronds de ficelle, les 3 autres sont libres.
 
 <!-- id: s22-04-0012 -->
 
@@ -170,7 +170,7 @@ Sans doute, vous avez l’habitude du tableau noir, mais qu’est-ce que vous y 
 
 <!-- id: s22-04-0042 -->
 
-La peine même que vous avez vue qu’il a fallu que je me donne pour ces images, qui ont cette propriété que mises à plat, néanmoins il faut qu’une ligne passe dessus, *crossing-over*, ou passe dessous, *under-crossing.* 
+La peine même que vous avez vue qu’il a fallu que je me donne pour ces images, qui ont cette propriété que mises à plat, néanmoins il faut qu’une ligne passe dessus, *crossing-over*, ou passe dessous, *under-crossing.*
 
 <!-- id: s22-04-0043 -->
 
@@ -244,7 +244,7 @@ Et le fait que je suis sûr que vous ne soyez pas plus familiers que moi avec ce
 
 <!-- id: s22-04-0060 -->
 
-Je vous l’ai posée cette question : « *est-ce le même nœud* *?* »
+Je vous l’ai posée cette question : « *est-ce le même nœud?* »
 
 <!-- id: s22-04-0061 -->
 
@@ -424,7 +424,7 @@ Car enfin, on ne peut dire que la matière...
 
 <!-- id: s22-04-0103 -->
 
-> c’est ça que ça veut dire « *Problème »* *...*défense avancée, chose à concasser pour qu’on arrive à voir ce que ça défend.
+> c’est ça que ça veut dire « *Problème »...*défense avancée, chose à concasser pour qu’on arrive à voir ce que ça défend.
 
 <!-- id: s22-04-0104 -->
 
@@ -576,7 +576,7 @@ Vous voyez *je fais des progrès*, je suis presque arrivé à dessiner un nœud 
 
 <!-- id: s22-04-0141 -->
 
-Je voudrais aujourd’hui, puisque déjà l’heure avance*,* annoncer ce que j’ai à dire, ce qui nous prendra notre année.
+Je voudrais aujourd’hui, puisque déjà l’heure avance, annoncer ce que j’ai à dire, ce qui nous prendra notre année.
 
 <!-- id: s22-04-0142 -->
 
@@ -638,7 +638,7 @@ Néanmoins, il est curieux que ce terme ait fait son émergence dans un champ qu
 
 <!-- id: s22-04-0156 -->
 
-> *l’hu-mante religieuse* *...*où la religion humait la philosophie, que nous avons vu sor­tir ce mot d’*existence*, qui semble pourtant avoir eu - c’est le cas de le dire - bien des raisons d’être.
+> *l’hu-mante religieuse...*où la religion humait la philosophie, que nous avons vu sor­tir ce mot d’*existence*, qui semble pourtant avoir eu - c’est le cas de le dire - bien des raisons d’être.
 
 <!-- id: s22-04-0157 -->
 
@@ -978,4 +978,4 @@ Que si je vous dit d’abord :
     des noms pluriels (ζῶ-α) en grec, étant à l’origine héritée de l’indo-européen en tant que suffixe de collectif (le règne animal) et non en vrai pluriel.
 
 
-[^9]: *Dictum de omni et nullo*** :** Principe logique de la déduction. Le *dictum de omni et nullo* est un principe qui gouverne les deux formes de la déduction, il est fondé sur le principe d’identité ou sur le principe de non contradiction, et comme eux il est indémontrable. - le *dictum de omni* : Ce qui est dit d’un sujet pris universellement et distributivement (c’est-à-dire avec tous ses inférieurs) doit être dit également de tous ses inférieurs (c’est-à-dire de tout ce qui se trouve compris sous ce sujet. - le *dictum de nullo* : Ce qui est nié d’un sujet pris universellement et distributivement (c’est-à-dire avec tous ses inférieurs) doit être nié également de tous ses inférieurs. François Chenique : *Éléments de logique classique*, Dunod, 1975.
+[^9]: *Dictum de omni et nullo*: Principe logique de la déduction. Le *dictum de omni et nullo* est un principe qui gouverne les deux formes de la déduction, il est fondé sur le principe d’identité ou sur le principe de non contradiction, et comme eux il est indémontrable. - le *dictum de omni* : Ce qui est dit d’un sujet pris universellement et distributivement (c’est-à-dire avec tous ses inférieurs) doit être dit également de tous ses inférieurs (c’est-à-dire de tout ce qui se trouve compris sous ce sujet. - le *dictum de nullo* : Ce qui est nié d’un sujet pris universellement et distributivement (c’est-à-dire avec tous ses inférieurs) doit être nié également de tous ses inférieurs. François Chenique : *Éléments de logique classique*, Dunod, 1975.

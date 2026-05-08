@@ -151,7 +151,7 @@ faits sur la base d’une série d’ex­périences plus ou moins réussies de l
 <!-- id: s5-12-0030 -->
 
 Je vous prie de vous reporter au texte de Monsieur WINNICOTT,qui se trouve dans le *volume 26*
-de l*’International Journal of Psychoanalysis* et qui s’appelle : *Primitive Emotional Development* [^33]*,* pour arriver à motiver
+de l*’International Journal of Psychoanalysis* et qui s’appelle : *Primitive Emotional Development* [^33], pour arriver à motiver
 
 <!-- id: s5-12-0031 -->
 

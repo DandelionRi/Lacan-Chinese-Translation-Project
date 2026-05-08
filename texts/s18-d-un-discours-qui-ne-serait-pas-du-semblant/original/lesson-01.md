@@ -59,7 +59,7 @@ C’est là sans doute l’ambiguïté de ce par quoi j’ai introduit ce que je
 
 <!-- id: s18-01-0014 -->
 
-Rappelez-vous mes termes au temps où j’intitulais un certain *Rapport* [^1]* *: « *De la fonction et du champ de la parole et du langage dans la psychanalyse »*.
+Rappelez-vous mes termes au temps où j’intitulais un certain *Rapport* [^1]: « *De la fonction et du champ de la parole et du langage dans la psychanalyse »*.
 
 <!-- id: s18-01-0015 -->
 
@@ -83,7 +83,7 @@ Je ne pouvais aller au devant que du malentendu :
 
 <!-- id: s18-01-0020 -->
 
-C’est bien en cela 
+C’est bien en cela
 
 <!-- id: s18-01-0021 -->
 
@@ -390,7 +390,7 @@ Je me suis amusé un jour à *faire parler la vérité* [^2].
 
 <!-- id: s18-01-0096 -->
 
-Je demande où il y a un paradoxe* *: qu’est-ce qu’il peut y avoir de plus vrai que l’énonciation « *je mens* » ?
+Je demande où il y a un paradoxe: qu’est-ce qu’il peut y avoir de plus vrai que l’énonciation « *je mens* » ?
 
 <!-- id: s18-01-0097 -->
 
@@ -430,7 +430,7 @@ Qu’est-ce qu’on en sait ? Ferdinand de Saussure faisait comme moi il ne disa
 
 <!-- id: s18-01-0106 -->
 
-Le signifiant, on croit que c’est une bonne petite chose, comme ça... qui est apprivoisée par le structuralisme*,* on croit que c’est « *l’Autre en tant qu’Autre* » et « *la batterie du signifiant* », et tout ce que j’explique, bien sûr...
+Le signifiant, on croit que c’est une bonne petite chose, comme ça... qui est apprivoisée par le structuralisme, on croit que c’est « *l’Autre en tant qu’Autre* » et « *la batterie du signifiant* », et tout ce que j’explique, bien sûr...
 
 <!-- id: s18-01-0107 -->
 
@@ -743,7 +743,7 @@ Seul le mot « *subjectif* » est ici à repousser, pour la simple raison :
 
 <!-- id: s18-01-0184 -->
 
-- *qu’un sujet* comme tel ne maîtrise jamais en aucun cas cette articulation mais en est à proprement parler *déterminé*. \[*divisé :* S**◊***a*\]
+- *qu’un sujet* comme tel ne maîtrise jamais en aucun cas cette articulation mais en est à proprement parler *déterminé*. \[*divisé :* S◊*a*\]
 
 <!-- id: s18-01-0185 -->
 
@@ -763,7 +763,7 @@ Si ce qui s’énonce de parole est justement *vrai* d’être toujours très au
 
 <!-- id: s18-01-0189 -->
 
-D’où le caractère à proprement parler *insensé* \[S<sub>1</sub> **◊** S<sub>2 →</sub> S<sub>1 </sub>*n’a aucun sens*, *asémantique*\] de ce qui s’articule \[*dans le discours analytique*\].
+D’où le caractère à proprement parler *insensé* \[S<sub>1</sub> ◊ S<sub>2 →</sub> S<sub>1 </sub>*n’a aucun sens*, *asémantique*\] de ce qui s’articule \[*dans le discours analytique*\].
 
 <!-- id: s18-01-0190 -->
 
@@ -775,7 +775,7 @@ Mais il faut dire que c’est bien là que se révèle ce qu’il en est de la r
 
 <!-- id: s18-01-0192 -->
 
-J’ai employé la forme hypothétique « *D’un discours <u>qui ne serait pas</u> du semblant* »*.*
+J’ai employé la forme hypothétique « *D’un discours <u>qui ne serait pas</u> du semblant* ».
 
 <!-- id: s18-01-0193 -->
 
@@ -783,7 +783,7 @@ Chacun sait les développements qu’a pris après Aristote la logique, de mettr
 
 <!-- id: s18-01-0194 -->
 
-Tout ce qui s’est articulé... de donner la valeur « *Vrai »* ou « *Faux »* à l’articulation de l’hypothèse, et à combiner ce qui en résulte de l’implication d’un terme à l’intérieur de cette hypothèse comme étant signalé comme « *Vrai »* ...c’est l’inauguration de ce qu’on appelle le *modus ponens* [^10] et bien d’autres modes encore* *: chacun sait ce qu’on en a fait.
+Tout ce qui s’est articulé... de donner la valeur « *Vrai »* ou « *Faux »* à l’articulation de l’hypothèse, et à combiner ce qui en résulte de l’implication d’un terme à l’intérieur de cette hypothèse comme étant signalé comme « *Vrai »* ...c’est l’inauguration de ce qu’on appelle le *modus ponens* [^10] et bien d’autres modes encore: chacun sait ce qu’on en a fait.
 
 <!-- id: s18-01-0195 -->
 
@@ -957,7 +957,7 @@ Mais les conséquences de son émergence, c’est cela qui doit être introduit 
 
 <!-- id: s18-01-0236 -->
 
-C’est au contraire de ce qu’un discours se centre de son *effet* comme *impossible* \[S<sub>1</sub>**◊** S<sub>2</sub>\] qu’il aurait quelque chance d’être *un discours qui ne serait pas du semblant*.
+C’est au contraire de ce qu’un discours se centre de son *effet* comme *impossible* \[S<sub>1</sub>◊ S<sub>2</sub>\] qu’il aurait quelque chance d’être *un discours qui ne serait pas du semblant*.
 
 ## Notes
 

@@ -52,7 +52,7 @@ Peut-être certains d’entre vous ont-ils vu, quand j’ai introduit ce « *to
 
 <!-- id: s20-07-0012 -->
 
-Que ce soit le prosdiorisme*,* le « *tout* » qui dans l’occasion vient à nous faire glisser de la *justice* d’Aristote à la *justesse*, à la « *réussite de justesse* », c’est bien là ce qui me légitime à avoir d’abord produit cette entrée d’Aristote...
+Que ce soit le prosdiorisme, le « *tout* » qui dans l’occasion vient à nous faire glisser de la *justice* d’Aristote à la *justesse*, à la « *réussite de justesse* », c’est bien là ce qui me légitime à avoir d’abord produit cette entrée d’Aristote...
 
 <!-- id: s20-07-0013 -->
 
@@ -146,7 +146,7 @@ Mais justement c’est là, où je trouve tout à fait indiqué que vous vous af
 
 <!-- id: s20-07-0034 -->
 
-Jusqu’à ces conclusions, le travail se poursuit d’une façon où moi je ne puis reconnaître qu’une valeur d’éclaircissement, de lumière*,* tout à fait saisissant.
+Jusqu’à ces conclusions, le travail se poursuit d’une façon où moi je ne puis reconnaître qu’une valeur d’éclaircissement, de lumière, tout à fait saisissant.
 
 <!-- id: s20-07-0035 -->
 
@@ -232,7 +232,7 @@ Mais la métaphore biologique \[*fusion du deux en Un*\] est assurément...
 
 <!-- id: s20-07-0055 -->
 
-Si l’inconscient est bien ce que je dis ; d’*être structuré comme un langage*, *c’est au niveau de la langue qu’il nous faut interroger cet* *Un*, cet *Un* dont, bien entendu, la suite des siècles a fait retentissement, résonance infinie, ai-je besoin ici d’évoquer les néoplatoniciens \[Porphyre de Tyr, Plotin**...**\] et toute la suite ?
+Si l’inconscient est bien ce que je dis ; d’*être structuré comme un langage*, *c’est au niveau de la langue qu’il nous faut interroger cet* *Un*, cet *Un* dont, bien entendu, la suite des siècles a fait retentissement, résonance infinie, ai-je besoin ici d’évoquer les néoplatoniciens \[Porphyre de Tyr, Plotin...\] et toute la suite ?
 
 <!-- id: s20-07-0056 -->
 
@@ -240,7 +240,7 @@ Peut-être aurai-je encore tout à l’heure à mentionner très rapidement cett
 
 <!-- id: s20-07-0057 -->
 
-Il faut bien partir de ceci, que ce « *Y’a d’l’Un* » est à prendre de l’accent qu’il y a de l’*Un* \[« *tout seul* »\], et justement, puisqu’il n’y a pas de rapport*,* qu’« *Y’a d’l’Un »* et *« d’l’Un* *tout seul »*, que c’est de là que se saisit le nerf de ce qu’il en est, concernant ce qu’après tout il nous faut bien appeler du nom dont la chose retentit tout au cours des siècles, à savoir celui de *l’amour*.
+Il faut bien partir de ceci, que ce « *Y’a d’l’Un* » est à prendre de l’accent qu’il y a de l’*Un* \[« *tout seul* »\], et justement, puisqu’il n’y a pas de rapport, qu’« *Y’a d’l’Un »* et *« d’l’Un* *tout seul »*, que c’est de là que se saisit le nerf de ce qu’il en est, concernant ce qu’après tout il nous faut bien appeler du nom dont la chose retentit tout au cours des siècles, à savoir celui de *l’amour*.
 
 <!-- id: s20-07-0058 -->
 
@@ -618,7 +618,7 @@ Je dis qu’à moins de castration...
 
 <!-- id: s20-07-0148 -->
 
-c’est-à-dire de quelque chose qui *dit non* à cette fonction phallique*,* et Dieu sait que c’est pas tout simple ...y’a aucune chance que l’homme ait *jouissance* du corps de la femme, autrement dit « *fasse l’amour »*.
+c’est-à-dire de quelque chose qui *dit non* à cette fonction phallique, et Dieu sait que c’est pas tout simple ...y’a aucune chance que l’homme ait *jouissance* du corps de la femme, autrement dit « *fasse l’amour »*.
 
 <!-- id: s20-07-0149 -->
 
@@ -732,7 +732,7 @@ Il n’y a pas un seul de mes élèves qui n’ait fait je ne sais quel cafouill
 
 <!-- id: s20-07-0176 -->
 
-Alors que je vous désigne dans ce <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" />, « *Le »* signifiant \[**S<sub>1</sub>**\], malgré tout courant et même indispensable*.*
+Alors que je vous désigne dans ce <img src="assets/image41.png" style="width:0.14912in;height:0.1041in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\59.bmp" />, « *Le »* signifiant \[**S<sub>1</sub>**\], malgré tout courant et même indispensable.
 
 <!-- id: s20-07-0177 -->
 
@@ -1002,7 +1002,7 @@ Et si vous lisez cette Hadewijch...
 
 <!-- id: s20-07-0239 -->
 
-Enfin, j’ai déjà parlé d’autres gens qui n’étaient pas si mal non plus du côté mystique, mais qui se situaient plutôt du côté-là, de ce que je disais tout à l’heure, à savoir du côté de la *fonction phallique* \[; !\]* *: Angelus Silesius, tout de même, malgré tout, enfin à force de confondre son œil contemplatif avec l’œil dont Dieu le regarde, c’est quand même un peu drôle, ça doit quand même faire partie de *la jouissance perverse*.
+Enfin, j’ai déjà parlé d’autres gens qui n’étaient pas si mal non plus du côté mystique, mais qui se situaient plutôt du côté-là, de ce que je disais tout à l’heure, à savoir du côté de la *fonction phallique* \[; !\]: Angelus Silesius, tout de même, malgré tout, enfin à force de confondre son œil contemplatif avec l’œil dont Dieu le regarde, c’est quand même un peu drôle, ça doit quand même faire partie de *la jouissance perverse*.
 
 <!-- id: s20-07-0240 -->
 
@@ -1060,7 +1060,7 @@ Comme tout ça se produit n’est-ce-pas, grâce à *l’être de la signifiance
 
 <!-- id: s20-07-0253 -->
 
-En d’autres termes, c’est pas par hasard que Kierkegaard[^70]a découvert *l’ex-sistence* dans une petite aventure de séducteur*,* c’est à se castrer, c’est à renoncer à l’amour n’est-ce pas, qu’il pense y accéder.
+En d’autres termes, c’est pas par hasard que Kierkegaard[^70]a découvert *l’ex-sistence* dans une petite aventure de séducteur, c’est à se castrer, c’est à renoncer à l’amour n’est-ce pas, qu’il pense y accéder.
 
 <!-- id: s20-07-0254 -->
 

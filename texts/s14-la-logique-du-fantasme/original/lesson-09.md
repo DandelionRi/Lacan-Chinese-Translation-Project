@@ -14,7 +14,7 @@ Je vous ai quittés, la dernière fois sur un premier parcours du rectangle qui 
 
 <!-- id: s14-09-0003 -->
 
-Que le choix posé au principe du développement de ses opérations logiques soit cette sorte d’alternative très spéciale, que j’essaie d’articuler sous le nom - propre - d’*aliénation*, entre un « *je ne pense* *pas* » et un « *je ne suis pas* »*,* avec ce qu’il comporte de forcé dans le choix qu’il impose, qui va de soi au « *je ne pense* *pas* »*.* C’est de là que nous repre­nons.
+Que le choix posé au principe du développement de ses opérations logiques soit cette sorte d’alternative très spéciale, que j’essaie d’articuler sous le nom - propre - d’*aliénation*, entre un « *je ne pense* *pas* » et un « *je ne suis pas* », avec ce qu’il comporte de forcé dans le choix qu’il impose, qui va de soi au « *je ne pense* *pas* ». C’est de là que nous repre­nons.
 
 <!-- id: s14-09-0004 -->
 
@@ -152,11 +152,11 @@ Le *neu­tre* est un *genre* aussi et justement *marqué*. Le propre des langues
 
 <!-- id: s14-09-0037 -->
 
-> *il faudrait que je parle* - je n’en ai pas eu le temps avant d’édifier pour vous ces réflexions aujourd’hui - *il faudrait que je parle avec quelque anglo­phone*, ils ne manquent pas dans mon auditoire mais… je voulais le faire hier soir, le temps m’a manqué …pour­quoi, en anglais il y a quelque tirage - *j’ai pu m’en aper­cevoir lors de mon dernier discours pour Baltimore - à le traduire par* « *the Other* » *?*
+> *il faudrait que je parle* - je n’en ai pas eu le temps avant d’édifier pour vous ces réflexions aujourd’hui - *il faudrait que je parle avec quelque anglo­phone*, ils ne manquent pas dans mon auditoire mais… je voulais le faire hier soir, le temps m’a manqué …pour­quoi, en anglais il y a quelque tirage - *j’ai pu m’en aper­cevoir lors de mon dernier discours pour Baltimore - à le traduire par* « *the Other* » ?
 
 <!-- id: s14-09-0038 -->
 
-À ce qu’il parait, ça ne va pas tout seul en anglais, j’imagine que c’est en raison de la valeur tout à fait différente qu’a le « *the* », l’article dé­fini en anglais, et qu’il a bien fallu que je passe – pour en parler de cet Autre, de *mon* Autre - par « *the Otherness *»*.*
+À ce qu’il parait, ça ne va pas tout seul en anglais, j’imagine que c’est en raison de la valeur tout à fait différente qu’a le « *the* », l’article dé­fini en anglais, et qu’il a bien fallu que je passe – pour en parler de cet Autre, de *mon* Autre - par « *the Otherness *».
 
 <!-- id: s14-09-0039 -->
 
@@ -192,7 +192,7 @@ Parce que l’y faire remarquer…
 
 <!-- id: s14-09-0047 -->
 
-Or ce n’est nulle part, ce n’est en rien de sem­blable, ce n’est pas en cette impensable antériorité de ce qui s’instaure comme point de *Selbstbewusstsein,* que nous de­vons chercher ce point nodal, s’il est nécessaire à défi­nir - et il est nécessaire à définir parce qu’il est trou­vable, vous allez le voir *-* ce *point nodal*, qui serait pour nous, dans la position où nous nous sommes mis, le *point tournant* où retrouver le lien du *cogito*.
+Or ce n’est nulle part, ce n’est en rien de sem­blable, ce n’est pas en cette impensable antériorité de ce qui s’instaure comme point de *Selbstbewusstsein,* que nous de­vons chercher ce point nodal, s’il est nécessaire à défi­nir - et il est nécessaire à définir parce qu’il est trou­vable, vous allez le voir - ce *point nodal*, qui serait pour nous, dans la position où nous nous sommes mis, le *point tournant* où retrouver le lien du *cogito*.
 
 <!-- id: s14-09-0048 -->
 
@@ -376,7 +376,7 @@ Est-ce qu’il n’est pas bien clair…
 
 <!-- id: s14-09-0091 -->
 
-Assurément, nous avons affaire à matière morte, à l’endroit de laquelle nous n’avons plus aucun rapport de « *je* »*.*
+Assurément, nous avons affaire à matière morte, à l’endroit de laquelle nous n’avons plus aucun rapport de « *je* ».
 
 <!-- id: s14-09-0092 -->
 
@@ -430,7 +430,7 @@ Mais au niveau de l’inconscient du sujet, dans l’analyse, le « *je* » es
 
 <!-- id: s14-09-0104 -->
 
-Précisément parce qu’il y est dénoué, qu’il vient se con­joindre à un « *je ne suis pas* »*,* où se manifeste assez - je l’ai dit la dernière fois - dans ces formes qui sont, dans le rêve, omniprésente et jamais complètement identifiable, la fonction du « *je* »*.*
+Précisément parce qu’il y est dénoué, qu’il vient se con­joindre à un « *je ne suis pas* », où se manifeste assez - je l’ai dit la dernière fois - dans ces formes qui sont, dans le rêve, omniprésente et jamais complètement identifiable, la fonction du « *je* ».
 
 <!-- id: s14-09-0105 -->
 
@@ -474,7 +474,7 @@ Mais qu’est-ce que ça veut dire ? Je dirais que c’est ce que je disais, un 
 
 <!-- id: s14-09-0115 -->
 
-> puisque c’était pour vous montrer que c’est là le point que vient combler le « *Sinn »* *…*d’où sou­dain, il m’est apparu que ce qu’il y avait de plus propre à supporter *ce rôle de l’objet-sein dans le fantasme*, en tant qu’il est, lui vraiment, le support spécifique du « *je* » *-* du « *je* » de la pulsion orale - *mais ce n’était rien d’autre que la formule*…
+> puisque c’était pour vous montrer que c’est là le point que vient combler le « *Sinn »* *…*d’où sou­dain, il m’est apparu que ce qu’il y avait de plus propre à supporter *ce rôle de l’objet-sein dans le fantasme*, en tant qu’il est, lui vraiment, le support spécifique du « *je* » - du « *je* » de la pulsion orale - *mais ce n’était rien d’autre que la formule*…
 
 <!-- id: s14-09-0116 -->
 
@@ -582,7 +582,7 @@ Il se dit : « *ce n’est qu’un rêve* », et c’est précisément en quoi i
 
 <!-- id: s14-09-0142 -->
 
-Ce qui fait la consistance de ce sujet en tant qu’il voit, c’est-à-dire, en tant qu’il n’a que *la géométrie de sa vision*, en tant qu’à l’Autre il peut dire : « *ceci est à droite* », « *ceci est à gauche* », « *ceci est en dedans* » et « *ceci est en dehors* ». Qu’est-ce qui lui permet de se situer comme « *je* »*,* sinon ceci que je vous ai déjà en son temps souligné :
+Ce qui fait la consistance de ce sujet en tant qu’il voit, c’est-à-dire, en tant qu’il n’a que *la géométrie de sa vision*, en tant qu’à l’Autre il peut dire : « *ceci est à droite* », « *ceci est à gauche* », « *ceci est en dedans* » et « *ceci est en dehors* ». Qu’est-ce qui lui permet de se situer comme « *je* », sinon ceci que je vous ai déjà en son temps souligné :
 
 <!-- id: s14-09-0143 -->
 
@@ -598,7 +598,7 @@ C’est bien en tant que le « *je* » lui-même est *tache sur fond*, et que ce
 
 <!-- id: s14-09-0146 -->
 
-Est-ce que ce n’est pas là que le « *je rêve seulement* » et ce qui masque *la réalité du regard* en tant qu’elle est à découvrir ? C’est en ce point que je voulais vous amener aujourd’hui concernant ce rappel de *la fonction de l’objet(a) et sa corrélation étroite au* « *je* »*.*
+Est-ce que ce n’est pas là que le « *je rêve seulement* » et ce qui masque *la réalité du regard* en tant qu’elle est à découvrir ? C’est en ce point que je voulais vous amener aujourd’hui concernant ce rappel de *la fonction de l’objet(a) et sa corrélation étroite au* « *je* ».
 
 <!-- id: s14-09-0147 -->
 

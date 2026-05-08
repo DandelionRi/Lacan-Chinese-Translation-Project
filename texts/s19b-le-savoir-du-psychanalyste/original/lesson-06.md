@@ -126,7 +126,7 @@ C'est du *discours analytique* qui pour n'être pas encore - et pour cause ! - 
 
 <!-- id: s19b-06-0028 -->
 
-Á partir de quoi ? Seulement de ceci en fait que ma position en est déter­minée*.*
+Á partir de quoi ? Seulement de ceci en fait que ma position en est déter­minée.
 
 <!-- id: s19b-06-0029 -->
 
@@ -618,7 +618,7 @@ Pour ce qui est du sexe, on en était réduit à penser que le sexe c'était par
 
 <!-- id: s19b-06-0149 -->
 
-Le fait que nous sachions d'une façon certaine que le sexe ça se trouve là* *: dans deux petites cellules qui ne se ressemblent pas, de ceci et sous prétexte du *sexe*\...
+Le fait que nous sachions d'une façon certaine que le sexe ça se trouve là: dans deux petites cellules qui ne se ressemblent pas, de ceci et sous prétexte du *sexe*\...
 
 <!-- id: s19b-06-0150 -->
 
@@ -658,7 +658,7 @@ Et c'est bien là que l'évolution des *formes du discours* est pour vous bien p
 
 <!-- id: s19b-06-0159 -->
 
-Les *petites choses* que je vous ai déjà *écrites* au tableau, à savoir : 
+Les *petites choses* que je vous ai déjà *écrites* au tableau, à savoir :
 
 <!-- id: s19b-06-0160 -->
 
@@ -944,7 +944,7 @@ C'est celui qui relève de ce qu'on appelle « *la non-dénombrabilité des par
 
 <!-- id: s19b-06-0229 -->
 
-Il est très facile, si vous partez de ceci pour prendre le nombre cardinal* *: vous avez un ensemble composé par exemple de cinq éléments.
+Il est très facile, si vous partez de ceci pour prendre le nombre cardinal: vous avez un ensemble composé par exemple de cinq éléments.
 
 <!-- id: s19b-06-0230 -->
 

@@ -34,7 +34,7 @@ Je pose - très sûr de ne rencontrer là-dessus aucune opposition de la part de
 
 <!-- id: s9-04-0008 -->
 
-C’est justement de ce « *rien* » qu’il va s’agir, car c’est ce « *rien* » qui a valeur positive pour dire ce que cela signifie. Nous avons dans notre expérience, voire dans notre folklore analytique, quelque chose, une image jamais assez approfondie, exploitée, qu’est le jeu du petit enfant, si savamment repéré par FREUD[^35], aperçu de façon si perspicace dans le « *Fort-Da* »*.*
+C’est justement de ce « *rien* » qu’il va s’agir, car c’est ce « *rien* » qui a valeur positive pour dire ce que cela signifie. Nous avons dans notre expérience, voire dans notre folklore analytique, quelque chose, une image jamais assez approfondie, exploitée, qu’est le jeu du petit enfant, si savamment repéré par FREUD[^35], aperçu de façon si perspicace dans le « *Fort-Da* ».
 
 <!-- id: s9-04-0009 -->
 
@@ -50,7 +50,7 @@ Quel rapport y a-t-il entre le « *est* » qui unit *les deux apparitions* de 
 
 <!-- id: s9-04-0012 -->
 
-Rappelez-vous l’histoire du *propriétaire de la ferme* mort que son serviteur retrouve dans le corps de la souris : le rapport de ce « *c’est lui* » avec le « *c’est encore lui* »*,* c’est là ce qui nous donne l’expérience la plus simple de l’identification, le *modèle* et le *registre*. «  *Lui* » puis « *encore lui* » : il y a là la visée de *l’être*, dans l’« *encore lui* », c’est le même *être* qui apparaît. Pour ce qui est de l’autre, en somme, cela peut aller comme ça, *ça va*. Pour ma chienne que j’ai prise l’autre jour comme terme de référence, comme je viens de vous le dire : *ça va*, cette référence à l’être est suffisamment, semble-t-il, supportée par son odo­rat. Dans le champ *imaginaire* le support de l’être est vite concevable. Il s’agit de savoir si c’est *effectivement* ce rapport simple dont il s’agit dans notre expé­rience de l’identification.
+Rappelez-vous l’histoire du *propriétaire de la ferme* mort que son serviteur retrouve dans le corps de la souris : le rapport de ce « *c’est lui* » avec le « *c’est encore lui* », c’est là ce qui nous donne l’expérience la plus simple de l’identification, le *modèle* et le *registre*. «  *Lui* » puis « *encore lui* » : il y a là la visée de *l’être*, dans l’« *encore lui* », c’est le même *être* qui apparaît. Pour ce qui est de l’autre, en somme, cela peut aller comme ça, *ça va*. Pour ma chienne que j’ai prise l’autre jour comme terme de référence, comme je viens de vous le dire : *ça va*, cette référence à l’être est suffisamment, semble-t-il, supportée par son odo­rat. Dans le champ *imaginaire* le support de l’être est vite concevable. Il s’agit de savoir si c’est *effectivement* ce rapport simple dont il s’agit dans notre expé­rience de l’identification.
 
 <!-- id: s9-04-0013 -->
 
@@ -342,7 +342,7 @@ Ceci n’est point assez remarqué dans le texte auquel je fais allusion pour un
 
 <!-- id: s9-04-0085 -->
 
-Les diverses « *effaçons* » *-* si vous me permettez de me servir de cette formule *-* dont vient au jour le signifiant, nous donneront précisément les modes majeurs de *la manifestation du sujet*. D’ores et déjà, pour vous indiquer, vous rappeler les formules sous lesquelles pour vous j’ai noté par exemple la fonction de la métonymie : fonction *grand S*, pour autant qu’il est dans *une chaîne* qui se continue par (*S′, S′′, S′′′,*…) c’est ceci qui doit nous donner l’effet que j’ai appelé du « *peu de sens* »*,* pour autant que le signe « *moins* » désigne, connote, un certain mode d’apparition du signifié tel qu’il résulte de la mise en fonction de S, le signifiant, dans une chaîne signifiante.
+Les diverses « *effaçons* » - si vous me permettez de me servir de cette formule - dont vient au jour le signifiant, nous donneront précisément les modes majeurs de *la manifestation du sujet*. D’ores et déjà, pour vous indiquer, vous rappeler les formules sous lesquelles pour vous j’ai noté par exemple la fonction de la métonymie : fonction *grand S*, pour autant qu’il est dans *une chaîne* qui se continue par (*S′, S′′, S′′′,*…) c’est ceci qui doit nous donner l’effet que j’ai appelé du « *peu de sens* », pour autant que le signe « *moins* » désigne, connote, un certain mode d’apparition du signifié tel qu’il résulte de la mise en fonction de S, le signifiant, dans une chaîne signifiante.
 
 <!-- id: s9-04-0086 -->
 

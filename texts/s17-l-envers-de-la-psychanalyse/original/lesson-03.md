@@ -46,7 +46,7 @@ Il vaut bien que je le réévoque, au moment où tout le monde se réjouit d’e
 
 <!-- id: s17-03-0011 -->
 
-Il y a dix ans, deux de mes élèves présentaient quelque chose qui res­sortait des thèses lacaniennes sous le titre « *L’Inconscient, étude psychana­lytique »* [^3]*.*
+Il y a dix ans, deux de mes élèves présentaient quelque chose qui res­sortait des thèses lacaniennes sous le titre « *L’Inconscient, étude psychana­lytique »* [^3].
 
 <!-- id: s17-03-0012 -->
 
@@ -70,7 +70,7 @@ Nous étions en 60, ne l’oublions pas. Nous étions loin...
 
 <!-- id: s17-03-0017 -->
 
-sommes-nous plus près, c’est la question ...loin de toute contestation à proprement parler, d’une autorité*,* entre autres celle du savoir.
+sommes-nous plus près, c’est la question ...loin de toute contestation à proprement parler, d’une autorité, entre autres celle du savoir.
 
 <!-- id: s17-03-0018 -->
 
@@ -330,7 +330,7 @@ Eh bien justement, notre embarras à répondre sur ce qui fait *l’essence, la 
 >
 > quand je m’interroge, vague, erre, ma pensée, avant de trouver les points sûrs ...c’est là qu’en quelque sorte l’idée pourrait nous venir de chercher ce qui, dans chacun de ces discours, pour désigner au moins une place, nous paraîtrait tout à fait sûr, aussi sûr que le *symptôme* quand il s’agit de *l’hystérique*.
 
-# Est-ce que... 
+# Est-ce que...
 
 <!-- id: s17-03-0082 -->
 
@@ -348,7 +348,7 @@ Eh bien une telle idée aura pour conséquence de vous faire toucher du doigt, d
 
 <!-- id: s17-03-0085 -->
 
-> indépendamment de toute cette fin que je vous suggérais pouvoir être celle qui nous intéresse ...essayez dans chacune... disons*,* appelons-les « *figures* » ...dans chacune de ces *figures,* de vous obliger simplement à ceci, que dans chacune *la place* définie en fonction du terme « *place »*... *en haut, en bas, à droite* ou *à gauche* *...*que dans chacune la place soit différente, eh bien vous n’arriverez pas à ce que...
+> indépendamment de toute cette fin que je vous suggérais pouvoir être celle qui nous intéresse ...essayez dans chacune... disons, appelons-les « *figures* » ...dans chacune de ces *figures,* de vous obliger simplement à ceci, que dans chacune *la place* définie en fonction du terme « *place »*... *en haut, en bas, à droite* ou *à gauche...*que dans chacune la place soit différente, eh bien vous n’arriverez pas à ce que...
 
 <!-- id: s17-03-0086 -->
 
@@ -378,7 +378,7 @@ Qu’à poser d’une certaine façon *la formalisation du discours*...
 
 > et à l’intérieur de cette *formalisation*, de s’accorder à soi-même quelques règles destinées,
 >
-> cette *formalisation*, à la mettre à l’épreuve, ...se rencontre un tel élément d’*impossibilité* \[**◊**\].
+> cette *formalisation*, à la mettre à l’épreuve, ...se rencontre un tel élément d’*impossibilité* \[◊\].
 
 <!-- id: s17-03-0093 -->
 
@@ -536,7 +536,7 @@ Et bien sûr, quand un savant psychologue écrit de nos jours...
 
 <!-- id: s17-03-0131 -->
 
-> enfin je veux dire, il n’y a pas si longtemps, 40 ou 50 ans ...quelque chose qui s’appelle « *La Sensation, guide de vie »* [^6]*,* il ne dit bien sûr, rien d’absurde, mais s’il peut l’énoncer ainsi, c’est juste­ment que toute l’évolution d’une science nous fait apercevoir *qu’il n’y a nulle connaturalité de cette « sensation »,* *à ce qui par elle, pénètre d’appréhension d’un prétendu* « *monde* ».
+> enfin je veux dire, il n’y a pas si longtemps, 40 ou 50 ans ...quelque chose qui s’appelle « *La Sensation, guide de vie »* [^6], il ne dit bien sûr, rien d’absurde, mais s’il peut l’énoncer ainsi, c’est juste­ment que toute l’évolution d’une science nous fait apercevoir *qu’il n’y a nulle connaturalité de cette « sensation »,* *à ce qui par elle, pénètre d’appréhension d’un prétendu* « *monde* ».
 
 <!-- id: s17-03-0132 -->
 
@@ -574,7 +574,7 @@ Est-ce que c’est ce sujet-là...
 
 <!-- id: s17-03-0140 -->
 
-*Il n’y a pas moyen d’échapper à cette formule extraordinairement réduite* : *qu’il y a* *quelque chose dessous* \[ὑποχείμενον : upokeimenon, *sub-jectum* \], mais justement que nous ne pou­vons pas désigner d’aucun terme de « *quelque chose* » : ça ne saurait être un « *etwas* » \[*quelque chose*\]*,* c’est simplement un *en dessous*, si vous voulez, un sujet, un ὑποχείμενον \[upokeimenon\], ceci que même à une pensée aussi investie de la contemplation des exigences...
+*Il n’y a pas moyen d’échapper à cette formule extraordinairement réduite* : *qu’il y a* *quelque chose dessous* \[ὑποχείμενον : upokeimenon, *sub-jectum* \], mais justement que nous ne pou­vons pas désigner d’aucun terme de « *quelque chose* » : ça ne saurait être un « *etwas* » \[*quelque chose*\], c’est simplement un *en dessous*, si vous voulez, un sujet, un ὑποχείμενον \[upokeimenon\], ceci que même à une pensée aussi investie de la contemplation des exigences...
 
 <!-- id: s17-03-0141 -->
 
@@ -654,7 +654,7 @@ Bon, alors nous n’avons donc pas à être surpris de voir quelque chose appara
 
 <!-- id: s17-03-0160 -->
 
-*quand le signifiant s’introduit comme appareil de la jouissance* *...*de voir apparaître quelque chose qui a rap­port avec l’entropie, puisque là où on a défini *l’entropie* c’est quand on a commencé par plaquer sur le monde physique cet appareil de signifiants.
+*quand le signifiant s’introduit comme appareil de la jouissance...*de voir apparaître quelque chose qui a rap­port avec l’entropie, puisque là où on a défini *l’entropie* c’est quand on a commencé par plaquer sur le monde physique cet appareil de signifiants.
 
 <!-- id: s17-03-0161 -->
 
@@ -774,7 +774,7 @@ C’est seulement cette dimension de l’entropie qui fait *prendre corps* à ce
 
 # ...dans sa masse même, ce qui l’anime, ce qui le travaille, ce qui le fait d’un autre ordre de savoir que ces savoirs harmonisants 
 
-# qui lient l’*Innenwelt* à l’*Umwelt,* c’est *la fonction du* « *plus-de- jouir »* comme tel. C’est là le creux, la béance que sans doute et d’abord viennent remplir un certain nombre d’« *objets *» qui sont en quelque sorte par avance adaptés, faits pour servir de « *bouchon* » \[*à* *i’a*\]. 
+# qui lient l’*Innenwelt* à l’*Umwelt,* c’est *la fonction du* « *plus-de- jouir »* comme tel. C’est là le creux, la béance que sans doute et d’abord viennent remplir un certain nombre d’« *objets *» qui sont en quelque sorte par avance adaptés, faits pour servir de « *bouchon* » \[*à* *i’a*\].
 
 <!-- id: s17-03-0186 -->
 
@@ -870,7 +870,7 @@ Il n’en reste pas moins que ce nœud du *mi-dire*...
 
 <!-- id: s17-03-0209 -->
 
-Ce qui se rappelle à nous dans *les forma­tions de l’inconscient,* ce n’est rien qui soit de l’ordre de *l’être,* d’un *être* plein d’aucune façon*.*
+Ce qui se rappelle à nous dans *les forma­tions de l’inconscient,* ce n’est rien qui soit de l’ordre de *l’être,* d’un *être* plein d’aucune façon.
 
 <!-- id: s17-03-0210 -->
 
@@ -922,7 +922,7 @@ Ce qui est demandé au psychanalyste...
 
 <!-- id: s17-03-0222 -->
 
-> je l’ai indiqué déjà la dernière fois dans mon discours ...ce n’est certes pas ce qui ressortit à ce *sujet supposé savoir*, dont à m’entendre comme on le fait d’ordinaire, un tout petit peu à côté*,* j’ai cru pouvoir fonder *le transfert*.
+> je l’ai indiqué déjà la dernière fois dans mon discours ...ce n’est certes pas ce qui ressortit à ce *sujet supposé savoir*, dont à m’entendre comme on le fait d’ordinaire, un tout petit peu à côté, j’ai cru pouvoir fonder *le transfert*.
 
 <!-- id: s17-03-0223 -->
 
@@ -930,7 +930,7 @@ J’ai souvent insisté sur ceci, que nous sommes *supposés savoir* pas grand-c
 
 <!-- id: s17-03-0224 -->
 
-Ce que l’analyste dresse, ce que l’analyse instaure, institue c’est ceci, qui est tout le contraire, c’est que l’analyste dit à celui qui va commencer : « *Allez-y, dites n’importe quoi, ce sera merveilleux* »*.* \[*Rires*\]
+Ce que l’analyste dresse, ce que l’analyse instaure, institue c’est ceci, qui est tout le contraire, c’est que l’analyste dit à celui qui va commencer : « *Allez-y, dites n’importe quoi, ce sera merveilleux* ». \[*Rires*\]
 
 <!-- id: s17-03-0225 -->
 
@@ -980,7 +980,7 @@ Si l’analyste peut occuper cette place en haut à gauche qui détermine son di
 
 <!-- id: s17-03-0236 -->
 
-« *Là où c’était* - le plus de jouir, le jouir de l’Autre *-* *c’est là que moi* - en tant que je profère l’acte psychanalytique - *je dois venir* ».
+« *Là où c’était* - le plus de jouir, le jouir de l’Autre - *c’est là que moi* - en tant que je profère l’acte psychanalytique - *je dois venir* ».
 
 ## Notes
 

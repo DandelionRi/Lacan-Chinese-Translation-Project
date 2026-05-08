@@ -30,7 +30,7 @@ Comme nous sommes *psychiatres* ou du moins gens diversement initiés à la psyc
 
 <!-- id: s3-09-0007 -->
 
-Dans quoi se situe l’introduction de la notion de « *narcissisme* » dans l’ensemble de la pensée de FREUD ? Il ne faut tout de même pas oublier les étapes : on parle de défense maintenant et à tout propos, et on croit là répéter quelque chose de très ancien dans l’œuvre de FREUD. C’est vrai, c’est très ancien, la notion de défense joue un rôle très précocement, et dès 1884 -1885 il propose le terme de *neuro-psychose de défense*, mais il emploie ce terme avec un sens tout à fait précis* *: quand il parle d’*Abwehrhysterie*, il la distingue de deux autres espèces d’hystéries.
+Dans quoi se situe l’introduction de la notion de « *narcissisme* » dans l’ensemble de la pensée de FREUD ? Il ne faut tout de même pas oublier les étapes : on parle de défense maintenant et à tout propos, et on croit là répéter quelque chose de très ancien dans l’œuvre de FREUD. C’est vrai, c’est très ancien, la notion de défense joue un rôle très précocement, et dès 1884 -1885 il propose le terme de *neuro-psychose de défense*, mais il emploie ce terme avec un sens tout à fait précis: quand il parle d’*Abwehrhysterie*, il la distingue de deux autres espèces d’hystéries.
 
 <!-- id: s3-09-0008 -->
 
@@ -462,7 +462,7 @@ Mais quand même il y a quelque chose de cet ordre-là, c’est-à-dire de conti
 
 <!-- id: s3-09-0114 -->
 
-… c’est-à-dire que ce n’est justement pas à chaque instant qu’il y a des lois d’intervalle, de suspension, de scansion, de résolution proprement *symbolique*, de l’ordre des suspensions et scansions qui marquent la structure de tout calcul*,* qui font que justement ce n’est pas d’une façon continue que s’inscrit, disons cette « *phrase intérieure* ».
+… c’est-à-dire que ce n’est justement pas à chaque instant qu’il y a des lois d’intervalle, de suspension, de scansion, de résolution proprement *symbolique*, de l’ordre des suspensions et scansions qui marquent la structure de tout calcul, qui font que justement ce n’est pas d’une façon continue que s’inscrit, disons cette « *phrase intérieure* ».
 
 <!-- id: s3-09-0115 -->
 
@@ -617,6 +617,7 @@ Ce qui est important, c’est de comprendre ce qu’on dit, et pour comprendre c
 <!-- id: s3-09-0152 -->
 
 Les neuf-dixièmes du langage et des discours effectivement tenus, sont à ce titre des discours complètement fictifs.
+
 ## Notes
 
 [^18]: Antoine Baudeau, Sieur de Somaize : « [*Le grand dictionnaire des précieuses ou la clef de la langue des ruelles*](http://books.google.fr/books?id=jxJ5AAAAIAAJ&printsec=frontcover&dq=Dictionnaire+des+pr%C3%A9cieuses&source=bl&ots=HDT30JnG9y&sig=dy5o7kJH3QsFttEKqeyhge7-8oo&hl=fr&ei=IIB3TPGnC8OQjAew0rS0Bg&sa=X&oi=book_result&ct=result&resnum=2&ved=0CBsQ6AEwAQ#v=onepage&q) » (1660).

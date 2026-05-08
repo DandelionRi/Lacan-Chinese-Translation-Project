@@ -162,7 +162,7 @@ Ce n’est pas pour rien que je suis parti de ce qui - en apparence - de *ces fo
 
 <!-- id: s16-16-0040 -->
 
-Il est fait du *réseau de trois chaînes* dont deux se trouvent déjà marquées sinon élucidées de certaines formules dont certaines ont pu être abondamment commentées, puisque le S **◊** D est ce qui marque comme fondamental *la dépendance* du sujet par rapport à ce qui, sous le nom de *demande*, a été fortement distancié de ce qu’il en est du *besoin*.
+Il est fait du *réseau de trois chaînes* dont deux se trouvent déjà marquées sinon élucidées de certaines formules dont certaines ont pu être abondamment commentées, puisque le S ◊ D est ce qui marque comme fondamental *la dépendance* du sujet par rapport à ce qui, sous le nom de *demande*, a été fortement distancié de ce qu’il en est du *besoin*.
 
 <!-- id: s16-16-0041 -->
 
@@ -294,7 +294,7 @@ Que le petit garçon se soit vu maltraité assez pour que rien de ce qui - pour 
 
 <!-- id: s16-16-0073 -->
 
-Ici, de cet insu la jouissance pour l’Autre - *c’est*-*à*-*dire la fin même de la perversion* - se trouve en quelque sorte échapper, mais c’est aussi bien ce qui démontre d’abord :
+Ici, de cet insu la jouissance pour l’Autre - *c’est-à-dire la fin même de la perversion* - se trouve en quelque sorte échapper, mais c’est aussi bien ce qui démontre d’abord :
 
 <!-- id: s16-16-0074 -->
 
@@ -322,11 +322,11 @@ Le retour est ce dont il s’agit, à savoir sa réduction à la position humili
 
 <!-- id: s16-16-0080 -->
 
-Mais le pas suivant n’a pas moins d’intérêt. Quel est donc *l’objet(a)* dans la pulsion *sado*-*masochiste* ?
+Mais le pas suivant n’a pas moins d’intérêt. Quel est donc *l’objet(a)* dans la pulsion *sado-masochiste* ?
 
 <!-- id: s16-16-0081 -->
 
-Est-ce qu’il ne vous semble pas qu’à mettre en relief l’interdit propre à la jouissance, c’est cela qui doit nous permettre aussi de remettre à sa place ce dont on croit faire la clé de ce qu’il en est du *sado*-*masochisme*, quand on parle du jeu avec la douleur, pour aussitôt se rétracter et dire qu’après tout, ce n’est amusant que si la douleur ne va pas trop loin ?
+Est-ce qu’il ne vous semble pas qu’à mettre en relief l’interdit propre à la jouissance, c’est cela qui doit nous permettre aussi de remettre à sa place ce dont on croit faire la clé de ce qu’il en est du *sado-masochisme*, quand on parle du jeu avec la douleur, pour aussitôt se rétracter et dire qu’après tout, ce n’est amusant que si la douleur ne va pas trop loin ?
 
 <!-- id: s16-16-0082 -->
 
@@ -444,7 +444,7 @@ Il est strictement impossible de concevoir ce qu’il en est de la fonction du *
 
 <!-- id: s16-16-0110 -->
 
-Si l’on peut parler d’un certain *masochisme moral*, ce ne peut être fondé que sur cette pointe de *l’incidence de la voix de l’Autre* non pas dans l’oreille du sujet mais *au niveau de l’Autre* qu’il instaure comme étant *complété de la voix*, et à la façon dont tout à l’heure jouit *l’exhibitionniste*.*C’est* *dans ce supplément de l’Autre*…
+Si l’on peut parler d’un certain *masochisme moral*, ce ne peut être fondé que sur cette pointe de *l’incidence de la voix de l’Autre* non pas dans l’oreille du sujet mais *au niveau de l’Autre* qu’il instaure comme étant *complété de la voix*, et à la façon dont tout à l’heure jouit *l’exhibitionniste.C’est* *dans ce supplément de l’Autre*…
 
 <!-- id: s16-16-0111 -->
 
@@ -480,23 +480,23 @@ Il est tout à fait clair que *le sadique* ici n’est que *l’instrument* de q
 
 <!-- id: s16-16-0119 -->
 
-### Puisque l’heure s’est avancée et qu’aussi bien ceci a été subtil à produire pour que j’y aie mis tout ce temps, 
+### Puisque l’heure s’est avancée et qu’aussi bien ceci a été subtil à produire pour que j’y aie mis tout ce temps,
 
 <!-- id: s16-16-0120 -->
 
-### j’annonce pourtant que le problème du *névrosé* est celui-ci. Vous vous référerez à l’article que j’ai fait sous le titre 
+### j’annonce pourtant que le problème du *névrosé* est celui-ci. Vous vous référerez à l’article que j’ai fait sous le titre
 
 <!-- id: s16-16-0121 -->
 
-### *Remarque sur un discours de Daniel Lagache.* Il est indispensable pour nous retrouver dans ceci d’égaré qu’a tout ce qui s’est dit 
+### *Remarque sur un discours de Daniel Lagache.* Il est indispensable pour nous retrouver dans ceci d’égaré qu’a tout ce qui s’est dit
 
 <!-- id: s16-16-0122 -->
 
-### au niveau du texte freudien concernant l’identification, le flottement, la contradiction nette qu’il y a, à travers ses ouvrages, 
+### au niveau du texte freudien concernant l’identification, le flottement, la contradiction nette qu’il y a, à travers ses ouvrages,
 
 <!-- id: s16-16-0123 -->
 
-### à travers ses énoncés, sur ce qu’il en est de ce qu’il appelle *réservoir de la libido* qui, 
+### à travers ses énoncés, sur ce qu’il en est de ce qu’il appelle *réservoir de la libido* qui,
 
 <!-- id: s16-16-0124 -->
 
@@ -588,7 +588,7 @@ C’est sur cette ligne que dans le graphe complet vous rencontrez :
 
 <!-- id: s16-16-0146 -->
 
-- le *fantasme*, \[S **◊** *a*\]
+- le *fantasme*, \[S ◊ *a*\]
 
 <!-- id: s16-16-0147 -->
 
@@ -600,7 +600,7 @@ C’est autour de cela que sera recentré le problème du névrosé, la manifest
 
 <!-- id: s16-16-0149 -->
 
-Donc, si notre formule de *S barré poinçon de petit(a)*** :** S **◊** *a,* en tant que *formule du fantasme*, est à mettre en avant au niveau de la sublimation, ce n’est très précisément pas avant qu’une critique soit portée sur toute une série d’implications latérales qui ont été données de façon injustifiée en raison du fait que *l’expérience* - qui n’aurait pourtant pas pu avoir lieu autrement - que *l’expérience des incidences du signifiant sur le sujet* ait été faite au niveau des névrosés.
+Donc, si notre formule de *S barré poinçon de petit(a)*: S ◊ *a,* en tant que *formule du fantasme*, est à mettre en avant au niveau de la sublimation, ce n’est très précisément pas avant qu’une critique soit portée sur toute une série d’implications latérales qui ont été données de façon injustifiée en raison du fait que *l’expérience* - qui n’aurait pourtant pas pu avoir lieu autrement - que *l’expérience des incidences du signifiant sur le sujet* ait été faite au niveau des névrosés.
 
 ## Notes
 

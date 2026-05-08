@@ -300,7 +300,7 @@ Je n’ai pas dit ce qu’il a rapporté, à savoir que l’analyse est ressenti
 
 <!-- id: s12-14-0074 -->
 
-Et je précisais bien : de l’inceste, non pas dans son contexte dramatique, mais dans sa réalité essentielle*,* à savoir la mise en question concrète de quelque chose qui représente le point d’origine. C’est la question du rapport entre ce processus de l’analyse et la réalité de l’inceste que j’avais posée. Peut-être le fait de la poser peut-il être ressenti en effet comme une transgression.
+Et je précisais bien : de l’inceste, non pas dans son contexte dramatique, mais dans sa réalité essentielle, à savoir la mise en question concrète de quelque chose qui représente le point d’origine. C’est la question du rapport entre ce processus de l’analyse et la réalité de l’inceste que j’avais posée. Peut-être le fait de la poser peut-il être ressenti en effet comme une transgression.
 
 <!-- id: s12-14-0075 -->
 
@@ -820,7 +820,7 @@ Ce fut - et certes, beaucoup d’entre vous l’ont pressenti - par le thème de
 
 <!-- id: s12-14-0204 -->
 
-Mais je n’entends pas aujourd’hui m’y arrêter plus**.** Ce cri, cet appel au secours, complète et éclaire par une autre facette, l’appel du « *Lili j’ai soif* » ou l’invocation de « *POOR (d) J’e-LI* »De « *Lili j’ai soif* », je voudrais seulement souligner une fois encore le caractère ambigu de modèle ou d’écho par rapport à l’autre phrase, ou phase du circuit de la voie, à savoir : « *Philippe j’ai soif* », articulée par le relais de Lili.
+Mais je n’entends pas aujourd’hui m’y arrêter plus. Ce cri, cet appel au secours, complète et éclaire par une autre facette, l’appel du « *Lili j’ai soif* » ou l’invocation de « *POOR (d) J’e-LI* »De « *Lili j’ai soif* », je voudrais seulement souligner une fois encore le caractère ambigu de modèle ou d’écho par rapport à l’autre phrase, ou phase du circuit de la voie, à savoir : « *Philippe j’ai soif* », articulée par le relais de Lili.
 
 <!-- id: s12-14-0205 -->
 
@@ -840,7 +840,7 @@ Mais si nous avons dans cette interpellation de « *trésor chéri* », l’un
 
 <!-- id: s12-14-0209 -->
 
-Philippe *-* vous vous en doutez *-* est juif, et le thème de la formule incantatoire aussi bien que le caractère presque sacré du trésor qu’il représentait pour sa mère, le conduisent à se souvenir de quelques éléments rudimentaires de sa formation religieuse.
+Philippe - vous vous en doutez - est juif, et le thème de la formule incantatoire aussi bien que le caractère presque sacré du trésor qu’il représentait pour sa mère, le conduisent à se souvenir de quelques éléments rudimentaires de sa formation religieuse.
 
 <!-- id: s12-14-0210 -->
 
@@ -848,7 +848,7 @@ De l’hébreu qu’il a appris à lire, il ne lui reste rien ou presque, si ce 
 
 <!-- id: s12-14-0211 -->
 
-C’est *-* lui avait-on dit très tôt *-* une prière qu’il ne faut jamais oublier car au moment de mourir, il convient de la dire.
+C’est - lui avait-on dit très tôt - une prière qu’il ne faut jamais oublier car au moment de mourir, il convient de la dire.
 
 <!-- id: s12-14-0212 -->
 

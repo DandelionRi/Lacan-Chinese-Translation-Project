@@ -174,7 +174,7 @@ Eh bien le *contre-transfert* dont il s’agit, dont il est admis que nous devon
 
 <!-- id: s8-13-0043 -->
 
-On nous dit... je choisis une référence presque au hasard, mais c’est un bon article quand même, c’est jamais complètement au hasard qu’on choisit quelque chose, parmi tous ceux que j’ai lus, il y a probablement une raison pour que celui-là j’aie envie de vous en communiquer le titre. Cela s’appelle justement - c’est en somme le sujet que nous traitons aujourd’hui - *Normal Counter-transference and some of its Deviations*[^182]*,*  *Le contre-transfert normal et certaines de ses déviations*, par Roger MONEY-KYRLE, manifestement appartenant au *cercle kleinien* et relié à Mélanie KLEIN par l’intermédiaire de Paula HEIMANN. Vous y verrez que l’état d’insatisfaction, l’état de préoccupation sous la plume de Paula HEIMANN c’est même le pressentiment.
+On nous dit... je choisis une référence presque au hasard, mais c’est un bon article quand même, c’est jamais complètement au hasard qu’on choisit quelque chose, parmi tous ceux que j’ai lus, il y a probablement une raison pour que celui-là j’aie envie de vous en communiquer le titre. Cela s’appelle justement - c’est en somme le sujet que nous traitons aujourd’hui - *Normal Counter-transference and some of its Deviations*[^182],  *Le contre-transfert normal et certaines de ses déviations*, par Roger MONEY-KYRLE, manifestement appartenant au *cercle kleinien* et relié à Mélanie KLEIN par l’intermédiaire de Paula HEIMANN. Vous y verrez que l’état d’insatisfaction, l’état de préoccupation sous la plume de Paula HEIMANN c’est même le pressentiment.
 
 <!-- id: s8-13-0044 -->
 
@@ -342,7 +342,7 @@ Ainsi, est-ce que c’est même ainsi que nous devons dire les choses quand pour
 
 <!-- id: s8-13-0085 -->
 
-De ce quelque chose qui est justement *l’objet de son désir d’une façon latente*, je veux dire *objective*, *structurale*. Cet *objet* est déjà dans l’Autre, et c’est pour autant qu’il en est ainsi que - qu’il le sache ou pas - virtuellement, il est constitué comme ἐραστής \[erastès : aimant\]*,* remplissant de ce seul fait, cette condition *de métaphore*, de substitution de l’ἐραστής \[erastès\] à l’ἐρώμενος \[erômenos : aimé\] dont nous avons dit qu’elle constitue, de par elle-même le phénomène de l’amour, et dont il n’est pas étonnant que nous voyions les effets flambants dans *l’amour de transfert* dès le début de l’analyse. *Il n’y a pas lieu pour autant de voir là* *une contre-indication*.
+De ce quelque chose qui est justement *l’objet de son désir d’une façon latente*, je veux dire *objective*, *structurale*. Cet *objet* est déjà dans l’Autre, et c’est pour autant qu’il en est ainsi que - qu’il le sache ou pas - virtuellement, il est constitué comme ἐραστής \[erastès : aimant\], remplissant de ce seul fait, cette condition *de métaphore*, de substitution de l’ἐραστής \[erastès\] à l’ἐρώμενος \[erômenos : aimé\] dont nous avons dit qu’elle constitue, de par elle-même le phénomène de l’amour, et dont il n’est pas étonnant que nous voyions les effets flambants dans *l’amour de transfert* dès le début de l’analyse. *Il n’y a pas lieu pour autant de voir là* *une contre-indication*.
 
 <!-- id: s8-13-0086 -->
 
@@ -378,7 +378,7 @@ C’est pour cela que la prochaine fois je résumerai rapidement ce qu’il se t
 
 <!-- id: s8-13-0094 -->
 
-**  **
+&nbsp;
 
 ## Notes
 
@@ -387,7 +387,7 @@ C’est pour cela que la prochaine fois je résumerai rapidement ce qu’il se t
     Cf. É*crits,* « La direction de la cure », p. 609 (déjà cité).
 
 
-[^174]: Georges Courteline : « *Théodore cherche des allumettes* »*,* Théâtre, contes, romans, éd. Laffont, Coll. Bouquins, 1990.
+[^174]: Georges Courteline : « *Théodore cherche des allumettes* », Théâtre, contes, romans, éd. Laffont, Coll. Bouquins, 1990.
 
 
 [^175]: Cf. Sigmund. Freud : *L’analyse finie et l’analyse infinie*. *« Le proverbe qui dit : « Le lion ne bondit qu’une fois » doit avoir raison. »* GW 16, 1937, p. 62, déjà cité par Lacan.

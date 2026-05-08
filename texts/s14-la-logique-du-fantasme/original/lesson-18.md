@@ -62,7 +62,7 @@ Rien d’*ontique* en tous cas, à peine d’*ontologique*. Là-dessus, tout de 
 
 <!-- id: s14-18-0015 -->
 
-Vous comprendrez que c’est en fait de ce dialogue, *Le Sophiste,* que part Martin - je dis : Martin HEIDEGGER – pour sa restauration de la question de l’Être. Et après tout ce ne sera pas une discipline moins salubre pour vous que de lire… puisque mon manque d’information a fait que, ne l’ayant reçu que récemment par un *service de presse*, ce n’est que d’aujour­d’hui que je peux vous conseiller de lire l’*Introduction à la Métaphysique* [^74]*,* dans l’excellente traduction qu’en a donnée Gilbert KAHN.
+Vous comprendrez que c’est en fait de ce dialogue, *Le Sophiste,* que part Martin - je dis : Martin HEIDEGGER – pour sa restauration de la question de l’Être. Et après tout ce ne sera pas une discipline moins salubre pour vous que de lire… puisque mon manque d’information a fait que, ne l’ayant reçu que récemment par un *service de presse*, ce n’est que d’aujour­d’hui que je peux vous conseiller de lire l’*Introduction à la Métaphysique* [^74], dans l’excellente traduction qu’en a donnée Gilbert KAHN.
 
 <!-- id: s14-18-0016 -->
 
@@ -274,11 +274,11 @@ Je ne l’ai pas fait *jusqu’à présent*, mais je peux vous en écrire la val
 
 <!-- id: s14-18-0068 -->
 
-C’est (![](assets/image98.wmf)*–*1)/2*.* Et, si vous vou­lez l’écrire en chiffres, si mon souvenir est bon, c’est quel­que chose dans ce genre-là : 2,236068… \[Lacan rectifiera en début de séance suivante : la valeur de (![](assets/image98.wmf)*–*1)/2 est 1,618 033 988… En fait le Nombre d’Or est égal à (![](assets/image98.wmf)+1)/2 = 1,618 033 988. \]
+C’est (![](assets/image98.wmf)*–*1)/2. Et, si vous vou­lez l’écrire en chiffres, si mon souvenir est bon, c’est quel­que chose dans ce genre-là : 2,236068… \[Lacan rectifiera en début de séance suivante : la valeur de (![](assets/image98.wmf)*–*1)/2 est 1,618 033 988… En fait le Nombre d’Or est égal à (![](assets/image98.wmf)+1)/2 = 1,618 033 988. \]
 
 <!-- id: s14-18-0069 -->
 
-Bref, je ne vous réponds pas de ce chiffre, c’est un souvenir… De mon temps on savait un certain nombre de chiffres par cœur. Quand j’avais 15 ans, je savais par cœur les six premières pages de ma table de lo­garithmes. Je vous expliquerai une autre fois à quoi ça sert, mais il est bien certain que ce ne serait pas une des moins bonnes méthodes de sélection pour les candidats à la fonction de psychanalyste. Nous n’en sommes point encore là…J’ai tellement de peine à faire entrer la moindre chose sur ce su­jet délicat, que je n’ai même pas *suggéré* jusqu’à présent, de prendre ce critère*.* Il vaudrait largement tous ceux qui sont en usage à présent !
+Bref, je ne vous réponds pas de ce chiffre, c’est un souvenir… De mon temps on savait un certain nombre de chiffres par cœur. Quand j’avais 15 ans, je savais par cœur les six premières pages de ma table de lo­garithmes. Je vous expliquerai une autre fois à quoi ça sert, mais il est bien certain que ce ne serait pas une des moins bonnes méthodes de sélection pour les candidats à la fonction de psychanalyste. Nous n’en sommes point encore là…J’ai tellement de peine à faire entrer la moindre chose sur ce su­jet délicat, que je n’ai même pas *suggéré* jusqu’à présent, de prendre ce critère. Il vaudrait largement tous ceux qui sont en usage à présent !
 
 <!-- id: s14-18-0070 -->
 
@@ -318,7 +318,7 @@ Ce *trait unaire* …
 
 <!-- id: s14-18-0079 -->
 
-Et si vous voulez, simplement, entre autres - bien sûr, naturellement, je vais parler tout à l’heure des grecs - mais simplement pour rester dans l’actualité, ouvrir le dernier numéro de l’excellente revue qui s’appelle *Arts Asiatiques,* vous y verrez la tra­duction d’un très joli petit traité de la peinture par un pein­tre - dont, heureusement j’ai le bonheur d’avoir de petits *kakémonos* [^77] *-* qui s’appelle SHITAO[^78] et qui - ce *trait unaire* - en fait, ma foi, grand état : *il ne parle que de ça, oui, il ne parle que de ça pendant un petit nombre de pages*.
+Et si vous voulez, simplement, entre autres - bien sûr, naturellement, je vais parler tout à l’heure des grecs - mais simplement pour rester dans l’actualité, ouvrir le dernier numéro de l’excellente revue qui s’appelle *Arts Asiatiques,* vous y verrez la tra­duction d’un très joli petit traité de la peinture par un pein­tre - dont, heureusement j’ai le bonheur d’avoir de petits *kakémonos* [^77] - qui s’appelle SHITAO[^78] et qui - ce *trait unaire* - en fait, ma foi, grand état : *il ne parle que de ça, oui, il ne parle que de ça pendant un petit nombre de pages*.
 
 <!-- id: s14-18-0080 -->
 
@@ -326,7 +326,7 @@ Cela s’appelle en chinois - et pas seulement pour les peintres, car les philos
 
 <!-- id: s14-18-0081 -->
 
-Mais l’important donc, aussi, c’est de reconnaître ici dans cette fonction essentielle… qui nécessite comme s’opposant, comme en miroir *le champ de l’Autre* à *ce champ de l’* l énigmatique …à proprement parler ce qui est figuré depuis longtemps dans mon graphe par la connotation : *signifiant du grand A barré *: S(A)*.*
+Mais l’important donc, aussi, c’est de reconnaître ici dans cette fonction essentielle… qui nécessite comme s’opposant, comme en miroir *le champ de l’Autre* à *ce champ de l’* l énigmatique …à proprement parler ce qui est figuré depuis longtemps dans mon graphe par la connotation : *signifiant du grand A barré *: S(A).
 
 <!-- id: s14-18-0082 -->
 
@@ -410,7 +410,7 @@ Les mystiques, pour tout dire - c’est, je dois dire aussi, le seul point par o
 
 <!-- id: s14-18-0102 -->
 
-Ceci tient uniquement à ceci : c’est que c’est une des alternatives, renouvelée, de ce que j’ai déjà plusieurs fois donné comme *formule de l’aliénation* : « *La bourse ou la vie ?* »*,* «* La liber­té ou la mort ?* », « *La bêtise ou la canaillerie ?* »*,* par exemple. Il n’y a pas le choix !
+Ceci tient uniquement à ceci : c’est que c’est une des alternatives, renouvelée, de ce que j’ai déjà plusieurs fois donné comme *formule de l’aliénation* : « *La bourse ou la vie ?* », «* La liber­té ou la mort ?* », « *La bêtise ou la canaillerie ?* », par exemple. Il n’y a pas le choix !
 
 <!-- id: s14-18-0103 -->
 
@@ -446,7 +446,7 @@ Le chaudron, dans une certaine image qu’on peut s’en faire, ça s’exprime,
 
 <!-- id: s14-18-0111 -->
 
-Et ce n’est pas moi qui invente ce terme : \[...\] se promène déjà dans la littérature courtoise, ce sont les termes poétiques dont usent les romans de *La Table Ronde*, et nous les voyons repris - nous trouvons notre bien où il est - sous la plume de *ce vieux réactionnaire* de T.S. ELIOT, dans le titre : *The Waste Land* [^82]*.* Lisez le *Waste* *Land,* c’est encore une très bonne lecture, et je dois dire *fort amusante*, si moins claire que celle de HEIDEGGER ! Il sait très bien de quoi il parle !
+Et ce n’est pas moi qui invente ce terme : \[...\] se promène déjà dans la littérature courtoise, ce sont les termes poétiques dont usent les romans de *La Table Ronde*, et nous les voyons repris - nous trouvons notre bien où il est - sous la plume de *ce vieux réactionnaire* de T.S. ELIOT, dans le titre : *The Waste Land* [^82]. Lisez le *Waste* *Land,* c’est encore une très bonne lecture, et je dois dire *fort amusante*, si moins claire que celle de HEIDEGGER ! Il sait très bien de quoi il parle !
 
 <!-- id: s14-18-0112 -->
 

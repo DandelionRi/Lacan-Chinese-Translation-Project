@@ -50,7 +50,7 @@ Y répondre qu’il n’*ex-siste* pas tranche la question, en nous rendant la c
 
 <!-- id: s23-04-0012 -->
 
-> écrite de la même façon : *e*, *x, trait d’union, s* *...*de l’*ex-sistence* du *sexe*.
+> écrite de la même façon : *e*, *x, trait d’union, s...*de l’*ex-sistence* du *sexe*.
 
 <!-- id: s23-04-0013 -->
 
@@ -170,7 +170,7 @@ Je dis « *opacité* » en ceci :
 
 <!-- id: s23-04-0042 -->
 
-- c’est que  *premièrement* nous ne nous apercevons pas que du sexuel ne fonde en rien quelque *rapport* que ce soit. Ceci implique, au gré de la pensée, qu’il n’y a de responsa­bilité... en ce sens où « responsa­bilité » ça veut dire non réponse, ou réponse à côté ...il n’y a de responsa­bilité que sexuelle. Ce dont tout le monde en fin de compte a le sentiment*.*
+- c’est que  *premièrement* nous ne nous apercevons pas que du sexuel ne fonde en rien quelque *rapport* que ce soit. Ceci implique, au gré de la pensée, qu’il n’y a de responsa­bilité... en ce sens où « responsa­bilité » ça veut dire non réponse, ou réponse à côté ...il n’y a de responsa­bilité que sexuelle. Ce dont tout le monde en fin de compte a le sentiment.
 
 <!-- id: s23-04-0043 -->
 
@@ -194,7 +194,7 @@ L’Autre de l’Autre Réel, c’est-à-dire impossible, c’est l’idée que 
 
 <!-- id: s23-04-0048 -->
 
-> *f.a.i.r.e *: n’écrivez pas ça *f.e.r* *...*un *faire* qui nous échappe, c’est-à-dire qui déborde de beaucoup *la jouissance* que nous en pouvons avoir.
+> *f.a.i.r.e *: n’écrivez pas ça *f.e.r...*un *faire* qui nous échappe, c’est-à-dire qui déborde de beaucoup *la jouissance* que nous en pouvons avoir.
 
 <!-- id: s23-04-0049 -->
 
@@ -458,7 +458,7 @@ J’y ai été conduit par le *rapport sexuel*, c’est-à-dire par l’*hystér
 
 <!-- id: s23-04-0114 -->
 
-comme Freud l’a aperçu fort bien ...la dernière ὕστερον \[usteron\]* *: réalité, sur ce qu’il en est du rapport sexuel, précisément.
+comme Freud l’a aperçu fort bien ...la dernière ὕστερον \[usteron\]: réalité, sur ce qu’il en est du rapport sexuel, précisément.
 
 <!-- id: s23-04-0115 -->
 
@@ -634,11 +634,11 @@ C’est très frappant.
 
 <!-- id: s23-04-0157 -->
 
-Il commence par... Il commence ! Il a commencé bien avant, il a crachoté quelques petits morceaux, *des poèmes* même... Ses poèmes, c’est pas ce qu’il a fait de mieux. 
+Il commence par... Il commence ! Il a commencé bien avant, il a crachoté quelques petits morceaux, *des poèmes* même... Ses poèmes, c’est pas ce qu’il a fait de mieux.
 
 <!-- id: s23-04-0158 -->
 
-Ma foi, il croit à des choses. Il croit à la *« conscience incréée de sa race* »*.*
+Ma foi, il croit à des choses. Il croit à la *« conscience incréée de sa race* ».
 
 <!-- id: s23-04-0159 -->
 
@@ -670,7 +670,7 @@ Son père qui justement se distingue d’être - bof - ce que nous pouvons appel
 
 <!-- id: s23-04-0166 -->
 
-Parce que il y a évidemment un père quelque part qui est Bloom, un père qui se cherche un fils, mais Stephen lui oppose un « *très peu pour moi* »*,* après le père que j’ai eu, j’en ai soupé : plus de père !
+Parce que il y a évidemment un père quelque part qui est Bloom, un père qui se cherche un fils, mais Stephen lui oppose un « *très peu pour moi* », après le père que j’ai eu, j’en ai soupé : plus de père !
 
 <!-- id: s23-04-0167 -->
 
@@ -750,7 +750,7 @@ Il faut bien que cette carence prenne une forme.
 
 <!-- id: s23-04-0186 -->
 
-Et cette forme c’est celle de ce qui le noue à sa femme, à ladite Nora pendant le règne de laquelle il élucubre les *Exiles,* les *Exilés* comme on l’a traduit, alors que ça veut aussi bien dire les exils*.*
+Et cette forme c’est celle de ce qui le noue à sa femme, à ladite Nora pendant le règne de laquelle il élucubre les *Exiles,* les *Exilés* comme on l’a traduit, alors que ça veut aussi bien dire les exils.
 
 <!-- id: s23-04-0187 -->
 
@@ -902,7 +902,7 @@ C’est que l’analyse, c’est ça ! C’est la réponse à une énigme.
 
 <!-- id: s23-04-0217 -->
 
-Et une réponse *-* il faut bien le dire, par cet exemple *-* tout à fait spécialement conne.
+Et une réponse - il faut bien le dire, par cet exemple - tout à fait spécialement conne.
 
 <!-- id: s23-04-0218 -->
 
@@ -1048,10 +1048,10 @@ C’est là-dessus que je vous quitte, et que j’espère que pour cette séance
     #  Robert Martin Adams : *Surface and Symbol, The Consistency of James Joyce’s Ulysses*, Oxford University Press, 1967.
 
 
-[^7]: James G. Février** :** *Histoire de l'écriture*, Payot, 1948.
+[^7]: James G. Février : *Histoire de l'écriture*, Payot, 1948.
 
 
-[^8]: Ignace Jay Gelb** :** *Pour une théorie de l'écriture*, Flammarion, 1973.
+[^8]: Ignace Jay Gelb : *Pour une théorie de l'écriture*, Flammarion, 1973.
 
 
 [^9]: April 27 : « *Old father, old artificer, stand me now and ever in good stead* ». Dublin 1904, Trieste 1914

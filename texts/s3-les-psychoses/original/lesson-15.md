@@ -342,7 +342,7 @@ Une fois de plus nous réabordons le problème avec cette fois-ci le dessein de 
 
 <!-- id: s3-15-0084 -->
 
-Dans la théorie analytique, FREUD tout d’abord, et le premier*,* l’a puissamment articulé, il a bien marqué - et jusque dans les textes que nous travaillons : « *Le Président Schreber* » - la distinction qu’il y a entre :
+Dans la théorie analytique, FREUD tout d’abord, et le premier, l’a puissamment articulé, il a bien marqué - et jusque dans les textes que nous travaillons : « *Le Président Schreber* » - la distinction qu’il y a entre :
 
 <!-- id: s3-15-0085 -->
 
@@ -358,7 +358,7 @@ Mais justement, qu’est-ce que cela veut dire ? Car dans la névrose aussi nous
 
 <!-- id: s3-15-0088 -->
 
-- quelque chose d’essentiellement confus, directement impensable*,*
+- quelque chose d’essentiellement confus, directement impensable,
 
 <!-- id: s3-15-0089 -->
 
@@ -545,6 +545,7 @@ Tout un jeu qui se produit lui, au niveau *imaginaire* du signifiant comme tel, 
 <!-- id: s3-15-0134 -->
 
 Ce qui au fond du « *rêve de l’injection d’Irma* » apparaît comme la formule en caractères gras, à savoir quelque chose qui est là pour nous montrer la solution de ce qui est au bout du désir de FREUD, c’est de s’apercevoir qu’il n’y a rien de plus important qu’une formule de chimie organique, de même dans le délire nous trouvons là l’indication dans ces phénomènes des commentaires, dans le bourdonnement du discours à l’état pur, qui se produit autour du phénomène, l’indication, dans le phénomène lui-même, que ce dont il s’agit c’est de *la question du signifiant*.
+
 ## Notes
 
 [^27]:

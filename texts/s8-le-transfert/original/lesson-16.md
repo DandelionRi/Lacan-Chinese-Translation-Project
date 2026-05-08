@@ -76,7 +76,7 @@ Pour le franchir, étant donné ce qui lui est suggéré, ce qu’elle croit dev
 
 > malgré que l’histoire de l’art ne nous donne aucun autre témoignage à ma connaissance,
 >
-> je serais reconnaissant que quelqu’un maintenant, incité par mes remarques, m’apporte la preuve contraire 
+> je serais reconnaissant que quelqu’un maintenant, incité par mes remarques, m’apporte la preuve contraire
 
 <!-- id: s8-16-0019 -->
 
@@ -212,7 +212,7 @@ Est-ce que nous n’épelons pas correctement les choses en nous arrêtant à ce
 
 <!-- id: s8-16-0051 -->
 
-Déjà, j’ai fait état devant vous de ce qui sous la plume de JONES s’est articulé, dans un certain besoin d’expliquer *le complexe de castration*, dans la notion de l’ἀϕάνι*σ*ις \[aphanisis\]*,* terme grec commun mis à l’ordre du jour dans l’articulation du discours analytique de FREUD, et qui veut dire *disparition*. Il s’agit de la disparition du désir et de ceci que ce dont il s’agirait dans *le complexe de castration* serait, chez le sujet, la crainte soulevée par la disparition du désir.
+Déjà, j’ai fait état devant vous de ce qui sous la plume de JONES s’est articulé, dans un certain besoin d’expliquer *le complexe de castration*, dans la notion de l’ἀϕάνι*σ*ις \[aphanisis\], terme grec commun mis à l’ordre du jour dans l’articulation du discours analytique de FREUD, et qui veut dire *disparition*. Il s’agit de la disparition du désir et de ceci que ce dont il s’agirait dans *le complexe de castration* serait, chez le sujet, la crainte soulevée par la disparition du désir.
 
 <!-- id: s8-16-0052 -->
 
@@ -346,7 +346,7 @@ C’est pourtant le seul qui puisse faire accéder l’autre à ce qui est de la
 
 <!-- id: s8-16-0084 -->
 
-**  **
+&nbsp;
 
 ## Notes
 

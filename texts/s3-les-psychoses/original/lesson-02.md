@@ -532,7 +532,7 @@ Pour la première fois avec un cas aussi exemplaire que celui de SCHREBER, avec 
 
 <!-- id: s3-02-0130 -->
 
-(1910)<sup>\*)</sup>
+(1910)<sup>\)</sup>
 
 <!-- id: s3-02-0131 -->
 
@@ -560,11 +560,12 @@ Abel hebt ferner hervor, daß der Philosoph Bain diesen Doppelsinn der Worte, wi
 
 <!-- id: s3-02-0137 -->
 
-<sup>\*)</sup> \[Erstveröffentlichung: *Jahrbuch für psychoanalytische und psychopathologische Forschungen*, Bd. 2 (1), Wien 1910, S. 179–84. — *Gesammelte Werke*, Bd. 8, S. 214–21.\] <sup>1)</sup> *Die Traumdeutung* , Kapitel VI: ›Die Traumarbeit‹. <sup>2)</sup> S. z. B. G. H. v. Schubert, *Die Symbolik des Traumes*, 4. Aufl. 1862, II. Kapitel: ›Die Sprache des Traumes‹. <sup>3)</sup> Über das Phänomen der Lautumdrehung (Metathesis), welches zur Traumarbeit vielleicht noch innigere Beziehungen hat als der Gegensinn (Antithese), vgl. noch W. Meyer–Rinteln, in: *Kölnische Zeitung* vom 7. März 1909.
+<sup>\)</sup> \[Erstveröffentlichung: *Jahrbuch für psychoanalytische und psychopathologische Forschungen*, Bd. 2 (1), Wien 1910, S. 179–84. — *Gesammelte Werke*, Bd. 8, S. 214–21.\] <sup>1)</sup> *Die Traumdeutung* , Kapitel VI: ›Die Traumarbeit‹. <sup>2)</sup> S. z. B. G. H. v. Schubert, *Die Symbolik des Traumes*, 4. Aufl. 1862, II. Kapitel: ›Die Sprache des Traumes‹. <sup>3)</sup> Über das Phänomen der Lautumdrehung (Metathesis), welches zur Traumarbeit vielleicht noch innigere Beziehungen hat als der Gegensinn (Antithese), vgl. noch W. Meyer–Rinteln, in: *Kölnische Zeitung* vom 7. März 1909.
 
 <!-- id: s3-02-0138 -->
 
 <sup>4)</sup> Es liegt auch nahe anzunehmen, daß der ursprüngliche Gegensinn der Worte den vorgebildeten Mechanismus darstellt, der von dem Versprechen zum Gegenteile im Dienste mannigfacher Tendenzen ausgenützt wird.
+
 ## Notes
 
 [^4]: Cf. Karl Abraham : « *The psycho-sexuals differences between hysteria and dementia præcox* » (cf. document pdf en fin de séance).

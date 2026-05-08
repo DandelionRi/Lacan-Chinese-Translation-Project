@@ -348,7 +348,7 @@ Vous le voyez donc bien :
 <!-- id: s5-01-0063 -->
 
 - L’autre \[γ<sub>→</sub>A\] est ce que tout cela inclut comme *possibilités de décomposition, de ré-interprétation, de résonance, d’effets métaphoriques et métonymiques*.
-  L’un va dans le *sens contraire* de l’autre, pour la simple raison justement qu’ils glissent l’un sur l’autre*,*
+  L’un va dans le *sens contraire* de l’autre, pour la simple raison justement qu’ils glissent l’un sur l’autre,
   mais l’un recoupe l’autre, et ils se recoupent en deux points parfaitement reconnaissables.
 
 <!-- id: s5-01-0064 -->
@@ -379,7 +379,7 @@ la vérité qu’il y a à annoncer *- si vérité il y a -* est là dans *le me
 La plupart du temps aucune vérité n’est annoncée, pour la simple raison que *le discours* \[δ<sub>→</sub>δ’\] ne passe absolument pas à travers *la chaîne signifiante* \[γ<sub>→</sub>A\], qu’il est le pur et simple *ronron de la répétition* et du *moulin à paroles*,
 et qu’il passe quelque part *en court-circuit* entre β et β’, et que *le discours* ne dit absolument rien, sinon de vous signaler que je suis un animal parlant. C’est le discours commun de *ces mots pour ne rien dire*, grâce à quoi on s’assure
 qu’on n’a pas en face de soi affaire à simplement ce que l’homme est au naturel, à savoir une bête féroce.
-Ces deux points, β et β**’**, comme *nœud minimum du court-circuit du discours*, sont très facilement reconnaissables :
+Ces deux points, β et β’, comme *nœud minimum du court-circuit du discours*, sont très facilement reconnaissables :
 
 <!-- id: s5-01-0069 -->
 
@@ -493,7 +493,7 @@ Le *Witz*, qu’est-ce que cela veut dire ? On l’a traduit par *le trait d’e
 
 Quant à l’esprit on s’arrête, on y regarde à deux fois avant de parler de la même façon de « *l’esprit* ».
 Malgré tout, « *l’esprit* », dans le sens d’*un homme spirituel*, n’a pas une excessivement bonne réputation,
-c’est tout de même bien autour de cela que gît le centre de gravité de la notion de l’esprit, et il convient de lui laisser toutes ses ambiguïtés, jusqu’à *-* y compris *-* l’*esprit* au sens large, cet *esprit* qui sert évidemment trop souvent de pavillon à des marchandises douteuses* : l’esprit* du spiritualisme.
+c’est tout de même bien autour de cela que gît le centre de gravité de la notion de l’esprit, et il convient de lui laisser toutes ses ambiguïtés, jusqu’à - y compris - l’*esprit* au sens large, cet *esprit* qui sert évidemment trop souvent de pavillon à des marchandises douteuses* : l’esprit* du spiritualisme.
 
 <!-- id: s5-01-0094 -->
 
@@ -571,7 +571,7 @@ c’est-à-dire *d’une théorie structurale du signifiant comme tel*, que se p
 
 <!-- id: s5-01-0105 -->
 
-Je n’ai pas besoin de vous demander - après vous avoir demandé de lire de temps en temps mes articles - de lire quand même, *puisque je vous parle cette année du* Witz*,* le livre de FREUD, *[Der Witz und seine Beziehung zum Unbewußten](http://gutenberg.spiegel.de/buch/933/1)* [^3].
+Je n’ai pas besoin de vous demander - après vous avoir demandé de lire de temps en temps mes articles - de lire quand même, *puisque je vous parle cette année du* Witz, le livre de FREUD, *[Der Witz und seine Beziehung zum Unbewußten](http://gutenberg.spiegel.de/buch/933/1)* [^3].
 
 <!-- id: s5-01-0106 -->
 

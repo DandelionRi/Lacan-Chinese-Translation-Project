@@ -52,7 +52,7 @@ Un tout petit mot d’histoire. Ce qui s’est passé dans l’analyse…
 
 <!-- id: s6-25-0012 -->
 
-…FREUD a été amené à poser *la présence* dans l’inconscient de ce qu’il a appelé « *tendances perverses polymorphes* », « *polymorph perverse Anlage* » \[*Dr**ei Abhandlungen zur Sexualtheorie*, 1905\].
+…FREUD a été amené à poser *la présence* dans l’inconscient de ce qu’il a appelé « *tendances perverses polymorphes* », « *polymorph perverse Anlage* » \[*Drei Abhandlungen zur Sexualtheorie*, 1905\].
 
 <!-- id: s6-25-0013 -->
 
@@ -234,7 +234,7 @@ C’est pour autant qu’il a situé là…
 
 <!-- id: s6-25-0057 -->
 
-> quelque part dans l’intervalle, dans un article précédent qui est celui du *volume* XIII, de *juillet* 1932*, partie* 3*,*
+> quelque part dans l’intervalle, dans un article précédent qui est celui du *volume* XIII, de *juillet* 1932*, partie* 3,
 >
 > *pages* 298-328 de l’*International journal of Psycho-analysis* sur les *drug-addictions* \[*On the Aetiology of Drug-Addiction*\], autrement dit ce que nous appelons les *toxicomanies*
 
@@ -804,11 +804,11 @@ L’altruisme du névrosé, contrairement à ce que l’on dit, est permanent. E
 
 <!-- id: s6-25-0198 -->
 
-Ce ne sont pas là, je crois, des choses qui soient compréhensibles en dehors de la perspective que j’essaie pour vous d’articuler ici. C’est à savoir, en fin de compte, que la formule S**◊***a* pour le névrosé se transforme en *quelque chose* \- si vous voulez, sous réserve et sommairement - de l’identification de son être inconscient. Et c’est pour cela que nous lui donnerons le même signe qu’au « *S barré* », S, à savoir « *phallus barré* ». À savoir qu’en présence d’un objet,
+Ce ne sont pas là, je crois, des choses qui soient compréhensibles en dehors de la perspective que j’essaie pour vous d’articuler ici. C’est à savoir, en fin de compte, que la formule S◊*a* pour le névrosé se transforme en *quelque chose* \- si vous voulez, sous réserve et sommairement - de l’identification de son être inconscient. Et c’est pour cela que nous lui donnerons le même signe qu’au « *S barré* », S, à savoir « *phallus barré* ». À savoir qu’en présence d’un objet,
 
 <!-- id: s6-25-0199 -->
 
-*c’est la forme la plus générale d’un objet du désir*, qui n’est autre que cet autre en tant qu’il s’y *situe* et s’y *retrouve* : <img src="assets/image55.jpeg" style="width:0.1375in;height:0.11717in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S6\34.jpg" />**◊***i(a)*.
+*c’est la forme la plus générale d’un objet du désir*, qui n’est autre que cet autre en tant qu’il s’y *situe* et s’y *retrouve* : <img src="assets/image55.jpeg" style="width:0.1375in;height:0.11717in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S6\34.jpg" />◊*i(a)*.
 
 <!-- id: s6-25-0200 -->
 

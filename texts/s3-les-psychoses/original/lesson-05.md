@@ -72,7 +72,7 @@ Et comprenez bien qu’il s’agit de voir l’analyse dans son discours même, 
 
 <!-- id: s3-05-0017 -->
 
-C’est à partir du moment où nous connaissons *l’importance*, dans la structuration des *symptômes psychonévrotiques* *de la parole*, que nous avançons en procédant méthodiquement* *:
+C’est à partir du moment où nous connaissons *l’importance*, dans la structuration des *symptômes psychonévrotiques* *de la parole*, que nous avançons en procédant méthodiquement:
 
 <!-- id: s3-05-0018 -->
 
@@ -180,7 +180,7 @@ Quelle est la relation de cela avec le développement d’un délire qui va trè
 
 <!-- id: s3-05-0038 -->
 
-> autant que son discours peut l’exprimer *-* une femme, c’est ce qu’il dit.
+> autant que son discours peut l’exprimer - une femme, c’est ce qu’il dit.
 
 <!-- id: s3-05-0039 -->
 

@@ -28,7 +28,7 @@ Néanmoins, il ne serait pas mauvais, pour la prochaine fois qui sera le 8 Mai..
 
 <!-- id: s20-10-0006 -->
 
-Qu’il n’y ait d’*être* que dans le dit*,* c’est une question, que nous laisserons en suspens.
+Qu’il n’y ait d’*être* que dans le dit, c’est une question, que nous laisserons en suspens.
 
 <!-- id: s20-10-0007 -->
 
@@ -108,7 +108,7 @@ La 1<sup>ère</sup> de ces propositions c’est que le langage, en tant qu’il 
 
 <!-- id: s20-10-0026 -->
 
-Cette proposition peut s’analyser en deux sous-propositions * *:
+Cette proposition peut s’analyser en deux sous-propositions :
 
 <!-- id: s20-10-0027 -->
 
@@ -124,7 +124,7 @@ Autrement dit, on peut définir la linguistique comme le type général de toute
 
 <!-- id: s20-10-0030 -->
 
-La 2<sup>ème</sup> grande proposition*,* qui s’enchaîne à la 1<sup>ère</sup>, c’est que les propriétés de tout système de *signes* peuvent être décrites par des opérations assez simples, ces opérations étant elles-mêmes justifiées par la nature même du signe, essentiellement sa nature
+La 2<sup>ème</sup> grande proposition, qui s’enchaîne à la 1<sup>ère</sup>, c’est que les propriétés de tout système de *signes* peuvent être décrites par des opérations assez simples, ces opérations étant elles-mêmes justifiées par la nature même du signe, essentiellement sa nature
 
 <!-- id: s20-10-0031 -->
 
@@ -182,7 +182,7 @@ Je commencerai par la dernière : pour analyser...
 
 <!-- id: s20-10-0044 -->
 
-Autrement dit, il n’y a pas une seule structure qui serait coprésente aux données, mais il y a au moins deux structures* *:
+Autrement dit, il n’y a pas une seule structure qui serait coprésente aux données, mais il y a au moins deux structures:
 
 <!-- id: s20-10-0045 -->
 
@@ -764,7 +764,7 @@ Mais il me paraît évident que ce qui a été présenté ici comme *conception 
 
 <!-- id: s20-10-0185 -->
 
-Et d’une certaine manière, ce que je vais dire là qui n’était pas prévu pour s’articuler à ce qui vient de se dire, néanmoins ça aura un certain rapport avec la possibilité de ces choix, avec le fonctionnement de quelque chose comme justement l’*in*-*déductibilité* *a priori* fonctionnant comme *principe de raison*.
+Et d’une certaine manière, ce que je vais dire là qui n’était pas prévu pour s’articuler à ce qui vient de se dire, néanmoins ça aura un certain rapport avec la possibilité de ces choix, avec le fonctionnement de quelque chose comme justement l’*in-déductibilité* *a priori* fonctionnant comme *principe de raison*.
 
 <!-- id: s20-10-0186 -->
 
@@ -796,7 +796,7 @@ Alors la question que j’ai posée au D<sup>r</sup> Lacan et qu’ici je vais i
 
 <!-- id: s20-10-0193 -->
 
-- et d’autre part la jouissance féminine supplémentaire qui s’épingle de ce **L**<sub>→</sub> S(**A**) constituant ce qu’on pourrait appeler l’*in*-*universalité* ou plutôt l’*in*-*exhaustivité*...
+- et d’autre part la jouissance féminine supplémentaire qui s’épingle de ce **L**<sub>→</sub> S(**A**) constituant ce qu’on pourrait appeler l’*in-universalité* ou plutôt l’*in-exhaustivité*...
 
 <!-- id: s20-10-0194 -->
 
@@ -990,7 +990,7 @@ Et de ce point de vue là, c’est le pour *pas tout x phi de x* (. !) qui joue
 
 <!-- id: s20-10-0241 -->
 
-Mais bien sûr, ce pseudo Un en plus s’abîme immédiatement dans l’indétermination du il n’existe pas d’x tel que non phi de x (/ §) qu’aucune *existence*, qu’aucun *support* ne vient soutenir, qu’aucun *dire*-*que*-*non* ne vient soutenir.
+Mais bien sûr, ce pseudo Un en plus s’abîme immédiatement dans l’indétermination du il n’existe pas d’x tel que non phi de x (/ §) qu’aucune *existence*, qu’aucun *support* ne vient soutenir, qu’aucun *dire-que-non* ne vient soutenir.
 
 <!-- id: s20-10-0242 -->
 
@@ -1268,7 +1268,7 @@ Nous nous trouvons maintenant en présence d’un système quaternaire qui est l
 
 <!-- id: s20-10-0310 -->
 
-Le signifiant - je résume un peu les positions de Berkeley -le signifiant c’est le matériel, l’être ponctuel de la chose brute*.*
+Le signifiant - je résume un peu les positions de Berkeley -le signifiant c’est le matériel, l’être ponctuel de la chose brute.
 
 <!-- id: s20-10-0311 -->
 
@@ -1694,7 +1694,7 @@ De sorte que ça serait là que nous verrions le surgissement, le surgissement e
 
 <!-- id: s20-10-0414 -->
 
-- le propre du *dire* c’est d’*ex*-*sister* par rapport à quelque dit que ce soit.
+- le propre du *dire* c’est d’*ex-sister* par rapport à quelque dit que ce soit.
 
 <!-- id: s20-10-0415 -->
 
@@ -1714,7 +1714,7 @@ Seulement voilà :
 
 <!-- id: s20-10-0419 -->
 
-Pour ce qui est du fini, il y a non seulement *implication* mais *équivalence *: il suffit qu’il y en ait un qui y contredise, à la formule universalisante, pour que nous devions l’abolir et la transformer en particulière*.*
+Pour ce qui est du fini, il y a non seulement *implication* mais *équivalence *: il suffit qu’il y en ait un qui y contredise, à la formule universalisante, pour que nous devions l’abolir et la transformer en particulière.
 
 <!-- id: s20-10-0420 -->
 
@@ -1726,11 +1726,11 @@ Seulement c’est justement du fait que nous pouvons avoir affaire non pas à qu
 
 <!-- id: s20-10-0422 -->
 
-Or dès que vous avez affaire à un ensemble infini, vous ne sauriez poser que *pas tout* comporte l’*ex*-*sistence* de quelque chose qui se produise d’une négation, d’une contradiction.
+Or dès que vous avez affaire à un ensemble infini, vous ne sauriez poser que *pas tout* comporte l’*ex-sistence* de quelque chose qui se produise d’une négation, d’une contradiction.
 
 <!-- id: s20-10-0423 -->
 
-Vous pouvez à la rigueur le poser comme d’une existence tout à fait indéterminée, seulement on sait par l’extension de la logique mathématique, celle qui se qualifie précisément d’« *intuitionniste »*, que pour poser un :, il faut aussi pouvoir le construire, c’est-à-dire savoir trouver où est cette *ex*-*sistence*.
+Vous pouvez à la rigueur le poser comme d’une existence tout à fait indéterminée, seulement on sait par l’extension de la logique mathématique, celle qui se qualifie précisément d’« *intuitionniste »*, que pour poser un :, il faut aussi pouvoir le construire, c’est-à-dire savoir trouver où est cette *ex-sistence*.
 
 <!-- id: s20-10-0424 -->
 
@@ -1754,7 +1754,7 @@ Et pour terminer, mon Dieu, je vous dirai quelque chose qui va faire comme ça, 
 
 <!-- id: s20-10-0429 -->
 
-Et c’est pour ça qu’on ne peut qu’en *mi*-*dire*.
+Et c’est pour ça qu’on ne peut qu’en *mi-dire*.
 
 ## Notes
 

@@ -127,7 +127,7 @@ Le « *je* » n’est pas forcé de se désigner comme tel dans le discours, p
 
 <!-- id: s5-11-0026 -->
 
-dans une *interjection*, dans un *commandement* : « *Viens !* », dans un *appel* : « *Vous !* »*,* il y a un « *je* », mais latent.
+dans une *interjection*, dans un *commandement* : « *Viens !* », dans un *appel* : « *Vous !* », il y a un « *je* », mais latent.
 Qu’il soit *latent*, c’est ce que nous exprimerons ici \[β <sub>→</sub> β’\] en mettant simplement une ligne de pointillés,
 de même que *l’objet métonymique* n’est pas encore constitué pour l’enfant.
 
@@ -229,7 +229,7 @@ du *message* pour la mère. « Lui » *il a la parole ici*, et ce qu’il dit,
 <!-- id: s5-11-0048 -->
 
 …*mes­sage sur un message,* c’est *le message d’interdiction*. Ce n’est pas simplement pour l’enfant, et déjà à cette époque
-« *Tu ne coucheras pas avec ta mère* »*,* c’est aussi pour la mère « *Tu ne réintégreras pas -* et ce sont toutes les formes bien connues de ce qu’on appelle l’instinct maternel qui rencontrent ici un obstacle - « *Tu ne réintégreras pas ton produit* »*.*
+« *Tu ne coucheras pas avec ta mère* », c’est aussi pour la mère « *Tu ne réintégreras pas -* et ce sont toutes les formes bien connues de ce qu’on appelle l’instinct maternel qui rencontrent ici un obstacle - « *Tu ne réintégreras pas ton produit* ».
 
 <!-- id: s5-11-0049 -->
 
@@ -283,7 +283,7 @@ et vous pourrez y voir plus clair dans le dernier article que j’ai donné pour
 *La Psychanalyse* [^31], qui donne un résumé de ce que j’ai dit l’année où nous avons parlé *des Structures freudiennes de la psychose*. Le niveau de publication que cela représente ne m’a pas permis de donner *ce schéma là*, qui aurait nécessité beaucoup trop d’explications dans cet article. Mais quand vous aurez lu cet article - j’espère dans pas trop longtemps - vous pourrez reprendre dans vos notes ce que je vais vous montrer maintenant
 
 et qui consiste en ceci
-…que pour autant que le *Nom du Père -* le père en tant que *fonction symbolique*, le père au niveau de ce qui se passe ici entre *message* et *code*, et *code* et *message -* est précisément *Verworfen* \[forclos\]*,* c’est *qu’il n’y a même pas ici ce que j’ai représenté*
+…que pour autant que le *Nom du Père -* le père en tant que *fonction symbolique*, le père au niveau de ce qui se passe ici entre *message* et *code*, et *code* et *message -* est précisément *Verworfen* \[forclos\], c’est *qu’il n’y a même pas ici ce que j’ai représenté*
 *en pointillés, à savoir ce par quoi le père intervient en tant que Loi*, mais d’une façon pure et simple, brute, en tant que mes­sage du « *ne pas*... » sur *le message* de la mère à l’enfant, en tant que tout brut aussi, *source d’un code qui est au-delà de la mère*.
 
 <!-- id: s5-11-0059 -->
@@ -559,7 +559,7 @@ mais avant tout : *montrer qu’il en a*.
 
 J’irai même plus loin, j’irai jusqu’à vous indiquer ici que la valeur de dépen­dance que représente pour l’enfant l’amour excessif du père pour la mère, consiste précisément en ceci…
 dont vous pouvez vous souvenir et dont vous vous souvenez j’espère
-…choisi à votre intention, c’est à savoir : qu*’« aimer, c’est toujours donner ce qu’on n’a pas, et non pas donner ce qu’on a *»*.*
+…choisi à votre intention, c’est à savoir : qu*’« aimer, c’est toujours donner ce qu’on n’a pas, et non pas donner ce qu’on a *».
 
 <!-- id: s5-11-0115 -->
 

@@ -42,7 +42,7 @@ Pour aborder ce thème, il m’a paru judicieux de citer un article de LACAN pri
 
 <!-- id: s13-11-0010 -->
 
-*Voilà sur quoi l’on peut s’étonner - dit Lacan - que la lumière ne soit pas faite. La raison en a été donnée par Ida Macalpine* [^118]*:* *c’est qu’à chaque étape de la mise en question du transfert, l’urgence du débat sur les divergences techniques n’a jamais laissé place à une tentative systématique d’en concevoir la notion (de ce transfert) autrement que par ses effets.* »
+*Voilà sur quoi l’on peut s’étonner - dit Lacan - que la lumière ne soit pas faite. La raison en a été donnée par Ida Macalpine* [^118]: *c’est qu’à chaque étape de la mise en question du transfert, l’urgence du débat sur les divergences techniques n’a jamais laissé place à une tentative systématique d’en concevoir la notion (de ce transfert) autrement que par ses effets.* »
 
 <!-- id: s13-11-0011 -->
 
