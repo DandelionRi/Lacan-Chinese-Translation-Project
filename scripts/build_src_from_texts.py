@@ -18,9 +18,10 @@ or a grouped alignment:
   <!-- ids: s8-01-0001 s8-01-0002 -->
 
 Grouped alignments are rendered once with all corresponding original
-paragraphs. Quote blocks in translation content are classified as notes when
-their first visible text starts with "注"; other quote blocks are rendered as
-commentary.
+paragraphs. Each rendered block is ordered as original, translation, notes,
+and commentary. Quote blocks in translation content are classified as notes
+when their first visible text starts with "注"; other quote blocks are
+rendered as commentary.
 """
 
 from __future__ import annotations
@@ -66,6 +67,13 @@ class TranslationEntry:
     paragraph_ids: list[str]
     content: str
     untranslated: bool = False
+
+
+@dataclass
+class RenderedTranslation:
+    body: str = ""
+    notes: str = ""
+    commentary: str = ""
 
 
 @dataclass
@@ -256,23 +264,29 @@ def grouped_entries(entries: Iterable[TranslationEntry]) -> tuple[dict[str, list
     return by_anchor, covered_non_anchor
 
 
-def render_translation_entry(entry: TranslationEntry) -> str:
+def render_translation_entry(entry: TranslationEntry) -> RenderedTranslation:
     if entry.untranslated or not entry.content.strip():
-        return '<p class="translation-missing">[未译]</p>'
+        return RenderedTranslation(body='<p class="translation-missing">[未译]</p>')
 
-    out: list[str] = []
+    body: list[str] = []
+    notes: list[str] = []
+    commentary: list[str] = []
     for kind, lines in split_translation_chunks(entry.content):
         text = render_translation_inline_markup("\n".join(lines).strip())
         if not text:
             continue
         if kind == "note":
-            out.extend(['<div class="note-block">', "", text, "", "</div>"])
+            notes.extend(['<div class="note-block">', "", text, "", "</div>", ""])
         elif kind == "commentary":
-            out.extend(['<div class="commentary-block">', "", text, "", "</div>"])
+            commentary.extend(['<div class="commentary-block">', "", text, "", "</div>", ""])
         else:
-            out.append(text)
-        out.append("")
-    return "\n".join(out).strip()
+            body.extend([text, ""])
+
+    return RenderedTranslation(
+        body="\n".join(body).strip(),
+        notes="\n".join(notes).strip(),
+        commentary="\n".join(commentary).strip(),
+    )
 
 
 def render_translation_inline_markup(text: str) -> str:
@@ -333,7 +347,7 @@ def render_lesson(original_path: Path, translation_path: Path | None) -> tuple[s
                 render_parallel_block(
                     [paragraph_id],
                     [paragraph],
-                    '<p class="translation-missing">[无对应译文]</p>',
+                    RenderedTranslation(body='<p class="translation-missing">[无对应译文]</p>'),
                 )
             )
 
@@ -353,34 +367,47 @@ def render_lesson(original_path: Path, translation_path: Path | None) -> tuple[s
 
 def render_controls() -> list[str]:
     return [
-        '<div class="reading-controls" role="group" aria-label="显示选项">',
-        '  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>',
-        '  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>',
-        '  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>',
+        '<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">',
+        '  <div class="lacan-toggle-group" aria-label="显示选项">',
+        '    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>',
+        '    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>',
+        '    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>',
+        "  </div>",
+        '  <form class="lacan-tool-search" role="search">',
+        '    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">',
+        '    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>',
+        "  </form>",
+        '  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>',
         "</div>",
     ]
 
 
-def render_parallel_block(paragraph_ids: list[str], original_blocks: list[Paragraph], translation_html: str) -> list[str]:
+def render_parallel_block(
+    paragraph_ids: list[str],
+    original_blocks: list[Paragraph],
+    translation: RenderedTranslation,
+) -> list[str]:
     ids_text = " ".join(paragraph_ids)
     ids_label = ", ".join(paragraph_ids)
     out = [
         f'<section class="parallel-paragraph" data-paragraph-ids="{ids_text}">',
         f'<div class="paragraph-id">{ids_label}</div>',
-        '<div class="translation-block">',
-        "",
-        translation_html.strip(),
-        "",
-        "</div>",
         '<details class="original-block" open>',
         f"<summary>原文 · {ids_label}</summary>",
         "",
         render_original_blocks(original_blocks),
         "",
         "</details>",
-        "</section>",
-        "",
     ]
+
+    if translation.body:
+        out.extend(["<div class=\"translation-block\">", "", translation.body, "", "</div>"])
+    if translation.notes:
+        out.extend(["", translation.notes])
+    if translation.commentary:
+        out.extend(["", translation.commentary])
+
+    out.extend(["</section>", ""])
     return out
 
 

@@ -1,20 +1,22 @@
 # Leçon 02 | 12 décembre 1978
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s26-02-0001">
 <div class="paragraph-id">s26-02-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0001</summary>
 
@@ -25,15 +27,15 @@ Je me suis aventuré à annoncer que peut-être je prendrai un exemple de ce qu�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0002">
-<div class="paragraph-id">s26-02-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0002">
+<div class="paragraph-id">s26-02-0002</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0002</summary>
 
@@ -44,15 +46,15 @@ Le borroméen généralisé, je l’avais annoncé pour deux cercles retirés su
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0003">
-<div class="paragraph-id">s26-02-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0003">
+<div class="paragraph-id">s26-02-0003</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0003</summary>
 
@@ -63,15 +65,15 @@ La solution m’a été donnée en main par deux personnes, à savoir
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0004">
-<div class="paragraph-id">s26-02-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0004">
+<div class="paragraph-id">s26-02-0004</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0004</summary>
 
@@ -82,15 +84,15 @@ La solution m’a été donnée en main par deux personnes, à savoir
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0005">
-<div class="paragraph-id">s26-02-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0005">
+<div class="paragraph-id">s26-02-0005</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0005</summary>
 
@@ -101,15 +103,15 @@ La solution m’a été donnée en main par deux personnes, à savoir
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0006">
-<div class="paragraph-id">s26-02-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0006">
+<div class="paragraph-id">s26-02-0006</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0006</summary>
 
@@ -120,15 +122,15 @@ Il n’y a rien de plus facile que de rendre borroméen,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0007">
-<div class="paragraph-id">s26-02-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0007">
+<div class="paragraph-id">s26-02-0007</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0007</summary>
 
@@ -139,15 +141,15 @@ Il n’y a rien de plus facile que de rendre borroméen,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0008">
-<div class="paragraph-id">s26-02-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0008">
+<div class="paragraph-id">s26-02-0008</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0008</summary>
 
@@ -158,15 +160,15 @@ Il n’y a rien de plus facile que de rendre borroméen,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0009">
-<div class="paragraph-id">s26-02-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0009">
+<div class="paragraph-id">s26-02-0009</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0009</summary>
 
@@ -177,15 +179,15 @@ En voici 1, en voici 2, voici le 3<sup>ème</sup>, voici le 4<sup>ème</sup> et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0010">
-<div class="paragraph-id">s26-02-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0010">
+<div class="paragraph-id">s26-02-0010</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0010</summary>
 
@@ -196,15 +198,15 @@ En voici 1, en voici 2, voici le 3<sup>ème</sup>, voici le 4<sup>ème</sup> et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0011">
-<div class="paragraph-id">s26-02-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0011">
+<div class="paragraph-id">s26-02-0011</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0011</summary>
 
@@ -215,15 +217,15 @@ En voici 1, en voici 2, voici le 3<sup>ème</sup>, voici le 4<sup>ème</sup> et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0012">
-<div class="paragraph-id">s26-02-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0012">
+<div class="paragraph-id">s26-02-0012</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0012</summary>
 
@@ -234,15 +236,15 @@ Le 2<sup>ème</sup> est violet, le 3<sup>ème</sup> est en beige, le 4<sup>ème<
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0013">
-<div class="paragraph-id">s26-02-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0013">
+<div class="paragraph-id">s26-02-0013</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0013</summary>
 
@@ -253,15 +255,15 @@ La façon de libérer deux cercles sur ces cinq est tout à fait claire.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0014">
-<div class="paragraph-id">s26-02-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0014">
+<div class="paragraph-id">s26-02-0014</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0014</summary>
 
@@ -272,15 +274,15 @@ Les personnes qui s’en sont mêlées ont bien voulu l’une et l’autre dire 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0015">
-<div class="paragraph-id">s26-02-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0015">
+<div class="paragraph-id">s26-02-0015</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0015</summary>
 
@@ -291,15 +293,15 @@ Il suffit de libérer, c’est-à-dire de couper le 1 et le 2, le 1 et le 3, le 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0016">
-<div class="paragraph-id">s26-02-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0016">
+<div class="paragraph-id">s26-02-0016</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0016</summary>
 
@@ -310,15 +312,15 @@ Ceci est libre, ces trois, puisqu’il s’agit ici de cercles, ces trois cercle
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0017">
-<div class="paragraph-id">s26-02-0017</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0017">
+<div class="paragraph-id">s26-02-0017</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0017</summary>
 
@@ -329,15 +331,15 @@ Le vert, le violet et le beige sont libres par rapport au violet, à savoir que
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0018">
-<div class="paragraph-id">s26-02-0018</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0018">
+<div class="paragraph-id">s26-02-0018</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0018</summary>
 
@@ -348,15 +350,15 @@ Le vert, le violet et le beige sont libres par rapport au violet, à savoir que
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0019">
-<div class="paragraph-id">s26-02-0019</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0019">
+<div class="paragraph-id">s26-02-0019</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0019</summary>
 
@@ -367,15 +369,15 @@ Le vert, le violet et le beige sont libres par rapport au violet, à savoir que
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0020">
-<div class="paragraph-id">s26-02-0020</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0020">
+<div class="paragraph-id">s26-02-0020</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0020</summary>
 
@@ -386,15 +388,15 @@ Le vert, le violet et le beige sont libres par rapport au violet, à savoir que
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0021">
-<div class="paragraph-id">s26-02-0021</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0021">
+<div class="paragraph-id">s26-02-0021</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0021</summary>
 
@@ -405,15 +407,15 @@ Il est facile de voir qu’en dénouant le 2 associé au 3, le 2 associé au 4, 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0022">
-<div class="paragraph-id">s26-02-0022</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0022">
+<div class="paragraph-id">s26-02-0022</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0022</summary>
 
@@ -424,15 +426,15 @@ Le 3 associé au 4 et le 3 associé au 5 aura le même résultat, le 4 associé 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0023">
-<div class="paragraph-id">s26-02-0023</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0023">
+<div class="paragraph-id">s26-02-0023</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0023</summary>
 
@@ -443,15 +445,15 @@ Il y a donc 10 *façons de sectionner* 1 de ces cercles qui sont 5, de le sectio
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0024">
-<div class="paragraph-id">s26-02-0024</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0024">
+<div class="paragraph-id">s26-02-0024</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0024</summary>
 
@@ -462,15 +464,15 @@ J’ai poussé plus loin mon investigation, à savoir que j’ai interrogé sur 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0025">
-<div class="paragraph-id">s26-02-0025</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0025">
+<div class="paragraph-id">s26-02-0025</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0025</summary>
 
@@ -481,15 +483,15 @@ Il y a effectivement 35 façons de le faire.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0026">
-<div class="paragraph-id">s26-02-0026</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0026">
+<div class="paragraph-id">s26-02-0026</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0026</summary>
 
@@ -500,15 +502,15 @@ Pour cela, il faudrait, de la même façon que nous avons fait ces 5 cercles, en
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0027">
-<div class="paragraph-id">s26-02-0027</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0027">
+<div class="paragraph-id">s26-02-0027</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0027</summary>
 
@@ -519,15 +521,15 @@ Cette façon, je vous en dispense, car aussi bien ça serait un peu forcé.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0028">
-<div class="paragraph-id">s26-02-0028</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0028">
+<div class="paragraph-id">s26-02-0028</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0028</summary>
 
@@ -538,15 +540,15 @@ Mais il est possible de le construire.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0029">
-<div class="paragraph-id">s26-02-0029</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0029">
+<div class="paragraph-id">s26-02-0029</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0029</summary>
 
@@ -557,15 +559,15 @@ Parmi les 35 façons de couper les 3 cercles en obtenant ce nœud que j’appell
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0030">
-<div class="paragraph-id">s26-02-0030</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0030">
+<div class="paragraph-id">s26-02-0030</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0030</summary>
 
@@ -576,15 +578,15 @@ il suffit d’en couper un pour que les trois autres soient dénoués.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0031">
-<div class="paragraph-id">s26-02-0031</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0031">
+<div class="paragraph-id">s26-02-0031</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0031</summary>
 
@@ -595,15 +597,15 @@ Dans le borroméen à 6, il suffit également d’en couper 1 pour que les 6 soi
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0032">
-<div class="paragraph-id">s26-02-0032</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0032">
+<div class="paragraph-id">s26-02-0032</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0032</summary>
 
@@ -614,15 +616,15 @@ Je précise qu’il y a 10 façons de dénouer 5 cercles et qu’il y a 35 faço
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0033">
-<div class="paragraph-id">s26-02-0033</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0033">
+<div class="paragraph-id">s26-02-0033</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0033</summary>
 
@@ -633,15 +635,15 @@ Peut-être je vais distribuer ce qui a été obtenu ce matin par Soury [^2] qui 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0034">
-<div class="paragraph-id">s26-02-0034</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0034">
+<div class="paragraph-id">s26-02-0034</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0034</summary>
 
@@ -652,15 +654,15 @@ Peut-être je vais distribuer ce qui a été obtenu ce matin par Soury [^2] qui 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0035">
-<div class="paragraph-id">s26-02-0035</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0035">
+<div class="paragraph-id">s26-02-0035</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0035</summary>
 
@@ -671,15 +673,15 @@ Ceci suppose qu’on en retire d’abord 2 et ensuite un 3<sup>ème</sup>.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0036">
-<div class="paragraph-id">s26-02-0036</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0036">
+<div class="paragraph-id">s26-02-0036</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0036</summary>
 
@@ -690,15 +692,15 @@ C’est au 3<sup>ème</sup> que chacun de ces cercles s’avère être libre.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0037">
-<div class="paragraph-id">s26-02-0037</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0037">
+<div class="paragraph-id">s26-02-0037</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0037</summary>
 
@@ -709,15 +711,15 @@ C’est vous Vappereau ? Je vous écoute.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0038">
-<div class="paragraph-id">s26-02-0038</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0038">
+<div class="paragraph-id">s26-02-0038</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0038</summary>
 
@@ -728,15 +730,15 @@ Vappereau
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0039">
-<div class="paragraph-id">s26-02-0039</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0039">
+<div class="paragraph-id">s26-02-0039</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0039</summary>
 
@@ -747,15 +749,15 @@ Vous faites une erreur dans la façon de compter les différentes manières de d
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0040">
-<div class="paragraph-id">s26-02-0040</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0040">
+<div class="paragraph-id">s26-02-0040</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0040</summary>
 
@@ -766,15 +768,15 @@ Vous avez donné le résultat pour la chaîne à 7 en en coupant 4, c’est à d
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0041">
-<div class="paragraph-id">s26-02-0041</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0041">
+<div class="paragraph-id">s26-02-0041</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0041</summary>
 
@@ -785,15 +787,15 @@ Lacan : J’ai dit qu’en en coupant 3 sur les 6, on obtient une chaîne borrom
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0042">
-<div class="paragraph-id">s26-02-0042</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0042">
+<div class="paragraph-id">s26-02-0042</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0042</summary>
 
@@ -804,15 +806,15 @@ Vappereau : Vous dites qu’il y a 35 façons de le faire, or il n’y en a que 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0043">
-<div class="paragraph-id">s26-02-0043</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0043">
+<div class="paragraph-id">s26-02-0043</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0043</summary>
 
@@ -823,15 +825,15 @@ Lacan
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0044">
-<div class="paragraph-id">s26-02-0044</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0044">
+<div class="paragraph-id">s26-02-0044</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0044</summary>
 
@@ -842,15 +844,15 @@ Oui, c’est vrai qu’il n’y en a que 20.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0045">
-<div class="paragraph-id">s26-02-0045</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0045">
+<div class="paragraph-id">s26-02-0045</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0045</summary>
 
@@ -861,15 +863,15 @@ C’est vrai qu’il n’y en a que 20 et que, de ce fait, je me suis trompé.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0046">
-<div class="paragraph-id">s26-02-0046</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0046">
+<div class="paragraph-id">s26-02-0046</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0046</summary>
 
@@ -880,15 +882,15 @@ Il me reste à m’en excuser et à vous promettre que la prochaine fois je ne v
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0047">
-<div class="paragraph-id">s26-02-0047</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0047">
+<div class="paragraph-id">s26-02-0047</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0047</summary>
 
@@ -899,15 +901,15 @@ Bien, au revoir !
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-02-0048">
-<div class="paragraph-id">s26-02-0048</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-02-0048">
+<div class="paragraph-id">s26-02-0048</div>
 <details class="original-block" open>
 <summary>原文 · s26-02-0048</summary>
 
@@ -918,6 +920,11 @@ Bien, au revoir !
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>

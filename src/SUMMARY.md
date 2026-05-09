@@ -1,7 +1,6 @@
 # Summary
 
 - [首页](index.md)
-- [全局术语表](glossary.md)
 - [S1：Les écrits techniques de Freud](s1-les-ecrits-techniques-de-freud/README.md)
   - [Leçon 01 | 18 Novembre 1953](s1-les-ecrits-techniques-de-freud/Leçon-01.md)
   - [Leçon 02 | 13 janvier 1954](s1-les-ecrits-techniques-de-freud/Leçon-02.md)
@@ -189,7 +188,6 @@
   - [Leçon 26 | 29 Juin 1960](s7-l-ethique-de-la-psychanalyse/Leçon-26.md)
   - [Leçon 27 | 6 Juillet 1960](s7-l-ethique-de-la-psychanalyse/Leçon-27.md)
 - [S8：Le transfert](s8-le-transfert/README.md)
-  - [术语表](s8-le-transfert/glossary.md)
   - [Leçon 01 | 16 Novembre 1960](s8-le-transfert/Leçon-01.md)
   - [Leçon 02 | 23 Novembre 1960](s8-le-transfert/Leçon-02.md)
   - [Leçon 03 | 30 Novembre 1960](s8-le-transfert/Leçon-03.md)
@@ -411,7 +409,6 @@
   - [Leçon 24 | 18 Juin 1969](s16-d-un-autre-a-l-autre/Leçon-24.md)
   - [Leçon 25 | 25 Juin 1969](s16-d-un-autre-a-l-autre/Leçon-25.md)
 - [S17：L'envers de la psychanalyse](s17-l-envers-de-la-psychanalyse/README.md)
-  - [术语表](s17-l-envers-de-la-psychanalyse/glossary.md)
   - [Leçon 01 | 26 Novembre 1969 Université Paris I, Panthéon-Sorbonne](s17-l-envers-de-la-psychanalyse/Leçon-01.md)
   - [Leçon 02 | 17 Décembre 1969](s17-l-envers-de-la-psychanalyse/Leçon-02.md)
   - [Leçon 03 | 14 Janvier 1970](s17-l-envers-de-la-psychanalyse/Leçon-03.md)
@@ -450,7 +447,6 @@
   - [Leçon 11 | 14 Juin 1972 Séminaire : Panthéon-Sorbonne](s19-ou-pire/Leçon-11.md)
   - [Leçon 12 | 21 Juin 1972 Séminaire : Panthéon-Sorbonne](s19-ou-pire/Leçon-12.md)
 - [S19B](s19b-le-savoir-du-psychanalyste/README.md)
-  - [术语表](s19b-le-savoir-du-psychanalyste/glossary.md)
   - [Leçon 01 | 04 Novembre 1971](s19b-le-savoir-du-psychanalyste/Leçon-01.md)
   - [Leçon 02 | 02 Décembre 1971](s19b-le-savoir-du-psychanalyste/Leçon-02.md)
   - [Leçon 03 | 06 Janvier 1972](s19b-le-savoir-du-psychanalyste/Leçon-03.md)

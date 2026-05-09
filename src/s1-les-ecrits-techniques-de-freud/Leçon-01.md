@@ -1,20 +1,22 @@
 # Leçon 01 | 18 Novembre 1953
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s1-01-0001">
 <div class="paragraph-id">s1-01-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0001</summary>
 
@@ -25,15 +27,15 @@
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0002">
-<div class="paragraph-id">s1-01-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0002">
+<div class="paragraph-id">s1-01-0002</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0002</summary>
 
@@ -44,15 +46,15 @@ Sens de l’étude des textes et de son enseignement
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0003">
-<div class="paragraph-id">s1-01-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0003">
+<div class="paragraph-id">s1-01-0003</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0003</summary>
 
@@ -63,15 +65,15 @@ La recherche du sens a déjà été pratiquée, par exemple par certains maître
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0004">
-<div class="paragraph-id">s1-01-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0004">
+<div class="paragraph-id">s1-01-0004</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0004</summary>
 
@@ -82,15 +84,15 @@ La pensée de FREUD est la plus perpé­tuellement ouverte à la révision. C’
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0005">
-<div class="paragraph-id">s1-01-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0005">
+<div class="paragraph-id">s1-01-0005</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0005</summary>
 
@@ -101,15 +103,15 @@ Il ne suffit pas de faire de l’histoire au sens d’*histoire de la pensée* e
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0006">
-<div class="paragraph-id">s1-01-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0006">
+<div class="paragraph-id">s1-01-0006</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0006</summary>
 
@@ -120,15 +122,15 @@ Notre tâche est la réintroduction au registre du *sens*, registre qu’il faut
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0007">
-<div class="paragraph-id">s1-01-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0007">
+<div class="paragraph-id">s1-01-0007</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0007</summary>
 
@@ -139,15 +141,15 @@ Notre tâche est la réintroduction au registre du *sens*, registre qu’il faut
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0008">
-<div class="paragraph-id">s1-01-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0008">
+<div class="paragraph-id">s1-01-0008</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0008</summary>
 
@@ -158,15 +160,15 @@ Quand on se donne ces prémisses, il n’y a aucune raison d’en sortir. Si FRE
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0009">
-<div class="paragraph-id">s1-01-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0009">
+<div class="paragraph-id">s1-01-0009</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0009</summary>
 
@@ -177,15 +179,15 @@ Ceci constitue un retour aux sources et mérite à peine le titre de science. Il
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0010">
-<div class="paragraph-id">s1-01-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0010">
+<div class="paragraph-id">s1-01-0010</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0010</summary>
 
@@ -196,15 +198,15 @@ LAVOISIER, par exemple, en même temps que son « *phlogistique* », apporte l
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0011">
-<div class="paragraph-id">s1-01-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0011">
+<div class="paragraph-id">s1-01-0011</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0011</summary>
 
@@ -215,15 +217,15 @@ Il faut toujours introduire les sym­boles, mathématiques ou autres, avec du la
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0012">
-<div class="paragraph-id">s1-01-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0012">
+<div class="paragraph-id">s1-01-0012</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0012</summary>
 
@@ -234,15 +236,15 @@ Dès l’origine, FREUD sait qu’il ne fera de progrès dans l’analyse des *n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0013">
-<div class="paragraph-id">s1-01-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0013">
+<div class="paragraph-id">s1-01-0013</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0013</summary>
 
@@ -253,15 +255,15 @@ Dès l’origine, FREUD sait qu’il ne fera de progrès dans l’analyse des *n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0014">
-<div class="paragraph-id">s1-01-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0014">
+<div class="paragraph-id">s1-01-0014</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0014</summary>
 
@@ -272,15 +274,15 @@ JUNG lui aussi redécouvre en s’émerveillant, dans *les symboles des rêves* 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0015">
-<div class="paragraph-id">s1-01-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0015">
+<div class="paragraph-id">s1-01-0015</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0015</summary>
 
@@ -291,15 +293,15 @@ Ou encore : l’*ego* est à la fois comme un œuf vide, différencié à sa su
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0016">
-<div class="paragraph-id">s1-01-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0016">
+<div class="paragraph-id">s1-01-0016</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0016</summary>
 
@@ -310,15 +312,15 @@ Nous allons suivre les techniques d’un *art du dia­logue *: comme le bon cui
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0017">
-<div class="paragraph-id">s1-01-0017</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0017">
+<div class="paragraph-id">s1-01-0017</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0017</summary>
 
@@ -329,15 +331,15 @@ Ce « *tu* » est tellement fondamental qu’il intervient avant la conscience
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0018">
-<div class="paragraph-id">s1-01-0018</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0018">
+<div class="paragraph-id">s1-01-0018</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0018</summary>
 
@@ -348,15 +350,15 @@ L’*id* n’est pas réductible à un pur donné objectif, aux pulsions du suje
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0019">
-<div class="paragraph-id">s1-01-0019</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0019">
+<div class="paragraph-id">s1-01-0019</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0019</summary>
 
@@ -367,15 +369,15 @@ Ce n’est pas non plus la maîtrise de soi complète, l’absence de passion :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s1-01-0020">
-<div class="paragraph-id">s1-01-0020</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s1-01-0020">
+<div class="paragraph-id">s1-01-0020</div>
 <details class="original-block" open>
 <summary>原文 · s1-01-0020</summary>
 
@@ -386,6 +388,11 @@ La découverte de FREUD, c’est la redé­couverte, sur un terrain en friche, d
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>

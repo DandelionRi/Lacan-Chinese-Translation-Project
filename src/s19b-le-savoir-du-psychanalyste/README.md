@@ -1,7 +1,5 @@
 # S19B
 
-- [术语表](glossary.md)
-
 ## 课时目录
 
 - [Leçon 01 | 04 Novembre 1971](Leçon-01.md)

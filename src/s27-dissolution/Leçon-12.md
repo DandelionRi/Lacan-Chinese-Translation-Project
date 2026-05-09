@@ -1,20 +1,22 @@
 # Leçon 12 | 5 juillet 1980 (Maison de la Chimie)
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s27-12-0001">
 <div class="paragraph-id">s27-12-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0001</summary>
 
@@ -25,15 +27,15 @@ Bonjour.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0002">
-<div class="paragraph-id">s27-12-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0002">
+<div class="paragraph-id">s27-12-0002</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0002</summary>
 
@@ -44,15 +46,15 @@ C’est gentil à vous d'être venus.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0003">
-<div class="paragraph-id">s27-12-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0003">
+<div class="paragraph-id">s27-12-0003</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0003</summary>
 
@@ -63,15 +65,15 @@ Je vais vous expliquer mon vote.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0004">
-<div class="paragraph-id">s27-12-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0004">
+<div class="paragraph-id">s27-12-0004</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0004</summary>
 
@@ -82,15 +84,15 @@ Je vais voter pour la dissolution de l’École.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0005">
-<div class="paragraph-id">s27-12-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0005">
+<div class="paragraph-id">s27-12-0005</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0005</summary>
 
@@ -101,15 +103,15 @@ Je vote pour et j’aimerais que vous fassiez comme moi.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0006">
-<div class="paragraph-id">s27-12-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0006">
+<div class="paragraph-id">s27-12-0006</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0006</summary>
 
@@ -120,15 +122,15 @@ Les psychanalystes sont des sujets spéciaux, ce sont des sujets spécialement s
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0007">
-<div class="paragraph-id">s27-12-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0007">
+<div class="paragraph-id">s27-12-0007</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0007</summary>
 
@@ -139,15 +141,15 @@ Cela tient à leur pratique.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0008">
-<div class="paragraph-id">s27-12-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0008">
+<div class="paragraph-id">s27-12-0008</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0008</summary>
 
@@ -158,15 +160,15 @@ De ce fait ils se classent selon leur éthique.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0009">
-<div class="paragraph-id">s27-12-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0009">
+<div class="paragraph-id">s27-12-0009</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0009</summary>
 
@@ -177,15 +179,15 @@ C’est là une épreuve rude.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0010">
-<div class="paragraph-id">s27-12-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0010">
+<div class="paragraph-id">s27-12-0010</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0010</summary>
 
@@ -196,15 +198,15 @@ C’est une épreuve décisive dans certains effets du groupe analytique.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0011">
-<div class="paragraph-id">s27-12-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0011">
+<div class="paragraph-id">s27-12-0011</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0011</summary>
 
@@ -215,15 +217,15 @@ La réaction de masse du groupe, Freud l’a prédite.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0012">
-<div class="paragraph-id">s27-12-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0012">
+<div class="paragraph-id">s27-12-0012</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0012</summary>
 
@@ -234,15 +236,15 @@ C’est de trouver refuge dans un idéal, l’idéal de l’infaillible.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0013">
-<div class="paragraph-id">s27-12-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0013">
+<div class="paragraph-id">s27-12-0013</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0013</summary>
 
@@ -253,15 +255,15 @@ L’idéal une fois installé, tout est bien, on échange des courbettes.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0014">
-<div class="paragraph-id">s27-12-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0014">
+<div class="paragraph-id">s27-12-0014</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0014</summary>
 
@@ -272,15 +274,15 @@ Moi je ne prétends nullement incarner cet infaillible, je ne fais pas non plus 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0015">
-<div class="paragraph-id">s27-12-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0015">
+<div class="paragraph-id">s27-12-0015</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0015</summary>
 
@@ -291,15 +293,15 @@ J’en témoigne par cette dissolution. Alors il faut me pardonner de n’être 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s27-12-0016">
-<div class="paragraph-id">s27-12-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s27-12-0016">
+<div class="paragraph-id">s27-12-0016</div>
 <details class="original-block" open>
 <summary>原文 · s27-12-0016</summary>
 
@@ -310,6 +312,11 @@ Il convient maintenant que chacun dise son mot, je passe la parole à Solange Fa
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>

@@ -1,20 +1,22 @@
 # Leçon 14 | 13 mai 1964
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s11-14-0001">
 <div class="paragraph-id">s11-14-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0001</summary>
 
@@ -25,15 +27,15 @@
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0002">
-<div class="paragraph-id">s11-14-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0002">
+<div class="paragraph-id">s11-14-0002</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0002</summary>
 
@@ -44,15 +46,15 @@
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0003">
-<div class="paragraph-id">s11-14-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0003">
+<div class="paragraph-id">s11-14-0003</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0003</summary>
 
@@ -63,15 +65,15 @@
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0004">
-<div class="paragraph-id">s11-14-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0004">
+<div class="paragraph-id">s11-14-0004</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0004</summary>
 
@@ -85,15 +87,15 @@ Quand je lis - la dernière de mes lectures d’actualité - dans le *Psychoanal
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0005">
-<div class="paragraph-id">s11-14-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0005">
+<div class="paragraph-id">s11-14-0005</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0005</summary>
 
@@ -108,15 +110,15 @@ qui nous présentifie la sexualité dans l’*hic* et *nunc* du *transfert* ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0006">
-<div class="paragraph-id">s11-14-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0006">
+<div class="paragraph-id">s11-14-0006</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0006</summary>
 
@@ -128,15 +130,15 @@ qui nous présentifie la sexualité dans l’*hic* et *nunc* du *transfert* ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0007">
-<div class="paragraph-id">s11-14-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0007">
+<div class="paragraph-id">s11-14-0007</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0007</summary>
 
@@ -147,15 +149,15 @@ J’espère qu’*une part au moins importante* de mon auditoire aura pu dans l�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0008">
-<div class="paragraph-id">s11-14-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0008">
+<div class="paragraph-id">s11-14-0008</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0008</summary>
 
@@ -166,15 +168,15 @@ J’espère qu’*une part au moins importante* de mon auditoire aura pu dans l�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0009">
-<div class="paragraph-id">s11-14-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0009">
+<div class="paragraph-id">s11-14-0009</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0009</summary>
 
@@ -185,15 +187,15 @@ J’espère qu’*une part au moins importante* de mon auditoire aura pu dans l�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0010">
-<div class="paragraph-id">s11-14-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0010">
+<div class="paragraph-id">s11-14-0010</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0010</summary>
 
@@ -204,15 +206,15 @@ Néanmoins, *même à une première lecture la plus sommairement superficielle*,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0011">
-<div class="paragraph-id">s11-14-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0011">
+<div class="paragraph-id">s11-14-0011</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0011</summary>
 
@@ -223,15 +225,15 @@ Néanmoins, *même à une première lecture la plus sommairement superficielle*,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0012">
-<div class="paragraph-id">s11-14-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0012">
+<div class="paragraph-id">s11-14-0012</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0012</summary>
 
@@ -242,15 +244,15 @@ Néanmoins, *même à une première lecture la plus sommairement superficielle*,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0013">
-<div class="paragraph-id">s11-14-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0013">
+<div class="paragraph-id">s11-14-0013</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0013</summary>
 
@@ -264,15 +266,15 @@ en un *tout* saisis­sable qui en résumerait l’essence et la fonction.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0014">
-<div class="paragraph-id">s11-14-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0014">
+<div class="paragraph-id">s11-14-0014</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0014</summary>
 
@@ -285,15 +287,15 @@ de tromperies, comme étant ce qui justifie la fonction de l’appréhension du 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0015">
-<div class="paragraph-id">s11-14-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0015">
+<div class="paragraph-id">s11-14-0015</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0015</summary>
 
@@ -304,15 +306,15 @@ de tromperies, comme étant ce qui justifie la fonction de l’appréhension du 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0016">
-<div class="paragraph-id">s11-14-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0016">
+<div class="paragraph-id">s11-14-0016</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0016</summary>
 
@@ -325,15 +327,15 @@ des restes des *pulsions partielles*.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0017">
-<div class="paragraph-id">s11-14-0017</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0017">
+<div class="paragraph-id">s11-14-0017</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0017</summary>
 
@@ -348,15 +350,15 @@ de relation, mais comme un système destiné à assu­rer - *des tensions intern
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0018">
-<div class="paragraph-id">s11-14-0018</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0018">
+<div class="paragraph-id">s11-14-0018</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0018</summary>
 
@@ -369,15 +371,15 @@ d’une façon qui doit se conformer à la structure de béance qui est celle de
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0019">
-<div class="paragraph-id">s11-14-0019</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0019">
+<div class="paragraph-id">s11-14-0019</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0019</summary>
 
@@ -388,15 +390,15 @@ En d’autres termes, si nous plaçons aux deux extrêmes de ce qui est notre ex
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0020">
-<div class="paragraph-id">s11-14-0020</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0020">
+<div class="paragraph-id">s11-14-0020</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0020</summary>
 
@@ -407,15 +409,15 @@ En d’autres termes, si nous plaçons aux deux extrêmes de ce qui est notre ex
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0021">
-<div class="paragraph-id">s11-14-0021</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0021">
+<div class="paragraph-id">s11-14-0021</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0021</summary>
 
@@ -426,15 +428,15 @@ En d’autres termes, si nous plaçons aux deux extrêmes de ce qui est notre ex
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0022">
-<div class="paragraph-id">s11-14-0022</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0022">
+<div class="paragraph-id">s11-14-0022</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0022</summary>
 
@@ -445,15 +447,15 @@ En d’autres termes, si nous plaçons aux deux extrêmes de ce qui est notre ex
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0023">
-<div class="paragraph-id">s11-14-0023</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0023">
+<div class="paragraph-id">s11-14-0023</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0023</summary>
 
@@ -465,15 +467,15 @@ qu’elles sont intervenues efficacement en temps et lieu. Et ceci non pas seule
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0024">
-<div class="paragraph-id">s11-14-0024</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0024">
+<div class="paragraph-id">s11-14-0024</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0024</summary>
 
@@ -486,15 +488,15 @@ Cette sexualité, pour s’être imposée si tôt, je dirai presque trop tôt, n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0025">
-<div class="paragraph-id">s11-14-0025</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0025">
+<div class="paragraph-id">s11-14-0025</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0025</summary>
 
@@ -505,15 +507,15 @@ Cette sexualité, pour s’être imposée si tôt, je dirai presque trop tôt, n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0026">
-<div class="paragraph-id">s11-14-0026</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0026">
+<div class="paragraph-id">s11-14-0026</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0026</summary>
 
@@ -524,15 +526,15 @@ Cette sexualité, pour s’être imposée si tôt, je dirai presque trop tôt, n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0027">
-<div class="paragraph-id">s11-14-0027</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0027">
+<div class="paragraph-id">s11-14-0027</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0027</summary>
 
@@ -543,15 +545,15 @@ Cette sexualité, pour s’être imposée si tôt, je dirai presque trop tôt, n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0028">
-<div class="paragraph-id">s11-14-0028</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0028">
+<div class="paragraph-id">s11-14-0028</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0028</summary>
 
@@ -563,15 +565,15 @@ ce qui veut dire que ceci est distinct de ce dont les corps peuvent s’*apparie
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0029">
-<div class="paragraph-id">s11-14-0029</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0029">
+<div class="paragraph-id">s11-14-0029</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0029</summary>
 
@@ -582,15 +584,15 @@ Ce qui domine, à la lecture de ce texte de FREUD, se rassemble dans une expéri
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0030">
-<div class="paragraph-id">s11-14-0030</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0030">
+<div class="paragraph-id">s11-14-0030</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0030</summary>
 
@@ -605,15 +607,15 @@ soit la mort, puisque la présence du *sexe* chez le vivant est liée à cette *
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0031">
-<div class="paragraph-id">s11-14-0031</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0031">
+<div class="paragraph-id">s11-14-0031</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0031</summary>
 
@@ -626,15 +628,15 @@ ce qui nous reste - épars - de l’époque présocratique : βιός \[bios\],
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0032">
-<div class="paragraph-id">s11-14-0032</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0032">
+<div class="paragraph-id">s11-14-0032</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0032</summary>
 
@@ -645,15 +647,15 @@ ce qui nous reste - épars - de l’époque présocratique : βιός \[bios\],
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0033">
-<div class="paragraph-id">s11-14-0033</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0033">
+<div class="paragraph-id">s11-14-0033</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0033</summary>
 
@@ -666,15 +668,15 @@ ce qui nous reste - épars - de l’époque présocratique : βιός \[bios\],
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0034">
-<div class="paragraph-id">s11-14-0034</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0034">
+<div class="paragraph-id">s11-14-0034</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0034</summary>
 
@@ -686,15 +688,15 @@ c’est-à-dire au niveau de chaque pulsion, l’aller et retour fondamental où
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0035">
-<div class="paragraph-id">s11-14-0035</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0035">
+<div class="paragraph-id">s11-14-0035</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0035</summary>
 
@@ -705,15 +707,15 @@ c’est-à-dire au niveau de chaque pulsion, l’aller et retour fondamental où
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0036">
-<div class="paragraph-id">s11-14-0036</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0036">
+<div class="paragraph-id">s11-14-0036</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0036</summary>
 
@@ -724,15 +726,15 @@ c’est-à-dire au niveau de chaque pulsion, l’aller et retour fondamental où
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0037">
-<div class="paragraph-id">s11-14-0037</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0037">
+<div class="paragraph-id">s11-14-0037</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0037</summary>
 
@@ -743,15 +745,15 @@ Mais ce que dès l’abord il pose, il nous présente comme étant fondamentalem
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0038">
-<div class="paragraph-id">s11-14-0038</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0038">
+<div class="paragraph-id">s11-14-0038</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0038</summary>
 
@@ -765,15 +767,15 @@ qu’il s’agit dans ces pulsions, mais de 3.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0039">
-<div class="paragraph-id">s11-14-0039</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0039">
+<div class="paragraph-id">s11-14-0039</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0039</summary>
 
@@ -784,15 +786,15 @@ Il faut bien distinguer ce qui n’est que ce *retour* en cir­cuit de la pulsio
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0040">
-<div class="paragraph-id">s11-14-0040</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0040">
+<div class="paragraph-id">s11-14-0040</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0040</summary>
 
@@ -803,15 +805,15 @@ Il faut bien distinguer ce qui n’est que ce *retour* en cir­cuit de la pulsio
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0041">
-<div class="paragraph-id">s11-14-0041</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0041">
+<div class="paragraph-id">s11-14-0041</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0041</summary>
 
@@ -824,15 +826,15 @@ de l’économie du sujet, quelque chose qui ne peut être désolidarisé de son
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0042">
-<div class="paragraph-id">s11-14-0042</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0042">
+<div class="paragraph-id">s11-14-0042</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0042</summary>
 
@@ -843,15 +845,15 @@ Ici s’éclaircit le mystère du *zielgehemmt* \[*but inhibé*\], de cette form
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0043">
-<div class="paragraph-id">s11-14-0043</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0043">
+<div class="paragraph-id">s11-14-0043</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0043</summary>
 
@@ -863,15 +865,15 @@ et que pour les différencier, j’ai choisi ici de noter par une langue dans la
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0044">
-<div class="paragraph-id">s11-14-0044</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0044">
+<div class="paragraph-id">s11-14-0044</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0044</summary>
 
@@ -882,15 +884,15 @@ et que pour les différencier, j’ai choisi ici de noter par une langue dans la
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0045">
-<div class="paragraph-id">s11-14-0045</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0045">
+<div class="paragraph-id">s11-14-0045</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0045</summary>
 
@@ -901,15 +903,15 @@ et que pour les différencier, j’ai choisi ici de noter par une langue dans la
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0046">
-<div class="paragraph-id">s11-14-0046</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0046">
+<div class="paragraph-id">s11-14-0046</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0046</summary>
 
@@ -922,15 +924,15 @@ de la fonc­tion, serait *la satisfaction à sa fin* *de reproduction*, si elle 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0047">
-<div class="paragraph-id">s11-14-0047</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0047">
+<div class="paragraph-id">s11-14-0047</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0047</summary>
 
@@ -944,15 +946,15 @@ qu’elle ne demande peut-être qu’à être complétée d’une certaine quest
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0048">
-<div class="paragraph-id">s11-14-0048</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0048">
+<div class="paragraph-id">s11-14-0048</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0048</summary>
 
@@ -964,15 +966,15 @@ que nous confondons trop souvent avec ce sur quoi la pul­sion se referme.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0049">
-<div class="paragraph-id">s11-14-0049</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0049">
+<div class="paragraph-id">s11-14-0049</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0049</summary>
 
@@ -985,15 +987,15 @@ la pulsion orale, si ce n’est à *contourner* cet *objet éternellement manqua
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0050">
-<div class="paragraph-id">s11-14-0050</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0050">
+<div class="paragraph-id">s11-14-0050</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0050</summary>
 
@@ -1004,15 +1006,15 @@ Ce circuit, la question est seulement pour nous de savoir où il se branche, et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0051">
-<div class="paragraph-id">s11-14-0051</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0051">
+<div class="paragraph-id">s11-14-0051</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0051</summary>
 
@@ -1023,15 +1025,15 @@ Ce circuit, la question est seulement pour nous de savoir où il se branche, et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0052">
-<div class="paragraph-id">s11-14-0052</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0052">
+<div class="paragraph-id">s11-14-0052</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0052</summary>
 
@@ -1042,15 +1044,15 @@ Ce circuit, la question est seulement pour nous de savoir où il se branche, et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0053">
-<div class="paragraph-id">s11-14-0053</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0053">
+<div class="paragraph-id">s11-14-0053</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0053</summary>
 
@@ -1061,15 +1063,15 @@ Ce circuit, la question est seulement pour nous de savoir où il se branche, et 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0054">
-<div class="paragraph-id">s11-14-0054</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0054">
+<div class="paragraph-id">s11-14-0054</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0054</summary>
 
@@ -1082,15 +1084,15 @@ c’est bien en effet à un processus organique que nous avons affaire.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0055">
-<div class="paragraph-id">s11-14-0055</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0055">
+<div class="paragraph-id">s11-14-0055</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0055</summary>
 
@@ -1101,15 +1103,15 @@ Mais il n’y a aucune rai­son d’étendre ce fait à la relation entre les au
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0056">
-<div class="paragraph-id">s11-14-0056</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0056">
+<div class="paragraph-id">s11-14-0056</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0056</summary>
 
@@ -1122,15 +1124,15 @@ en son temps comme *la pulsion invoquante,* de faire le moindre rapport de dédu
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0057">
-<div class="paragraph-id">s11-14-0057</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0057">
+<div class="paragraph-id">s11-14-0057</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0057</summary>
 
@@ -1143,15 +1145,15 @@ de la *phase anale* à la *phase phallique*, qu’il y a rapport de *métamorpho
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0058">
-<div class="paragraph-id">s11-14-0058</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0058">
+<div class="paragraph-id">s11-14-0058</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0058</summary>
 
@@ -1163,15 +1165,15 @@ qui s’y produit en divers temps successifs, qui viennent précisément à veni
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0059">
-<div class="paragraph-id">s11-14-0059</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0059">
+<div class="paragraph-id">s11-14-0059</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0059</summary>
 
@@ -1184,15 +1186,15 @@ rien d’autre n’assurant *sa consistance* que ce qui est de *l’objet*, à t
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0060">
-<div class="paragraph-id">s11-14-0060</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0060">
+<div class="paragraph-id">s11-14-0060</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0060</summary>
 
@@ -1205,15 +1207,15 @@ et n’a de rapport au sujet, que de communauté topologique.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0061">
-<div class="paragraph-id">s11-14-0061</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0061">
+<div class="paragraph-id">s11-14-0061</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0061</summary>
 
@@ -1226,15 +1228,15 @@ de la même façon, *c’est en raison de cette unité topologique des béances 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0062">
-<div class="paragraph-id">s11-14-0062</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0062">
+<div class="paragraph-id">s11-14-0062</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0062</summary>
 
@@ -1247,15 +1249,15 @@ Ou y-a-t-il alors quelque autre mystère ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0063">
-<div class="paragraph-id">s11-14-0063</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0063">
+<div class="paragraph-id">s11-14-0063</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0063</summary>
 
@@ -1268,15 +1270,15 @@ Ce qui définit *la perversion* - nous y reviendrons dans la suite - c’est jus
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0064">
-<div class="paragraph-id">s11-14-0064</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0064">
+<div class="paragraph-id">s11-14-0064</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0064</summary>
 
@@ -1291,15 +1293,15 @@ des vitrines, sans ordre, ou tout au moins dans un ordre complètement arbitrair
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0065">
-<div class="paragraph-id">s11-14-0065</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0065">
+<div class="paragraph-id">s11-14-0065</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0065</summary>
 
@@ -1312,15 +1314,15 @@ En tant qu’il est *pervers* il ne se situe qu’à l’aboutissement de la bou
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0066">
-<div class="paragraph-id">s11-14-0066</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0066">
+<div class="paragraph-id">s11-14-0066</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0066</summary>
 
@@ -1334,15 +1336,15 @@ ce que j’ai dit en son temps de l’analyse de SARTRE.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0067">
-<div class="paragraph-id">s11-14-0067</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0067">
+<div class="paragraph-id">s11-14-0067</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0067</summary>
 
@@ -1355,15 +1357,15 @@ de ce dont il s’agit quand nous parlons de *la pulsion scopique *: *le regard
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0068">
-<div class="paragraph-id">s11-14-0068</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0068">
+<div class="paragraph-id">s11-14-0068</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0068</summary>
 
@@ -1374,15 +1376,15 @@ Jusque-là, qu’est-ce que le sujet cherche à voir ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0069">
-<div class="paragraph-id">s11-14-0069</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0069">
+<div class="paragraph-id">s11-14-0069</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0069</summary>
 
@@ -1393,15 +1395,15 @@ Jusque-là, qu’est-ce que le sujet cherche à voir ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0070">
-<div class="paragraph-id">s11-14-0070</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0070">
+<div class="paragraph-id">s11-14-0070</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0070</summary>
 
@@ -1412,15 +1414,15 @@ Jusque-là, qu’est-ce que le sujet cherche à voir ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0071">
-<div class="paragraph-id">s11-14-0071</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0071">
+<div class="paragraph-id">s11-14-0071</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0071</summary>
 
@@ -1431,15 +1433,15 @@ Jusque-là, qu’est-ce que le sujet cherche à voir ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0072">
-<div class="paragraph-id">s11-14-0072</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0072">
+<div class="paragraph-id">s11-14-0072</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0072</summary>
 
@@ -1450,15 +1452,15 @@ Jusque-là, qu’est-ce que le sujet cherche à voir ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0073">
-<div class="paragraph-id">s11-14-0073</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0073">
+<div class="paragraph-id">s11-14-0073</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0073</summary>
 
@@ -1472,15 +1474,15 @@ qui la regarde. C’est ainsi que *dans ce texte, nous avons la clé, le nœud d
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0074">
-<div class="paragraph-id">s11-14-0074</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0074">
+<div class="paragraph-id">s11-14-0074</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0074</summary>
 
@@ -1493,15 +1495,15 @@ le premier modèle sur *une violence que le sujet se fait* - *à des fins x de m
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0075">
-<div class="paragraph-id">s11-14-0075</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0075">
+<div class="paragraph-id">s11-14-0075</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0075</summary>
 
@@ -1513,15 +1515,15 @@ le retour, l’*insertion* sur le corps propre, du départ et de la fin de *la p
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0076">
-<div class="paragraph-id">s11-14-0076</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0076">
+<div class="paragraph-id">s11-14-0076</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0076</summary>
 
@@ -1532,15 +1534,15 @@ le retour, l’*insertion* sur le corps propre, du départ et de la fin de *la p
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0077">
-<div class="paragraph-id">s11-14-0077</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0077">
+<div class="paragraph-id">s11-14-0077</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0077</summary>
 
@@ -1551,15 +1553,15 @@ La possibilité de la douleur subie par ce qui est devenu, à ce moment-là, le 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0078">
-<div class="paragraph-id">s11-14-0078</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0078">
+<div class="paragraph-id">s11-14-0078</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0078</summary>
 
@@ -1570,15 +1572,15 @@ La possibilité de la douleur subie par ce qui est devenu, à ce moment-là, le 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0079">
-<div class="paragraph-id">s11-14-0079</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0079">
+<div class="paragraph-id">s11-14-0079</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0079</summary>
 
@@ -1589,15 +1591,15 @@ La possibilité de la douleur subie par ce qui est devenu, à ce moment-là, le 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0080">
-<div class="paragraph-id">s11-14-0080</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0080">
+<div class="paragraph-id">s11-14-0080</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0080</summary>
 
@@ -1608,15 +1610,15 @@ La possibilité de la douleur subie par ce qui est devenu, à ce moment-là, le 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0081">
-<div class="paragraph-id">s11-14-0081</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0081">
+<div class="paragraph-id">s11-14-0081</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0081</summary>
 
@@ -1627,15 +1629,15 @@ La possibilité de la douleur subie par ce qui est devenu, à ce moment-là, le 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0082">
-<div class="paragraph-id">s11-14-0082</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0082">
+<div class="paragraph-id">s11-14-0082</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0082</summary>
 
@@ -1648,15 +1650,15 @@ de la pulsion aura fait entrer en jeu l’action de l’autre, et que ce dont il
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0083">
-<div class="paragraph-id">s11-14-0083</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0083">
+<div class="paragraph-id">s11-14-0083</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0083</summary>
 
@@ -1668,15 +1670,15 @@ nous commençons de voir à quel niveau ce dont il s’agit se dévoile.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0084">
-<div class="paragraph-id">s11-14-0084</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0084">
+<div class="paragraph-id">s11-14-0084</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0084</summary>
 
@@ -1689,15 +1691,15 @@ lui a donné sa structure et sa diversification.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0085">
-<div class="paragraph-id">s11-14-0085</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0085">
+<div class="paragraph-id">s11-14-0085</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0085</summary>
 
@@ -1708,15 +1710,15 @@ Discussions
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0086">
-<div class="paragraph-id">s11-14-0086</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0086">
+<div class="paragraph-id">s11-14-0086</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0086</summary>
 
@@ -1727,15 +1729,15 @@ Jacques-Alain MILLER
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0087">
-<div class="paragraph-id">s11-14-0087</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0087">
+<div class="paragraph-id">s11-14-0087</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0087</summary>
 
@@ -1748,15 +1750,15 @@ c'est-à-dire, rapport qui a ses bornes ? Autrement dit, que la relation de *la
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0088">
-<div class="paragraph-id">s11-14-0088</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0088">
+<div class="paragraph-id">s11-14-0088</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0088</summary>
 
@@ -1767,15 +1769,15 @@ Alors, est-ce qu'on pourrait caractériser le rapport de *la pulsion* au *réel*
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0089">
-<div class="paragraph-id">s11-14-0089</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0089">
+<div class="paragraph-id">s11-14-0089</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0089</summary>
 
@@ -1786,15 +1788,15 @@ Qu'est-ce que c'est que « *l'entrée dans le réel d'un sujet* » ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0090">
-<div class="paragraph-id">s11-14-0090</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0090">
+<div class="paragraph-id">s11-14-0090</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0090</summary>
 
@@ -1807,15 +1809,15 @@ s'oblitère par là même, c'est-à-dire, devient symbolique d'une demande d'amo
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0091">
-<div class="paragraph-id">s11-14-0091</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0091">
+<div class="paragraph-id">s11-14-0091</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0091</summary>
 
@@ -1826,15 +1828,15 @@ Est-ce qu'on peut encore caractériser ce rapport d'une autre façon comme une r
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0092">
-<div class="paragraph-id">s11-14-0092</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0092">
+<div class="paragraph-id">s11-14-0092</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0092</summary>
 
@@ -1845,15 +1847,15 @@ Est-ce qu'on peut encore caractériser ce rapport d'une autre façon comme une r
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0093">
-<div class="paragraph-id">s11-14-0093</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0093">
+<div class="paragraph-id">s11-14-0093</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0093</summary>
 
@@ -1864,15 +1866,15 @@ Est-ce qu'on peut encore caractériser ce rapport d'une autre façon comme une r
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0094">
-<div class="paragraph-id">s11-14-0094</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0094">
+<div class="paragraph-id">s11-14-0094</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0094</summary>
 
@@ -1883,15 +1885,15 @@ Est-ce qu'on peut encore caractériser ce rapport d'une autre façon comme une r
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0095">
-<div class="paragraph-id">s11-14-0095</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0095">
+<div class="paragraph-id">s11-14-0095</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0095</summary>
 
@@ -1906,15 +1908,15 @@ Et j'entends par « *définition d'une forme identique* »,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0096">
-<div class="paragraph-id">s11-14-0096</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0096">
+<div class="paragraph-id">s11-14-0096</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0096</summary>
 
@@ -1925,15 +1927,15 @@ LACAN – Recommencez à dire les 1, 2, 3...
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0097">
-<div class="paragraph-id">s11-14-0097</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0097">
+<div class="paragraph-id">s11-14-0097</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0097</summary>
 
@@ -1944,15 +1946,15 @@ Jacques-Alain MILLER
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0098">
-<div class="paragraph-id">s11-14-0098</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0098">
+<div class="paragraph-id">s11-14-0098</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0098</summary>
 
@@ -1963,15 +1965,15 @@ Jacques-Alain MILLER
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0099">
-<div class="paragraph-id">s11-14-0099</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0099">
+<div class="paragraph-id">s11-14-0099</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0099</summary>
 
@@ -1982,15 +1984,15 @@ Jacques-Alain MILLER
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0100">
-<div class="paragraph-id">s11-14-0100</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0100">
+<div class="paragraph-id">s11-14-0100</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0100</summary>
 
@@ -2001,15 +2003,15 @@ Jacques-Alain MILLER
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0101">
-<div class="paragraph-id">s11-14-0101</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0101">
+<div class="paragraph-id">s11-14-0101</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0101</summary>
 
@@ -2020,15 +2022,15 @@ LACAN
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0102">
-<div class="paragraph-id">s11-14-0102</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0102">
+<div class="paragraph-id">s11-14-0102</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0102</summary>
 
@@ -2041,15 +2043,15 @@ de par ses rapports au signi­fiant est - si vous voulez - un sujet troué : ces
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0103">
-<div class="paragraph-id">s11-14-0103</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0103">
+<div class="paragraph-id">s11-14-0103</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0103</summary>
 
@@ -2061,15 +2063,15 @@ Qu’est-ce que FREUD nous apprend dans ses premières constructions qui peuvent
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0104">
-<div class="paragraph-id">s11-14-0104</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0104">
+<div class="paragraph-id">s11-14-0104</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0104</summary>
 
@@ -2084,15 +2086,15 @@ en propres termes - a permis le progrès de l’appareil mental lui-même, en ta
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0105">
-<div class="paragraph-id">s11-14-0105</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0105">
+<div class="paragraph-id">s11-14-0105</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0105</summary>
 
@@ -2104,15 +2106,15 @@ Ceci c’est le statut de l’*objet(a)* en tant qu’il est présent dans la pu
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0106">
-<div class="paragraph-id">s11-14-0106</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0106">
+<div class="paragraph-id">s11-14-0106</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0106</summary>
 
@@ -2123,15 +2125,15 @@ Ceci c’est le statut de l’*objet(a)* en tant qu’il est présent dans la pu
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0107">
-<div class="paragraph-id">s11-14-0107</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0107">
+<div class="paragraph-id">s11-14-0107</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0107</summary>
 
@@ -2143,15 +2145,15 @@ Le sujet se soutient comme désirant par rapport à un ensemble signifiant toujo
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0108">
-<div class="paragraph-id">s11-14-0108</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0108">
+<div class="paragraph-id">s11-14-0108</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0108</summary>
 
@@ -2163,15 +2165,15 @@ C’est le sujet qui se détermine lui-même comme objet dans sa rencontre avec 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0109">
-<div class="paragraph-id">s11-14-0109</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0109">
+<div class="paragraph-id">s11-14-0109</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0109</summary>
 
@@ -2185,15 +2187,15 @@ ce qu’il en est de la pulsion sadomasochique.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0110">
-<div class="paragraph-id">s11-14-0110</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0110">
+<div class="paragraph-id">s11-14-0110</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0110</summary>
 
@@ -2209,15 +2211,15 @@ le sadisme. Le sadisme comme tel, en tant qu’il est vécu par le sadique et qu
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0111">
-<div class="paragraph-id">s11-14-0111</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0111">
+<div class="paragraph-id">s11-14-0111</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0111</summary>
 
@@ -2228,15 +2230,15 @@ Vous voyez donc là plusieurs possibilités de la fonction de l’*objet*, de l�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0112">
-<div class="paragraph-id">s11-14-0112</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0112">
+<div class="paragraph-id">s11-14-0112</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0112</summary>
 
@@ -2247,15 +2249,15 @@ Il est ou pré-subjectif :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0113">
-<div class="paragraph-id">s11-14-0113</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0113">
+<div class="paragraph-id">s11-14-0113</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0113</summary>
 
@@ -2266,15 +2268,15 @@ Il est ou pré-subjectif :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0114">
-<div class="paragraph-id">s11-14-0114</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0114">
+<div class="paragraph-id">s11-14-0114</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0114</summary>
 
@@ -2285,15 +2287,15 @@ Il est ou pré-subjectif :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0115">
-<div class="paragraph-id">s11-14-0115</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0115">
+<div class="paragraph-id">s11-14-0115</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0115</summary>
 
@@ -2304,15 +2306,15 @@ Mais *l’objet du désir* au sens commun, courant du mot, ce que nous croyons, 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0116">
-<div class="paragraph-id">s11-14-0116</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0116">
+<div class="paragraph-id">s11-14-0116</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0116</summary>
 
@@ -2323,15 +2325,15 @@ Mais *l’objet du désir* au sens commun, courant du mot, ce que nous croyons, 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0117">
-<div class="paragraph-id">s11-14-0117</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0117">
+<div class="paragraph-id">s11-14-0117</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0117</summary>
 
@@ -2342,15 +2344,15 @@ Mais *l’objet du désir* au sens commun, courant du mot, ce que nous croyons, 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0118">
-<div class="paragraph-id">s11-14-0118</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0118">
+<div class="paragraph-id">s11-14-0118</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0118</summary>
 
@@ -2362,15 +2364,15 @@ le rapport du sujet au *réel*, c’est - chose curieuse - ce dans quoi nous per
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0119">
-<div class="paragraph-id">s11-14-0119</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0119">
+<div class="paragraph-id">s11-14-0119</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0119</summary>
 
@@ -2384,15 +2386,15 @@ de *la fonction de l’amour*, à savoir, qu’il indique déjà sa structure fo
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0120">
-<div class="paragraph-id">s11-14-0120</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0120">
+<div class="paragraph-id">s11-14-0120</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0120</summary>
 
@@ -2405,15 +2407,15 @@ la prochaine fois, nous permettra de voir que là est *la source et l’origine*
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0121">
-<div class="paragraph-id">s11-14-0121</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0121">
+<div class="paragraph-id">s11-14-0121</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0121</summary>
 
@@ -2425,15 +2427,15 @@ tel que je viens de vous le définir, c’est-à-dire à l’objet du désir.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0122">
-<div class="paragraph-id">s11-14-0122</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0122">
+<div class="paragraph-id">s11-14-0122</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0122</summary>
 
@@ -2444,15 +2446,15 @@ Sur quelles *équivoques*, sur quelles *ambi­guïtés* repose *la possibilité,
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0123">
-<div class="paragraph-id">s11-14-0123</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0123">
+<div class="paragraph-id">s11-14-0123</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0123</summary>
 
@@ -2463,15 +2465,15 @@ Est-ce que je vous ai donné quelques lumières par cet exposé ?
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s11-14-0124">
-<div class="paragraph-id">s11-14-0124</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s11-14-0124">
+<div class="paragraph-id">s11-14-0124</div>
 <details class="original-block" open>
 <summary>原文 · s11-14-0124</summary>
 
@@ -2482,6 +2484,11 @@ Jacques-Alain MILLER - Quelques lumières et quelques obscurités...
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>

@@ -1,17 +1,24 @@
 .reading-controls {
-  position: sticky;
-  top: 0;
-  z-index: 10;
+  position: fixed;
+  top: 5.25rem;
+  right: 1rem;
+  z-index: 20;
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  align-items: center;
-  margin: 1rem 0 1.25rem;
-  padding: 0.65rem 0.8rem;
+  flex-direction: column;
+  gap: 0.65rem;
+  width: 12.5rem;
+  margin: 0;
+  padding: 0.75rem;
   border: 1px solid var(--table-border-color);
   border-radius: 6px;
   background: var(--bg);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+}
+
+.lacan-toggle-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
 }
 
 .reading-controls label {
@@ -22,6 +29,49 @@
   font-size: 0.92rem;
   white-space: nowrap;
   cursor: pointer;
+}
+
+.lacan-tool-search {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.35rem;
+  margin: 0;
+}
+
+.lacan-tool-search-input {
+  box-sizing: border-box;
+  min-width: 0;
+  width: 100%;
+  padding: 0.35rem 0.45rem;
+  border: 1px solid var(--table-border-color);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--fg);
+  font: inherit;
+  font-size: 0.88rem;
+}
+
+.lacan-tool-button {
+  min-height: 2rem;
+  padding: 0.35rem 0.55rem;
+  border: 1px solid var(--table-border-color);
+  border-radius: 4px;
+  background: var(--theme-popup-bg, var(--bg));
+  color: var(--fg);
+  font: inherit;
+  font-size: 0.88rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.lacan-tool-button:hover,
+.lacan-tool-button:focus {
+  border-color: var(--icons);
+}
+
+.lacan-back-to-top {
+  width: 100%;
+  font-size: 1rem;
 }
 
 .parallel-text {
@@ -97,5 +147,40 @@ html.hide-commentary .commentary-block {
   .parallel-paragraph {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 1280px) {
+  .reading-controls {
+    position: sticky;
+    top: 0;
+    right: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    width: auto;
+    margin: 1rem 0 1.25rem;
+    padding: 0.65rem 0.8rem;
+  }
+
+  .lacan-toggle-group {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+  }
+
+  .lacan-tool-search {
+    flex: 1 1 14rem;
+    max-width: 20rem;
+  }
+
+  .lacan-back-to-top {
+    width: auto;
+  }
+}
+
+@media print {
+  .reading-controls {
+    display: none;
   }
 }

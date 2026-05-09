@@ -1,7 +1,5 @@
 # S17：L'envers de la psychanalyse
 
-- [术语表](glossary.md)
-
 ## 课时目录
 
 - [Leçon 01 | 26 Novembre 1969 Université Paris I, Panthéon-Sorbonne](Leçon-01.md)

@@ -1,20 +1,22 @@
 # Leçon 16 | 30 Mars 1955
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s2-16-0001">
 <div class="paragraph-id">s2-16-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0001</summary>
 
@@ -25,15 +27,15 @@ Aujourd’hui, les vacances approchent, il fait beau, on va faire quelque chose 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0002">
-<div class="paragraph-id">s2-16-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0002">
+<div class="paragraph-id">s2-16-0002</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0002</summary>
 
@@ -44,15 +46,15 @@ C’est-à-dire que c’est de là qu’il faut partir. Je vous ai montré aussi
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0003">
-<div class="paragraph-id">s2-16-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0003">
+<div class="paragraph-id">s2-16-0003</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0003</summary>
 
@@ -63,15 +65,15 @@ Il n’y a aucune raison de tra­duire d’une façon valable les différences i
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0004">
-<div class="paragraph-id">s2-16-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0004">
+<div class="paragraph-id">s2-16-0004</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0004</summary>
 
@@ -82,15 +84,15 @@ Mais je vous ai fait remarquer que dans un 3<sup>ème</sup> temps, ce qu’il y 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0005">
-<div class="paragraph-id">s2-16-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0005">
+<div class="paragraph-id">s2-16-0005</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0005</summary>
 
@@ -101,15 +103,15 @@ Je vous ai montré au tableau la démonstration purement hypothétique, reconstr
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0006">
-<div class="paragraph-id">s2-16-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0006">
+<div class="paragraph-id">s2-16-0006</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0006</summary>
 
@@ -120,15 +122,15 @@ Et au départ de la psychanalyse, cet *au-delà* est l’inconscient, en tant qu
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0007">
-<div class="paragraph-id">s2-16-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0007">
+<div class="paragraph-id">s2-16-0007</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0007</summary>
 
@@ -139,15 +141,15 @@ LACAN - Qu’est-ce qu’il y a, qu’est-ce qui vous arrive MANNONI ? Vous ête
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0008">
-<div class="paragraph-id">s2-16-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0008">
+<div class="paragraph-id">s2-16-0008</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0008</summary>
 
@@ -158,15 +160,15 @@ Octave MANNONI
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0009">
-<div class="paragraph-id">s2-16-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0009">
+<div class="paragraph-id">s2-16-0009</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0009</summary>
 
@@ -177,15 +179,15 @@ Votre effort pour éliminer l’intersubjectivité me paraît malgré tout, en r
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0010">
-<div class="paragraph-id">s2-16-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0010">
+<div class="paragraph-id">s2-16-0010</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0010</summary>
 
@@ -196,15 +198,15 @@ LACAN
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0011">
-<div class="paragraph-id">s2-16-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0011">
+<div class="paragraph-id">s2-16-0011</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0011</summary>
 
@@ -215,15 +217,15 @@ Je vous ferai remarquer en passant, que je ne l’élimine pas. Je prends un cas
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0012">
-<div class="paragraph-id">s2-16-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0012">
+<div class="paragraph-id">s2-16-0012</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0012</summary>
 
@@ -234,15 +236,15 @@ Octave MANNONI
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0013">
-<div class="paragraph-id">s2-16-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0013">
+<div class="paragraph-id">s2-16-0013</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0013</summary>
 
@@ -253,15 +255,15 @@ Elle n’est peut-être pas soustraite, pour la raison suivante, qu’il faut te
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0014">
-<div class="paragraph-id">s2-16-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0014">
+<div class="paragraph-id">s2-16-0014</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0014</summary>
 
@@ -272,15 +274,15 @@ LACAN - C’est très bien ce que vous dites.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0015">
-<div class="paragraph-id">s2-16-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0015">
+<div class="paragraph-id">s2-16-0015</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0015</summary>
 
@@ -291,15 +293,15 @@ Octave MANNONI
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0016">
-<div class="paragraph-id">s2-16-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0016">
+<div class="paragraph-id">s2-16-0016</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0016</summary>
 
@@ -310,15 +312,15 @@ Et d’autre part si *la loi* est découverte, par le fait même qu’elle est d
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0017">
-<div class="paragraph-id">s2-16-0017</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0017">
+<div class="paragraph-id">s2-16-0017</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0017</summary>
 
@@ -329,15 +331,15 @@ LACAN
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0018">
-<div class="paragraph-id">s2-16-0018</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0018">
+<div class="paragraph-id">s2-16-0018</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0018</summary>
 
@@ -348,15 +350,15 @@ Mais oui, bien sûr mon cher ami, vous l’avez bien vu d’ailleurs la dernièr
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0019">
-<div class="paragraph-id">s2-16-0019</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0019">
+<div class="paragraph-id">s2-16-0019</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0019</summary>
 
@@ -367,15 +369,15 @@ Octave MANNONI - Cela introduit la lutte des deux sujets.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0020">
-<div class="paragraph-id">s2-16-0020</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0020">
+<div class="paragraph-id">s2-16-0020</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0020</summary>
 
@@ -386,15 +388,15 @@ LACAN
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0021">
-<div class="paragraph-id">s2-16-0021</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0021">
+<div class="paragraph-id">s2-16-0021</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0021</summary>
 
@@ -405,15 +407,15 @@ Mais oui, bien sûr. Mais nous partons de l’élément. La simple pos­sibilit�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0022">
-<div class="paragraph-id">s2-16-0022</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0022">
+<div class="paragraph-id">s2-16-0022</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0022</summary>
 
@@ -424,15 +426,15 @@ Mais c’est justement de cela qu’il s’agit. Si déjà nous trouvions des ri
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0023">
-<div class="paragraph-id">s2-16-0023</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0023">
+<div class="paragraph-id">s2-16-0023</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0023</summary>
 
@@ -443,15 +445,15 @@ Mais toute la question posée par notre discours ici met en question de savoir s
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0024">
-<div class="paragraph-id">s2-16-0024</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0024">
+<div class="paragraph-id">s2-16-0024</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0024</summary>
 
@@ -462,15 +464,15 @@ Mais toute la question posée par notre discours ici met en question de savoir s
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0025">
-<div class="paragraph-id">s2-16-0025</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0025">
+<div class="paragraph-id">s2-16-0025</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0025</summary>
 
@@ -481,15 +483,15 @@ Mais toute la question posée par notre discours ici met en question de savoir s
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0026">
-<div class="paragraph-id">s2-16-0026</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0026">
+<div class="paragraph-id">s2-16-0026</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0026</summary>
 
@@ -500,15 +502,15 @@ Ces résultats, je les *élaborerai* pendant les vacances. Nous verrons ce que n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0027">
-<div class="paragraph-id">s2-16-0027</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0027">
+<div class="paragraph-id">s2-16-0027</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0027</summary>
 
@@ -519,15 +521,15 @@ Il s’agit, en face de cette *efficacité symbolique*, de marquer, de voir si n
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0028">
-<div class="paragraph-id">s2-16-0028</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0028">
+<div class="paragraph-id">s2-16-0028</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0028</summary>
 
@@ -538,15 +540,15 @@ La différence qui se marquera entre cette *inertie symbolique*, que nous pourro
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0029">
-<div class="paragraph-id">s2-16-0029</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0029">
+<div class="paragraph-id">s2-16-0029</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0029</summary>
 
@@ -557,15 +559,15 @@ Vous n’imaginez pas ce que c’est difficile. Il a fallu des générations de 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0030">
-<div class="paragraph-id">s2-16-0030</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0030">
+<div class="paragraph-id">s2-16-0030</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0030</summary>
 
@@ -576,15 +578,15 @@ Le premier papier sera plié en deux, puis encore en deux, et une autre fois enc
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0031">
-<div class="paragraph-id">s2-16-0031</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0031">
+<div class="paragraph-id">s2-16-0031</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0031</summary>
 
@@ -595,15 +597,15 @@ Pour le moment, vous ne vous servirez pas tout de suite de ces feuilles, mais po
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0032">
-<div class="paragraph-id">s2-16-0032</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0032">
+<div class="paragraph-id">s2-16-0032</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0032</summary>
 
@@ -614,15 +616,15 @@ RIGUET, vous serez le notateur de cette première partie. Maintenant, pour les a
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0033">
-<div class="paragraph-id">s2-16-0033</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0033">
+<div class="paragraph-id">s2-16-0033</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0033</summary>
 
@@ -633,15 +635,15 @@ Octave MANNONI - Moi je triche à ce jeu-là.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0034">
-<div class="paragraph-id">s2-16-0034</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0034">
+<div class="paragraph-id">s2-16-0034</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0034</summary>
 
@@ -652,15 +654,15 @@ LACAN – Moi, je m’en contrefous.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0035">
-<div class="paragraph-id">s2-16-0035</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0035">
+<div class="paragraph-id">s2-16-0035</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0035</summary>
 
@@ -671,15 +673,15 @@ LACAN – Moi, je m’en contrefous.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0036">
-<div class="paragraph-id">s2-16-0036</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0036">
+<div class="paragraph-id">s2-16-0036</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0036</summary>
 
@@ -690,15 +692,15 @@ Octave MANNONI
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0037">
-<div class="paragraph-id">s2-16-0037</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0037">
+<div class="paragraph-id">s2-16-0037</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0037</summary>
 
@@ -709,15 +711,15 @@ C’est très simple, toutes les fois que j’ai dit au hasard, j’ai gagné. Q
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0038">
-<div class="paragraph-id">s2-16-0038</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0038">
+<div class="paragraph-id">s2-16-0038</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0038</summary>
 
@@ -728,15 +730,15 @@ LACAN - Combien de coups avez–vous joués avec *la première loi*.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0039">
-<div class="paragraph-id">s2-16-0039</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0039">
+<div class="paragraph-id">s2-16-0039</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0039</summary>
 
@@ -747,15 +749,15 @@ Octave MANNONI - C’est quand j’ai vraiment gagné.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0040">
-<div class="paragraph-id">s2-16-0040</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0040">
+<div class="paragraph-id">s2-16-0040</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0040</summary>
 
@@ -766,15 +768,15 @@ LACAN
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0041">
-<div class="paragraph-id">s2-16-0041</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0041">
+<div class="paragraph-id">s2-16-0041</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0041</summary>
 
@@ -785,15 +787,15 @@ Ceci est destiné à vous avoir intéressé simplement à ce rythme des alternan
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s2-16-0042">
-<div class="paragraph-id">s2-16-0042</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s2-16-0042">
+<div class="paragraph-id">s2-16-0042</div>
 <details class="original-block" open>
 <summary>原文 · s2-16-0042</summary>
 
@@ -804,6 +806,11 @@ Vous pourriez le faire en ayant le sentiment d’aller au hasard. Donc, sur la p
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>

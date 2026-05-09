@@ -1,20 +1,22 @@
 # Leçon 08 | 20 mars 1979
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s26-08-0001">
 <div class="paragraph-id">s26-08-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0001</summary>
 
@@ -25,15 +27,15 @@ Il y a quelqu’un qui m’a écrit pour me dire ce qu’il avait pensé de mon 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0002">
-<div class="paragraph-id">s26-08-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0002">
+<div class="paragraph-id">s26-08-0002</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0002</summary>
 
@@ -44,15 +46,15 @@ Eh bien, à la vérité, ce que j’avais fait était ça : c’est un borromée
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0003">
-<div class="paragraph-id">s26-08-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0003">
+<div class="paragraph-id">s26-08-0003</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0003</summary>
 
@@ -63,15 +65,15 @@ Eh bien, à la vérité, ce que j’avais fait était ça : c’est un borromée
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0004">
-<div class="paragraph-id">s26-08-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0004">
+<div class="paragraph-id">s26-08-0004</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0004</summary>
 
@@ -82,15 +84,15 @@ Le vert et le noir sont là.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0005">
-<div class="paragraph-id">s26-08-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0005">
+<div class="paragraph-id">s26-08-0005</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0005</summary>
 
@@ -101,15 +103,15 @@ Le vert et le noir sont là.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0006">
-<div class="paragraph-id">s26-08-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0006">
+<div class="paragraph-id">s26-08-0006</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0006</summary>
 
@@ -120,15 +122,15 @@ Le vert et le noir sont là.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0007">
-<div class="paragraph-id">s26-08-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0007">
+<div class="paragraph-id">s26-08-0007</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0007</summary>
 
@@ -139,15 +141,15 @@ Une autre façon de le résoudre :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0008">
-<div class="paragraph-id">s26-08-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0008">
+<div class="paragraph-id">s26-08-0008</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0008</summary>
 
@@ -158,15 +160,15 @@ Une autre façon de le résoudre :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0009">
-<div class="paragraph-id">s26-08-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0009">
+<div class="paragraph-id">s26-08-0009</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0009</summary>
 
@@ -177,15 +179,15 @@ Une autre façon de le résoudre :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0010">
-<div class="paragraph-id">s26-08-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0010">
+<div class="paragraph-id">s26-08-0010</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0010</summary>
 
@@ -196,15 +198,15 @@ La question est de savoir ce qui est *homotopique* : ce qui est *homotopique* e
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0011">
-<div class="paragraph-id">s26-08-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0011">
+<div class="paragraph-id">s26-08-0011</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0011</summary>
 
@@ -215,15 +217,15 @@ J’ai commis la dernière fois, quelque chose qui était de cet ordre \[ IV \],
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0012">
-<div class="paragraph-id">s26-08-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0012">
+<div class="paragraph-id">s26-08-0012</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0012</summary>
 
@@ -234,15 +236,15 @@ Il en résulte que le nœud se défait. Il suffit de traverser la corde en un po
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0013">
-<div class="paragraph-id">s26-08-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0013">
+<div class="paragraph-id">s26-08-0013</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0013</summary>
 
@@ -253,15 +255,15 @@ Il en résulte que le nœud se défait. Il suffit de traverser la corde en un po
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0014">
-<div class="paragraph-id">s26-08-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0014">
+<div class="paragraph-id">s26-08-0014</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0014</summary>
 
@@ -272,15 +274,15 @@ Il en résulte que le nœud se défait. Il suffit de traverser la corde en un po
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0015">
-<div class="paragraph-id">s26-08-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0015">
+<div class="paragraph-id">s26-08-0015</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0015</summary>
 
@@ -291,15 +293,15 @@ Il en résulte que le nœud se défait. Il suffit de traverser la corde en un po
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0016">
-<div class="paragraph-id">s26-08-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0016">
+<div class="paragraph-id">s26-08-0016</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0016</summary>
 
@@ -310,15 +312,15 @@ X - Il faut que la même corde se traverse en trois points.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0017">
-<div class="paragraph-id">s26-08-0017</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0017">
+<div class="paragraph-id">s26-08-0017</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0017</summary>
 
@@ -329,15 +331,15 @@ Lacan : Oui, vous croyez cela.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0018">
-<div class="paragraph-id">s26-08-0018</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0018">
+<div class="paragraph-id">s26-08-0018</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0018</summary>
 
@@ -348,15 +350,15 @@ X :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0019">
-<div class="paragraph-id">s26-08-0019</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0019">
+<div class="paragraph-id">s26-08-0019</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0019</summary>
 
@@ -367,15 +369,15 @@ X :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0020">
-<div class="paragraph-id">s26-08-0020</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0020">
+<div class="paragraph-id">s26-08-0020</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0020</summary>
 
@@ -386,15 +388,15 @@ X :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0021">
-<div class="paragraph-id">s26-08-0021</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0021">
+<div class="paragraph-id">s26-08-0021</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0021</summary>
 
@@ -405,15 +407,15 @@ X :
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0022">
-<div class="paragraph-id">s26-08-0022</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0022">
+<div class="paragraph-id">s26-08-0022</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0022</summary>
 
@@ -424,15 +426,15 @@ Si vous ne corrigez qu’un point, comme vous l’avez dit, elle ne se dénoue p
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0023">
-<div class="paragraph-id">s26-08-0023</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0023">
+<div class="paragraph-id">s26-08-0023</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0023</summary>
 
@@ -443,15 +445,15 @@ Lacan : vous croyez qu’en modifiant ceci, elle ne se dénoue pas ? Alors il fa
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0024">
-<div class="paragraph-id">s26-08-0024</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0024">
+<div class="paragraph-id">s26-08-0024</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0024</summary>
 
@@ -462,15 +464,15 @@ X : (inaudible)
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-08-0025">
-<div class="paragraph-id">s26-08-0025</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-08-0025">
+<div class="paragraph-id">s26-08-0025</div>
 <details class="original-block" open>
 <summary>原文 · s26-08-0025</summary>
 
@@ -481,6 +483,11 @@ Lacan : Bien. Au revoir !
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>

@@ -1,20 +1,22 @@
 # Leçon 03 | 19 décembre 1978
 
-<div class="reading-controls" role="group" aria-label="显示选项">
-  <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
-  <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
-  <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+<div class="reading-controls lacan-tool-panel" role="group" aria-label="页面功能区">
+  <div class="lacan-toggle-group" aria-label="显示选项">
+    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>
+    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>
+    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>
+  </div>
+  <form class="lacan-tool-search" role="search">
+    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">
+    <button class="lacan-tool-button" type="submit" title="搜索">搜索</button>
+  </form>
+  <button class="lacan-tool-button lacan-back-to-top" type="button" title="回到页面最上方" aria-label="回到页面最上方">↑</button>
 </div>
 
 <div class="parallel-text">
 
 <section class="parallel-paragraph" data-paragraph-ids="s26-03-0001">
 <div class="paragraph-id">s26-03-0001</div>
-<div class="translation-block">
-
-<p class="translation-missing">[无对应译文]</p>
-
-</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0001</summary>
 
@@ -25,15 +27,15 @@ Je vous avertis tout de suite que je ne ferai pas mon séminaire.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0002">
-<div class="paragraph-id">s26-03-0002</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0002">
+<div class="paragraph-id">s26-03-0002</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0002</summary>
 
@@ -44,15 +46,15 @@ Je vous en avertis parce que chez moi, ce matin, il y avait une panne d’élect
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0003">
-<div class="paragraph-id">s26-03-0003</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0003">
+<div class="paragraph-id">s26-03-0003</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0003</summary>
 
@@ -63,15 +65,15 @@ Naturellement Gloria ici présente m’a aidé : elle m’a porté des chandelle
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0004">
-<div class="paragraph-id">s26-03-0004</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0004">
+<div class="paragraph-id">s26-03-0004</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0004</summary>
 
@@ -82,15 +84,15 @@ Qu’est-ce que Gloria a à faire avec mon enseignement, c’est-à-dire avec ce
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0005">
-<div class="paragraph-id">s26-03-0005</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0005">
+<div class="paragraph-id">s26-03-0005</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0005</summary>
 
@@ -101,15 +103,15 @@ Elle m’aide, elle m’aide à couper les ficelles quand j’ai à faire des ro
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0006">
-<div class="paragraph-id">s26-03-0006</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0006">
+<div class="paragraph-id">s26-03-0006</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0006</summary>
 
@@ -120,15 +122,15 @@ Les ronds de ficelle, c’est théorique, ça a affaire avec des cercles, des ce
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0007">
-<div class="paragraph-id">s26-03-0007</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0007">
+<div class="paragraph-id">s26-03-0007</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0007</summary>
 
@@ -139,15 +141,15 @@ La topologie est imaginaire.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0008">
-<div class="paragraph-id">s26-03-0008</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0008">
+<div class="paragraph-id">s26-03-0008</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0008</summary>
 
@@ -158,15 +160,15 @@ Elle n’a pris son développement qu’avec l’imagination.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0009">
-<div class="paragraph-id">s26-03-0009</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0009">
+<div class="paragraph-id">s26-03-0009</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0009</summary>
 
@@ -177,15 +179,15 @@ Il y a une distinction qui est à faire entre l’*Imaginaire* et ce que j’app
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0010">
-<div class="paragraph-id">s26-03-0010</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0010">
+<div class="paragraph-id">s26-03-0010</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0010</summary>
 
@@ -196,15 +198,15 @@ Il y a une distinction qui est à faire entre l’*Imaginaire* et ce que j’app
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0011">
-<div class="paragraph-id">s26-03-0011</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0011">
+<div class="paragraph-id">s26-03-0011</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0011</summary>
 
@@ -215,15 +217,15 @@ Il y a une distinction qui est à faire entre l’*Imaginaire* et ce que j’app
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0012">
-<div class="paragraph-id">s26-03-0012</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0012">
+<div class="paragraph-id">s26-03-0012</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0012</summary>
 
@@ -234,15 +236,15 @@ Il y a des surfaces qui sont à l’occasion sans bord : un tore, par exemple, 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0013">
-<div class="paragraph-id">s26-03-0013</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0013">
+<div class="paragraph-id">s26-03-0013</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0013</summary>
 
@@ -253,15 +255,15 @@ Néanmoins un tore peut être aplati et si on l’aplatit, ça fait une surface 
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0014">
-<div class="paragraph-id">s26-03-0014</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0014">
+<div class="paragraph-id">s26-03-0014</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0014</summary>
 
@@ -272,15 +274,15 @@ C’est même pour ça que le tore peut servir à faire une bande de Mœbius.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0015">
-<div class="paragraph-id">s26-03-0015</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0015">
+<div class="paragraph-id">s26-03-0015</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0015</summary>
 
@@ -291,15 +293,15 @@ Voilà comment ça se dessine. Ca fait une bande de Mœbius, à condition de l�
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0016">
-<div class="paragraph-id">s26-03-0016</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0016">
+<div class="paragraph-id">s26-03-0016</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0016</summary>
 
@@ -310,15 +312,15 @@ Mais on peut gonfler cette surface, auquel cas ça refait un tore.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0017">
-<div class="paragraph-id">s26-03-0017</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0017">
+<div class="paragraph-id">s26-03-0017</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0017</summary>
 
@@ -329,15 +331,15 @@ Mais on peut gonfler cette surface, auquel cas ça refait un tore.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0018">
-<div class="paragraph-id">s26-03-0018</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0018">
+<div class="paragraph-id">s26-03-0018</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0018</summary>
 
@@ -348,15 +350,15 @@ Il n’en reste pas moins que le tore et la bande de Mœbius, c’est distinct.
 </div>
 
 </details>
-</section>
-
-<section class="parallel-paragraph" data-paragraph-ids="s26-03-0019">
-<div class="paragraph-id">s26-03-0019</div>
 <div class="translation-block">
 
 <p class="translation-missing">[无对应译文]</p>
 
 </div>
+</section>
+
+<section class="parallel-paragraph" data-paragraph-ids="s26-03-0019">
+<div class="paragraph-id">s26-03-0019</div>
 <details class="original-block" open>
 <summary>原文 · s26-03-0019</summary>
 
@@ -367,6 +369,11 @@ Il n’en reste pas moins que le tore et la bande de Mœbius, c’est distinct.
 </div>
 
 </details>
+<div class="translation-block">
+
+<p class="translation-missing">[无对应译文]</p>
+
+</div>
 </section>
 
 </div>
