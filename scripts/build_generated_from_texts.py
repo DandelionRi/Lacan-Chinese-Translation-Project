@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build mdBook source pages from canonical texts.
+"""Build generated mdBook pages from canonical texts.
 
 The texts directory is the editable source of truth:
 
@@ -8,7 +8,7 @@ The texts directory is the editable source of truth:
   texts/<seminar>/translation/Leçon-xx.md
 
 This script combines the original French paragraphs and the Chinese
-translation blocks into src/<seminar>/Leçon-xx.md. Translation blocks may
+translation blocks into generated/<seminar>/Leçon-xx.md. Translation blocks may
 declare either a single id:
 
   <!-- id: s8-01-0001 -->
@@ -38,7 +38,7 @@ from typing import Iterable
 ROOT = Path(__file__).resolve().parents[1]
 TEXTS_DIR = ROOT / "texts"
 TEXTS_INDEX = TEXTS_DIR / "index.md"
-SRC_DIR = ROOT / "src"
+GENERATED_DIR = ROOT / "generated"
 
 ID_RE = re.compile(r"<!--\s*id:\s*([^>\s]+)\s*-->")
 IDS_RE = re.compile(r"<!--\s*ids:\s*([^>]+?)\s*-->")
@@ -502,7 +502,7 @@ def build_seminar(slug: str) -> BuildStats:
     seminar_dir = TEXTS_DIR / slug
     original_dir = seminar_dir / "original"
     translation_dir = seminar_dir / "translation"
-    output_dir = SRC_DIR / slug
+    output_dir = GENERATED_DIR / slug
     stats = BuildStats(seminars={slug})
 
     if not original_dir.exists():
@@ -540,7 +540,7 @@ def render_seminar_readme(slug: str, seminar_dir: Path) -> str:
     title = seminar_title(slug, seminar_dir)
     lines = [f"# {title}", ""]
 
-    if (seminar_dir / "glossary.md").exists() or (SRC_DIR / slug / "glossary.md").exists():
+    if (seminar_dir / "glossary.md").exists() or (GENERATED_DIR / slug / "glossary.md").exists():
         lines.append("- [术语表](glossary.md)")
         lines.append("")
 
@@ -582,11 +582,11 @@ def discover_text_seminars() -> list[str]:
     return sorted(seminars, key=seminar_sort_key)
 
 
-def discover_src_seminars() -> list[str]:
-    if not SRC_DIR.exists():
+def discover_generated_seminars() -> list[str]:
+    if not GENERATED_DIR.exists():
         return []
     seminars = []
-    for path in SRC_DIR.iterdir():
+    for path in GENERATED_DIR.iterdir():
         if path.is_dir() and (path / "README.md").exists():
             seminars.append(path.name)
     return sorted(seminars, key=seminar_sort_key)
@@ -595,7 +595,7 @@ def discover_src_seminars() -> list[str]:
 def write_summary() -> None:
     lines = ["# Summary", ""]
 
-    index = SRC_DIR / "index.md"
+    index = GENERATED_DIR / "index.md"
     if TEXTS_INDEX.exists():
         write_text(index, read_text(TEXTS_INDEX).rstrip() + "\n")
         lines.append("- [首页](index.md)")
@@ -605,25 +605,25 @@ def write_summary() -> None:
         write_text(index, "# 拉康开放翻译计划\n")
         lines.append("- [首页](index.md)")
 
-    glossary = SRC_DIR / "glossary.md"
+    glossary = GENERATED_DIR / "glossary.md"
     if glossary.exists():
         lines.append("- [全局术语表](glossary.md)")
 
-    for slug in discover_src_seminars():
-        readme = SRC_DIR / slug / "README.md"
+    for slug in discover_generated_seminars():
+        readme = GENERATED_DIR / slug / "README.md"
         title = first_markdown_heading(read_text(readme)) or f"# {slug}"
         lines.append(f"- [{title.lstrip('#').strip()}]({slug}/README.md)")
 
-        glossary = SRC_DIR / slug / "glossary.md"
+        glossary = GENERATED_DIR / slug / "glossary.md"
         if glossary.exists():
             lines.append(f"  - [术语表]({slug}/glossary.md)")
 
-        for lesson in lesson_markdown_files(SRC_DIR / slug):
+        for lesson in lesson_markdown_files(GENERATED_DIR / slug):
             lesson_title = first_markdown_heading(read_text(lesson))
             label = lesson_title.lstrip("#").strip() if lesson_title else lesson.stem
             lines.append(f"  - [{label}]({slug}/{lesson.name})")
 
-    write_text(SRC_DIR / "SUMMARY.md", "\n".join(lines).rstrip() + "\n")
+    write_text(GENERATED_DIR / "SUMMARY.md", "\n".join(lines).rstrip() + "\n")
 
 
 def combine_stats(stats: Iterable[BuildStats]) -> BuildStats:
@@ -638,7 +638,7 @@ def combine_stats(stats: Iterable[BuildStats]) -> BuildStats:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Build mdBook src pages from texts.")
+    parser = argparse.ArgumentParser(description="Build generated mdBook pages from texts.")
     parser.add_argument(
         "--seminar",
         action="append",
@@ -647,7 +647,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--skip-summary",
         action="store_true",
-        help="Do not regenerate src/SUMMARY.md.",
+        help="Do not regenerate generated/SUMMARY.md.",
     )
     return parser.parse_args()
 

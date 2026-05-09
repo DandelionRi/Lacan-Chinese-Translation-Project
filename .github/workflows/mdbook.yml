@@ -36,8 +36,8 @@ jobs:
       - name: Install Python script dependencies
         run: python3 -m pip install -r scripts/requirements.txt
 
-      - name: Generate mdBook source
-        run: python3 scripts/build_src_from_texts.py
+      - name: Generate mdBook input
+        run: python3 scripts/build_generated_from_texts.py
 
       - name: Build mdBook
         run: mdbook build

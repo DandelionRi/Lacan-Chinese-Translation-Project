@@ -29,7 +29,7 @@ from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC_DIR = ROOT / "src"
+GENERATED_DIR = ROOT / "generated"
 BOOK_DIR = ROOT / "book"
 PDF_DIR = ROOT / "pdf"
 REPORT_DIR = ROOT / "reports"
@@ -135,7 +135,7 @@ class LessonAudit:
     lesson: str
     title: str
     date: str
-    src_path: str
+    generated_path: str
     html_path: str
     date_pdf_page: int | None = None
     text_pdf_page: int | None = None
@@ -235,8 +235,8 @@ def strip_markdown_to_text(source: str) -> str:
     return " ".join(text.split())
 
 
-def first_original_text(src: str) -> str:
-    for _, block in PARA_RE.findall(src):
+def first_original_text(source: str) -> str:
+    for _, block in PARA_RE.findall(source):
         text = strip_markdown_to_text(block)
         if not text:
             continue
@@ -247,9 +247,9 @@ def first_original_text(src: str) -> str:
     return ""
 
 
-def original_paragraph_texts(src: str) -> list[tuple[str, str]]:
+def original_paragraph_texts(source: str) -> list[tuple[str, str]]:
     paragraphs: list[tuple[str, str]] = []
-    for paragraph_id, block in PARA_RE.findall(src):
+    for paragraph_id, block in PARA_RE.findall(source):
         text = strip_markdown_to_text(block)
         text = re.sub(r"^\[?无对应译文\]?\s*", "", text)
         text = " ".join(text.split())
@@ -304,13 +304,13 @@ def paragraph_match(
 
 
 def paragraph_match_stats(
-    src: str,
+    source: str,
     pdf_phrase_sets: dict[int, set[str]],
     page_word_sets: list[set[str]],
 ) -> dict[str, Any]:
     total = checked = matched = 0
     unmatched: list[dict[str, Any]] = []
-    for paragraph_id, text in original_paragraph_texts(src):
+    for paragraph_id, text in original_paragraph_texts(source):
         total += 1
         normalized = normalize_text(text)
         if len(normalized) < 24 or not re.search(r"[a-zα-ω]", normalized):
@@ -367,8 +367,8 @@ def lesson_files(directory: Path) -> list[Path]:
     )
 
 
-def extract_title_and_date(src: str, fallback: Path) -> tuple[str, str]:
-    match = TITLE_RE.search(src)
+def extract_title_and_date(source: str, fallback: Path) -> tuple[str, str]:
+    match = TITLE_RE.search(source)
     if not match:
         return fallback.stem, ""
     title = match.group(1).strip()
@@ -420,32 +420,32 @@ def rendered_text_from_html(html_text: str) -> str:
 
 
 def audit_lesson(
-    src_path: Path,
+    generated_path: Path,
     slug: str,
     normalized_pages: list[str],
     pdf_phrase_sets: dict[int, set[str]],
     page_word_sets: list[set[str]],
 ) -> LessonAudit:
-    src_text = src_path.read_text(encoding="utf-8", errors="ignore")
-    title, date = extract_title_and_date(src_text, src_path)
-    lesson = src_path.stem
+    generated_text = generated_path.read_text(encoding="utf-8", errors="ignore")
+    title, date = extract_title_and_date(generated_text, generated_path)
+    lesson = generated_path.stem
     html_path = BOOK_DIR / slug / f"{lesson}.html"
     audit = LessonAudit(
         lesson=lesson,
         title=title,
         date=date,
-        src_path=str(src_path.relative_to(ROOT)),
+        generated_path=str(generated_path.relative_to(ROOT)),
         html_path=str(html_path.relative_to(ROOT)),
     )
-    audit.first_text = first_original_text(src_text)
+    audit.first_text = first_original_text(generated_text)
     audit.date_pdf_page = date_page(date, normalized_pages)
     audit.text_pdf_page, audit.first_text_score = text_page(audit.first_text, normalized_pages)
-    paragraph_stats = paragraph_match_stats(src_text, pdf_phrase_sets, page_word_sets)
+    paragraph_stats = paragraph_match_stats(generated_text, pdf_phrase_sets, page_word_sets)
     audit.paragraphs_total = paragraph_stats["total"]
     audit.paragraphs_checked = paragraph_stats["checked"]
     audit.paragraphs_matched = paragraph_stats["matched"]
     audit.unmatched_paragraphs = paragraph_stats["unmatched"]
-    audit.subsup_imbalances = subsup_imbalances(src_text)
+    audit.subsup_imbalances = subsup_imbalances(generated_text)
 
     html_text = ""
     rendered_text = ""
@@ -455,21 +455,21 @@ def audit_lesson(
         rendered_text = rendered_text_from_html(html_text)
         toggles = set(TOGGLE_RE.findall(html_text))
         audit.toggles_ok = toggles == {"original", "notes", "commentary"}
-        for img_src in HTML_IMG_RE.findall(html_text):
+        for image_ref in HTML_IMG_RE.findall(html_text):
             audit.images += 1
-            if img_src.startswith(("http://", "https://", "data:", "#", "mailto:")):
+            if image_ref.startswith(("http://", "https://", "data:", "#", "mailto:")):
                 continue
-            target = (html_path.parent / unquote(img_src.split("#", 1)[0].split("?", 1)[0])).resolve()
+            target = (html_path.parent / unquote(image_ref.split("#", 1)[0].split("?", 1)[0])).resolve()
             if not target.exists() or target.stat().st_size == 0:
-                audit.missing_images.append(img_src)
-    audit.marker_hits = marker_hits(src_text, rendered_text)
+                audit.missing_images.append(image_ref)
+    audit.marker_hits = marker_hits(generated_text, rendered_text)
     return audit
 
 
 def audit_seminar(code: str, slug: str, pdf_name: str) -> dict[str, Any]:
-    src_dir = SRC_DIR / slug
+    generated_dir = GENERATED_DIR / slug
     pdf = PDF_DIR / pdf_name
-    lessons = lesson_files(src_dir)
+    lessons = lesson_files(generated_dir)
     pages = pdf_pages_text(pdf) if pdf.exists() else []
     normalized_pages = [normalize_text(page) for page in pages]
     pdf_phrase_sets = build_phrase_sets(normalized_pages)
