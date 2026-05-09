@@ -232,7 +232,7 @@ python3 scripts/build_src_from_texts.py
 
 ## GitHub Pages 发布
 
-`.github/workflows/mdbook.yml` 会在 PR 中构建检查 mdBook，并在 `raw` 分支推送后构建 `book/` 并发布到 GitHub Pages。
+`.github/workflows/mdbook.yml` 会在 PR 中构建检查 mdBook，并在 `main` 分支推送后构建 `book/` 并发布到 GitHub Pages。
 
 在仓库设置中需要将 Pages 的构建来源设置为 **GitHub Actions**。
 

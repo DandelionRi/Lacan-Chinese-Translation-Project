@@ -3,11 +3,11 @@ name: mdBook
 on:
   push:
     branches:
-      - raw
+      - main
   pull_request:
     branches:
       - main
-      - raw
+      - DEV
   workflow_dispatch:
 
 concurrency:
@@ -34,7 +34,9 @@ jobs:
           mdbook --version
 
       - name: Build
-        run: mdbook build
+        run: |
+          python3 scripts/build_src_from_texts.py
+          mdbook build
 
       - name: Upload Pages artifact
         if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
