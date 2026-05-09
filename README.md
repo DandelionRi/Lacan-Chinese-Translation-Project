@@ -6,6 +6,35 @@
 
 本仓库现在采用 Markdown 直译模式、GitHub Pull Request 协作、mdBook 构建和 GitHub Actions 发布到 GitHub Pages。
 
+## 文本来源
+
+本项目整理和翻译的研讨班原始文本主要来自 [Staferla](http://staferla.free.fr/)。
+
+## 分支说明
+
+- `main`：主干分支，保留完整整理稿，包括译文、注释、术语说明、导读、校订说明和个人解读等内容。
+- `DEV`：脚本开发分支，针对 mdBook 页面功能适配进行开发迭代，完成后合并至 `main` 分支。
+
+## 项目目标
+
+- 为中文读者提供可读、可校订、可持续维护的拉康相关文本译稿。
+- 保留必要的译注、术语讨论、导读、校订说明和修订痕迹。
+- 使用适合 GitHub 浏览、引用、勘误和再整理的文件结构。
+- 鼓励复制、传播、修订、注释和再发布。
+
+## 参与方式
+
+欢迎通过 Pull Request 参与：
+
+- 修正译文错误
+- 提出术语建议
+- 补充注释、导读或读书笔记
+- 上传其他研讨班的翻译文本
+- 改进校对、格式和排版
+- 报告图片缺失、链接错误或段落不清等问题
+
+如果提交较大的译文修改，请尽量说明修改理由，尤其是涉及关键术语、句法判断或版本差异的地方。具体协作约定见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+
 ## 目录结构
 
 - `texts/`：翻译协作源文件目录，保留原文、译文、术语表和原文关联图片，是长期维护的内容层。
@@ -13,12 +42,9 @@
 - `texts/<seminar>/translation/Leçon-xx.md`：对应课时的译文 Markdown；段落 ID 应与原文保持对应，方便校对、讨论和 PR 审阅。
 - `texts/<seminar>/original/assets/`：该期研讨班原文引用的图片资源。
 - `texts/<seminar>/glossary.md`：该期研讨班的独立术语表。
-- `src/`：mdBook 源目录，也就是发布展示层；原则上由 `texts/` 中的原文和译文合成，放置最终可读正文、目录、术语表入口和发布所需图片。
-- `src/SUMMARY.md`：维护 mdBook 目录。
-- `src/glossary.md`：维护全站术语表入口。
-- `src/<seminar>/Leçon-xx.md`：mdBook 展示页，一个 Markdown 文件对应一节；可由同编号的原文和译文按段落 ID 合成。
-- `src/<seminar>/assets/`：发布页面引用的图片资源。
-- `src/<seminar>/glossary.md`：发布页面中的该研讨班术语表。
+- `texts/index.md`：mdBook 首页源文件，构建时生成到 `src/index.md`。
+- `src/`：mdBook 源目录，也就是发布展示层；由 `texts/` 和 `scripts/build_src_from_texts.py` 生成，已加入 `.gitignore`，不作为长期维护内容提交。
+- `scripts/requirements.txt`：Python 脚本依赖清单，CI 和本地环境使用同一个入口安装依赖。
 - `book.toml`：维护 mdBook 配置。
 - `book/`：mdBook 生成结果，已加入 `.gitignore`。
 
@@ -34,9 +60,43 @@
 - 段落使用稳定 ID 对齐，例如同一段原文和译文都保留 `s8-01-0001` 这样的 ID。
 - 每期研讨班的术语表维护在 `texts/<seminar>/glossary.md`。
 
-`src/` 只作为 mdBook 的发布入口。构建发布页面时，应把同一课的原文和译文按段落 ID 合成为 `src/<seminar>/Leçon-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
+`src/` 只作为 mdBook 的发布入口。构建发布页面时，脚本会把同一课的原文和译文按段落 ID 合成为 `src/<seminar>/Leçon-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
 
-因此，日常翻译 PR 应优先修改 `texts/`；`src/` 中的双语展示页可以由构建脚本重新生成，避免把协作源文件和发布格式混在一起。
+因此，日常翻译 PR 应修改 `texts/`；项目说明页修改根目录 `README.md`，贡献指南修改根目录 `CONTRIBUTING.md`，mdBook 首页修改 `texts/index.md`。`src/` 中的双语展示页由构建脚本重新生成，不提交到仓库，避免把协作源文件和发布格式混在一起。
+
+## 分段 ID 说明
+
+分段 ID 是本项目协作时引用具体段落的稳定锚点，格式通常类似 `s8-01-0001`，表示研讨班、课次和段落序号。原文与译文通过同一个分段 ID 对齐，构建脚本也依靠这些 ID 生成双语对照页面。
+
+在评论、校验、交流和 Pull Request 审阅过程中，请尽量使用分段 ID 指明讨论对象。例如可以写“`s8-01-0001` 的术语建议”或“请核对 `s8-01-0002` 与原文的对应关系”。这样比只说“第三段”更稳定，因为页面展示、排序或上下文发生变化后，分段 ID 仍能定位到同一处文本。
+
+维护文本时不要随意改动已有分段 ID。只有在原文分段结构确实需要调整时，才同步更新相关原文、译文、注释和 PR 说明，避免评论、校验记录和后续修订失去引用对象。
+
+## mdBook 相关资源
+
+- 项目地址：[rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+- 使用文档：[mdBook Documentation](https://rust-lang.github.io/mdBook/)
+- 下载地址：[mdBook Releases](https://github.com/rust-lang/mdBook/releases)
+
+本项目不提交 mdBook 二进制文件，也不提交生成后的 `src/` 和 `book/` 目录。`bin/` 是本地工具目录，已加入 `.gitignore`；GitHub Actions 会在 CI 中下载 Linux 版 mdBook。本地使用时，请先安装 `mdbook` 并确保它在 `PATH` 中：
+
+```bash
+mdbook --version
+```
+
+常见安装方式：
+
+```bash
+cargo install mdbook
+```
+
+也可以从 [mdBook Releases](https://github.com/rust-lang/mdBook/releases) 下载对应系统的预编译二进制文件，解压后放到本机 `PATH` 中。
+
+Python 脚本依赖由 `scripts/requirements.txt` 维护。当前脚本只使用 Python 标准库，仍建议使用同一命令初始化环境，方便后续新增依赖：
+
+```bash
+python3 -m pip install -r scripts/requirements.txt
+```
 
 ## 生成发布展示层
 
@@ -74,20 +134,21 @@ python3 scripts/build_src_from_texts.py --seminar s8-le-transfert --skip-summary
 
 ```bash
 python3 scripts/build_src_from_texts.py
-./bin/mdbook build
+mdbook build
 ```
 
 本地预览：
 
 ```bash
 python3 scripts/build_src_from_texts.py
-./bin/mdbook serve --open
+mdbook serve --open
 ```
 
 ### 输入目录约定
 
 脚本读取以下文件：
 
+- `texts/index.md`：可选。存在时会生成 `src/index.md`，作为 mdBook 首页。
 - `texts/<seminar>/original/Leçon-xx.md`：必需。每个 `<!-- id: ... -->` 标记开始一个原文段落，直到下一个 ID 标记为止。
 - `texts/<seminar>/translation/Leçon-xx.md`：可选。文件不存在时，该课原文仍会生成，译文位置显示 `[无对应译文]`。
 - `texts/<seminar>/original/assets/`：可选。原文图片会复制到 `src/<seminar>/assets/`。
@@ -175,28 +236,10 @@ python3 scripts/build_src_from_texts.py
 - 其他引用区块归为“个人解读评论”。
 - 页面会提供“原文 / 注释 / 个人解读评论”三个开关，分别控制这些内容的显示。
 
-### 生成结果
-
-脚本会写入或更新：
-
-- `src/<seminar>/README.md`：该期研讨班目录页。
-- `src/<seminar>/Leçon-xx.md`：合成后的双语对照页面。
-- `src/<seminar>/assets/`：从原文和译文 assets 复制的图片资源。
-- `src/<seminar>/glossary.md`：从 `texts/<seminar>/glossary.md` 复制的术语表。
-- `src/SUMMARY.md`：mdBook 总目录，除非使用 `--skip-summary`。
-
-命令结束时会输出统计信息：
-
-- `Built seminars`：本次生成的研讨班目录。
-- `Lessons`：本次生成的课次数。
-- `Aligned translation blocks`：找到译文并成功按 ID 对齐的译文区块数。
-- `Untranslated blocks`：显式标记为 `<!-- untranslated -->` 的译文区块数。
-- `Missing translation blocks`：原文存在但没有对应译文的段落数。
-
 ### 注意事项
 
 - `src/` 是展示层，可以由脚本重建；长期维护内容应放在 `texts/`。
-- 修改 `texts/` 后，提交前建议运行 `python3 scripts/build_src_from_texts.py && ./bin/mdbook build`。
+- 修改 `texts/` 后，提交前建议运行 `python3 scripts/build_src_from_texts.py && mdbook build`。
 - 只想降低 PR 噪音时，可以用 `--seminar` 限定本次修改涉及的研讨班。
 - 如果修改了研讨班目录结构、课次文件、标题或术语表，通常不要使用 `--skip-summary`，让脚本同步更新 `src/SUMMARY.md`。
 
@@ -212,22 +255,24 @@ python3 scripts/build_src_from_texts.py
 
 ## 当前内容
 
-- `src/s8-le-transfert`：研讨班 VIII，*Le transfert*（更新中）
-- `src/s17-l-envers-de-la-psychanalyse`：研讨班 XVII，*L'envers de la psychanalyse*（待校订）
-- `src/s19b-le-savoir-du-psychanalyste`：研讨班 XIXb，*Le savoir du psychanalyste*（待校订）
+- `texts/s8-le-transfert`：研讨班 VIII，*Le transfert*（更新中）
+- `texts/s17-l-envers-de-la-psychanalyse`：研讨班 XVII，*L'envers de la psychanalyse*（待校订）
+- `texts/s19b-le-savoir-du-psychanalyste`：研讨班 XIXb，*Le savoir du psychanalyste*（待校订）
 
 ## 本地预览
 
-安装 mdBook 后运行：
+生成 `src/` 后运行：
 
 ```bash
-./bin/mdbook serve --open
+python3 scripts/build_src_from_texts.py
+mdbook serve --open
 ```
 
 只检查构建时运行：
 
 ```bash
-./bin/mdbook build
+python3 scripts/build_src_from_texts.py
+mdbook build
 ```
 
 ## GitHub Pages 发布
@@ -236,44 +281,21 @@ python3 scripts/build_src_from_texts.py
 
 在仓库设置中需要将 Pages 的构建来源设置为 **GitHub Actions**。
 
-## 文本来源
-
-本项目整理和翻译的研讨班原始文本主要来自 [Staferla](http://staferla.free.fr/)。
-
-## 分支说明
-
-- `main`：主干分支，保留完整整理稿，包括译文、注释、术语说明、导读、校订说明和个人解读等内容。
-- `DEV`：脚本开发分支，针对 mdBook 页面功能适配进行开发迭代，完成后合并至 `main` 分支。
-
-## 项目目标
-
-- 为中文读者提供可读、可校订、可持续维护的拉康相关文本译稿。
-- 保留必要的译注、术语讨论、导读、校订说明和修订痕迹。
-- 使用适合 GitHub 浏览、引用、勘误和再整理的文件结构。
-- 鼓励复制、传播、修订、注释和再发布。
-
-## 参与方式
-
-欢迎通过 Pull Request 参与：
-
-- 修正译文错误
-- 提出术语建议
-- 补充注释、导读或读书笔记
-- 上传其他研讨班的翻译文本
-- 改进校对、格式和排版
-- 报告图片缺失、链接错误或段落不清等问题
-
-如果提交较大的译文修改，请尽量说明修改理由，尤其是涉及关键术语、句法判断或版本差异的地方。具体协作约定见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
-
 ## 许可证
 
-本项目采用 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可证，您可以在这里找到完整说明：
+[![License: CC-BY 4.0](https://img.shields.io/github/license/kotoba-rin/Lacan-Chinese-Translation-Project?logo=opensourceinitiative&logoColor=green&color=slategray)](https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project/blob/main/LICENSE)
+
+本项目贡献者自行创作的中文译文、译注、术语表、导读、校订说明、读书笔记、项目文档，以及用于整理、构建和发布的脚本、模板、自动化配置，采用 [CC-BY 4.0](https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project/blob/main/LICENSE) 许可证。适用范围和版权说明见 [NOTICE.md](./NOTICE.md)。
+
+您可以在这里找到完整说明：
 
 - [署名 4.0 协议国际版 CC BY 4.0 Deed](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)
 - [Attribution 4.0 International CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
 ## 版权声明
 
-本项目只针对已经处于公共领域的原始文本进行翻译工作。
+本项目可能包含或引用原始法文文本、原文图片、扫描整理结果以及其他第三方材料。上述材料不因收录、引用、对照展示或构建发布而自动纳入本项目的 CC BY 4.0 授权范围。
 
-开源证书声明仅针对项目内翻译文本以及相关构建脚本，不涉及原始文本。
+本项目整理和对照使用的法语原文主要来自互联网上公开可访问资料，包括 Staferla（[http://staferla.free.fr/](http://staferla.free.fr/)）。
+
+这些材料的权利状态以其来源、权利人声明和适用法律为准。本项目不对其版权归属、授权状态或可复用性作法律判断，也不改变其自身的版权状态。

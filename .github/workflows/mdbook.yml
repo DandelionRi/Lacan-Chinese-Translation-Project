@@ -33,10 +33,14 @@ jobs:
           sudo mv mdbook /usr/local/bin/mdbook
           mdbook --version
 
-      - name: Build
-        run: |
-          python3 scripts/build_src_from_texts.py
-          mdbook build
+      - name: Install Python script dependencies
+        run: python3 -m pip install -r scripts/requirements.txt
+
+      - name: Generate mdBook source
+        run: python3 scripts/build_src_from_texts.py
+
+      - name: Build mdBook
+        run: mdbook build
 
       - name: Upload Pages artifact
         if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'

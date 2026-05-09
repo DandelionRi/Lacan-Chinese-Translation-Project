@@ -11,7 +11,6 @@ create-missing = false
 
 [output.html]
 git-repository-url = "https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project"
-edit-url-template = "https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project/edit/main/{path}"
 mathjax-support = true
 no-section-label = true
 additional-css = ["theme/lacan-toggle.css"]

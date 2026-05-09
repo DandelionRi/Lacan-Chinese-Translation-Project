@@ -1,0 +1,2 @@
+# Python scripts currently use only the Python standard library.
+# Keep this file so CI and local setup can install future script dependencies consistently.
