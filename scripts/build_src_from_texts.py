@@ -3,6 +3,7 @@
 
 The texts directory is the editable source of truth:
 
+  texts/index.md
   texts/<seminar>/original/Leçon-xx.md
   texts/<seminar>/translation/Leçon-xx.md
 
@@ -36,6 +37,7 @@ from typing import Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 TEXTS_DIR = ROOT / "texts"
+TEXTS_INDEX = TEXTS_DIR / "index.md"
 SRC_DIR = ROOT / "src"
 
 ID_RE = re.compile(r"<!--\s*id:\s*([^>\s]+)\s*-->")
@@ -594,7 +596,10 @@ def write_summary() -> None:
     lines = ["# Summary", ""]
 
     index = SRC_DIR / "index.md"
-    if index.exists():
+    if TEXTS_INDEX.exists():
+        write_text(index, read_text(TEXTS_INDEX).rstrip() + "\n")
+        lines.append("- [首页](index.md)")
+    elif index.exists():
         lines.append("- [首页](index.md)")
     else:
         write_text(index, "# 拉康开放翻译计划\n")
