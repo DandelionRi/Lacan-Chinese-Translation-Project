@@ -6,6 +6,10 @@
 
 本仓库现在采用 Markdown 直译模式、GitHub Pull Request 协作、mdBook 构建和 GitHub Actions 发布到 GitHub Pages。
 
+## 在线访问
+
+mdBook 访问地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
+
 ## 文本来源
 
 本项目整理和翻译的研讨班原始文本主要来自 [Staferla](http://staferla.free.fr/)。
