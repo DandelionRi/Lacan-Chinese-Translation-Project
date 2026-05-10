@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Audit generated mdBook pages against local Lacan PDF corpus.
+"""Audit mdBook input pages against local Lacan PDF corpus.
 
 The audit is intentionally conservative. It does not claim a perfect OCR-grade
 alignment, but it checks the invariants that catch most build and conversion
 damage:
 
-- every generated lesson page exists in mdBook,
+- every build lesson page exists in mdBook,
 - lesson dates and first original-text snippets can be found in the matching PDF,
 - image references resolve to readable local files,
 - PDF image inventory is recorded for comparison,
@@ -29,7 +29,7 @@ from urllib.parse import unquote
 
 
 ROOT = Path(__file__).resolve().parents[1]
-GENERATED_DIR = ROOT / "generated"
+BUILD_DIR = ROOT / "build"
 BOOK_DIR = ROOT / "book"
 PDF_DIR = ROOT / "pdf"
 REPORT_DIR = ROOT / "reports"
@@ -135,7 +135,7 @@ class LessonAudit:
     lesson: str
     title: str
     date: str
-    generated_path: str
+    build_path: str
     html_path: str
     date_pdf_page: int | None = None
     text_pdf_page: int | None = None
@@ -420,32 +420,32 @@ def rendered_text_from_html(html_text: str) -> str:
 
 
 def audit_lesson(
-    generated_path: Path,
+    build_path: Path,
     slug: str,
     normalized_pages: list[str],
     pdf_phrase_sets: dict[int, set[str]],
     page_word_sets: list[set[str]],
 ) -> LessonAudit:
-    generated_text = generated_path.read_text(encoding="utf-8", errors="ignore")
-    title, date = extract_title_and_date(generated_text, generated_path)
-    lesson = generated_path.stem
+    build_text = build_path.read_text(encoding="utf-8", errors="ignore")
+    title, date = extract_title_and_date(build_text, build_path)
+    lesson = build_path.stem
     html_path = BOOK_DIR / slug / f"{lesson}.html"
     audit = LessonAudit(
         lesson=lesson,
         title=title,
         date=date,
-        generated_path=str(generated_path.relative_to(ROOT)),
+        build_path=str(build_path.relative_to(ROOT)),
         html_path=str(html_path.relative_to(ROOT)),
     )
-    audit.first_text = first_original_text(generated_text)
+    audit.first_text = first_original_text(build_text)
     audit.date_pdf_page = date_page(date, normalized_pages)
     audit.text_pdf_page, audit.first_text_score = text_page(audit.first_text, normalized_pages)
-    paragraph_stats = paragraph_match_stats(generated_text, pdf_phrase_sets, page_word_sets)
+    paragraph_stats = paragraph_match_stats(build_text, pdf_phrase_sets, page_word_sets)
     audit.paragraphs_total = paragraph_stats["total"]
     audit.paragraphs_checked = paragraph_stats["checked"]
     audit.paragraphs_matched = paragraph_stats["matched"]
     audit.unmatched_paragraphs = paragraph_stats["unmatched"]
-    audit.subsup_imbalances = subsup_imbalances(generated_text)
+    audit.subsup_imbalances = subsup_imbalances(build_text)
 
     html_text = ""
     rendered_text = ""
@@ -462,14 +462,14 @@ def audit_lesson(
             target = (html_path.parent / unquote(image_ref.split("#", 1)[0].split("?", 1)[0])).resolve()
             if not target.exists() or target.stat().st_size == 0:
                 audit.missing_images.append(image_ref)
-    audit.marker_hits = marker_hits(generated_text, rendered_text)
+    audit.marker_hits = marker_hits(build_text, rendered_text)
     return audit
 
 
 def audit_seminar(code: str, slug: str, pdf_name: str) -> dict[str, Any]:
-    generated_dir = GENERATED_DIR / slug
+    build_dir = BUILD_DIR / slug
     pdf = PDF_DIR / pdf_name
-    lessons = lesson_files(generated_dir)
+    lessons = lesson_files(build_dir)
     pages = pdf_pages_text(pdf) if pdf.exists() else []
     normalized_pages = [normalize_text(page) for page in pages]
     pdf_phrase_sets = build_phrase_sets(normalized_pages)

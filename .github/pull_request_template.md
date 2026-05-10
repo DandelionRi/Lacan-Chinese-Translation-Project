@@ -13,5 +13,5 @@
 - [ ] 每一节仍对应一个 Markdown 文件。
 - [ ] 新增图片已放在对应研讨班目录的 `assets/` 下，并使用相对路径引用。
 - [ ] 涉及术语统一时，已更新对应研讨班的 `glossary.md`。
-- [ ] 涉及目录结构时，`python3 scripts/build_generated_from_texts.py` 可正常生成 `generated/`。
-- [ ] `python3 scripts/build_generated_from_texts.py && mdbook build` 或 GitHub Actions 构建通过。
+- [ ] 涉及目录结构时，`python3 scripts/build_from_texts.py` 可正常生成 `build/`。
+- [ ] `python3 scripts/build_from_texts.py && mdbook build` 或 GitHub Actions 构建通过。

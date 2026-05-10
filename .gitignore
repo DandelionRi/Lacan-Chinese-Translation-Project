@@ -2,7 +2,7 @@
 .cache/
 book/
 bin/
-generated/
-generated.bk/
+build/
+build.bk/
 pdf/
 reports/

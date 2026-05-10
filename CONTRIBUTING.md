@@ -15,8 +15,8 @@
 - `texts/<seminar>/original/assets/`：原文引用的图片资源。
 - `texts/<seminar>/translation/assets/`：译文额外引用的图片资源。
 - `texts/<seminar>/glossary.md`：该期研讨班的独立术语表。
-- `texts/index.md`：mdBook 首页源文件，构建时生成到 `generated/index.md`。
-- `generated/`：mdBook 临时生成展示层，由 `texts/` 和 `scripts/build_generated_from_texts.py` 生成，不提交到仓库。
+- `texts/index.md`：mdBook 首页源文件，构建时生成到 `build/index.md`。
+- `build/`：mdBook 临时生成展示层，由 `texts/` 和 `scripts/build_from_texts.py` 生成，不提交到仓库。
 - `scripts/requirements.txt`：Python 脚本依赖清单，CI 和本地环境使用同一个入口安装依赖。
 - `book.toml`：维护 mdBook 配置。
 - `book/`：mdBook 生成结果，不提交到仓库。
@@ -33,9 +33,9 @@
 - 段落使用稳定 ID 对齐，例如同一段原文和译文都保留 `s8-01-0001` 这样的 ID。
 - 每期研讨班的术语表维护在 `texts/<seminar>/glossary.md`。
 
-`generated/` 只作为 mdBook 的临时发布入口。构建发布页面时，脚本会把同一课的原文和译文按段落 ID 合成为 `generated/<seminar>/Leçon-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
+`build/` 只作为 mdBook 的临时发布入口。构建发布页面时，脚本会把同一课的原文和译文按段落 ID 合成为 `build/<seminar>/Leçon-xx.md`。这样可以在 GitHub Pages 上同时打包原文和译文，并通过页面脚本提供“显示原文 / 隐藏原文”的阅读开关。
 
-因此，日常翻译 PR 应修改 `texts/`；项目说明页修改根目录 `README.md`，贡献指南修改根目录 `CONTRIBUTING.md`，mdBook 首页修改 `texts/index.md`。`generated/` 中的双语展示页由构建脚本重新生成，不提交到仓库，避免把协作源文件和发布格式混在一起。
+因此，日常翻译 PR 应修改 `texts/`；项目说明页修改根目录 `README.md`，贡献指南修改根目录 `CONTRIBUTING.md`，mdBook 首页修改 `texts/index.md`。`build/` 中的双语展示页由构建脚本重新生成，不提交到仓库，避免把协作源文件和发布格式混在一起。
 
 ## 原文与分段
 
@@ -52,7 +52,7 @@
 - 使用文档：[mdBook Documentation](https://rust-lang.github.io/mdBook/)
 - 下载地址：[mdBook Releases](https://github.com/rust-lang/mdBook/releases)
 
-本项目不提交 mdBook 二进制文件，也不提交生成后的 `generated/` 和 `book/` 目录。`bin/` 是本地工具目录，已加入 `.gitignore`；GitHub Actions 会在 CI 中下载 Linux 版 mdBook。本地使用时，请先安装 `mdbook` 并确保它在 `PATH` 中：
+本项目不提交 mdBook 二进制文件，也不提交生成后的 `build/` 和 `book/` 目录。`bin/` 是本地工具目录，已加入 `.gitignore`；GitHub Actions 会在 CI 中下载 Linux 版 mdBook。本地使用时，请先安装 `mdbook` 并确保它在 `PATH` 中：
 
 ```bash
 mdbook --version
@@ -74,45 +74,45 @@ python3 -m pip install -r scripts/requirements.txt
 
 ## 生成发布展示层
 
-`scripts/build_generated_from_texts.py` 用来把长期维护的 `texts/` 内容合成为 mdBook 使用的 `generated/` 展示层。日常翻译、校对和分段调整应优先修改 `texts/`；修改完成后再运行这个脚本重新生成 `generated/`。
+`scripts/build_from_texts.py` 用来把长期维护的 `texts/` 内容合成为 mdBook 使用的 `build/` 展示层。日常翻译、校对和分段调整应优先修改 `texts/`；修改完成后再运行这个脚本重新生成 `build/`。
 
-从全部 `texts/<seminar>/original/` 目录生成 `generated/`：
+从全部 `texts/<seminar>/original/` 目录生成 `build/`：
 
 ```bash
-python3 scripts/build_generated_from_texts.py
+python3 scripts/build_from_texts.py
 ```
 
 只生成某一期研讨班：
 
 ```bash
-python3 scripts/build_generated_from_texts.py --seminar s8-le-transfert
+python3 scripts/build_from_texts.py --seminar s8-le-transfert
 ```
 
 一次只生成多期研讨班，可以重复传入 `--seminar`：
 
 ```bash
-python3 scripts/build_generated_from_texts.py \
+python3 scripts/build_from_texts.py \
   --seminar s8-le-transfert \
   --seminar s20-encore
 ```
 
-只更新课文页面、不重写 `generated/SUMMARY.md`：
+只更新课文页面、不重写 `build/SUMMARY.md`：
 
 ```bash
-python3 scripts/build_generated_from_texts.py --seminar s8-le-transfert --skip-summary
+python3 scripts/build_from_texts.py --seminar s8-le-transfert --skip-summary
 ```
 
-生成 `generated/` 后再打包 mdBook：
+生成 `build/` 后再打包 mdBook：
 
 ```bash
-python3 scripts/build_generated_from_texts.py
+python3 scripts/build_from_texts.py
 mdbook build
 ```
 
 本地预览：
 
 ```bash
-python3 scripts/build_generated_from_texts.py
+python3 scripts/build_from_texts.py
 mdbook serve --open
 ```
 
@@ -120,13 +120,13 @@ mdbook serve --open
 
 脚本读取以下文件：
 
-- `texts/index.md`：可选。存在时会生成 `generated/index.md`，作为 mdBook 首页。
+- `texts/index.md`：可选。存在时会生成 `build/index.md`，作为 mdBook 首页。
 - `texts/<seminar>/original/Leçon-xx.md`：必需。每个 `<!-- id: ... -->` 标记开始一个原文段落，直到下一个 ID 标记为止。
 - `texts/<seminar>/translation/Leçon-xx.md`：可选。文件不存在时，该课原文仍会生成，译文位置显示 `[无对应译文]`。
-- `texts/<seminar>/original/assets/`：可选。原文图片会复制到 `generated/<seminar>/assets/`。
-- `texts/<seminar>/translation/assets/`：可选。译文额外图片也会复制到 `generated/<seminar>/assets/`。
-- `texts/<seminar>/glossary.md`：可选。存在时会复制为 `generated/<seminar>/glossary.md`。
-- `texts/<seminar>/original/README.md`：可选。存在时脚本会优先用其中的标题生成 `generated/<seminar>/README.md`。
+- `texts/<seminar>/original/assets/`：可选。原文图片会复制到 `build/<seminar>/assets/`。
+- `texts/<seminar>/translation/assets/`：可选。译文额外图片也会复制到 `build/<seminar>/assets/`。
+- `texts/<seminar>/glossary.md`：可选。存在时会复制为 `build/<seminar>/glossary.md`。
+- `texts/<seminar>/original/README.md`：可选。存在时脚本会优先用其中的标题生成 `build/<seminar>/README.md`。
 
 `<seminar>` 必须使用目录 slug，例如 `s8-le-transfert`、`s20-encore`。`Leçon-xx.md` 的编号用于排序，建议保持两位数字，例如 `Leçon-01.md`。
 
@@ -225,15 +225,15 @@ mdbook serve --open
 3. 涉及关键术语、句法判断、版本差异或大段重译时，在 PR 说明中写明理由。
 4. 新增图片放入对应研讨班目录的 `assets/`，正文中使用相对路径，例如 `![](assets/example.png)`。
 5. 项目说明页修改根目录 `README.md`，贡献指南修改根目录 `CONTRIBUTING.md`，mdBook 首页修改 `texts/index.md`。
-6. 新增课次时修改 `texts/` 中的源文件结构，并运行 `python3 scripts/build_generated_from_texts.py` 检查生成结果。
+6. 新增课次时修改 `texts/` 中的源文件结构，并运行 `python3 scripts/build_from_texts.py` 检查生成结果。
 7. 提交 PR 后等待 GitHub Actions 的 mdBook 构建检查。
 
 ## 注意事项
 
-- `generated/` 是展示层，可以由脚本重建；长期维护内容应放在 `texts/`。
-- 修改 `texts/` 后，提交前建议运行 `python3 scripts/build_generated_from_texts.py && mdbook build`。
+- `build/` 是展示层，可以由脚本重建；长期维护内容应放在 `texts/`。
+- 修改 `texts/` 后，提交前建议运行 `python3 scripts/build_from_texts.py && mdbook build`。
 - 只想降低 PR 噪音时，可以用 `--seminar` 限定本次修改涉及的研讨班。
-- 如果修改了研讨班目录结构、课次文件、标题或术语表，通常不要使用 `--skip-summary`，让脚本同步更新 `generated/SUMMARY.md`。
+- 如果修改了研讨班目录结构、课次文件、标题或术语表，通常不要使用 `--skip-summary`，让脚本同步更新 `build/SUMMARY.md`。
 
 ## GitHub Pages 发布
 
