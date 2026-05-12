@@ -102,33 +102,125 @@
 
 .original-block {
   margin-top: 0.65rem;
-  padding: 0.7rem 0.85rem;
-  border-left: 3px solid var(--table-border-color);
-  background: var(--quote-bg, transparent);
+  padding: 0.72rem 0.9rem 0.8rem 1rem;
+  border-left: 3px solid var(--lacan-original-accent);
+  border-radius: 0 6px 6px 0;
+  background: var(--lacan-original-bg);
+  box-shadow: inset 0 0 0 1px rgba(47, 105, 117, 0.1);
 }
 
 .original-block summary {
-  color: var(--icons);
-  font-size: 0.86rem;
+  color: var(--lacan-original-accent);
+  font-family: var(--mono-font);
+  font-size: 0.78rem;
+  line-height: 1.35;
   cursor: pointer;
+}
+
+.original-block summary::after {
+  content: "SOURCE";
+  margin-left: 0.4rem;
+  padding: 0.08rem 0.32rem;
+  border: 1px solid rgba(47, 105, 117, 0.28);
+  border-radius: 3px;
+  font-size: 0.68rem;
+  letter-spacing: 0;
+}
+
+.original-block[open] summary {
+  margin-bottom: 0.55rem;
+}
+
+.original-paragraph {
+  color: color-mix(in srgb, var(--fg) 88%, var(--lacan-original-accent));
 }
 
 .original-paragraph + .original-paragraph {
   margin-top: 0.9rem;
 }
 
+:root {
+  --lacan-original-accent: #2f6975;
+  --lacan-original-bg: rgba(47, 105, 117, 0.07);
+  --lacan-note-bg: var(--quote-bg, transparent);
+  --lacan-note-accent: var(--table-border-color);
+  --lacan-commentary-accent: #9c6b1f;
+  --lacan-commentary-bg: rgba(156, 107, 31, 0.08);
+}
+
+@supports (background: color-mix(in srgb, white, black)) {
+  :root {
+    --lacan-original-bg: color-mix(in srgb, var(--lacan-original-accent) 8%, var(--bg));
+    --lacan-note-bg: color-mix(in srgb, var(--table-border-color) 18%, var(--bg));
+    --lacan-commentary-bg: color-mix(in srgb, var(--lacan-commentary-accent) 10%, var(--bg));
+  }
+}
+
 .note-block,
 .commentary-block {
-  margin: 0.7rem 0;
+  position: relative;
+  margin: 0.85rem 0;
+  padding: 0.72rem 0.9rem 0.8rem 1rem;
+  border-left: 3px solid var(--lacan-note-accent);
+  border-radius: 0 6px 6px 0;
+  background: var(--lacan-note-bg);
+}
+
+.commentary-block {
+  border-left-color: var(--lacan-commentary-accent);
+  background: var(--lacan-commentary-bg);
+  box-shadow: inset 0 0 0 1px rgba(156, 107, 31, 0.1);
+}
+
+.note-block::before,
+.commentary-block::before {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0.38rem;
+  padding: 0.08rem 0.35rem;
+  border: 1px solid var(--table-border-color);
+  border-radius: 3px;
+  color: var(--icons);
+  font-family: var(--mono-font);
+  font-size: 0.72rem;
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.note-block::before {
+  content: "注释";
+}
+
+.commentary-block::before {
+  content: "个人解读";
+  border-color: rgba(156, 107, 31, 0.35);
+  color: var(--lacan-commentary-accent);
 }
 
 .note-block > blockquote,
 .commentary-block > blockquote {
+  margin: 0;
+  padding: 0;
+  border-left: 0;
+  background: transparent;
+}
+
+.note-block > blockquote > :first-child,
+.commentary-block > blockquote > :first-child {
+  margin-top: 0;
+}
+
+.note-block > blockquote > :last-child,
+.commentary-block > blockquote > :last-child {
   margin-bottom: 0;
 }
 
-.commentary-block > blockquote {
-  border-left-color: var(--theme-popup-border, var(--table-border-color));
+.note-block > blockquote {
+  color: color-mix(in srgb, var(--fg) 86%, var(--icons));
+}
+
+.original-notes::before {
+  content: "原文 Notes";
 }
 
 .original-notes {
