@@ -42,6 +42,16 @@ jobs:
       - name: Build mdBook
         run: mdbook build
 
+      - name: Upload book package artifact
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-package
+          path: book
+          if-no-files-found: error
+          include-hidden-files: true
+          retention-days: 1
+
       - name: Upload Pages artifact
         if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
         uses: actions/upload-pages-artifact@v5
@@ -64,3 +74,70 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v5
+
+  publish-package:
+    name: Publish book zip package
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    needs: deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Download book package artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: book-package
+          path: package/book
+
+      - name: Create book zip
+        working-directory: package
+        run: |
+          python3 <<'PY'
+          import os
+          import zipfile
+
+          with zipfile.ZipFile('book.zip', 'w', zipfile.ZIP_DEFLATED) as archive:
+              for root, _, files in os.walk('book'):
+                  for filename in files:
+                      path = os.path.join(root, filename)
+                      archive.write(path)
+          PY
+
+          ls -lh book.zip
+
+      - name: Set up ORAS
+        uses: oras-project/setup-oras@v1
+
+      - name: Log in to GitHub Container Registry
+        env:
+          GHCR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: echo "${GHCR_TOKEN}" | oras login ghcr.io --username "${{ github.actor }}" --password-stdin
+
+      - name: Publish zip to GitHub Packages
+        working-directory: package
+        env:
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          REPOSITORY_NAME: ${{ github.event.repository.name }}
+        run: |
+          owner="$(printf '%s' "${REPOSITORY_OWNER}" | tr '[:upper:]' '[:lower:]')"
+          repo="$(printf '%s' "${REPOSITORY_NAME}" | tr '[:upper:]' '[:lower:]')"
+          package_ref="ghcr.io/${owner}/${repo}-book"
+          run_tag="run-${GITHUB_RUN_NUMBER}-${GITHUB_RUN_ATTEMPT}"
+          sha_tag="sha-${GITHUB_SHA::12}"
+
+          publish() {
+            local tag="$1"
+            oras push "${package_ref}:${tag}" \
+              --artifact-type application/zip \
+              --annotation "org.opencontainers.image.title=book.zip" \
+              --annotation "org.opencontainers.image.description=Built mdBook book directory archive." \
+              --annotation "org.opencontainers.image.source=https://github.com/${GITHUB_REPOSITORY}" \
+              --annotation "org.opencontainers.image.revision=${GITHUB_SHA}" \
+              book.zip:application/zip
+          }
+
+          publish "${run_tag}"
+          publish "${sha_tag}"
+          publish latest
