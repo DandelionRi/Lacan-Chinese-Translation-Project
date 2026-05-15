@@ -269,8 +269,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
   }
 
   async syncConfiguredRepositories({ notify = false } = {}) {
-    this.comparisonContentCache.clear();
-    this.comparisonSegmentIndexCache.clear();
+    this.invalidateComparisonCaches();
 
     if (this.settings.mode === "reader") {
       await this.syncReaderRepository();
@@ -279,8 +278,10 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     for (const fork of this.settings.forks) {
-      await this.syncForkRepository(fork);
+      await this.syncForkRepository(fork, { refreshComparison: false });
     }
+
+    this.refreshComparisonAfterRepositorySync({ showLoading: notify });
 
     if (notify) {
       new Notice("Git 同步完成。");
@@ -311,7 +312,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
     await this.fetchRepositoryToLocalBranch(url, branch, localBranch);
   }
 
-  async syncForkRepository(fork) {
+  async syncForkRepository(fork, { refreshComparison = true } = {}) {
     if (!fork?.enabled) {
       return;
     }
@@ -323,6 +324,9 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
 
     await this.fetchRepositoryToLocalBranch(url, branch, localBranch);
+    if (refreshComparison) {
+      this.refreshComparisonAfterRepositorySync({ showLoading: true });
+    }
   }
 
   async fetchRepositoryToLocalBranch(url, remoteBranch, localBranch) {
@@ -352,6 +356,25 @@ module.exports = class LacanTranslationHelper extends Plugin {
         }
         resolve(String(stdout || ""));
       });
+    });
+  }
+
+  invalidateComparisonCaches() {
+    this.comparisonContentCache.clear();
+    this.comparisonSegmentIndexCache.clear();
+  }
+
+  refreshComparisonAfterRepositorySync({ showLoading = false } = {}) {
+    this.invalidateComparisonCaches();
+    const file = this.app.workspace.getActiveFile();
+    if (!(file instanceof TFile) || !file.path.startsWith("texts/") || file.extension !== "md") {
+      return;
+    }
+
+    this.renderComparisonToolbar({
+      renderSegments: true,
+      showLoading,
+      forcePreviewRerender: false,
     });
   }
 
