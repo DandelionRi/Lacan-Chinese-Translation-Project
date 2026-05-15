@@ -107,6 +107,14 @@
   margin: 10px 0 0;
 }
 
+.lacan-mode-help {
+  margin: -6px 0 14px;
+}
+
+.lacan-mode-help p {
+  margin: 4px 0;
+}
+
 .lacan-compare-toolbar {
   background: var(--background-primary);
   border-bottom: 1px solid var(--background-modifier-border);
@@ -149,37 +157,95 @@
   color: var(--text-on-accent);
 }
 
-.lacan-compare-panels {
+.lacan-compare-loading {
+  align-items: center;
+  background: var(--background-primary-alt);
+  border-bottom: 1px solid var(--background-modifier-border);
+  color: var(--text-muted);
+  display: flex;
+  font-size: 12px;
+  gap: 8px;
+  padding: 7px 12px;
+}
+
+.lacan-compare-loading-spinner {
+  animation: lacan-compare-spin 800ms linear infinite;
+  border: 2px solid var(--background-modifier-border);
+  border-top-color: var(--interactive-accent);
+  border-radius: 999px;
+  height: 14px;
+  width: 14px;
+}
+
+@keyframes lacan-compare-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.lacan-segment-compare-control {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 2px 0 6px;
+}
+
+.lacan-segment-compare-toggle {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 12px;
+  height: 24px;
+  padding: 0 8px;
+}
+
+.lacan-segment-compare-toggle.is-active {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.lacan-segment-compare-panel {
   display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  margin-top: 8px;
+  gap: 8px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   width: 100%;
 }
 
-.lacan-compare-panel {
+.lacan-segment-compare-item {
   border: 1px solid var(--background-modifier-border);
   border-radius: 8px;
   overflow: hidden;
 }
 
-.lacan-compare-panel-title {
+.lacan-segment-compare-title {
   background: var(--background-secondary);
   color: var(--text-muted);
   font-size: 12px;
   font-weight: 600;
-  padding: 6px 8px;
+  padding: 5px 8px;
 }
 
-.lacan-compare-content {
+.lacan-segment-compare-content {
   background: var(--background-primary-alt);
   color: var(--text-normal);
-  font-family: var(--font-text);
   font-size: 13px;
   line-height: 1.6;
-  margin: 0;
-  max-height: 420px;
+  max-height: 260px;
   overflow: auto;
   padding: 8px;
-  white-space: pre-wrap;
+}
+
+.lacan-segment-compare-content > :first-child {
+  margin-top: 0;
+}
+
+.lacan-segment-compare-content > :last-child {
+  margin-bottom: 0;
 }
