@@ -1,3 +1,9 @@
+---
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
+max_segment_id: 328
+---
 # Leçon 07 | 11 Mars 1970
 
 <!-- source-translation: src.bk -->

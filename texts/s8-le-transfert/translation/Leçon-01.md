@@ -1,10 +1,16 @@
+---
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
+max_segment_id: 91
+---
 # Leçon 01 | 16 Novembre 1960
 
 <!-- source-translation: src/s8-le-transfert/Leçon-01.md -->
 <!-- seminar: s8 -->
 <!-- lesson: 01 -->
 <!-- id: s8-01-0001 -->
-
+    
 我已宣布今年将论述**转移(transfert)**，论述其主体间的不对等性（disparité subjective）。这不是一个我轻易选择的术语。它所强调的首先是某种比主体间简单的非对称性（dissymétrie）概念更进一步的东西。它在标题本身中就已提出，如果我可以这么说的话，它从原则上就起而反抗那种认为主体间性（l’intersubjectivité）能独自提供该现象所铭刻于其中的框架的想法。  
 
 <!-- id: s8-01-0002 -->

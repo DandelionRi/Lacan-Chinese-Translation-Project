@@ -1,3 +1,9 @@
+---
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
+max_segment_id: 192
+---
 # Leçon 02 | 17 Décembre 1969
 
 <!-- source-translation: src.bk -->

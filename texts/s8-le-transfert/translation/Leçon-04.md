@@ -1,3 +1,9 @@
+---
+translation_progress: 96.7
+translation_progress_label: 96.70%
+untranslated_count: 3
+max_segment_id: 91
+---
 # Leçon 04 | 07 Décembre 1960  
   
 <!-- source-translation: src/s8-le-transfert/Leçon-04.md -->

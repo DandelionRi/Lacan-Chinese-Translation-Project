@@ -1,3 +1,9 @@
+---
+translation_progress: 98.65
+translation_progress_label: 98.65%
+untranslated_count: 1
+max_segment_id: 74
+---
 # Leçon 05 | 14 Décembre 1960
 
 <!-- source-translation: src/s8-le-transfert/Leçon-05.md -->

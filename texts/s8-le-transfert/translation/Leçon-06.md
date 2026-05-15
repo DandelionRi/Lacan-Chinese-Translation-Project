@@ -1,3 +1,9 @@
+---
+translation_progress: 74.53
+translation_progress_label: 74.53%
+untranslated_count: 27
+max_segment_id: 106
+---
 # Leçon 06 | 21 Décembre 1960
 
 <!-- source-translation: src/s8-le-transfert/Leçon-06.md -->
@@ -502,7 +508,7 @@
 > [注17] 这种拼写法被库斯勒（《梦游者》）所采用，每当他赋予尼古拉·科佩尔尼克（Nicolas Koppernigk）教士头衔时皆是如此。
 
 <!-- id: s8-06-0081 -->
-
+$\phi$
 <!-- untranslated -->
 
 <!-- id: s8-06-0082 -->

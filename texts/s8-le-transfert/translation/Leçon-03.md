@@ -1,3 +1,9 @@
+---
+translation_progress: 96.55
+translation_progress_label: 96.55%
+untranslated_count: 3
+max_segment_id: 87
+---
 # Leçon 03 | 30 Novembre 1960
 
 <!-- source-translation: src/s8-le-transfert/Leçon-03.md -->

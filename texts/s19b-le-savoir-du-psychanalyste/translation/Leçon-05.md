@@ -1,3 +1,9 @@
+---
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
+max_segment_id: 321
+---
 # Leçon 05 | 09 Mars 1972
 
 <!-- source-translation: src.bk -->

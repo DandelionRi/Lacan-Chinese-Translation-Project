@@ -1,3 +1,9 @@
+---
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
+max_segment_id: 384
+---
 # Leçon 10 | 15 Avril 1970
 
 <!-- source-translation: src.bk -->

@@ -1,3 +1,9 @@
+---
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
+max_segment_id: 270
+---
 # Leçon 01 | 26 Novembre 1969 Université Paris I, Panthéon-Sorbonne
 
 <!-- source-translation: src.bk -->

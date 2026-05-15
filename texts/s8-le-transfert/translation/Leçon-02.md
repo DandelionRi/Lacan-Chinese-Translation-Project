@@ -1,3 +1,9 @@
+---
+translation_progress: 97.03
+translation_progress_label: 97.03%
+untranslated_count: 3
+max_segment_id: 101
+---
 # Leçon 02 | 23 Novembre 1960
 
 <!-- source-translation: src/s8-le-transfert/Leçon-02.md -->
