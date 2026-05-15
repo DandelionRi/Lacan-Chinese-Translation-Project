@@ -270,15 +270,20 @@ module.exports = class LacanTranslationHelper extends Plugin {
 
   async syncConfiguredRepositories({ notify = false } = {}) {
     this.invalidateComparisonCaches();
+    if (!this.settings.repositoryUrl?.trim()) {
+      throw new Error("尚未配置 Lacan-Chinese-Translation-Project 仓库地址。");
+    }
+
+    await this.ensureGitRepositoryInitialized({ notify });
 
     if (this.settings.mode === "reader") {
-      await this.syncReaderRepository();
+      await this.syncReaderRepository({ ensureRepository: false });
     } else {
-      await this.syncEditorRepository();
+      await this.syncEditorRepository({ ensureRepository: false });
     }
 
     for (const fork of this.settings.forks) {
-      await this.syncForkRepository(fork, { refreshComparison: false });
+      await this.syncForkRepository(fork, { refreshComparison: false, ensureRepository: false });
     }
 
     this.refreshComparisonAfterRepositorySync({ showLoading: notify });
@@ -288,11 +293,14 @@ module.exports = class LacanTranslationHelper extends Plugin {
     }
   }
 
-  async syncReaderRepository() {
+  async syncReaderRepository({ ensureRepository = true } = {}) {
     const url = this.settings.repositoryUrl?.trim();
     const branch = this.settings.repositoryBranch?.trim() || "main";
     if (!url) {
       throw new Error("尚未配置 Lacan-Chinese-Translation-Project 仓库地址。");
+    }
+    if (ensureRepository) {
+      await this.ensureGitRepositoryInitialized();
     }
 
     await this.execGit(["pull", "--ff-only", url, branch], {
@@ -301,18 +309,21 @@ module.exports = class LacanTranslationHelper extends Plugin {
     });
   }
 
-  async syncEditorRepository() {
+  async syncEditorRepository({ ensureRepository = true } = {}) {
     const url = this.settings.repositoryUrl?.trim();
     const branch = this.settings.repositoryBranch?.trim() || "main";
     const localBranch = this.settings.upstreamLocalBranch?.trim() || "lacan-upstream/main";
     if (!url) {
       throw new Error("尚未配置 Lacan-Chinese-Translation-Project 仓库地址。");
     }
+    if (ensureRepository) {
+      await this.ensureGitRepositoryInitialized();
+    }
 
     await this.fetchRepositoryToLocalBranch(url, branch, localBranch);
   }
 
-  async syncForkRepository(fork, { refreshComparison = true } = {}) {
+  async syncForkRepository(fork, { refreshComparison = true, ensureRepository = true } = {}) {
     if (!fork?.enabled) {
       return;
     }
@@ -321,6 +332,9 @@ module.exports = class LacanTranslationHelper extends Plugin {
     const localBranch = fork.localBranch?.trim();
     if (!url || !localBranch) {
       throw new Error(`fork 配置不完整：${fork.name || url || "未命名 fork"}`);
+    }
+    if (ensureRepository) {
+      await this.ensureGitRepositoryInitialized({ notify: refreshComparison });
     }
 
     await this.fetchRepositoryToLocalBranch(url, branch, localBranch);
@@ -357,6 +371,24 @@ module.exports = class LacanTranslationHelper extends Plugin {
         resolve(String(stdout || ""));
       });
     });
+  }
+
+  async ensureGitRepositoryInitialized({ notify = false } = {}) {
+    if (this.hasGitRepositoryMetadata()) {
+      return false;
+    }
+
+    await this.execGit(["init"]);
+    if (notify) {
+      new Notice("当前项目未初始化 Git，已自动执行 git init。");
+    }
+    return true;
+  }
+
+  hasGitRepositoryMetadata() {
+    const fs = require("fs");
+    const path = require("path");
+    return fs.existsSync(path.join(this.getVaultBasePath(), ".git"));
   }
 
   invalidateComparisonCaches() {
@@ -1506,7 +1538,7 @@ class LacanTranslationHelperSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("立即同步")
-      .setDesc("立即获取主项目和已启用 fork 的最新内容。Reader 会更新当前文件；Editer 不覆盖当前文件。")
+      .setDesc("立即获取主项目和已启用 fork 的最新内容。当前目录未初始化 Git 时会先自动执行 git init。Reader 会更新当前文件；Editer 不覆盖当前文件。")
       .addButton((button) => {
         button
           .setButtonText("同步")
