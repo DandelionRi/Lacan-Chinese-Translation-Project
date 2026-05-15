@@ -6,3 +6,9 @@ build/
 build.bk/
 pdf/
 reports/
+.obsidian/*
+!.obsidian/plugins/
+.obsidian/plugins/*
+!.obsidian/plugins/lacan-translation-helper/
+!.obsidian/plugins/lacan-translation-helper/**
+.obsidian/plugins/lacan-translation-helper/data.json

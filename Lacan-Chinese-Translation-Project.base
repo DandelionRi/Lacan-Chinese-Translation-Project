@@ -1,0 +1,85 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("texts")
+    - file.folder.contains("/original")
+    - file.name.startsWith("Leçon-") || file.name.startsWith("Lecon-") || file.name.startsWith("lesson-")
+formulas:
+  seminarSlug: file.path.split("/")[1]
+  seminarCode: formula.seminarSlug.split("-")[0].lower()
+  seminarOrder: number(formula.seminarCode.replace("s19b", "19.5").replace("s", ""))
+  seminarGroup: if(formula.seminarOrder < 10, "0" + formula.seminarOrder, "" + formula.seminarOrder) + " · " + formula.seminarSlug
+  lessonPadded: file.basename.replace("Leçon-", "").replace("Lecon-", "").replace("lesson-", "")
+  lessonNumber: number(formula.lessonPadded)
+  lessonId: formula.seminarCode + "-" + formula.lessonNumber
+  lessonTitle: formula.lessonId + " · Leçon " + formula.lessonPadded
+  originalPath: file.path
+  translationPath: file.path.replace("/original/", "/translation/")
+  translationFile: link(formula.translationPath).asFile()
+  translationStatus: if(formula.translationFile, "已有译文", "译文不存在")
+  translationProgress: if(formula.translationFile, formula.translationFile.properties.translation_progress, 0)
+  translationProgressLabel: if(formula.translationFile, formula.translationFile.properties.translation_progress_label, "0.00%")
+  untranslatedCount: if(formula.translationFile, formula.translationFile.properties.untranslated_count, "")
+  maxSegmentId: if(formula.translationFile, formula.translationFile.properties.max_segment_id, "")
+  original: link(formula.originalPath, "打开原文")
+  translation: link(formula.translationPath, if(formula.translationFile, "打开译文", "新建翻译"))
+properties:
+  formula.lessonTitle:
+    displayName: Leçon
+  formula.lessonId:
+    displayName: 编号
+  formula.seminarSlug:
+    displayName: 研讨班
+  formula.seminarGroup:
+    displayName: 研讨班
+  formula.original:
+    displayName: 原文
+  formula.translation:
+    displayName: 译文
+  formula.originalPath:
+    displayName: 原文路径
+  formula.translationPath:
+    displayName: 译文路径
+  formula.translationStatus:
+    displayName: 译文状态
+  formula.translationProgressLabel:
+    displayName: 翻译进度
+  formula.untranslatedCount:
+    displayName: 未译段落
+  formula.maxSegmentId:
+    displayName: 最大分段
+  file.mtime:
+    displayName: 原文最近修改
+views:
+  - type: lacan-lesson-list
+    name: reader
+    groupBy:
+      property: formula.seminarGroup
+      direction: ASC
+    order: []
+    sort:
+      - property: formula.seminarOrder
+        direction: ASC
+      - property: formula.lessonNumber
+        direction: ASC
+    limit: 700
+    mode: reader
+  - type: lacan-lesson-list
+    name: editer
+    groupBy:
+      property: formula.seminarGroup
+      direction: ASC
+    order:
+      - formula.lessonTitle
+      - formula.original
+      - formula.translation
+      - formula.translationProgressLabel
+      - formula.untranslatedCount
+      - formula.maxSegmentId
+    sort:
+      - property: formula.seminarOrder
+        direction: ASC
+      - property: formula.lessonNumber
+        direction: ASC
+    limit: 700
+    mode: editer
