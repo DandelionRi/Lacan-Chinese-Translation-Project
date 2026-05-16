@@ -303,10 +303,7 @@ module.exports = class LacanTranslationHelper extends Plugin {
       await this.ensureGitRepositoryInitialized();
     }
 
-    await this.execGit(["pull", "--ff-only", url, branch], {
-      useGithubProxy: true,
-      remoteUrl: url,
-    });
+    await this.resetReaderRepositoryToRemote(url, branch);
   }
 
   async syncEditorRepository({ ensureRepository = true } = {}) {
@@ -371,6 +368,16 @@ module.exports = class LacanTranslationHelper extends Plugin {
         resolve(String(stdout || ""));
       });
     });
+  }
+
+  async resetReaderRepositoryToRemote(url, branch) {
+    await this.execGit(["check-ref-format", "--branch", branch]);
+    await this.execGit(["fetch", "--no-tags", url, branch], {
+      useGithubProxy: true,
+      remoteUrl: url,
+    });
+    await this.execGit(["reset", "--hard", "FETCH_HEAD"]);
+    await this.execGit(["checkout", "-B", branch, "FETCH_HEAD"]);
   }
 
   async ensureGitRepositoryInitialized({ notify = false } = {}) {

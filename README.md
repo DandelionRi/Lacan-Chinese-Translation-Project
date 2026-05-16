@@ -44,6 +44,62 @@ mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 
 维护文本时不要随意改动已有分段 ID。只有在原文分段结构确实需要调整时，才同步更新相关原文、译文、注释和 PR 说明，避免评论、校验记录和后续修订失去引用对象。
 
+## Obsidian 插件
+
+本仓库内置了一个 Obsidian 桌面端插件：`Lacan Translation Helper`。它用于在 Obsidian 中阅读、编辑和对照 `texts/` 下的原文与译文。
+
+### 安装说明
+
+1. 安装 Obsidian 桌面端。
+2. 将本仓库 clone 或 fork 到本地。
+3. 在 Obsidian 中选择“Open folder as vault”，打开本仓库根目录。
+4. 进入 Obsidian 设置，打开“Community plugins”，关闭安全模式限制后启用 `Lacan Translation Helper`。
+5. 如果插件没有显示，确认本地存在 `.obsidian/plugins/lacan-translation-helper/manifest.json`、`main.js` 和 `styles.css`，然后重启 Obsidian 或重新加载插件。
+
+插件的 Git 同步功能需要本机安装 Git CLI，不需要安装 Obsidian Git 插件。插件当前是桌面端插件，不适用于 iPad 或手机端的插件内 Git 同步。
+
+### 使用说明
+
+插件主要提供以下功能：
+
+- 在 `texts/<seminar>/original/Leçon-xx.md` 和 `texts/<seminar>/translation/Leçon-xx.md` 之间创建、填充和维护译文骨架。
+- 保存译文文件后，根据 `<!-- untranslated -->` 自动计算翻译进度，并写入文件 frontmatter。
+- 在 Obsidian Bases 中按研讨班和课次查看条目，快速进入原文、译文或创建缺失译文。
+- 同步 GitHub 主仓库内容，并支持配置多个 fork 作为对照版本。
+- 在阅读预览中选择 fork 后，可在具体分段旁展开该分段的对照内容。
+
+常用入口：
+
+- 右键原文课文，可以选择“生成译文骨架”。
+- 右键译文课文，可以选择“为空译文填充分段骨架”。
+- 命令面板中可以运行 `Create translation skeleton from active lesson`、`Update translation progress for all lessons` 和 `Sync configured GitHub repositories`。
+- 插件设置页中可以配置仓库地址、Reader/Editer 模式、GitHub HTTP 代理、启动时自动同步和 fork 对照版本。
+
+模式说明：
+
+- Reader：同步 GitHub 主仓库的最新更新到本地当前文件，适合只阅读或查看译文的人。
+- Editer：同步主仓库时只下载为对照版本，不覆盖你正在编辑的当前文件，适合参与翻译的人。
+- Fork 对照：Reader 和 Editer 都可以使用。先在设置页添加 fork，再在文本页面顶部选择 fork 版本，之后可在分段旁展开对照。
+
+同步说明：
+
+- “立即同步”会获取主项目和已启用 fork 的最新内容。
+- 如果当前目录还没有 `.git`，插件会先自动执行 `git init`。
+- Reader 模式同步会将当前文件对齐到 GitHub 主仓库，用于处理从 zip 或普通文件夹打开项目时文件尚未被 Git 跟踪的情况；如需保留本地编辑内容，请先使用 Editer 模式或手动提交本地修改。
+- GitHub HTTP 代理只作用于插件执行的 GitHub 同步命令，不会改变 Obsidian 其它网络操作。
+- fork 会保存到独立的本地对照分支，避免覆盖当前正在编辑的内容。
+
+编辑译文时请注意 `id` 和 `ids` 的关系：
+
+```markdown
+<!-- id: s8-06-0058 -->
+<!-- ids: s8-06-0058 s8-06-0059 -->
+
+这里写 0058 和 0059 合并后的译文。
+```
+
+`<!-- id: ... -->` 表示一个译文块的开始；`<!-- ids: ... -->` 表示这个译文块实际对应的原文分段列表。使用 `ids` 时，它必须紧跟在当前块的 `id` 后面，并且列表中应包含当前 `id`。不要把 `ids` 写在上一段译文之后当作“下一段声明”，否则构建脚本会把它解析成上一段的对齐规则。
+
 ## 当前内容翻译进度
 
 - `texts/s8-le-transfert`：研讨班 VIII，*Le transfert*（更新中）。
