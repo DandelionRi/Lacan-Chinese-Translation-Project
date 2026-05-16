@@ -426,9 +426,6 @@ Et ceci confirme ce que je vous ai dit être l’essentiel du ressort du *comiqu
 
 C’est à ce point que nous reprendrons les choses la prochaine fois.
 
-<!-- id: s8-06-0106 -->
-
-&nbsp;
 
 ## Notes
 
