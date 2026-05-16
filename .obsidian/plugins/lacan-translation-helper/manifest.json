@@ -1,9 +1,9 @@
 {
   "id": "lacan-translation-helper",
   "name": "Lacan Translation Helper",
-  "version": "0.4.13",
+  "version": "0.4.15",
   "minAppVersion": "1.8.0",
-  "description": "Create translation skeleton files from original Lacan seminar texts.",
+  "description": "Sync Lacan translation repositories, compare fork segments, create translation skeletons, and update lesson progress.",
   "author": "Lacan Chinese Translation Project",
   "authorUrl": "https://github.com/Kotoba-Rin/Lacan-Chinese-Translation-Project",
   "isDesktopOnly": true
