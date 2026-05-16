@@ -50,6 +50,7 @@ NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
 INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
 OBSIDIAN_IMAGE_RE = re.compile(r"!\[\[([^\]\n]+?)\]\]")
 OBSIDIAN_IMAGE_SIZE_RE = re.compile(r"^(\d+)(?:x(\d+))?$", re.IGNORECASE)
+INLINE_CODE_SPAN_RE = re.compile(r"(`+)(.*?)(\1)")
 ASSET_DIR_NAMES = {"original", "translation"}
 
 
@@ -106,7 +107,8 @@ def clean_block(text: str) -> str:
 
 def normalize_source_markdown(text: str, source_path: Path) -> str:
     """Convert Obsidian-only markdown that mdBook cannot render directly."""
-    return convert_obsidian_image_embeds(text, source_path)
+    text = convert_obsidian_image_embeds(text, source_path)
+    return convert_obsidian_latex_math(text)
 
 
 def convert_obsidian_image_embeds(text: str, source_path: Path) -> str:
@@ -145,6 +147,144 @@ def convert_obsidian_image_embeds(text: str, source_path: Path) -> str:
             converted.append(OBSIDIAN_IMAGE_RE.sub(lambda match: render_obsidian_image(match, source_path), line))
 
     return "".join(converted)
+
+
+def convert_obsidian_latex_math(text: str) -> str:
+    """Convert Obsidian dollar-delimited math to MathJax default delimiters.
+
+    Obsidian commonly uses `$...$` for inline math and `$$...$$` for display
+    math. mdBook's MathJax setup is most reliable with `\\(...\\)` and
+    `\\[...\\]`, so the generated build pages use those delimiters instead.
+    """
+    lines = text.splitlines(keepends=True)
+    converted: list[str] = []
+    in_fence = False
+    fence_marker = ""
+    display_math_lines: list[str] | None = None
+
+    for line in lines:
+        stripped = line.lstrip()
+        fence_match = re.match(r"(```+|~~~+)", stripped)
+        if fence_match and display_math_lines is None:
+            marker = fence_match.group(1)
+            if not in_fence:
+                in_fence = True
+                fence_marker = marker[:3]
+            elif marker.startswith(fence_marker):
+                in_fence = False
+                fence_marker = ""
+            converted.append(line)
+            continue
+
+        if in_fence:
+            converted.append(line)
+            continue
+
+        if display_math_lines is not None:
+            if stripped.strip() == "$$":
+                converted.append("\\[\n")
+                converted.extend(display_math_lines)
+                converted.append("\\]\n")
+                display_math_lines = None
+            else:
+                display_math_lines.append(line)
+            continue
+
+        if stripped.strip() == "$$":
+            display_math_lines = []
+            continue
+
+        converted.append(convert_inline_obsidian_math(line))
+
+    if display_math_lines is not None:
+        converted.append("$$\n")
+        converted.extend(display_math_lines)
+
+    return "".join(converted)
+
+
+def convert_inline_obsidian_math(line: str) -> str:
+    return transform_outside_inline_code(line, convert_inline_math_segment)
+
+
+def transform_outside_inline_code(line: str, transform) -> str:
+    parts: list[str] = []
+    cursor = 0
+    for match in INLINE_CODE_SPAN_RE.finditer(line):
+        parts.append(transform(line[cursor : match.start()]))
+        parts.append(match.group(0))
+        cursor = match.end()
+    parts.append(transform(line[cursor:]))
+    return "".join(parts)
+
+
+def convert_inline_math_segment(segment: str) -> str:
+    out: list[str] = []
+    cursor = 0
+    length = len(segment)
+
+    while cursor < length:
+        char = segment[cursor]
+        if char != "$" or is_escaped(segment, cursor):
+            out.append(char)
+            cursor += 1
+            continue
+
+        if cursor + 1 < length and segment[cursor + 1] == "$":
+            end = find_unescaped_dollars(segment, cursor + 2, "$$")
+            if end is None:
+                out.append("$$")
+                cursor += 2
+                continue
+            math = segment[cursor + 2 : end].strip()
+            if math:
+                out.append(f"\\[{math}\\]")
+            else:
+                out.append("$$$$")
+            cursor = end + 2
+            continue
+
+        end = find_unescaped_dollars(segment, cursor + 1, "$")
+        if end is None:
+            out.append(char)
+            cursor += 1
+            continue
+
+        math = segment[cursor + 1 : end].strip()
+        if should_convert_inline_math(math):
+            out.append(f"\\({math}\\)")
+        else:
+            out.append(segment[cursor : end + 1])
+        cursor = end + 1
+
+    return "".join(out)
+
+
+def find_unescaped_dollars(text: str, start: int, marker: str) -> int | None:
+    cursor = start
+    while cursor < len(text):
+        index = text.find(marker, cursor)
+        if index == -1:
+            return None
+        if not is_escaped(text, index):
+            return index
+        cursor = index + len(marker)
+    return None
+
+
+def is_escaped(text: str, index: int) -> bool:
+    backslashes = 0
+    cursor = index - 1
+    while cursor >= 0 and text[cursor] == "\\":
+        backslashes += 1
+        cursor -= 1
+    return backslashes % 2 == 1
+
+
+def should_convert_inline_math(math: str) -> bool:
+    if not math or "\n" in math:
+        return False
+    return True
 
 
 def render_obsidian_image(match: re.Match[str], source_path: Path) -> str:
