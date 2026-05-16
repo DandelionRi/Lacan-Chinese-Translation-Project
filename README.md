@@ -89,6 +89,13 @@ mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translat
 - GitHub HTTP 代理只作用于插件执行的 GitHub 同步命令，不会改变 Obsidian 其它网络操作。
 - fork 会保存到独立的本地对照分支，避免覆盖当前正在编辑的内容。
 
+Obsidian 语法兼容说明：
+
+- 在 `texts/` 下编辑原文、译文和注释时，可以直接使用 Obsidian 常用 LaTeX 写法：行内公式写作 `$...$`，块级公式写作 `$$...$$`。
+- 不需要在源文本中手动改成 mdBook 的 MathJax 分隔符。构建时，`scripts/build_from_texts.py` 会把 Obsidian LaTeX 写法转换成 mdBook 可识别的形式。
+- 脚本也会适配 Obsidian 图片嵌入语法，例如 `![[texts/s8-le-transfert/original/assets/image5.jpeg|268]]`，构建时会转换为 mdBook 可以渲染的图片引用。
+- 代码块和行内代码中的内容不会被当作 LaTeX 或图片语法转换。
+
 编辑译文时请注意 `id` 和 `ids` 的关系：
 
 ```markdown

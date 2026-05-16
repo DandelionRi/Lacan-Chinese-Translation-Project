@@ -153,8 +153,8 @@ def convert_obsidian_latex_math(text: str) -> str:
     """Convert Obsidian dollar-delimited math to MathJax default delimiters.
 
     Obsidian commonly uses `$...$` for inline math and `$$...$$` for display
-    math. mdBook's MathJax setup is most reliable with `\\(...\\)` and
-    `\\[...\\]`, so the generated build pages use those delimiters instead.
+    math. mdBook's MathJax integration expects the generated Markdown source
+    to contain double-backslash delimiters such as `\\(` and `\\[`.
     """
     lines = text.splitlines(keepends=True)
     converted: list[str] = []
@@ -182,9 +182,9 @@ def convert_obsidian_latex_math(text: str) -> str:
 
         if display_math_lines is not None:
             if stripped.strip() == "$$":
-                converted.append("\\[\n")
+                converted.append("\\\\[\n")
                 converted.extend(display_math_lines)
-                converted.append("\\]\n")
+                converted.append("\\\\]\n")
                 display_math_lines = None
             else:
                 display_math_lines.append(line)
@@ -238,7 +238,7 @@ def convert_inline_math_segment(segment: str) -> str:
                 continue
             math = segment[cursor + 2 : end].strip()
             if math:
-                out.append(f"\\[{math}\\]")
+                out.append(f"\\\\[{math}\\\\]")
             else:
                 out.append("$$$$")
             cursor = end + 2
@@ -252,7 +252,7 @@ def convert_inline_math_segment(segment: str) -> str:
 
         math = segment[cursor + 1 : end].strip()
         if should_convert_inline_math(math):
-            out.append(f"\\({math}\\)")
+            out.append(f"\\\\({math}\\\\)")
         else:
             out.append(segment[cursor : end + 1])
         cursor = end + 1
