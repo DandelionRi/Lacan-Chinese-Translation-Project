@@ -1,7 +1,7 @@
 ---
-translation_progress: 93.4
-translation_progress_label: 93.40%
-untranslated_count: 7
+translation_progress: 94.34
+translation_progress_label: 94.34%
+untranslated_count: 6
 max_segment_id: 106
 ---
 # Leçon 06 | 21 Décembre 1960
@@ -648,7 +648,8 @@ max_segment_id: 106
 
 <!-- id: s8-06-0101 -->
 
-<!-- untranslated -->
+这个问题将如何得到解决？
+阿里斯托芬在这里对我们说话的方式，完全像_小汉斯_一样：人们要把他们那些处在错误位置上的_生殖器_给_拧下来_——因为，显然，那是在他们还是圆的时候、在_外部_所处的位置——然后再把它们重新拧到肚子上，完全就像你们知道的那个梦里的水龙头一样，也就是我正在暗指的那个观察个案中的水龙头。
 
 <!-- id: s8-06-0102 -->
 
