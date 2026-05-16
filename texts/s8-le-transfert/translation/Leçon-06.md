@@ -1,7 +1,7 @@
 ---
-translation_progress: 99.05
-translation_progress_label: 99.05%
-untranslated_count: 1
+translation_progress: 100
+translation_progress_label: 100.00%
+untranslated_count: 0
 max_segment_id: 105
 ---
 # Leçon 06 | 21 Décembre 1960
@@ -137,11 +137,11 @@ max_segment_id: 105
 
 <!-- id: s8-06-0020 -->
 
-尽管如此——为了试图就此说些什么——似乎不可能不从这样一个起点出发：从字面上来接受苏格拉底的身边人向我们证实的事情，而且这还是在他临死的前夕，即——他正是那个总而言之说过这句话的人：**对于一种我们对其一无所知的死亡，我不知道有什么可怕的。**
+尽管如此——为了试图就此说些什么——似乎不可能不从这样一个起点出发：从字面上来接受苏格拉底的身边人向我们证实的事情，而且这还是在他临死的前夕，即——他正是那个总而言之说过这句话的人：**对于一种我们对其一无所知的死亡，我不知道有什么可怕的。**  
 
-> [注]nous ne saurions rien craindre d’une mort dont nous ne savons rien。句法上有两个 savoir。
-> ne saurions rien craindre：不能知道有什么可怕 / 不会知道该怕什么。
-> dont nous ne savons rien：我们对其一无所知。
+> [注]nous ne saurions rien craindre d’une mort dont nous ne savons rien。句法上有两个 savoir。   
+> ne saurions rien craindre：不能知道有什么可怕 / 不会知道该怕什么。   
+> dont nous ne savons rien：我们对其一无所知。   
 
 <!-- id: s8-06-0021 -->
 
@@ -417,7 +417,6 @@ max_segment_id: 105
 
 <!-- id: s8-06-0065 -->
 
-<!-- untranslated -->
 
 <!-- id: s8-06-0066 -->
        

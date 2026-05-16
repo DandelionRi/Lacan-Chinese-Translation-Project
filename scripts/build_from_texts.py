@@ -31,6 +31,7 @@ import argparse
 import re
 import shutil
 from dataclasses import dataclass, field
+from html import escape
 from pathlib import Path
 from typing import Iterable
 
@@ -47,6 +48,9 @@ LESSON_FILE_RE = re.compile(r"^(?:Leçon|Lecon|lesson)-(\d+)\.md$", re.IGNORECAS
 CANONICAL_LESSON_PREFIX = "Leçon"
 NOTE_HEADING_RE = re.compile(r"^##\s+Notes\s*$", re.MULTILINE)
 INLINE_STRONG_RE = re.compile(r"\*\*([^*\n]+?)\*\*")
+OBSIDIAN_IMAGE_RE = re.compile(r"!\[\[([^\]\n]+?)\]\]")
+OBSIDIAN_IMAGE_SIZE_RE = re.compile(r"^(\d+)(?:x(\d+))?$", re.IGNORECASE)
+ASSET_DIR_NAMES = {"original", "translation"}
 
 
 @dataclass
@@ -100,6 +104,129 @@ def clean_block(text: str) -> str:
     return text.strip("\n")
 
 
+def normalize_source_markdown(text: str, source_path: Path) -> str:
+    """Convert Obsidian-only markdown that mdBook cannot render directly."""
+    return convert_obsidian_image_embeds(text, source_path)
+
+
+def convert_obsidian_image_embeds(text: str, source_path: Path) -> str:
+    """Convert Obsidian image embeds to mdBook-compatible HTML images.
+
+    Obsidian accepts embeds such as:
+
+      ![[texts/s8-le-transfert/original/assets/image5.jpeg|268]]
+
+    mdBook does not understand that form. The build directory flattens each
+    seminar's original/translation assets into build/<seminar>/assets, so the
+    generated reference should point at assets/<name>.
+    """
+    lines = text.splitlines(keepends=True)
+    converted: list[str] = []
+    in_fence = False
+    fence_marker = ""
+
+    for line in lines:
+        stripped = line.lstrip()
+        fence_match = re.match(r"(```+|~~~+)", stripped)
+        if fence_match:
+            marker = fence_match.group(1)
+            if not in_fence:
+                in_fence = True
+                fence_marker = marker[:3]
+            elif marker.startswith(fence_marker):
+                in_fence = False
+                fence_marker = ""
+            converted.append(line)
+            continue
+
+        if in_fence:
+            converted.append(line)
+        else:
+            converted.append(OBSIDIAN_IMAGE_RE.sub(lambda match: render_obsidian_image(match, source_path), line))
+
+    return "".join(converted)
+
+
+def render_obsidian_image(match: re.Match[str], source_path: Path) -> str:
+    target, options = split_obsidian_embed(match.group(1))
+    if not target:
+        return match.group(0)
+
+    width = ""
+    height = ""
+    alt = ""
+    for option in options:
+        size_match = OBSIDIAN_IMAGE_SIZE_RE.match(option)
+        if size_match:
+            width = size_match.group(1)
+            height = size_match.group(2) or ""
+        elif not alt:
+            alt = option
+
+    src = resolve_obsidian_asset_path(target, source_path)
+    alt = alt or Path(target.split("#", 1)[0]).name or target
+    attrs = [
+        f'src="{escape(src, quote=True)}"',
+        f'alt="{escape(alt, quote=True)}"',
+    ]
+    if width:
+        attrs.append(f'width="{escape(width, quote=True)}"')
+    if height:
+        attrs.append(f'height="{escape(height, quote=True)}"')
+    return f"<img {' '.join(attrs)} />"
+
+
+def split_obsidian_embed(raw: str) -> tuple[str, list[str]]:
+    parts = [part.strip() for part in raw.split("|")]
+    target = parts[0].strip()
+    return target, [part for part in parts[1:] if part]
+
+
+def resolve_obsidian_asset_path(target: str, source_path: Path) -> str:
+    target = target.strip().replace("\\", "/")
+    path_without_fragment = target.split("#", 1)[0].split("?", 1)[0].strip()
+    if not path_without_fragment:
+        return target
+
+    normalized = path_without_fragment.lstrip("/")
+    parts = [part for part in normalized.split("/") if part and part != "."]
+    assets_index = asset_path_index(parts)
+    if assets_index is not None:
+        return "/".join(["assets", *parts[assets_index + 1 :]])
+
+    relative_candidate = (source_path.parent / normalized).resolve()
+    try:
+        relative_parts = list(relative_candidate.relative_to(TEXTS_DIR.resolve()).parts)
+    except ValueError:
+        relative_parts = []
+    assets_index = asset_path_index(relative_parts)
+    if assets_index is not None:
+        return "/".join(["assets", *relative_parts[assets_index + 1 :]])
+
+    same_folder_asset = source_path.parent / "assets" / normalized
+    if same_folder_asset.exists():
+        return f"assets/{normalized}"
+
+    seminar_dir = source_path.parents[1] if len(source_path.parents) > 1 else source_path.parent
+    for folder in ("original", "translation"):
+        seminar_asset = seminar_dir / folder / "assets" / normalized
+        if seminar_asset.exists():
+            return f"assets/{normalized}"
+
+    return normalized
+
+
+def asset_path_index(parts: list[str]) -> int | None:
+    for index, part in enumerate(parts):
+        if part != "assets":
+            continue
+        if index >= 1 and parts[index - 1] in ASSET_DIR_NAMES and index + 1 < len(parts):
+            return index
+        if index == 0 and index + 1 < len(parts):
+            return index
+    return None
+
+
 def split_notes(text: str) -> tuple[str, str]:
     match = NOTE_HEADING_RE.search(text)
     if not match:
@@ -108,7 +235,7 @@ def split_notes(text: str) -> tuple[str, str]:
 
 
 def parse_lesson(path: Path) -> Lesson:
-    text = read_text(path)
+    text = normalize_source_markdown(read_text(path), path)
     body, notes = split_notes(text)
     matches = list(ID_RE.finditer(body))
 
@@ -161,7 +288,7 @@ def parse_translation(path: Path) -> list[TranslationEntry]:
     if not path.exists():
         return []
 
-    text = read_text(path)
+    text = normalize_source_markdown(read_text(path), path)
     matches = list(ID_RE.finditer(text))
     entries: list[TranslationEntry] = []
 
