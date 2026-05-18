@@ -21,8 +21,19 @@
 | Alceste | 阿尔刻提斯 | 已统一旧译“阿尔刻斯提斯”。 |
 | Aphrodite | 阿佛洛狄忒 |  |
 | Dioné | 狄俄涅 |  |
+| Apollon | 阿波罗 |  |
+| Héphaïstos / Vulcain | 赫淮斯托斯 / 伏尔甘 | 第六节按原文说明保留希腊名与罗马名。 |
+| Hadès | 哈得斯 |  |
+| Thanatos | 塔纳托斯 | 弗洛伊德语境中说明为死亡驱力。 |
 | Hésiode | 赫西俄德 |  |
 | Parménide | 巴门尼德 |  |
+| Thalès | 泰勒斯 |  |
+| Pythagore | 毕达哥拉斯 |  |
+| Zénon | 芝诺 |  |
+| Protagoras | 普罗泰戈拉 |  |
+| Œdipe | 俄狄浦斯 |  |
+| Euripide | 欧里庇得斯 |  |
+| Orphée | 俄耳甫斯 |  |
 | Agis | 阿吉斯 |  |
 | Laïs | 拉伊斯 |  |
 | Aspasie | 阿斯帕齐娅 |  |
@@ -39,6 +50,11 @@
 | Philolaos | 菲洛劳斯 |  |
 | Alcméon | 阿尔克迈翁 |  |
 | Hippocrate | 希波克拉底 |  |
+| Xénophon | 色诺芬 |  |
+| Critobule | 克里托布鲁斯 |  |
+| Aristote | 亚里士多德 |  |
+| Héraclide | 赫拉克利德 |  |
+| Aristarque de Samos | 萨摩斯的阿里斯塔克斯 |  |
 | Héraclite d’Éphèse | 以弗所的赫拉克利特 | 文中简称“赫拉克利特”。 |
 | Empédocle | 恩培多克勒 | 形容词 *empédocléenne* 译作“恩培多克勒式”。 |
 | Lycurgue | 莱库古 |  |
@@ -51,6 +67,9 @@
 | Platon | 柏拉图 |  |
 | Kant | 康德 |  |
 | Freud | 弗洛伊德 |  |
+| Nietzsche | 尼采 |  |
+| Sade | 萨德 |  |
+| saint Augustin | 圣奥古斯丁 |  |
 | Lévi-Strauss | 列维-斯特劳斯 |  |
 | Rousseau | 卢梭 |  |
 | Henri Lefebvre | 亨利·列斐伏尔 |  |
@@ -72,8 +91,10 @@
 | Brochard | 布罗夏尔 |  |
 | Léon Robin | 莱昂·罗班 | 已统一旧译“莱昂·罗宾”“罗宾”。 |
 | Plutarque | 普鲁塔克 |  |
+| Jean-François Revel | 让-弗朗索瓦·勒维尔 |  |
 | Kojève | 科耶夫 |  |
 | Jean Beaufret | 让·博夫雷 |  |
+| Jean Bollack | 让·博拉克 |  |
 | Bailly | 巴伊 |  |
 | Jacques Prévert | 雅克·普雷维尔 |  |
 | Mario Meunier | 马里奥·梅尼耶 |  |
@@ -89,11 +110,24 @@
 | Lévy-Bruhl | 列维-布吕尔 |  |
 | Vygotski / Vygotsky | 维果茨基 |  |
 | Ernst Cassirer | 恩斯特·卡西尔 |  |
+| Ehrenfels | 埃伦费尔斯 |  |
+| Copernic / Koppernigk | 哥白尼 / 科佩尔尼克 | 指 Nicolas Copernic；“Koppernigk”按柯斯勒拼写说明处理。 |
+| Kepler / Képler | 开普勒 |  |
+| Galilée | 伽利略 |  |
+| Arthur Koestler | 阿瑟·柯斯勒 | 已统一旧译“凯斯特勒”“库斯勒”。 |
+| Alexandre | 亚历山大 |  |
+| Séleucide | 塞琉古 |  |
+| Ptolémée | 托勒密 |  |
 
 ## 学派、地点与族群
 
 | 外文 | 统一中文译名 | 备注 |
 | --- | --- | --- |
+| Académie | 学园 | 指柏拉图学园。 |
+| Atlantide | 亚特兰蒂斯 |  |
+| Delphes | 德尔斐 |  |
+| Sicile | 西西里 |  |
+| Samos | 萨摩斯 |  |
 | école de Cos | 科斯学派 |  |
 | école de Cnide | 尼多斯学派 |  |
 | école sicilienne | 西西里学派 |  |
@@ -130,3 +164,25 @@
 | position primitive | 原始立场 |  |
 | présupposés mentaux | 思维预设 |  |
 | pulsion de mort / instinct de mort | 死驱力 / 死本能 | 按原文分别处理 *pulsion* 与 *instinct*。 |
+| l’Autre (avec le grand A) | 大他者 | 与普通“他者”区分。 |
+| la Chose / das Ding / το πρᾶγμα [to pragma] | 原物 | 第六节涉及柏拉图 *to pragma* 与《伦理学》语境；*die Sache* 译“事情/事务”。 |
+| πρᾶξις [praxis] | 实践 |  |
+| θεωρια [theôria] | 理论 / 沉思 | 第六节按语境说明其与 *praxis* 的关系。 |
+| ἀτοπία [atopia] | 无处 / 不可定位 | 苏格拉底的 *atopia* 可按语境译“无处安置”。 |
+| perversion sans objet | 无对象的性倒错 |  |
+| désir de mort | 死亡欲望 |  |
+| l’entre-deux-morts | 两次死亡之间 |  |
+| jouissance | 享乐 |  |
+| Éros / eros | 爱欲 |  |
+| philia / philotès | 友爱 / 爱 | 恩培多克勒语境中可说明为聚集之爱或联结之爱。 |
+| sphaira / sphairos / sphère | 球体 |  |
+| peirar / apeirôn | 限定 / 无定 |  |
+| épicycles | 本轮 |  |
+| mouvement circulaire | 圆周运动 |  |
+| révolution astronomique / révolution copernicienne | 天文学革命 / 哥白尼革命 |  |
+| sublimation courtoise / amour courtois | 宫廷之恋的升华 / 宫廷之恋 | 已统一第六节旧译“典雅爱情”。 |
+| objet aimé | 所爱对象 / 被爱对象 | 保留“对象”，避免改作“客体”。 |
+| Verwerfung | 拒斥 |  |
+| castration / complexe de castration | 阉割 / 阉割情结 |  |
+| phallus | 阳具 |  |
+| génitoires / organe génital | 生殖器 / 生殖器官 |  |
