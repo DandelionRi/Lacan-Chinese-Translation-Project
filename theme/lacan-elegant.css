@@ -1,0 +1,379 @@
+:root,
+html.light,
+html.rust {
+  --lacan-elegant-bg: #ffffff;
+  --lacan-elegant-surface: #ffffff;
+  --lacan-elegant-text: #333333;
+  --lacan-elegant-muted: #666666;
+  --lacan-elegant-soft: #f8f8f8;
+  --lacan-elegant-border: #e5e5e5;
+  --lacan-elegant-strong-border: #d0d0d0;
+  --lacan-elegant-accent: #8b7355;
+  --lacan-elegant-code: #8b4513;
+  --lacan-elegant-serif: "Songti SC", "SimSun", Georgia, serif;
+  --lacan-elegant-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
+
+html.light,
+html.rust {
+  --bg: var(--lacan-elegant-bg);
+  --fg: var(--lacan-elegant-text);
+  --sidebar-bg: #fbfbfb;
+  --sidebar-fg: #444444;
+  --sidebar-non-existant: #9b9b9b;
+  --sidebar-active: var(--lacan-elegant-accent);
+  --sidebar-spacer: var(--lacan-elegant-border);
+  --scrollbar: #cfcfcf;
+  --icons: #777777;
+  --icons-hover: #333333;
+  --links: var(--lacan-elegant-accent);
+  --inline-code-color: var(--lacan-elegant-code);
+  --theme-popup-bg: var(--lacan-elegant-surface);
+  --theme-popup-border: var(--lacan-elegant-border);
+  --table-border-color: var(--lacan-elegant-border);
+  --table-header-bg: var(--lacan-elegant-soft);
+  --table-alternate-bg: #fbfbfb;
+  --quote-bg: transparent;
+  --quote-border: var(--lacan-elegant-strong-border);
+  --warning-border: var(--lacan-elegant-accent);
+}
+
+html.coal,
+html.navy,
+html.ayu {
+  --lacan-elegant-bg: #151413;
+  --lacan-elegant-surface: #1b1917;
+  --lacan-elegant-text: #ded7cb;
+  --lacan-elegant-muted: #aaa196;
+  --lacan-elegant-soft: #221f1c;
+  --lacan-elegant-border: #35302a;
+  --lacan-elegant-strong-border: #50483e;
+  --lacan-elegant-accent: #c1a77b;
+  --lacan-elegant-code: #e1b978;
+  --lacan-elegant-serif: "Songti SC", "SimSun", Georgia, serif;
+  --lacan-elegant-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --bg: var(--lacan-elegant-bg);
+  --fg: var(--lacan-elegant-text);
+  --sidebar-bg: #11100f;
+  --sidebar-fg: #c8c0b5;
+  --sidebar-non-existant: #756d63;
+  --sidebar-active: var(--lacan-elegant-accent);
+  --sidebar-spacer: var(--lacan-elegant-border);
+  --scrollbar: #4c443b;
+  --icons: #9c9287;
+  --icons-hover: #ded7cb;
+  --links: var(--lacan-elegant-accent);
+  --inline-code-color: var(--lacan-elegant-code);
+  --theme-popup-bg: var(--lacan-elegant-surface);
+  --theme-popup-border: var(--lacan-elegant-border);
+  --table-border-color: var(--lacan-elegant-border);
+  --table-header-bg: var(--lacan-elegant-soft);
+  --table-alternate-bg: #1a1816;
+  --quote-bg: transparent;
+  --quote-border: var(--lacan-elegant-strong-border);
+  --warning-border: var(--lacan-elegant-accent);
+}
+
+body {
+  font-family: var(--lacan-elegant-serif);
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+#mdbook-theme-rust,
+#mdbook-theme-coal,
+#mdbook-theme-ayu {
+  display: none !important;
+}
+
+.content main {
+  box-sizing: border-box;
+  max-width: 720px;
+  padding: 12px 20px 30px;
+  font-family: var(--lacan-elegant-serif);
+  font-size: 17px;
+  line-height: 1.85;
+  color: var(--lacan-elegant-text);
+  word-wrap: break-word;
+}
+
+.content main > h1:first-child,
+.content main h1,
+.content main h2 {
+  font-family: var(--lacan-elegant-serif);
+  font-weight: 400;
+  text-align: center;
+}
+
+.content main > h1:first-child,
+.content main h1 {
+  margin: 36px 0 18px;
+  color: color-mix(in srgb, var(--lacan-elegant-text) 92%, black);
+  font-size: 26px;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+}
+
+.content main h2 {
+  margin: 32px 0 16px;
+  color: color-mix(in srgb, var(--lacan-elegant-text) 88%, black);
+  font-size: 22px;
+  line-height: 1.45;
+  letter-spacing: 0.04em;
+}
+
+.content main h3,
+.content main h4,
+.content main h5,
+.content main h6 {
+  font-family: var(--lacan-elegant-serif);
+  font-weight: 400;
+  color: var(--lacan-elegant-text);
+}
+
+.content main h3 {
+  margin: 28px 0 14px;
+  font-size: 19px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.content main h4 {
+  margin: 24px 0 12px;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+.content main h5 {
+  margin: 20px 0 10px;
+  color: color-mix(in srgb, var(--lacan-elegant-text) 84%, var(--lacan-elegant-muted));
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.content main h6 {
+  margin: 18px 0 9px;
+  color: var(--lacan-elegant-muted);
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.content main p {
+  margin: 18px 0;
+  color: color-mix(in srgb, var(--lacan-elegant-text) 88%, var(--lacan-elegant-muted));
+  line-height: 1.85;
+  letter-spacing: 0.02em;
+  text-indent: 2em;
+}
+
+.content main a {
+  color: var(--lacan-elegant-accent);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--lacan-elegant-accent);
+}
+
+.content main a:hover {
+  color: color-mix(in srgb, var(--lacan-elegant-accent) 70%, var(--lacan-elegant-text));
+  text-decoration: none;
+}
+
+.content main strong {
+  color: color-mix(in srgb, var(--lacan-elegant-text) 94%, black);
+  font-weight: 600;
+}
+
+.content main em {
+  color: var(--lacan-elegant-muted);
+  font-style: italic;
+}
+
+.content main ul,
+.content main ol {
+  margin: 18px 0;
+  padding-left: 28px;
+}
+
+.content main li {
+  margin: 10px 0;
+  line-height: 1.85;
+}
+
+.content main blockquote {
+  max-width: 600px;
+  margin: 18px auto;
+  padding: 10px 20px;
+  border: 0;
+  border-left: 2px solid var(--lacan-elegant-strong-border);
+  background: transparent;
+  color: var(--lacan-elegant-muted);
+  line-height: 1.6;
+}
+
+.content main blockquote p {
+  margin: 0.45rem 0;
+  color: inherit;
+  line-height: inherit;
+  text-indent: 0;
+}
+
+.content main code {
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: var(--lacan-elegant-soft);
+  color: var(--lacan-elegant-code);
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: 14px;
+}
+
+.content main pre {
+  margin: 24px 0;
+  padding: 18px;
+  overflow-x: auto;
+  border: 1px solid var(--lacan-elegant-border);
+  border-radius: 8px;
+  background: var(--lacan-elegant-soft);
+  line-height: 1.7;
+}
+
+.content main pre code {
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+}
+
+.content main hr {
+  max-width: 200px;
+  height: 1px;
+  margin: 36px auto;
+  border: none;
+  background: var(--lacan-elegant-border);
+}
+
+.content main img {
+  display: block;
+  max-width: 100%;
+  max-height: 500px;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 8px;
+}
+
+.content main table {
+  width: 100%;
+  margin: 24px 0;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.content main th {
+  padding: 10px;
+  border: 0;
+  border-bottom: 2px solid var(--lacan-elegant-strong-border);
+  background: var(--lacan-elegant-soft);
+  color: var(--lacan-elegant-muted);
+  font-weight: 400;
+  text-align: left;
+}
+
+.content main td {
+  padding: 10px;
+  border: 0;
+  border-bottom: 1px solid var(--lacan-elegant-border);
+}
+
+.content main tr {
+  border-bottom: 1px solid var(--lacan-elegant-border);
+}
+
+.content main sup,
+.content main sub {
+  text-indent: 0;
+}
+
+.content main .parallel-text {
+  gap: 1.35rem;
+}
+
+.content main .parallel-paragraph {
+  padding: 1rem 0;
+  border-top-color: var(--lacan-elegant-border);
+}
+
+.content main .paragraph-id {
+  color: color-mix(in srgb, var(--lacan-elegant-muted) 84%, var(--lacan-elegant-text));
+  font-family: var(--mono-font);
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+}
+
+.content main .translation-block {
+  margin-bottom: 0.75rem;
+}
+
+.content main .translation-block p,
+.content main .original-paragraph p {
+  text-indent: 2em;
+}
+
+.content main .translation-missing {
+  color: var(--lacan-elegant-muted);
+  text-indent: 0;
+}
+
+.content main .original-block,
+.content main .note-block,
+.content main .commentary-block {
+  border-radius: 0 6px 6px 0;
+}
+
+.content main .original-block {
+  border-left-width: 2px;
+  background: color-mix(in srgb, var(--lacan-original-accent) 5%, var(--bg));
+}
+
+.content main .original-block summary {
+  color: var(--lacan-original-accent);
+  font-family: var(--mono-font);
+}
+
+.content main .note-block,
+.content main .commentary-block {
+  background: transparent;
+}
+
+.content main .note-block > blockquote,
+.content main .commentary-block > blockquote {
+  max-width: none;
+}
+
+.content main .footnote-definition p,
+.content main .original-notes p {
+  text-indent: 0;
+}
+
+.menu-title,
+.sidebar,
+.reading-controls,
+.lacan-tool-search-input,
+.lacan-tool-button {
+  font-family: var(--lacan-elegant-sans);
+}
+
+@media (max-width: 768px) {
+  .content main {
+    max-width: none;
+    padding: 10px 16px 28px;
+    font-size: 16px;
+  }
+
+  .content main > h1:first-child,
+  .content main h1 {
+    font-size: 24px;
+    letter-spacing: 0.05em;
+  }
+
+  .content main h2 {
+    font-size: 20px;
+  }
+}

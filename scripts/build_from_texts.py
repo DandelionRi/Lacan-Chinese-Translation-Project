@@ -657,9 +657,19 @@ def render_parallel_block(
     translation: RenderedTranslation,
 ) -> list[str]:
     ids_text = " ".join(paragraph_ids)
-    ids_label = ", ".join(paragraph_ids)
+    ids_label = ", ".join(escape(paragraph_id) for paragraph_id in paragraph_ids)
+    anchor_id = escape(paragraph_ids[0], quote=True)
+    ids_attr = escape(ids_text, quote=True)
     out = [
-        f'<section class="parallel-paragraph" data-paragraph-ids="{ids_text}">',
+        f'<section id="{anchor_id}" class="parallel-paragraph" data-paragraph-ids="{ids_attr}">',
+    ]
+
+    for paragraph_id in paragraph_ids[1:]:
+        out.append(
+            f'<span id="{escape(paragraph_id, quote=True)}" class="paragraph-anchor-alias" aria-hidden="true"></span>'
+        )
+
+    out.extend([
         f'<div class="paragraph-id">{ids_label}</div>',
         '<details class="original-block" open>',
         f"<summary>原文 · {ids_label}</summary>",
@@ -667,7 +677,7 @@ def render_parallel_block(
         render_original_blocks(original_blocks),
         "",
         "</details>",
-    ]
+    ])
 
     if translation.body:
         out.extend(["<div class=\"translation-block\">", "", translation.body, "", "</div>"])
