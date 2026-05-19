@@ -147,9 +147,9 @@
     var save = document.createElement("button");
     save.className = "lacan-tool-button lacan-share-save";
     save.type = "button";
-    save.title = "保存选中片段图片";
+    save.title = "下载选中片段图片";
     save.disabled = true;
-    save.textContent = "保存图片";
+    save.textContent = "下载图片";
 
     var clear = document.createElement("button");
     clear.className = "lacan-tool-button lacan-share-clear";
@@ -339,11 +339,15 @@
 
     if (save) {
       save.addEventListener("click", function () {
-        try {
-          saveSelectedParagraphs();
-        } catch (error) {
+        var previousText = save.textContent;
+        save.disabled = true;
+        save.textContent = "生成中";
+        Promise.resolve(saveSelectedParagraphs()).catch(function (error) {
           window.alert(error && error.message ? error.message : "保存图片失败。");
-        }
+        }).finally(function () {
+          save.textContent = previousText;
+          updateShareControls();
+        });
       });
     }
 
@@ -433,27 +437,27 @@
 
     var translation = elementText(section.querySelector(".translation-block"));
     if (translation) {
-      snippet.blocks.push({ label: "译文", text: translation });
+      snippet.blocks.push({ kind: "translation", label: "译文", text: translation });
     }
 
     if (!document.documentElement.classList.contains("hide-notes")) {
       var notes = collectTexts(section, ".note-block:not(.original-notes)");
       if (notes) {
-        snippet.blocks.push({ label: "注释", text: notes });
+        snippet.blocks.push({ kind: "note", label: "注释", text: notes });
       }
     }
 
     if (!document.documentElement.classList.contains("hide-commentary")) {
       var commentary = collectTexts(section, ".commentary-block");
       if (commentary) {
-        snippet.blocks.push({ label: "个人解读", text: commentary });
+        snippet.blocks.push({ kind: "commentary", label: "个人解读", text: commentary });
       }
     }
 
     if (!document.documentElement.classList.contains("hide-original")) {
       var original = collectTexts(section, ".original-paragraph");
       if (original) {
-        snippet.blocks.push({ label: "原文", text: original });
+        snippet.blocks.push({ kind: "original", label: "原文", text: original });
       }
     }
 
@@ -477,156 +481,456 @@
       .slice(0, 96) || "fragment";
   }
 
-  function wrapText(ctx, text, maxWidth) {
-    var paragraphs = normalizeText(text).split(/\n+/);
-    var lines = [];
-
-    paragraphs.forEach(function (paragraph, paragraphIndex) {
-      var line = "";
-      var chars = paragraph.split("");
-
-      chars.forEach(function (char) {
-        var next = line + char;
-        if (line && ctx.measureText(next).width > maxWidth) {
-          lines.push(line);
-          line = char.replace(/^\s+/, "");
-        } else {
-          line = next;
-        }
-      });
-
-      if (line) {
-        lines.push(line);
-      }
-
-      if (paragraphIndex < paragraphs.length - 1) {
-        lines.push("");
-      }
-    });
-
-    return lines.length ? lines : [""];
+  function parsePx(value, fallback) {
+    var parsed = parseFloat(value);
+    return Number.isFinite(parsed) ? parsed : fallback;
   }
 
-  function addTextOp(ctx, ops, x, y, maxWidth, text, options) {
-    ctx.font = options.font;
-    var lines = wrapText(ctx, text, maxWidth);
-    ops.push({
-      type: "text",
-      x: x,
-      y: y,
-      lines: lines,
-      font: options.font,
-      color: options.color,
-      lineHeight: options.lineHeight,
-    });
-    return y + lines.length * options.lineHeight;
+  function cssValue(style, name, fallback) {
+    var value = style.getPropertyValue(name).trim();
+    return value || fallback;
   }
 
-  function createShareCanvas(snippets) {
-    if (!snippets.length) {
-      throw new Error("请先选择要分享的片段。");
+  function scaled(value, scale, fallback) {
+    return Math.round(parsePx(value, fallback) * scale);
+  }
+
+  function canvasFont(style, scale, options) {
+    var opts = options || {};
+    var fontStyle = opts.fontStyle || style.fontStyle || "normal";
+    var fontWeight = opts.fontWeight || style.fontWeight || "400";
+    var fontSize = Math.round((opts.fontSize || parsePx(style.fontSize, 17)) * scale * 100) / 100;
+    var family = opts.fontFamily || style.fontFamily || "serif";
+    return fontStyle + " " + fontWeight + " " + fontSize + "px " + family;
+  }
+
+  function lineHeight(style, scale, fallbackMultiplier) {
+    var fontSize = parsePx(style.fontSize, 17);
+    var fallback = fontSize * (fallbackMultiplier || 1.85);
+    return Math.round(parsePx(style.lineHeight, fallback) * scale);
+  }
+
+  function textStyleFromElement(element, scale, options) {
+    var style = getComputedStyle(element || document.body);
+    var opts = options || {};
+    return {
+      font: canvasFont(style, scale, opts),
+      color: opts.color || style.color,
+      lineHeight: opts.lineHeight || lineHeight(style, scale, opts.fallbackLineHeight),
+      paragraphGap: opts.paragraphGap || Math.max(8, scaled(style.marginBottom, scale, 10) * 0.7),
+      textIndent: opts.textIndent === undefined ? scaled(style.textIndent, scale, 0) : opts.textIndent,
+    };
+  }
+
+  function fallbackElement(selector, fallback) {
+    return document.querySelector(selector) || fallback || document.body;
+  }
+
+  function readShareStyles() {
+    var root = document.documentElement;
+    var rootStyle = getComputedStyle(root);
+    var main = fallbackElement(".content main", document.body);
+    var mainStyle = getComputedStyle(main);
+    var mainWidth = Math.min(parsePx(mainStyle.maxWidth, 720), main.getBoundingClientRect().width || 720);
+    var width = 1080;
+    var height = 1440;
+    var padding = 72;
+    var innerWidth = width - padding * 2;
+    var styleScale = Math.max(1.18, Math.min(1.34, innerWidth / Math.max(680, mainWidth || 720)));
+    var paragraph = fallbackElement(".translation-block p", fallbackElement(".content main p", main));
+    var paragraphStyle = getComputedStyle(paragraph);
+    var monoFamily = rootStyle.getPropertyValue("--mono-font").trim() || "Menlo, Consolas, monospace";
+    var sansFamily = cssValue(rootStyle, "--lacan-elegant-sans", '"PingFang SC", sans-serif');
+    var serifFamily = mainStyle.fontFamily || cssValue(rootStyle, "--lacan-elegant-serif", '"Songti SC", serif');
+    var fg = cssValue(rootStyle, "--fg", paragraphStyle.color || "#333333");
+    var border = cssValue(rootStyle, "--table-border-color", "#e5e5e5");
+    var bg = cssValue(rootStyle, "--bg", "#ffffff");
+    var muted = cssValue(rootStyle, "--icons", "#777777");
+    var accent = cssValue(rootStyle, "--lacan-original-accent", cssValue(rootStyle, "--links", "#8b7355"));
+    var note = fallbackElement(".note-block:not(.original-notes)", main);
+    var noteStyle = getComputedStyle(note);
+    var commentary = fallbackElement(".commentary-block", main);
+    var commentaryStyle = getComputedStyle(commentary);
+    var original = fallbackElement(".original-block", main);
+    var originalStyle = getComputedStyle(original);
+    var originalText = fallbackElement(".original-paragraph", original);
+    var summary = fallbackElement(".original-block summary", original);
+
+    function blockFrame(elementStyle, labelColor, textElement, labelElement) {
+      return {
+        background: elementStyle.backgroundColor || "transparent",
+        borderColor: elementStyle.borderLeftColor || border,
+        borderWidth: Math.max(2, scaled(elementStyle.borderLeftWidth, styleScale, 3)),
+        radius: Math.max(0, scaled(elementStyle.borderRadius, styleScale, 6)),
+        paddingX: Math.max(18, scaled(elementStyle.paddingLeft, styleScale, 16)),
+        paddingY: Math.max(16, scaled(elementStyle.paddingTop, styleScale, 12)),
+        labelGap: Math.round(8 * styleScale),
+        marginBottom: Math.round(18 * styleScale),
+        label: textStyleFromElement(labelElement || textElement, styleScale, {
+          color: labelColor,
+          fontFamily: monoFamily,
+          fontSize: 12,
+          fontWeight: "500",
+          lineHeight: Math.round(18 * styleScale),
+          textIndent: 0,
+        }),
+        text: textStyleFromElement(textElement, styleScale, { textIndent: scaled(paragraphStyle.textIndent, styleScale, 0) }),
+      };
     }
 
-    var targetUrl = snippets[0].url;
-    var qrMatrix = createQrMatrix(targetUrl);
-    var scale = 2;
-    var width = 1080;
-    var padding = 64;
-    var innerWidth = width - padding * 2;
-    var measureCanvas = document.createElement("canvas");
-    var measureCtx = measureCanvas.getContext("2d");
-    var ops = [];
-    var y = padding;
-    var fontSans = '"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",Arial,sans-serif';
-    var fontSerif = '"Noto Serif CJK SC","Songti SC","SimSun",serif';
-    var fontMono = 'Menlo,Consolas,"Liberation Mono",monospace';
+    return {
+      canvasScale: 2,
+      width: width,
+      height: height,
+      padding: padding,
+      innerWidth: innerWidth,
+      contentTop: 158,
+      contentBottom: 1194,
+      footerY: 1248,
+      qrSize: 130,
+      bg: bg,
+      fg: fg,
+      muted: muted,
+      border: border,
+      accent: accent,
+      surface: cssValue(rootStyle, "--lacan-elegant-surface", cssValue(rootStyle, "--theme-popup-bg", bg)),
+      header: {
+        titleFont: "normal 400 " + Math.round(26 * styleScale) + "px " + serifFamily,
+        metaFont: "normal 400 " + Math.round(13 * styleScale) + "px " + monoFamily,
+        titleColor: fg,
+        metaColor: muted,
+      },
+      paragraphId: textStyleFromElement(fallbackElement(".paragraph-id", main), styleScale, {
+        color: accent,
+        fontFamily: monoFamily,
+        fontSize: 13,
+        lineHeight: Math.round(21 * styleScale),
+        textIndent: 0,
+      }),
+      translation: textStyleFromElement(paragraph, styleScale, {
+        fontFamily: serifFamily,
+        color: paragraphStyle.color || fg,
+        textIndent: scaled(paragraphStyle.textIndent, styleScale, 0),
+      }),
+      placeholder: textStyleFromElement(paragraph, styleScale, {
+        color: muted,
+        fontFamily: serifFamily,
+        textIndent: 0,
+      }),
+      blocks: {
+        original: blockFrame(originalStyle, originalStyle.borderLeftColor || accent, originalText, summary),
+        note: blockFrame(noteStyle, noteStyle.borderLeftColor || border, fallbackElement(".note-block p", note), note),
+        commentary: blockFrame(commentaryStyle, commentaryStyle.borderLeftColor || cssValue(rootStyle, "--lacan-commentary-accent", accent), fallbackElement(".commentary-block p", commentary), commentary),
+      },
+    };
+  }
 
-    y = addTextOp(measureCtx, ops, padding, y, innerWidth, "拉康中文开放翻译计划", {
-      font: "700 30px " + fontSans,
-      color: "#1f2933",
-      lineHeight: 42,
+  function splitParagraphs(text) {
+    return normalizeText(text).split(/\n{2,}/).filter(function (paragraph) {
+      return paragraph.trim();
     });
-    y += 4;
-    y = addTextOp(measureCtx, ops, padding, y, innerWidth, "片段分享", {
-      font: "18px " + fontSans,
-      color: "#5d6673",
-      lineHeight: 28,
-    });
-    y += 30;
+  }
 
-    snippets.forEach(function (snippet, index) {
+  function wrapParagraph(ctx, paragraph, maxWidth, firstLineIndent) {
+    var lines = [];
+    var line = "";
+    var indent = firstLineIndent || 0;
+    var chars = paragraph.split("");
+
+    chars.forEach(function (char) {
+      var next = line + char;
+      var available = maxWidth - indent;
+      if (line && ctx.measureText(next).width > available) {
+        lines.push({ text: line.replace(/\s+$/g, ""), indent: indent });
+        line = char.replace(/^\s+/g, "");
+        indent = 0;
+      } else {
+        line = next;
+      }
+    });
+
+    if (line) {
+      lines.push({ text: line.replace(/\s+$/g, ""), indent: indent });
+    }
+
+    return lines;
+  }
+
+  function buildTextFlow(ctx, text, maxWidth, style) {
+    var paragraphs = splitParagraphs(text);
+    var flow = [];
+    ctx.font = style.font;
+
+    paragraphs.forEach(function (paragraph, index) {
       if (index > 0) {
-        ops.push({ type: "rule", x: padding, y: y, width: innerWidth });
-        y += 28;
+        flow.push({ type: "space", height: style.paragraphGap });
+      }
+      Array.prototype.push.apply(flow, wrapParagraph(ctx, paragraph, maxWidth, style.textIndent || 0));
+    });
+
+    return flow;
+  }
+
+  function newSharePage(styles, snippet) {
+    return {
+      ops: [],
+      y: styles.contentTop,
+      url: snippet ? snippet.url : "",
+      ids: snippet ? snippet.ids.slice() : [],
+    };
+  }
+
+  function includeSnippet(page, snippet) {
+    if (!page.url) {
+      page.url = snippet.url;
+    }
+    snippet.ids.forEach(function (id) {
+      if (page.ids.indexOf(id) === -1) {
+        page.ids.push(id);
+      }
+    });
+  }
+
+  function ensureSpace(pages, page, styles, height, snippet) {
+    if (page.y + height <= styles.contentBottom || page.y <= styles.contentTop + 1) {
+      includeSnippet(page, snippet);
+      return page;
+    }
+    page = newSharePage(styles, snippet);
+    pages.push(page);
+    return page;
+  }
+
+  function addShareText(page, x, text, style) {
+    page.ops.push({
+      type: "text",
+      x: x,
+      y: page.y,
+      text: text,
+      font: style.font,
+      color: style.color,
+    });
+    page.y += style.lineHeight;
+  }
+
+  function addFlowText(ctx, pages, page, styles, snippet, text, style, options) {
+    var opts = options || {};
+    var x = opts.x === undefined ? styles.padding : opts.x;
+    var maxWidth = opts.maxWidth || styles.innerWidth;
+    var flow = buildTextFlow(ctx, text, maxWidth, style);
+
+    flow.forEach(function (item) {
+      var height = item.type === "space" ? item.height : style.lineHeight;
+      page = ensureSpace(pages, page, styles, height, snippet);
+      if (item.type === "space") {
+        page.y += height;
+        return;
+      }
+      addShareText(page, x + (item.indent || 0), item.text, style);
+    });
+
+    return page;
+  }
+
+  function addRule(pages, page, styles, snippet) {
+    page = ensureSpace(pages, page, styles, 34, snippet);
+    page.ops.push({
+      type: "rule",
+      x: styles.padding,
+      y: page.y,
+      width: styles.innerWidth,
+      color: styles.border,
+    });
+    page.y += 32;
+    return page;
+  }
+
+  function openFrame(page, styles, blockStyle) {
+    var frame = {
+      type: "frame",
+      x: styles.padding,
+      y: page.y,
+      width: styles.innerWidth,
+      height: 0,
+      fill: blockStyle.background,
+      border: blockStyle.borderColor,
+      borderWidth: blockStyle.borderWidth,
+      radius: blockStyle.radius,
+    };
+    page.ops.push(frame);
+    page.y += blockStyle.paddingY;
+    return frame;
+  }
+
+  function closeFrame(page, frame, blockStyle) {
+    page.y += blockStyle.paddingY;
+    frame.height = page.y - frame.y;
+    page.y += blockStyle.marginBottom;
+  }
+
+  function addFramedBlock(ctx, pages, page, styles, snippet, block) {
+    var blockStyle = styles.blocks[block.kind] || styles.blocks.note;
+    var textX = styles.padding + blockStyle.paddingX;
+    var textWidth = styles.innerWidth - blockStyle.paddingX * 2;
+    var minimumHeight = blockStyle.paddingY * 2 + blockStyle.label.lineHeight + blockStyle.labelGap + blockStyle.text.lineHeight;
+    var continuation = false;
+    var frame;
+
+    function begin() {
+      page = ensureSpace(pages, page, styles, minimumHeight, snippet);
+      frame = openFrame(page, styles, blockStyle);
+      addShareText(page, textX, continuation ? block.label + "（续）" : block.label, blockStyle.label);
+      page.y += blockStyle.labelGap;
+      continuation = true;
+    }
+
+    begin();
+    buildTextFlow(ctx, block.text, textWidth, blockStyle.text).forEach(function (item) {
+      var height = item.type === "space" ? item.height : blockStyle.text.lineHeight;
+      if (page.y + height + blockStyle.paddingY > styles.contentBottom &&
+          page.y > frame.y + blockStyle.paddingY + blockStyle.label.lineHeight + blockStyle.labelGap) {
+        closeFrame(page, frame, blockStyle);
+        page = newSharePage(styles, snippet);
+        pages.push(page);
+        begin();
       }
 
-      y = addTextOp(measureCtx, ops, padding, y, innerWidth, snippet.ids.join(", "), {
-        font: "700 22px " + fontMono,
-        color: "#2f6975",
-        lineHeight: 34,
-      });
-      y += 10;
-
-      if (!snippet.blocks.length) {
-        y = addTextOp(measureCtx, ops, padding, y, innerWidth, "当前片段没有可导出的文本。", {
-          font: "24px " + fontSerif,
-          color: "#4a4f57",
-          lineHeight: 40,
-        });
-        y += 18;
+      if (item.type === "space") {
+        page.y += height;
         return;
       }
 
-      snippet.blocks.forEach(function (block) {
-        y = addTextOp(measureCtx, ops, padding, y, innerWidth, block.label, {
-          font: "700 19px " + fontSans,
-          color: "#9c6b1f",
-          lineHeight: 30,
-        });
-        y = addTextOp(measureCtx, ops, padding, y + 4, innerWidth, block.text, {
-          font: "24px " + fontSerif,
-          color: "#263238",
-          lineHeight: 40,
-        });
-        y += 18;
+      page.ops.push({
+        type: "text",
+        x: textX + (item.indent || 0),
+        y: page.y,
+        text: item.text,
+        font: blockStyle.text.font,
+        color: blockStyle.text.color,
       });
+      page.y += blockStyle.text.lineHeight;
     });
 
-    var qrSize = 174;
-    var footerY = y + 20;
-    var footerTextWidth = innerWidth - qrSize - 30;
-    var footerTextY = footerY + 8;
-    var footerLabel = snippets.length > 1 ? "扫码定位首段" : "扫码定位该段";
-    footerTextY = addTextOp(measureCtx, ops, padding, footerTextY, footerTextWidth, footerLabel, {
-      font: "700 20px " + fontSans,
-      color: "#1f2933",
-      lineHeight: 30,
-    });
-    addTextOp(measureCtx, ops, padding, footerTextY + 6, footerTextWidth, targetUrl, {
-      font: "17px " + fontMono,
-      color: "#5d6673",
-      lineHeight: 27,
+    closeFrame(page, frame, blockStyle);
+    return page;
+  }
+
+  function addSnippetToPages(ctx, pages, page, styles, snippet, index) {
+    if (index > 0) {
+      page = addRule(pages, page, styles, snippet);
+    }
+
+    page = ensureSpace(pages, page, styles, styles.paragraphId.lineHeight + 18, snippet);
+    addShareText(page, styles.padding, snippet.ids.join(", "), styles.paragraphId);
+    page.y += 12;
+
+    if (!snippet.blocks.length) {
+      page = addFlowText(ctx, pages, page, styles, snippet, "当前片段没有可导出的文本。", styles.placeholder);
+      page.y += 20;
+      return page;
+    }
+
+    snippet.blocks.forEach(function (block) {
+      if (block.kind === "translation") {
+        page = addFlowText(ctx, pages, page, styles, snippet, block.text, styles.translation);
+        page.y += 24;
+      } else {
+        page = addFramedBlock(ctx, pages, page, styles, snippet, block);
+      }
     });
 
-    var height = Math.ceil(Math.max(footerY + qrSize, footerTextY + 70) + padding);
+    return page;
+  }
+
+  function drawRoundedRect(ctx, x, y, width, height, radius) {
+    var r = Math.min(radius, width / 2, height / 2);
+    if (ctx.roundRect) {
+      ctx.roundRect(x, y, width, height, r);
+      return;
+    }
+    ctx.moveTo(x + r, y);
+    ctx.lineTo(x + width - r, y);
+    ctx.quadraticCurveTo(x + width, y, x + width, y + r);
+    ctx.lineTo(x + width, y + height - r);
+    ctx.quadraticCurveTo(x + width, y + height, x + width - r, y + height);
+    ctx.lineTo(x + r, y + height);
+    ctx.quadraticCurveTo(x, y + height, x, y + height - r);
+    ctx.lineTo(x, y + r);
+    ctx.quadraticCurveTo(x, y, x + r, y);
+  }
+
+  function drawShareHeader(ctx, styles, pageIndex, pageCount) {
+    ctx.font = styles.header.titleFont;
+    ctx.fillStyle = styles.header.titleColor;
+    ctx.textAlign = "center";
+    ctx.fillText("拉康中文开放翻译计划", styles.width / 2, 58);
+    ctx.font = styles.header.metaFont;
+    ctx.fillStyle = styles.header.metaColor;
+    ctx.fillText("片段分享 · " + (pageIndex + 1) + " / " + pageCount, styles.width / 2, 104);
+    ctx.strokeStyle = styles.border;
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(styles.padding, 136.5);
+    ctx.lineTo(styles.padding + styles.innerWidth, 136.5);
+    ctx.stroke();
+    ctx.textAlign = "left";
+  }
+
+  function drawShareFooter(ctx, styles, page) {
+    var qrSize = styles.qrSize;
+    var qrX = styles.padding + styles.innerWidth - qrSize;
+    var labelWidth = styles.innerWidth - qrSize - 28;
+    var url = page.url || window.location.href;
+    var ids = page.ids.length > 3 ? page.ids.slice(0, 3).join(", ") + " ..." : page.ids.join(", ");
+    var footerLabel = "扫码定位：" + (ids || "当前片段");
+    var footerFont = styles.header.metaFont;
+
+    ctx.strokeStyle = styles.border;
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(styles.padding, styles.footerY - 26.5);
+    ctx.lineTo(styles.padding + styles.innerWidth, styles.footerY - 26.5);
+    ctx.stroke();
+
+    ctx.font = footerFont;
+    ctx.fillStyle = styles.fg;
+    ctx.fillText(footerLabel, styles.padding, styles.footerY + 10);
+    ctx.fillStyle = styles.muted;
+    wrapParagraph(ctx, url, labelWidth, 0).slice(0, 3).forEach(function (line, index) {
+      ctx.fillText(line.text, styles.padding, styles.footerY + 42 + index * 24);
+    });
+
+    drawQr(ctx, createQrMatrix(url), qrX, styles.footerY, qrSize, { borderColor: styles.border });
+  }
+
+  function renderSharePage(page, styles, pageIndex, pageCount) {
     var canvas = document.createElement("canvas");
-    canvas.width = width * scale;
-    canvas.height = height * scale;
+    canvas.width = styles.width * styles.canvasScale;
+    canvas.height = styles.height * styles.canvasScale;
 
     var ctx = canvas.getContext("2d");
-    ctx.scale(scale, scale);
+    ctx.scale(styles.canvasScale, styles.canvasScale);
     ctx.textBaseline = "top";
-    ctx.fillStyle = "#fbf8f1";
-    ctx.fillRect(0, 0, width, height);
-    ctx.fillStyle = "#ffffff";
-    ctx.fillRect(34, 34, width - 68, height - 68);
-    ctx.strokeStyle = "#ded6c8";
-    ctx.lineWidth = 1;
-    ctx.strokeRect(34.5, 34.5, width - 69, height - 69);
+    ctx.fillStyle = styles.bg;
+    ctx.fillRect(0, 0, styles.width, styles.height);
+    drawShareHeader(ctx, styles, pageIndex, pageCount);
 
-    ops.forEach(function (op) {
+    page.ops.forEach(function (op) {
+      if (op.type === "frame") {
+        ctx.beginPath();
+        drawRoundedRect(ctx, op.x, op.y, op.width, op.height, op.radius);
+        ctx.fillStyle = op.fill;
+        ctx.fill();
+        ctx.strokeStyle = styles.border;
+        ctx.lineWidth = 1;
+        ctx.stroke();
+        ctx.fillStyle = op.border;
+        ctx.fillRect(op.x, op.y, op.borderWidth, op.height);
+        return;
+      }
+
       if (op.type === "rule") {
-        ctx.strokeStyle = "#ded6c8";
+        ctx.strokeStyle = op.color;
         ctx.lineWidth = 1;
         ctx.beginPath();
         ctx.moveTo(op.x, op.y + 0.5);
@@ -637,21 +941,168 @@
 
       ctx.font = op.font;
       ctx.fillStyle = op.color;
-      op.lines.forEach(function (line, lineIndex) {
-        if (line) {
-          ctx.fillText(line, op.x, op.y + lineIndex * op.lineHeight);
-        }
-      });
+      ctx.fillText(op.text, op.x, op.y);
     });
 
-    ctx.strokeStyle = "#ded6c8";
-    ctx.beginPath();
-    ctx.moveTo(padding, footerY - 20.5);
-    ctx.lineTo(padding + innerWidth, footerY - 20.5);
-    ctx.stroke();
-
-    drawQr(ctx, qrMatrix, padding + innerWidth - qrSize, footerY, qrSize);
+    drawShareFooter(ctx, styles, page);
     return canvas;
+  }
+
+  function createShareCanvases(snippets) {
+    if (!snippets.length) {
+      throw new Error("请先选择要分享的片段。");
+    }
+
+    var styles = readShareStyles();
+    var measureCanvas = document.createElement("canvas");
+    var measureCtx = measureCanvas.getContext("2d");
+    var pages = [newSharePage(styles, snippets[0])];
+    var page = pages[0];
+
+    snippets.forEach(function (snippet, index) {
+      page = addSnippetToPages(measureCtx, pages, page, styles, snippet, index);
+    });
+
+    return pages.map(function (sharePage, index) {
+      return renderSharePage(sharePage, styles, index, pages.length);
+    });
+  }
+
+  function canvasToBlob(canvas) {
+    return new Promise(function (resolve, reject) {
+      canvas.toBlob(function (blob) {
+        if (blob) {
+          resolve(blob);
+        } else {
+          reject(new Error("无法生成图片文件。"));
+        }
+      }, "image/png");
+    });
+  }
+
+  function downloadBlob(blob, filename) {
+    var link = document.createElement("a");
+    var url = URL.createObjectURL(blob);
+    link.download = filename;
+    link.href = url;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    window.setTimeout(function () {
+      URL.revokeObjectURL(url);
+    }, 1000);
+  }
+
+  function makeCrcTable() {
+    var table = [];
+    for (var n = 0; n < 256; n += 1) {
+      var c = n;
+      for (var k = 0; k < 8; k += 1) {
+        c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
+      }
+      table[n] = c >>> 0;
+    }
+    return table;
+  }
+
+  var crcTable = null;
+
+  function crc32(bytes) {
+    if (!crcTable) {
+      crcTable = makeCrcTable();
+    }
+    var crc = 0xffffffff;
+    for (var i = 0; i < bytes.length; i += 1) {
+      crc = crcTable[(crc ^ bytes[i]) & 0xff] ^ (crc >>> 8);
+    }
+    return (crc ^ 0xffffffff) >>> 0;
+  }
+
+  function writeZipHeader(length) {
+    return {
+      bytes: new Uint8Array(length),
+      view: null,
+    };
+  }
+
+  function dosDateTime(date) {
+    var year = Math.max(1980, date.getFullYear());
+    var dosTime = (date.getHours() << 11) | (date.getMinutes() << 5) | Math.floor(date.getSeconds() / 2);
+    var dosDate = ((year - 1980) << 9) | ((date.getMonth() + 1) << 5) | date.getDate();
+    return { time: dosTime, date: dosDate };
+  }
+
+  function makeZipBlob(entries) {
+    var encoder = new TextEncoder();
+    var now = dosDateTime(new Date());
+
+    return Promise.all(entries.map(function (entry) {
+      return entry.blob.arrayBuffer().then(function (buffer) {
+        var data = new Uint8Array(buffer);
+        return {
+          name: entry.name,
+          nameBytes: encoder.encode(entry.name),
+          data: data,
+          crc: crc32(data),
+        };
+      });
+    })).then(function (files) {
+      var parts = [];
+      var central = [];
+      var offset = 0;
+
+      files.forEach(function (file) {
+        var local = writeZipHeader(30 + file.nameBytes.length);
+        local.view = new DataView(local.bytes.buffer);
+        local.view.setUint32(0, 0x04034b50, true);
+        local.view.setUint16(4, 20, true);
+        local.view.setUint16(6, 0x0800, true);
+        local.view.setUint16(8, 0, true);
+        local.view.setUint16(10, now.time, true);
+        local.view.setUint16(12, now.date, true);
+        local.view.setUint32(14, file.crc, true);
+        local.view.setUint32(18, file.data.length, true);
+        local.view.setUint32(22, file.data.length, true);
+        local.view.setUint16(26, file.nameBytes.length, true);
+        local.bytes.set(file.nameBytes, 30);
+        parts.push(local.bytes, file.data);
+
+        var centralHeader = writeZipHeader(46 + file.nameBytes.length);
+        centralHeader.view = new DataView(centralHeader.bytes.buffer);
+        centralHeader.view.setUint32(0, 0x02014b50, true);
+        centralHeader.view.setUint16(4, 20, true);
+        centralHeader.view.setUint16(6, 20, true);
+        centralHeader.view.setUint16(8, 0x0800, true);
+        centralHeader.view.setUint16(10, 0, true);
+        centralHeader.view.setUint16(12, now.time, true);
+        centralHeader.view.setUint16(14, now.date, true);
+        centralHeader.view.setUint32(16, file.crc, true);
+        centralHeader.view.setUint32(20, file.data.length, true);
+        centralHeader.view.setUint32(24, file.data.length, true);
+        centralHeader.view.setUint16(28, file.nameBytes.length, true);
+        centralHeader.view.setUint32(42, offset, true);
+        centralHeader.bytes.set(file.nameBytes, 46);
+        central.push(centralHeader.bytes);
+        offset += local.bytes.length + file.data.length;
+      });
+
+      var centralOffset = offset;
+      central.forEach(function (part) {
+        parts.push(part);
+        offset += part.length;
+      });
+
+      var end = writeZipHeader(22);
+      end.view = new DataView(end.bytes.buffer);
+      end.view.setUint32(0, 0x06054b50, true);
+      end.view.setUint16(8, files.length, true);
+      end.view.setUint16(10, files.length, true);
+      end.view.setUint32(12, offset - centralOffset, true);
+      end.view.setUint32(16, centralOffset, true);
+      parts.push(end.bytes);
+
+      return new Blob(parts, { type: "application/zip" });
+    });
   }
 
   function saveSelectedParagraphs() {
@@ -661,16 +1112,28 @@
     }
 
     var snippets = sections.map(collectSnippet);
-    var canvas = createShareCanvas(snippets);
+    var canvases = createShareCanvases(snippets);
     var ids = snippets.map(function (snippet) {
       return snippet.anchor;
     }).join("-");
-    var link = document.createElement("a");
-    link.download = "lacan-" + safeFilename(ids) + ".png";
-    link.href = canvas.toDataURL("image/png");
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
+    var basename = "lacan-" + safeFilename(ids);
+
+    if (canvases.length === 1) {
+      return canvasToBlob(canvases[0]).then(function (blob) {
+        downloadBlob(blob, basename + ".png");
+      });
+    }
+
+    return Promise.all(canvases.map(function (canvas, index) {
+      return canvasToBlob(canvas).then(function (blob) {
+        return {
+          name: basename + "-" + String(index + 1).padStart(2, "0") + ".png",
+          blob: blob,
+        };
+      });
+    })).then(makeZipBlob).then(function (blob) {
+      downloadBlob(blob, basename + ".zip");
+    });
   }
 
   function initGf() {
@@ -1140,7 +1603,8 @@
     return best.modules;
   }
 
-  function drawQr(ctx, matrix, x, y, size) {
+  function drawQr(ctx, matrix, x, y, size, options) {
+    var opts = options || {};
     var quiet = 4;
     var count = matrix.length;
     var moduleSize = size / (count + quiet * 2);
@@ -1162,7 +1626,7 @@
       }
     }
 
-    ctx.strokeStyle = "#ded6c8";
+    ctx.strokeStyle = opts.borderColor || "#ded6c8";
     ctx.strokeRect(x + 0.5, y + 0.5, size - 1, size - 1);
   }
 
