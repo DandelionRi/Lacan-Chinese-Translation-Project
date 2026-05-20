@@ -1,7 +1,7 @@
 ---
-translation_progress: 23.96
-translation_progress_label: 23.96%
-untranslated_count: 73
+translation_progress: 25
+translation_progress_label: 25.00%
+untranslated_count: 72
 max_segment_id: 96
 ---
 # Leçon 07 | 11 Janvier 1961
