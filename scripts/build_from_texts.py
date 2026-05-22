@@ -640,7 +640,7 @@ def render_controls() -> list[str]:
         '  <div class="lacan-toggle-group" aria-label="显示选项">',
         '    <label><input type="checkbox" data-lacan-toggle="original" checked> 原文</label>',
         '    <label><input type="checkbox" data-lacan-toggle="notes" checked> 注释</label>',
-        '    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 个人解读评论</label>',
+        '    <label><input type="checkbox" data-lacan-toggle="commentary" checked> 建言</label>',
         "  </div>",
         '  <form class="lacan-tool-search" role="search">',
         '    <input class="lacan-tool-search-input" type="search" placeholder="搜索全文" aria-label="搜索全文">',

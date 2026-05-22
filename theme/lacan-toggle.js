@@ -450,7 +450,7 @@
     if (!document.documentElement.classList.contains("hide-commentary")) {
       var commentary = collectTexts(section, ".commentary-block");
       if (commentary) {
-        snippet.blocks.push({ kind: "commentary", label: "个人解读", text: commentary });
+        snippet.blocks.push({ kind: "commentary", label: "建言", text: commentary });
       }
     }
 

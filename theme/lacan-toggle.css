@@ -277,7 +277,7 @@ html.lacan-share-mode .parallel-paragraph {
 }
 
 .commentary-block::before {
-  content: "个人解读";
+  content: "建言";
   border-color: rgba(156, 107, 31, 0.35);
   color: var(--lacan-commentary-accent);
 }
