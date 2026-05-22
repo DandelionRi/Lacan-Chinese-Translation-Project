@@ -345,6 +345,10 @@ body {
 .content main .note-block > blockquote,
 .content main .commentary-block > blockquote {
   max-width: none;
+  margin: 0;
+  padding: 0;
+  border-left: 0;
+  background: transparent;
 }
 
 .content main .footnote-definition p,
