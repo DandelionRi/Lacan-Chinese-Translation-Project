@@ -604,3 +604,21 @@ $[1/n=n^{-1},\; n^1\cdot n^{-1}=n^0=1]$
 > – 这个“一”，是这样的“一”：无论存在着怎样的差异，一切差异都等值——只有一种差异：差异本身。
 
 > 这就是我今晚想用以结束这番话的东西——此外，时间与我的疲惫也顺带地催促我收束。至于我如何在我放入“分析话语”的那条规定性公式中的 S1 之功能来作出说明，我将在接下来的几次课里给出。
+
+<!-- id: s19b-06-0100 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image28.jpeg){width="1.3756977252843394in" height="0.7653674540682415in"} ![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
+
+<!-- id: s19b-06-0166 -->
+![](assets/image29.png){width="1.3596489501312337in" height="0.9366568241469816in"}
+
+<!-- id: s19b-06-0293 -->
+![33a](assets/image32.jpeg){width="0.2757228783902012in" height="0.7668536745406824in"} ![34a](assets/image33.jpeg){width="1.0097965879265092in" height="0.799057305336833in"}
+
+<!-- id: s19b-06-0298 -->
+![32a](assets/image34.jpeg){width="0.2544717847769029in" height="0.6989490376202975in"} ![31a](assets/image35.jpeg){width="0.8166666666666667in" height="0.6962817147856518in"}
+
+<!-- id: s19b-06-0306 -->
+![35a](assets/image36.jpeg){width="1.4624989063867018in" height="1.121917104111986in"}
+
+<!-- id: s19b-06-0338 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image8.jpeg){width="1.1455643044619424in" height="0.7341590113735783in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\L\'étourdit\\23a.jpg](assets/image37.jpeg){width="1.179825021872266in" height="0.2664851268591426in"}

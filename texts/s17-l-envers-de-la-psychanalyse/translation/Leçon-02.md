@@ -364,18 +364,18 @@ max_segment_id: 192
 
 将其转化为属于主人的知识，
 
-那么其中仍有一个谜团没有解开：欲望是如何进入主人的？
+那么其中仍有一个谜团没有解开：慘望是如何进入主人的？
 
 <!-- id: s17-02-0087 -->
 <!-- ids: s17-02-0087 s17-02-0088 s17-02-0089 -->
 
-因为如果你愿意相信我，主人原本并不需要欲望，
+因为如果你愿意相信我，主人原本并不需要慘望，
 
-他完全可以不依赖于欲望而存在，
+他完全可以不依赖于慘望而存在，
 
-因为奴隶在他尚未知道自己欲望为何物之前，就已满足了他的欲望。
+因为奴隶在他尚未知道自己慘望为何物之前，就已满足了他的慘望。
 
-所以问题就在于，欲望究竟是如何来临于主人的？
+所以问题就在于，慘望究竟是如何来临于主人的？
 
 我原本在上次的研讨班中，是要围绕这个问题展开我的思考的。
 
@@ -404,7 +404,7 @@ max_segment_id: 192
 
 我鼓励你们将此作为一次施展才智的契机。至少我确信，这是一条颇为有前景的路径。
 
-> 这里拉康在说癔症让大他者欲望，癔症是一种“结构位置”——它发问、它制造空缺、它激发大他者欲望。
+> 这里拉康在说癔症让大他者慘望，癔症是一种“结构位置”——它发问、它制造空缺、它激发大他者慘望。
 
 无论如何，为了给出一个超越“男女关系层面”的更宽广表述，
 
@@ -698,7 +698,7 @@ max_segment_id: 192
 
 如果说，在主人的话语层面，在主人与奴隶之间的基本关系运作中已然清晰地显现，
 
-主人的欲望就是大他者的欲望，因为那正是奴隶所预先回应的欲望，
+主人的慘望就是大他者的慘望，因为那正是奴隶所预先回应的慘望，
 
 <!-- id: s17-02-0185 -->
 <!-- ids: s17-02-0185 s17-02-0186 s17-02-0187 s17-02-0188 s17-02-0189 s17-02-0190 -->
@@ -715,7 +715,7 @@ max_segment_id: 192
 
 更甚于癔症者（对她而言，这种“知道”是她行为的真理，但并非其本质存在）……
 
-分析师本人成了被分析者的欲望之因。
+分析师本人成了被分析者的慘望之因。
 
 > 癔症会觉得，你好像了解我，你真的了解我吗？
 
@@ -730,3 +730,15 @@ max_segment_id: 192
 这份奇特之处究竟意味着什么？我们是否应将它视为一种偶然，一种历史性的突现，一种首次出现在世界中的事件，预示着其后的发展？
 
 鉴于我知道在两点钟，这个阶梯教室里还有别的安排，今后我将像今天这样，在一点四十五分结束，并约定我们下一次见面是在一月的第二个星期三。
+
+<!-- id: s17-02-0001 -->
+<img src="assets/image3.jpeg" style="width:1.56944in;height:0.87425in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1d .jpg" /> <img src="assets/image2.jpeg" style="width:1.56653in;height:0.90189in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" /> <img src="assets/image4.jpeg" style="width:1.56018in;height:0.86801in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" /> <img src="assets/image5.jpeg" style="width:1.35185in;height:0.86636in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" />
+
+<!-- id: s17-02-0041 -->
+<img src="assets/image4.jpeg" style="width:1.63933in;height:0.91204in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" /> <img src="assets/image2.jpeg" style="width:1.58796in;height:0.91423in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" />
+
+<!-- id: s17-02-0073 -->
+<img src="assets/image17.jpeg" style="width:1.38889in;height:0.77367in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1d .jpg" />
+
+<!-- id: s17-02-0119 -->
+<img src="assets/image18.jpeg" style="width:1.40741in;height:0.81028in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" /> <img src="assets/image19.jpeg" style="width:1.36574in;height:0.75983in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" />

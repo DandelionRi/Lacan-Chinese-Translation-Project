@@ -1,14 +1,40 @@
+# OS
 .DS_Store
-.cache/
-book/
-bin/
-build/
-build.bk/
-pdf/
-reports/
+Thumbs.db
+
+# IDE / Editor
 .obsidian/*
 !.obsidian/plugins/
 .obsidian/plugins/*
 !.obsidian/plugins/lacan-translation-helper/
 !.obsidian/plugins/lacan-translation-helper/**
 .obsidian/plugins/lacan-translation-helper/data.json
+
+# Python
+scripts/__pycache__/
+temp_tasks/__pycache__/
+*.pyc
+
+# Build output (regeneratable from texts/)
+book/
+
+# Old build directories
+build/
+build.bk/
+pdf/
+
+# Cache
+.cache/
+
+# Review reports
+texts/reviews/
+texts/*/review/
+reports/
+
+# Project memory (workspace state, not content)
+memory.md
+
+# Asset source / generated
+bin/
+texts/_orig_paragraphs.json
+texts/*/verify_*.py
