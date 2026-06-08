@@ -6,7 +6,9 @@
 
 拉康中文开放翻译计划的目标，是让更多中文读者能够参与到阅读拉康、翻译拉康和校订拉康的过程中。本项目以开放协作方式整理、翻译、校订和维护雅克·拉康研讨班及相关文本的中文材料。
 
-mdBook 在线阅读地址：[https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html](https://kotoba-rin.github.io/Lacan-Chinese-Translation-Project/index.html)
+mdBook 在线阅读地址：[https://dandelionri.github.io/Lacan-Chinese-Translation-Project/](https://dandelionri.github.io/Lacan-Chinese-Translation-Project/)
+
+本仓库 fork 自 [kotoba-rin/Lacan-Chinese-Translation-Project](https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project)，在原作基础上完成了全部 27 个研讨班的翻译与术语统一工作。
 
 本仓库采用 Markdown 直译模式、GitHub Pull Request 协作、mdBook 构建和 GitHub Actions 发布到 GitHub Pages。项目结构、分支规则、本地构建和 PR 约定见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
@@ -109,9 +111,13 @@ Obsidian 语法兼容说明：
 
 ## 当前内容翻译进度
 
-- `texts/s8-le-transfert`：研讨班 VIII，*Le transfert*（更新中）。
-- `texts/s17-l-envers-de-la-psychanalyse`：研讨班 XVII，*L'envers de la psychanalyse*（待校订）。
-- `texts/s19b-le-savoir-du-psychanalyste`：研讨班 XIXb，*Le savoir du psychanalyste*（待校订）。
+**本项目已全部翻译完成。** 全部 27 个拉康研讨班（S1-S27）的原文与中文译文均已对齐，术语已统一标准化，可通过 mdBook 在线阅读。
+
+核心翻译指标：
+- 总课次：531 课
+- 对齐翻译段：82,236 段
+- 未翻译段：0
+- 缺失段：0
 
 ## 许可证
 

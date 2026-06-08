@@ -31,8 +31,9 @@ texts/reviews/
 texts/*/review/
 reports/
 
-# Project memory (workspace state, not content)
+# Project memory / instructions (workspace state, not content)
 memory.md
+CLAUDE.md
 
 # Asset source / generated
 bin/
