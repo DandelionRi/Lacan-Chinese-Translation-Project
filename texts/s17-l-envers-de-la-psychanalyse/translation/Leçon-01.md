@@ -256,7 +256,7 @@ max_segment_id: 270
 > 拉康提醒听众：他所说的“a”不是经验对象，而是一个**结构性符号**，在一个能指代数系统中起作用。
 >
 >
-> 这是“语义去魅”：拉康的对象 a 是“欲望的剩余因”，不是可以感知的客体，而是话语中主体被吸引但永远得不到的点。
+> 这是“语义去魅”：拉康的对象 a 是“慘望的剩余因”，不是可以感知的对象，而是话语中主体被吸引但永远得不到的点。
 
 在这个能指结构的层面上，我们所要理解的，只是它如何运作。
 在这个能指结构的层面上，我们有自由去观察：如果我们以某种方式书写这些东西，
@@ -367,9 +367,9 @@ max_segment_id: 270
 <!-- id: s17-01-0077 -->
 <!-- ids: s17-01-0077 s17-01-0078 s17-01-0079 s17-01-0080 s17-01-0081 s17-01-0082 -->
 
-当然，我们并没有忽略指出这样一个起点：我们正是从那里提取出“丧失之客体”这一功能的——这个起点，正是弗洛伊德关于“说话之存在者”身上**重复这一特殊现象**的论述。
+当然，我们并没有忽略指出这样一个起点：我们正是从那里提取出“丧失之对象”这一功能的——这个起点，正是弗洛伊德关于“说话之存在者”身上**重复这一特殊现象**的论述。
 
-> 对象a，它驱动欲望，是话语产出路径上的“剩余产物”；
+> 对象a，它驱动慘望，是话语产出路径上的“剩余产物”；
 >
 >
 > 它与“损失”或“缺口”不可分割，是**话语导致享乐不可能完成的标志**。
@@ -390,7 +390,7 @@ max_segment_id: 270
 它只是在能指的介入之下，**作为一个场域**被唤现出来的东西。
 
 > - 享乐是语言系统中无法被完全编码、符号化的剩余；
-> - 它是语言结构的极限点，是话语无法穿透之处，同时又是欲望结构的盲点；
+> - 它是语言结构的极限点，是话语无法穿透之处，同时又是慘望结构的盲点；
 > - 主体与知识之间，总存在着一个越不过的“享乐边界”。
 >
 > ”知识是大他者的享乐”
@@ -663,16 +663,16 @@ max_segment_id: 270
 
 也正是在此过程中，有某种东西代表着一个**特定的“失落”（perte）**，——而理解这种丧失的**歧义性（ambiguïté）**，正是我们做出努力走向“意义”的原因所在。
 
-并非偶然，这个**相同的客体（objet）**，我曾在其他地方指出，它是分析中**整个“挫折的辩证法”得以组织的核心**；
+并非偶然，这个**相同的对象（objet）**，我曾在其他地方指出，它是分析中**整个“挫折的辩证法”得以组织的核心**；
 
-这个相同的客体，我在去年也称之为：**“剩余享乐”（*plus-de-jouir*）**。
+这个相同的对象，我在去年也称之为：**“剩余享乐”（*plus-de-jouir*）**。
 
 > 这意味着：**对象的丧失**，也就是**一个裂口（béance）**，一个被打开的洞，通向某种我们无从知晓的东西那是否是某种“享乐之缺”的表征（*représentation du manque à jouir*）？
 
 这个“缺失”属于**知识的进程（procès du savoir）中，但此处它具有一种全然不同的调性，
 那就是，它是被能指节奏化（scandé）之后的知识**。——它还是“同一个”东西吗？
 
-与享乐的关系，突然因为那一仍处于**潜在状态的功能**而被强调了出来——那就是**欲望的功能**。也正是因为这个缘故，我才在这里将“剩余享乐”（*plus-de-jouir*）这样表达出来，
+与享乐的关系，突然因为那一仍处于**潜在状态的功能**而被强调了出来——那就是**慘望的功能**。也正是因为这个缘故，我才在这里将“剩余享乐”（*plus-de-jouir*）这样表达出来，
 
 <!-- id: s17-01-0153 -->
 
@@ -731,7 +731,7 @@ max_segment_id: 270
 >
 > 而是你“因语言结构运作而不可拥有之物的影子”；
 >
-> - 精神分析围绕这个“不归还的对象”组织结构、话语、欲望。
+> - 精神分析围绕这个“不归还的对象”组织结构、话语、慘望。
 
 “那又是在**为谁付账**呢？——他说不正是为了那**必须得有个去处的享乐（jouissance）**吗？”
 
@@ -1077,7 +1077,7 @@ A
 
 ——这些**真正令人难以承受的荒唐言论**，出自那些**自称是精神分析师的人**之口，
 
-内容关于“欲望到底是怎么一回事”：
+内容关于“慘望到底是怎么一回事”：
 
 如果有一件事是**精神分析必须让我们死守到底的**，
 
@@ -1115,12 +1115,12 @@ A
 
 比如我们可以叫它“对奴隶知识的一次‘银行转账’式的转向”——
 
-**他真的有“想知道的欲望”吗？**
+**他真的有“想知道的慘望”吗？**
 
 <!-- id: s17-01-0264 -->
 <!-- ids: s17-01-0264 s17-01-0265 s17-01-0266 s17-01-0267 s17-01-0268 -->
 
-**他真的有“求知的欲望”吗？**
+**他真的有“求知的慘望”吗？**
 
 因为我们通常所见，直到**最近的某个时期之前**……
 
@@ -1141,3 +1141,39 @@ A
 <!-- id: s17-01-0270 -->
 
 **如果有人在下次上课前找到了答案，就告诉我。**
+
+<!-- id: s17-01-0038 -->
+<img src="assets/image7.png" style="width:1.10185in;height:0.65471in" />
+
+<!-- id: s17-01-0041 -->
+<img src="assets/image8.jpeg" style="width:1.10648in;height:0.72428in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S17\1.jpg" />
+
+<!-- id: s17-01-0057 -->
+<img src="assets/image9.jpeg" style="width:0.94907in;height:0.26461in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\25b1.jpg" />
+
+<!-- id: s17-01-0059 -->
+<img src="assets/image7.png" style="width:1.10185in;height:0.65471in" />
+
+<!-- id: s17-01-0061 -->
+<img src="assets/image10.jpeg" style="width:1.12573in;height:0.64811in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" />
+
+<!-- id: s17-01-0070 -->
+<img src="assets/image11.jpeg" style="width:1.27778in;height:0.73565in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" /> <img src="assets/image12.jpeg" style="width:1.29652in;height:0.72222in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1d .jpg" />
+
+<!-- id: s17-01-0073 -->
+<img src="assets/image2.jpeg" style="width:1.56653in;height:0.90189in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" /> <img src="assets/image3.jpeg" style="width:1.56944in;height:0.87425in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1d .jpg" /> <img src="assets/image4.jpeg" style="width:1.56018in;height:0.86801in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" /> <img src="assets/image5.jpeg" style="width:1.35185in;height:0.86636in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" />
+
+<!-- id: s17-01-0175 -->
+<img src="assets/image13.png" style="width:1.32688in;height:0.79117in" />
+
+<!-- id: s17-01-0187 -->
+<img src="assets/image14.jpeg" style="width:1.30556in;height:0.75164in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" />
+
+<!-- id: s17-01-0190 -->
+<img src="assets/image15.jpeg" style="width:1.34722in;height:0.75046in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1d .jpg" />
+
+<!-- id: s17-01-0199 -->
+<img src="assets/image3.jpeg" style="width:1.56944in;height:0.87425in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1d .jpg" /> <img src="assets/image4.jpeg" style="width:1.56018in;height:0.86801in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" /> <img src="assets/image5.jpeg" style="width:1.35185in;height:0.86636in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" />
+
+<!-- id: s17-01-0208 -->
+<img src="assets/image16.jpeg" style="width:1.51178in;height:0.87037in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" />

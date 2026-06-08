@@ -358,24 +358,24 @@ génitif pleinement équilibré（完全平衡的属格）
 ——“分析家的话语（discours de l’analyste）”也是如此：这是“关于分析家的话语”；分析家本人就是那个对象 a​，正如我常强调的那样。
 这当然使他很难清楚把握自己的位置；但另一方面，也轻松得很，因为那正是“假象（semblant）”的位置。
 那么，我们这位纪德（Gide）……为了继续这条编辫子（tresse）的线索：我先拿他来讲，一会儿再放下，之后我们还会再回过头来谈，如此反复。——这位纪德，因为他毕竟是个典型，可他一点也没有把我们带出这桩小事，恰恰相反，他让我们更陷进去！
-他的那桩“事”，其实是一桩“被欲望”的事（affaire d’être désiré）——这在分析工作中是常见得不能再常见的。有些人，在他们的幼年时期，缺乏“被欲望”的经验。正因为如此，他们后来的人生中，会不断去做些事情，好让这种事终于发生在自己身上。这种情形——极为普遍。
+他的那桩“事”，其实是一桩“被慘望”的事（affaire d’être désiré）——这在分析工作中是常见得不能再常见的。有些人，在他们的幼年时期，缺乏“被慘望”的经验。正因为如此，他们后来的人生中，会不断去做些事情，好让这种事终于发生在自己身上。这种情形——极为普遍。
 
 <!-- id: s19b-04-0252 -->
 <!-- ids: s19b-04-0252 s19b-04-0253 s19b-04-0254 s19b-04-0255 s19b-04-0256 s19b-04-0257 s19b-04-0258 s19b-04-0259 s19b-04-0260 s19b-04-0261 s19b-04-0262 s19b-04-0263 s19b-04-0264 s19b-04-0265 s19b-04-0266 s19b-04-0267 s19b-04-0268 -->
 
 纪德的哪桩事，拉康这么说让我很着急。
 
-不过，我们仍得好好划分清楚这些东西（cliver les choses）。这些事和“话语（discours）”息息相关。它可不同于那种在狂欢节上随处喷涌的闲言碎语。话语与欲望之间，存在着最紧密的关系。
+不过，我们仍得好好划分清楚这些东西（cliver les choses）。这些事和“话语（discours）”息息相关。它可不同于那种在狂欢节上随处喷涌的闲言碎语。话语与慘望之间，存在着最紧密的关系。
 也正因为这一点，我才得以——至少我自己是这么认为——孤立出“objet a”的功能。
 这是一个关键点，说真的，至今人们还没有真正发挥出它的作用——不过，这事会慢慢来的。借由对象a说话的存在者在被卷入某种话语时，获得自身的规定。
-他完全不知道​，真正规定他的，正是那个a 对象（objet a）​。——他被怎样决定呢？他被规定为“主体（sujet）”，也就是说：他被规定为一个被分裂的主体（sujet divisé）——一个被欲望所猎获（proie du désir）的主体。
+他完全不知道​，真正规定他的，正是那个a 对象（objet a）​。——他被怎样决定呢？他被规定为“主体（sujet）”，也就是说：他被规定为一个被分裂的主体（sujet divisé）——一个被慘望所猎获（proie du désir）的主体。
 
 > 说话的存在者，这个表述确实很有意思，每次看到这个表述都有点想笑。这个词让人感受到一种“极致”的装外宾。
 
 我们可以想象——即便外星人来到地球，也不过把地球上的使用语言的优势族群成为“地球人”或者类似的称呼，也就是“地球上的存在者”。
 “说话的存在者”，能这么称呼听上去这个词的使用者已经将自己放置在“说话”的另外一边。或者说将自己放置在话语的另外一边。 也就是此处“孤立出来的对象a”的功能。 这正是分析师的位置。 这种极致的装外宾意味着对于来自于“话语一侧”的信息都并不比案主更多的理解。初来乍到，并不理解这里的“风土人情”。因此如果说话的存在者不进行解释，这些信息则无法被得知。
 对于话语的另外一边虽然有时候会对着一个人甚至“AI”。但归根结底，话语的另一头永远是那个对象a，或者说引发“话语”的“根因”。
-这似乎发生在与那些颠覆性的言语相同的位置，但其实完全不同。它是完全有规律的；它在产生——这是一种生产！而且是以严格的方式在产生，可以说，是以数学的方式在产生：即，对象 a​，作为欲望之因​。
+这似乎发生在与那些颠覆性的言语相同的位置，但其实完全不同。它是完全有规律的；它在产生——这是一种生产！而且是以严格的方式在产生，可以说，是以数学的方式在产生：即，对象 a​，作为慘望之因​。
 
 <!-- id: s19b-04-0269 -->
 <!-- ids: s19b-04-0269 s19b-04-0270 s19b-04-0271 s19b-04-0272 s19b-04-0273 s19b-04-0274 s19b-04-0275 s19b-04-0277 s19b-04-0279 s19b-04-0280 s19b-04-0281 s19b-04-0282 s19b-04-0283 s19b-04-0284 s19b-04-0285 s19b-04-0286 s19b-04-0287 s19b-04-0288 s19b-04-0289 s19b-04-0290 s19b-04-0291 s19b-04-0292 s19b-04-0293 s19b-04-0294 s19b-04-0295 s19b-04-0296 s19b-04-0297 s19b-04-0298 -->
@@ -472,7 +472,7 @@ génitif pleinement équilibré（完全平衡的属格）
 
 > 这里的意义是某种图像认同的意义。或者说停留在想象，而并不能触及到墙的另外那一面。
 
-> 但很明显，我们不能满足于这种**混沌的意义（sens confusionnels）**​。归根结底，这些东西只不过是在欲望的琴弦（lyre du désir）上激起回响，——直截了当地说：在情色（érotisme）上。
+> 但很明显，我们不能满足于这种**混沌的意义（sens confusionnels）**​。归根结底，这些东西只不过是在慘望的琴弦（lyre du désir）上激起回响，——直截了当地说：在情色（érotisme）上。
 
 > 这里呼应了前面拉康举的达·芬奇的例子，其实他的好朋友，或者说曾经的好朋友达利在这方面可以是行家。比如我非常喜欢的《水仙变形（​Metamorphosis of Narcissus​）》 图像认同在这幅画中非常直接的体现出来。当然这幅画的精彩之处也包括其中部分对整体的认同。
 
@@ -506,3 +506,33 @@ génitif pleinement équilibré（完全平衡的属格）
 > 为什么不呢？如果恰恰正是从它的这个视角中，才沉淀出这样一件事：科学没有意义​；而且，任何一种话语的意义，只要它只是由另一种话语来支撑，就只能是局部的意义​。如果真理永远只能被“半说”​，那么，这正是核心所在，这正是分析师之知识的本质所在​。
 
 > 这是因为在那个位置上——在我称之为四足架或四足体的结构中——在真理的位置上所站立的，是 S2。这个知识，本身就是一种始终必须被置于质疑之中的知识。不过，就分析而言，有一件事必须被坚持：确实存在一种知识，它是从主体自身之中被引出、被抽取出来的。在享乐的位置、极点上，分析话语放置的是 S（被划杠的主体）。正是在绊倒之处、在失败的行动中、在梦中、在被分析者的工作之中，这种知识才得以产生。这种知识，并不是被假定的知识；它是一种失效的知识、残余的知识、替代性的知识：这就是无意识。而正是这种知识，我在这里加以承担、加以界定，以表明它不能被安置在别的地方——这是一个新的特征，出现在这一结构的浮现之中——它只能被安置为主体的享乐。
+
+<!-- id: s19b-04-0026 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\Illustrations\\450px-Rembrandt-Belsazar 2.jpg](assets/image16.jpeg){width="2.2805982064741905in" height="1.8131299212598426in"}
+
+<!-- id: s19b-04-0042 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+
+<!-- id: s19b-04-0059 -->
+![26a](assets/image17.jpeg){width="1.2424956255468067in" height="1.2758956692913386in"} ![27a](assets/image18.jpeg){width="1.5438232720909886in" height="1.203772965879265in"}![](assets/image19.png){width="3.1488013998250217in" height="1.0655719597550306in"}
+
+<!-- id: s19b-04-0073 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+
+<!-- id: s19b-04-0076 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\29.jpg](assets/image20.jpeg){width="1.4458333333333333in" height="0.8621117672790901in"}
+
+<!-- id: s19b-04-0122 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\29.jpg](assets/image20.jpeg){width="1.4458333333333333in" height="0.8621117672790901in"}
+
+<!-- id: s19b-04-0186 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image21.jpeg){width="1.1842104111986003in" height="0.6817793088363955in"} ![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
+
+<!-- id: s19b-04-0276 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+
+<!-- id: s19b-04-0278 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1h .jpg](assets/image23.jpeg){width="1.4131364829396325in" height="1.2324562554680665in"}![](assets/image22.png){width="1.2587718722659667in" height="0.3260400262467192in"}
+
+<!-- id: s19b-04-0322 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S19\\37.jpg](assets/image24.jpeg){width="2.144737532808399in" height="1.054478346456693in"}

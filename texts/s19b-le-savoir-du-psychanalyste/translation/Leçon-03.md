@@ -362,7 +362,7 @@ Entre l’homme et la femme, il y a l’amour 在人和女人之间，有爱。
 
 > amusement（娱乐、取乐） → (a)murs-sements。
 > 这里玩的是“对墙自语”的幽默：
-> 他一边“对着墙说话”，一边也在制造“对小客体 (a) 的娱乐、言语游戏”。
+> 他一边“对着墙说话”，一边也在制造“对小对象 (a) 的娱乐、言语游戏”。
 > 这既是嘲讽听众的沉默，也是**强调言语本身的快感性（jouissance du signifiant）**​。
 
 > 有趣的是——当我界定那四种话语（les quatre discours）时，我曾指出它们之所以关键，是因为它们用来定位这样一件事：不论你做什么，你总是在某种意义上成为这些话语的主体。而我说的“主体”，其实是指“被假定的主体”（sujets « supposés »）——**被假定于那正在发生的能指的运作之中，很显然，正是这个能指才是游戏的主宰
@@ -406,7 +406,7 @@ Entre l’homme et la femme, il y a l’amour 在人和女人之间，有爱。
 > 是什么在其中起了区分？——有什么样的距离（distance），将两种“打开精神病院大门的方式”分隔开？
 > ——一种是在一个地方，资本主义的话语（discours capitaliste）已经达到了完全自洽、圆满一致的程度； ——另一种是在像我们这样的地方，这个话语仍然处于咿呀学语（balbutiements）的阶段。
 > 也许——如果今晚这里真有几位精神科医生的话——他们首先能领会到的，不是我这番话本身（因为这与他们的事务并无直接关联），而是**我这声音在这些墙壁上的回响（la réflexion de ma voix sur ces murs）**​：
-> 那就是——**首先要弄清楚是什么使他们成为“精神科医师”**​。不过，这并不妨碍他们在这些墙的范围内，听见除我之外的其他声音。比如——那些被关在其中的人的声音。毕竟，这也许能带领他们走向某个方向，——甚至，获得一个更恰当的理解，关于那所谓“a客体（objet a）”究竟是什么。为什么不可以呢？
+> 那就是——**首先要弄清楚是什么使他们成为“精神科医师”**​。不过，这并不妨碍他们在这些墙的范围内，听见除我之外的其他声音。比如——那些被关在其中的人的声音。毕竟，这也许能带领他们走向某个方向，——甚至，获得一个更恰当的理解，关于那所谓“a对象（objet a）”究竟是什么。为什么不可以呢？
 
 > 对着墙说话，听见这些话的人会去思考 “自己”与“墙”的关系。是什么让自己站在这里作为一个“精神科医生”。
 
@@ -433,9 +433,27 @@ Entre l’homme et la femme, il y a l’amour 在人和女人之间，有爱。
 > 凭借我的**被划线的S（S̷，被分裂的主体）**​、
 > 我的**S₁（主导能指）**​、
 > 我的**S₂（知识的能指）**​、
-> 以及那个**a客体（objet a）**​，
+> 以及那个**a对象（objet a）**​，
 > ……一个“存在的 réson”——无论你愿意怎样拼写它（réson / raison / résonance / ré-son），……也许最终，你们就不会把我这声音在墙上的反响仅仅当作一场个人的反思（réflexion personnelle）了。
 
 > 在最后拉康自己防了自己一手。虽然这样的思想不能与自己毫不相干，固然是一种“自嗨”。不过在这个墙上所建立起的体系
 
 > [理性中那出错之处的回响]
+
+<!-- id: s19b-03-0025 -->
+![C:\\Users\\ALAIN\\LACAN séminaires\\Ressources\\Doc. S13 b\\Illustrations\\002.JPG](assets/image9.jpeg){width="3.237270341207349in" height="2.1527985564304464in"}
+
+<!-- id: s19b-03-0026 -->
+![](assets/image10.png){width="6.29375in" height="3.1930555555555555in"}
+
+<!-- id: s19b-03-0202 -->
+![33a](assets/image11.jpeg){width="1.1083300524934383in" height="1.4067268153980752in"} ![34a](assets/image12.jpeg){width="1.015599300087489in" height="1.4070286526684164in"}
+
+<!-- id: s19b-03-0227 -->
+![33a](assets/image11.jpeg){width="0.9760968941382328in" height="1.2388932633420822in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\L\'étourdit\\Kleinbagel_cross_section.png](assets/image13.png){width="1.2412281277340333in" height="1.244811898512686in"}
+
+<!-- id: s19b-03-0249 -->
+![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1g .jpg](assets/image2.jpeg){width="1.5665266841644794in" height="0.9018897637795276in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1d .jpg](assets/image3.jpeg){width="1.5694444444444444in" height="0.8742497812773403in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1f .jpg](assets/image4.jpeg){width="1.5601848206474191in" height="0.8680063429571303in"} ![C:\\Users\\Alain\\Desktop\\Lacan séminaires\\Ressources\\Doc S20\\1e .jpg](assets/image5.jpeg){width="1.3518514873140857in" height="0.8663626421697288in"}
+
+<!-- id: s19b-03-0273 -->
+![http://serge.mehl.free.fr/anx/anx_gif/surfaceR.gif](assets/image14.png){width="0.5305555555555556in" height="0.8506944444444444in"} ![47.jpg](assets/image15.jpeg){width="0.7202580927384077in" height="1.1498578302712161in"}

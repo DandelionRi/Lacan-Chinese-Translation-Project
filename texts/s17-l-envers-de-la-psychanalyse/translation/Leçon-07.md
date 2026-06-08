@@ -240,7 +240,7 @@ S1(M) ≈ S2(U)。
 
 可以将人当作培养基，H, U, M
 主人亲自指挥亲自部署，大学话语负责上传下达。
-癔症话语依赖于主人能指，反而强化了主人话语扩张的欲望。
+癔症话语依赖于主人能指，反而强化了主人话语扩张的慘望。
 
 靠，如果这么看，那不是没救了。
 
@@ -293,7 +293,7 @@ S1(M) ≈ S2(U)。
 <!-- id: s17-07-0102 -->
 <!-- ids: s17-07-0102 s17-07-0103 s17-07-0104 s17-07-0106 s17-07-0107 s17-07-0108 s17-07-0109 s17-07-0110 s17-07-0111 s17-07-0112 s17-07-0113 -->
 
-分析师在此并非以知识或权威的形象出现，而是以那个不可化约的欲望原因之形，成为主体在分析中追逐的“靶心”。
+分析师在此并非以知识或权威的形象出现，而是以那个不可化约的慘望原因之形，成为主体在分析中追逐的“靶心”。
 
 我一开始就告诉过你们，这个“求知欲”并不是自然而然就有的。
 
@@ -303,7 +303,7 @@ S1(M) ≈ S2(U)。
 
 精神分析师,并非一直都是显而易见的存在。
 
-而且，现在也不再是由他来激发这种欲望，他只是作为瞄准点呈现出来，供那些被这种尤为棘手的欲望所咬住的人去对准。这一点我们还会再回来讨论。
+而且，现在也不再是由他来激发这种慘望，他只是作为瞄准点呈现出来，供那些被这种尤为棘手的慘望所咬住的人去对准。这一点我们还会再回来讨论。
 
 与此同时，我们先来明确一下，在所谓“分析师话语”的结构中，就像你们在这里所看到的那样，它究竟是怎样的：
 
@@ -368,11 +368,11 @@ S1(M) ≈ S2(U)。
 因为，即使在“一个国家的社会主义”框架下，将生产资料收归国有，如果不知道剩余价值究竟是什么，也并不意味着就此结束了剩余价值的存在。
 
 因此，这个“剩余享乐”同样向我们表明，在主人话语的层面——毕竟它确实是位于这里的——并不存在这样一种关系：
-在某种程度上，会成为像主人这样的人的欲望之因 [a] 的东西，
+在某种程度上，会成为像主人这样的人的慘望之因 [a] 的东西，
 
 ——而主人照例、当然对这一点一无所知——这种东西与构成真理的东西之间并不存在关系。
 
-> 真理的位置上是主体，欲望之因对象a，在这里是指剩余享乐
+> 真理的位置上是主体，慘望之因对象a，在这里是指剩余享乐
 
 这两竟然  没！关！系！  是阻隔的。
 
@@ -409,7 +409,7 @@ S1(M) ≈ S2(U)。
 > 这里可以这么理解，所有的S2，所有的话语，放在真理的位置上。
 
 对话语的认同是基于话语在S2中的位置，而不是基于对其他什么的认同去认同话语。
-分析师并不直接给出真理，而是通过将知识放在真理位，使主体在分析过程中逐渐发现，所谓真理是在知识结构与欲望之因的关系中被构造出来的。
+分析师并不直接给出真理，而是通过将知识放在真理位，使主体在分析过程中逐渐发现，所谓真理是在知识结构与慘望之因的关系中被构造出来的。
 这里的S2跟主人话语中的S2是一种S2吗？
 是！  而且必须是！
 这确实是一种类似于“阴阳怪气”的感觉，分析师类似一种“装外宾”的角色？
@@ -444,7 +444,7 @@ S1(M) ≈ S2(U)。
 
 我不会说出我对“父之名”的所知，因为我根本不属于大学话语。
 
-> 我是一个分析师的小客体 a（笑），一块预先就被弃置的石头；
+> 我是一个分析师的小对象 a（笑），一块预先就被弃置的石头；
 
 > 即使在我的分析中，我会成为那块“基石”，但只要我从扶手椅上站起来，我就有权去闲逛（笑）。
 
@@ -596,7 +596,7 @@ S1(M) ≈ S2(U)。
 
 这是绝对关键的，因为母亲的这种“钟情”并不是可以轻易承受、甚至可以无动于衷的东西。
 
-它总是会带来破坏，对吗？想象一条巨大的鳄鱼——是吧？——你就在它的嘴里，这就是母亲，不是吗？谁也不知道它什么时候会突然合上嘴巴。这，就是母亲的欲望。
+它总是会带来破坏，对吗？想象一条巨大的鳄鱼——是吧？——你就在它的嘴里，这就是母亲，不是吗？谁也不知道它什么时候会突然合上嘴巴。这，就是母亲的慘望。
 
 > 于是我试着解释，那让人感到安心的，是有那么一块“硬骨头”——我这样说，是为了简单明了地跟你们讲（笑）——
 
@@ -806,7 +806,7 @@ S1(M) ≈ S2(U)。
 
 可以肯定的是，先知这一题目，这一次所涉及的，与“享乐”没有任何关系。
 
-> 弑父神话和母亲的欲望 总是离不开享乐
+> 弑父神话和母亲的慘望 总是离不开享乐
 
 因此这里单独提一嘴“先知”，和享乐没关系？
 
@@ -917,7 +917,7 @@ S1(M) ≈ S2(U)。
 
 这也让我们看到：如果要严肃地处理这一指涉，即弗洛伊德式的俄狄浦斯参照，就无法不在“弑父”与“享乐”之间引入“真理”这一维度。好吧，我今天就先停在这里。
 
-> 正是因为俄狄浦斯坚持要知道真理：相比享乐，欲望更加执拗，这里看到了某种欲望。
+> 正是因为俄狄浦斯坚持要知道真理：相比享乐，慘望更加执拗，这里看到了某种慘望。
 
 <!-- id: s17-07-0326 -->
 <!-- ids: s17-07-0326 s17-07-0327 s17-07-0328 -->
@@ -947,3 +947,30 @@ S1(M) ≈ S2(U)。
 所以，总结今天的讨论，我要说的是：我们所要进行的，
 
 就是把“俄狄浦斯情结”当作弗洛伊德自己的一个梦来加以分析。
+
+<!-- id: s17-07-0002 -->
+<img src="assets/image2.jpeg" style="width:1.56653in;height:0.90189in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" /> <img src="assets/image5.jpeg" style="width:1.35185in;height:0.86636in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" /> <img src="assets/image35.jpeg" style="width:0.97368in;height:0.36995in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S17\9.jpg" />
+
+<!-- id: s17-07-0038 -->
+<img src="assets/image4.jpeg" style="width:1.56018in;height:0.86801in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" /> <img src="assets/image35.jpeg" style="width:0.97368in;height:0.36995in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S17\9.jpg" />
+
+<!-- id: s17-07-0057 -->
+<img src="assets/image4.jpeg" style="width:1.56018in;height:0.86801in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1f .jpg" /> <img src="assets/image36.jpeg" style="width:0.83333in;height:0.31662in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S17\9.jpg" />
+
+<!-- id: s17-07-0087 -->
+<img src="assets/image37.jpeg" style="width:1.33333in;height:0.85449in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" />
+
+<!-- id: s17-07-0098 -->
+<img src="assets/image37.jpeg" style="width:1.33333in;height:0.85449in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" />
+
+<!-- id: s17-07-0105 -->
+<img src="assets/image2.jpeg" style="width:1.56653in;height:0.90189in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" />
+
+<!-- id: s17-07-0124 -->
+<img src="assets/image2.jpeg" style="width:1.56653in;height:0.90189in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1g .jpg" />
+
+<!-- id: s17-07-0230 -->
+<img src="assets/image5.jpeg" style="width:1.35185in;height:0.86636in" alt="C:\Users\Alain\Desktop\Lacan séminaires\Ressources\Doc S20\1e .jpg" />
+
+<!-- id: s17-07-0303 -->
+<img src="assets/image40.jpeg" style="width:0.5095in;height:0.26688in" alt="14a" />
