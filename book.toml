@@ -10,7 +10,7 @@ build-dir = "book"
 create-missing = false
 
 [output.html]
-git-repository-url = "https://github.com/kotoba-rin/Lacan-Chinese-Translation-Project"
+git-repository-url = "https://github.com/DandelionRi/Lacan-Chinese-Translation-Project"
 mathjax-support = true
 no-section-label = true
 default-theme = "light"
